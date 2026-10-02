@@ -39,19 +39,20 @@
 | **⭐️ 8/10** | **Panniantong/Agent-Reach** | `B2B 高客单数据抓取与精准名单` | 中 | 零 API 费抓取社媒，一键交付海外精准潜客名单 | [🔗 来源](https://github.com/Panniantong/Agent-Reach) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 8/10** | **Famulor** | `极窄场景的 Micro-AI 插件` | 中 | 给本地商家搭AI电话+WhatsApp跟进客服，按月收费 | [🔗 来源](https://www.producthunt.com/products/famulor-telephony-ai) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 8/10** | **Communicate** | `极窄场景的 Micro-AI 插件` | 中 | 垂直行业AI客服代理，知识库+人工接管月费变现 | [🔗 来源](https://www.producthunt.com/products/communicate) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
+| **⭐️ 7/10** | **I made $280 selling one-button Mac apps for $4.99. No ads, just Reddit.** | `极窄场景的 Micro-AI 插件` | 中 | 用AI批量做单点Mac小工具，Reddit发帖卖$4.99。 | [🔗 来源](https://www.reddit.com/r/passive_income/comments/1wvvuzm/i_made_280_selling_onebutton_mac_apps_for_499_no/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
+| **⭐️ 7/10** | **Whop vs Stripe for payment processing in 2026** | `跨境电商与出海独立站工具` | 中 | 为独立站卖家做Stripe防封体检与多通道支付容灾切换 | [🔗 来源](https://www.reddit.com/r/ecommerce/comments/1wvx907/whop_vs_stripe_for_payment_processing_in_2026/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 7/10** | **我说一句，中转站降智的都是撒流氓，全网首家主打包不降智的源头中转站，实时监测降智情况，倍率低至 0.1x，主打稳如老狗。** | `非对称套利与增长黑客` | 中 | 搭建不降智API中转站，低价算力转卖套利 | [🔗 来源](https://www.v2ex.com/t/1246088) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 7/10** | **$3K5 MRR in 1 month how would you scale this to $100K MRR?** | `垂直数字资产与全自动工作流模板` | 中 | AI生成游戏订阅SaaS，靠用户创作付费。 | [🔗 来源](https://www.reddit.com/r/SaaS/comments/1wvryxj/3k5_mrr_in_1_month_how_would_you_scale_this_to/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 7/10** | **JuliusBrussee/caveman** | `极窄场景的 Micro-AI 插件` | 低 | 给 AI 编程代理做省 token 代理，按月订阅收租 | [🔗 来源](https://github.com/JuliusBrussee/caveman) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 7/10** | **Muse/meta agentique** | `跨境电商与出海独立站工具` | 中 | 追踪AI代理流量与归因的Shopify插件 | [🔗 来源](https://www.reddit.com/r/shopify/comments/1wudccr/musemeta_agentique/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 7/10** | **High unusual bot traffic** | `跨境电商与出海独立站工具` | 中 | 独立站机器人流量清洗插件，按访客计费省钱的刚需工具 | [🔗 来源](https://www.reddit.com/r/shopify/comments/1wukvvr/high_unusual_bot_traffic/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
-| **⭐️ 7/10** | **Scrapping social media for fashion trends- legal?** | `B2B 高客单数据抓取与精准名单` | 中 | 收集公开社媒图像，AI识别时尚趋势，向品牌卖报告 | [🔗 来源](https://www.reddit.com/r/SaaS/comments/1wvp6wh/scrapping_social_media_for_fashion_trends_legal/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
-| **⭐️ 7/10** | **Homepage builder** | `跨境电商与出海独立站工具` | 中 | 为 Shopify 卖家代做高转化首页，AI 提效客单 $500+ | [🔗 来源](https://www.reddit.com/r/shopify/comments/1wuq40q/homepage_builder/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 
 ---
 
 ## 📚 垂直赛道分类商机库 (Categories)
 
 ### 🏷️ 跨境电商与出海独立站工具
+- **[评分: 7/10]** [Whop vs Stripe for payment processing in 2026](https://www.reddit.com/r/ecommerce/comments/1wvx907/whop_vs_stripe_for_payment_processing_in_2026/) — 为独立站卖家做Stripe防封体检与多通道支付容灾切换（门槛: 中）
 - **[评分: 7/10]** [Muse/meta agentique](https://www.reddit.com/r/shopify/comments/1wudccr/musemeta_agentique/) — 追踪AI代理流量与归因的Shopify插件（门槛: 中）
 - **[评分: 7/10]** [High unusual bot traffic](https://www.reddit.com/r/shopify/comments/1wukvvr/high_unusual_bot_traffic/) — 独立站机器人流量清洗插件，按访客计费省钱的刚需工具（门槛: 中）
 - **[评分: 7/10]** [Homepage builder](https://www.reddit.com/r/shopify/comments/1wuq40q/homepage_builder/) — 为 Shopify 卖家代做高转化首页，AI 提效客单 $500+（门槛: 中）
@@ -61,7 +62,6 @@
 - **[评分: 7/10]** [How do you handle cash in your slow months?](https://www.reddit.com/r/shopify/comments/1wvfwuz/how_do_you_handle_cash_in_your_slow_months/) — AI 预测 Shopify 卖家淡旺季现金流，自动生成弹性还款排期（门槛: 中）
 - **[评分: 7/10]** [How to Deal with Sales Slumps in e-com ?](https://www.reddit.com/r/ecommerce/comments/1wvpdh3/how_to_deal_with_sales_slumps_in_ecom/) — 给掉单独立站卖家做 AI 店铺诊断，单次 $99-$299（门槛: 低）
 - **[评分: 7/10]** [I built a tool that runs your Windows installer on a clean VM to see if SmartScreen will warn your users](https://www.reddit.com/r/SideProject/comments/1wvnek8/i_built_a_tool_that_runs_your_windows_installer/) — 帮出海开发者做 SmartScreen 信誉体检与签发策略，按次收费。（门槛: 中）
-- **[评分: 7/10]** [Graphic designer platform hunting](https://www.reddit.com/r/passive_income/comments/1wv0ask/graphic_designer_platform_hunting/) — 帮南亚设计师挑低费率平台并搞定跨境收款（门槛: 低）
 
 ### 🏷️ 国学文化数字化与情绪消费
 - **[评分: 7/10]** [How come some places feel so special if the reality we see is just a concept?](https://www.reddit.com/r/Mindfulness/comments/1wsqelx/how_come_some_places_feel_so_special_if_the/) — 面向正念人群的「心念地标」情绪复盘日记订阅（门槛: 低）
@@ -78,10 +78,10 @@
 ### 🏷️ 极窄场景的 Micro-AI 插件
 - **[评分: 8/10]** [Famulor](https://www.producthunt.com/products/famulor-telephony-ai) — 给本地商家搭AI电话+WhatsApp跟进客服，按月收费（门槛: 中）
 - **[评分: 8/10]** [Communicate](https://www.producthunt.com/products/communicate) — 垂直行业AI客服代理，知识库+人工接管月费变现（门槛: 中）
+- **[评分: 7/10]** [I made $280 selling one-button Mac apps for $4.99. No ads, just Reddit.](https://www.reddit.com/r/passive_income/comments/1wvvuzm/i_made_280_selling_onebutton_mac_apps_for_499_no/) — 用AI批量做单点Mac小工具，Reddit发帖卖$4.99。（门槛: 中）
 - **[评分: 7/10]** [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) — 给 AI 编程代理做省 token 代理，按月订阅收租（门槛: 低）
 - **[评分: 7/10]** [I’m building what I think should be the easiest way to automate computer tasks](https://www.reddit.com/r/SideProject/comments/1wvo19e/im_building_what_i_think_should_be_the_easiest/) — 把电脑操作型 AI 收窄到单点流程，按次收费代交付（门槛: 中）
 - **[评分: 7/10]** [customer uploaded 100 contacts. our app couldn’t find a single email.](https://www.reddit.com/r/SideProject/comments/1wvom6v/customer_uploaded_100_contacts_our_app_couldnt/) — 智能联系人表格解析插件，按 API 订阅收费（门槛: 低）
-- **[评分: 7/10]** [Finbar](https://www.producthunt.com/products/finbar-2) — AI财报投研助手，按报告或订阅收费（门槛: 中）
 
 ### 🏷️ 垂直数字资产与全自动工作流模板
 - **[评分: 7/10]** [$3K5 MRR in 1 month how would you scale this to $100K MRR?](https://www.reddit.com/r/SaaS/comments/1wvryxj/3k5_mrr_in_1_month_how_would_you_scale_this_to/) — AI生成游戏订阅SaaS，靠用户创作付费。（门槛: 中）
