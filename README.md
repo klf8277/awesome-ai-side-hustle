@@ -37,6 +37,7 @@
 | 评分 | 标杆项目 / 原型 | 赛道 | 门槛 | 商业研判与一句话逻辑 | 原始链接 | 完整研报 |
 |---|---|---|---|---|---|---|
 | **⭐️ 8/10** | **Opus 5.5 Cooking the motion designers lol** | `AI视频生产服务` | 低 | 用AI替企业做$2K级动效视频，赚外包差价 | [🔗 来源](https://www.reddit.com/r/SaaS/comments/1wvcokc/opus_55_cooking_the_motion_designers_lol/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
+| **⭐️ 7/10** | **Your Big Mac might cost more if McDonald&#x27;s AI thinks people nearby can afford it** | `跨境电商与出海独立站工具` | 中 | 按购买力自动调价的出海独立站 AI 定价插件 | [🔗 来源](https://neow.in/NGxhb3d6) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 7/10** | **From talking to myself to a mobile app** | `垂直Micro-SaaS（心理健康/ADHD辅助工具）` | 低 | 面向ADHD人群的AI语音日记与情绪复盘订阅App | [🔗 来源](https://www.reddit.com/r/SideProject/comments/1wvd45a/from_talking_to_myself_to_a_mobile_app/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 7/10** | **How would you make money with 500 IG posts per day?** | `流量套利与IG矩阵代运营` | 中 | AI批量生成内容+IG矩阵代发，导流独立站与联盟高佣 | [🔗 来源](https://www.reddit.com/r/Entrepreneur/comments/1wtpy48/how_would_you_make_money_with_500_ig_posts_per_day/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 7/10** | **Today was supposed to be my first platform launch. Then Stripe said no.** | `垂直Micro-SaaS` | 中 | Stripe拒审自救指南与替代支付导航 | [🔗 来源](https://www.reddit.com/r/SaaS/comments/1wv5oud/today_was_supposed_to_be_my_first_platform_launch/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
@@ -44,8 +45,7 @@
 | **⭐️ 7/10** | **Today was supposed to be my first platform launch. Then Stripe said no.** | `出海支付合规与独立开发者工具` | 低 | 为被Stripe封号的出海独立开发者提供替代收款方案与开户陪跑 | [🔗 来源](https://www.reddit.com/r/Entrepreneur/comments/1wv58fr/today_was_supposed_to_be_my_first_platform_launch/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 7/10** | **I launched a SaaS and got a $5k offer to buy it 2 days later. I said no. Here&#x27;s what happened next (real numbers)** | `垂直Micro-SaaS` | 低 | 3天做个Mac小工具，挂收购市场套现数千美金 | [🔗 来源](https://www.reddit.com/r/SaaS/comments/1wvdeyb/i_launched_a_saas_and_got_a_5k_offer_to_buy_it_2/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 7/10** | **I MADE $492 TODAY!! (I&#x27;m solo founder)** | `垂直Micro-SaaS` | 低 | 冷邮件获客的垂直B2B微型SaaS订阅工具 | [🔗 来源](https://www.reddit.com/r/SaaS/comments/1wv57i1/i_made_492_today_im_solo_founder/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
-| **⭐️ 6/10** | **We hit $363,000 CAD ARR in 8 months, here&#x27;s everything we learned so far about using outbound.** | `B2B出海SaaS增长/冷启动外呼` | 中 | AI冷邮件个性化与SaaS外呼获客工具 | [🔗 来源](https://www.reddit.com/r/SaaS/comments/1wv2p3o/we_hit_363000_cad_arr_in_8_months_heres/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
-| **⭐️ 6/10** | **The mistake I made on my first day in collections (and what fixed it).** | `垂直Micro-SaaS` | 中 | 面向小微企业主的AI自动催款与现金流提醒工具 | [🔗 来源](https://www.reddit.com/r/Entrepreneur/comments/1wupy4j/the_mistake_i_made_on_my_first_day_in_collections/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
+| **⭐️ 6/10** | **有没有 token 信用合作社,蹬不完的 token 先给别人用,那天自己不够了再去取用** | `信息差与跨国套利` | 中 | AI Token互助信用合作社，抽成或利差变现 | [🔗 来源](https://www.v2ex.com/t/1246062) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 
 ---
 
@@ -63,8 +63,15 @@
 - **[评分: 5/10]** [I created a Mac app that opens your MacBook notch: push the cursor against it and your music, messages and clipboard are right there](https://www.reddit.com/r/SaaS/comments/1wvdcka/i_created_a_mac_app_that_opens_your_macbook_notch/) — 把MacBook刘海变成音乐消息剪贴板交互坞（门槛: 中）
 - **[评分: 5/10]** [I got tired of paying for 3 different tools to manage my projects, so I built a unified Canvas, Kanban, and CRM. Looking for feedback!](https://www.reddit.com/r/SaaS/comments/1wv9tue/i_got_tired_of_paying_for_3_different_tools_to/) — 白板+看板+CRM三合一的一体化轻量项目协作SaaS（门槛: 中）
 
+### 🏷️ 信息差与跨国套利
+- **[评分: 6/10]** [有没有 token 信用合作社,蹬不完的 token 先给别人用,那天自己不够了再去取用](https://www.v2ex.com/t/1246062) — AI Token互助信用合作社，抽成或利差变现（门槛: 中）
+- **[评分: 5/10]** [Show HN: Grist, open source coding harness](https://grist.lol/) — 开源编码路由工具，按节省 token 收费（门槛: 低）
+
 ### 🏷️ AI视频生产服务
 - **[评分: 8/10]** [Opus 5.5 Cooking the motion designers lol](https://www.reddit.com/r/SaaS/comments/1wvcokc/opus_55_cooking_the_motion_designers_lol/) — 用AI替企业做$2K级动效视频，赚外包差价（门槛: 低）
+
+### 🏷️ 跨境电商与出海独立站工具
+- **[评分: 7/10]** [Your Big Mac might cost more if McDonald's AI thinks people nearby can afford it](https://neow.in/NGxhb3d6) — 按购买力自动调价的出海独立站 AI 定价插件（门槛: 中）
 
 ### 🏷️ 垂直Micro-SaaS（心理健康/ADHD辅助工具）
 - **[评分: 7/10]** [From talking to myself to a mobile app](https://www.reddit.com/r/SideProject/comments/1wvd45a/from_talking_to_myself_to_a_mobile_app/) — 面向ADHD人群的AI语音日记与情绪复盘订阅App（门槛: 低）
@@ -89,6 +96,9 @@
 
 ### 🏷️ 跨境电商工具 / Shopify 微 SaaS
 - **[评分: 6/10]** [Would you launch a narrow app while its hardest edge cases are still ugly?](https://www.reddit.com/r/SideProject/comments/1wun4m3/would_you_launch_a_narrow_app_while_its_hardest/) — 给 Shopify 卖家自动推荐 HTS 报关编码的订阅小应用（门槛: 中）
+
+### 🏷️ AI 写作与内容质量工具
+- **[评分: 5/10]** [Show HN: Zero Slop – Open-source skill that finds and fixes AI slop in writing](https://github.com/manavmishra/ZeroSlop) — 面向内容团队的AI去味与文风润色订阅工具（门槛: 低）
 
 ### 🏷️ 垂直Micro-SaaS/AI效率工具
 - **[评分: 5/10]** [got tired of copy/pasting into chatgpt, so i made this inline AI tool](https://www.reddit.com/r/SideProject/comments/1wve5jc/got_tired_of_copypasting_into_chatgpt_so_i_made/) — 浏览器内联AI改写摘要工具，按月订阅（门槛: 低）
@@ -140,9 +150,6 @@
 
 ### 🏷️ 独立软件开发 / macOS 工具类微 SaaS
 - **[评分: 5/10]** [I built ApexMouse: A native Swift mouse tool for macOS with linear curves, smooth wheel scrolling, and a shake-to-drop shelf [Free trial + discount codes inside]](https://www.reddit.com/r/SideProject/comments/1wu0ber/i_built_apexmouse_a_native_swift_mouse_tool_for/) — 面向 macOS 非苹果鼠标的付费手感优化小工具（门槛: 中）
-
-### 🏷️ 桌面效率工具 / 文件转换
-- **[评分: 5/10]** [[Launch] I got tired of sketchy sites that upload your files just to convert them - so I built Convertessa, a native Mac app that converts 1,100+ formats completely offline](https://www.reddit.com/r/SideProject/comments/1wu0pdy/launch_i_got_tired_of_sketchy_sites_that_upload/) — 做离线本地文件转换App，卖隐私与批量效率（门槛: 中）
 
 
 ---
