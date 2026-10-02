@@ -87,6 +87,9 @@
 ### 🏷️ 出海支付合规与独立开发者工具
 - **[评分: 7/10]** [Today was supposed to be my first platform launch. Then Stripe said no.](https://www.reddit.com/r/Entrepreneur/comments/1wv58fr/today_was_supposed_to_be_my_first_platform_launch/) — 为被Stripe封号的出海独立开发者提供替代收款方案与开户陪跑（门槛: 低）
 
+### 🏷️ 隐私合规本地 AI 部署工具
+- **[评分: 6/10]** [Pricacy-first local AI interface for document reviews and chat](https://www.reddit.com/r/SideProject/comments/1wvm3xz/pricacyfirst_local_ai_interface_for_document/) — 面向禁止上云的科研机构的本地 LLM 审稿工具（门槛: 中）
+
 ### 🏷️ B2B出海SaaS增长/冷启动外呼
 - **[评分: 6/10]** [We hit $363,000 CAD ARR in 8 months, here's everything we learned so far about using outbound.](https://www.reddit.com/r/SaaS/comments/1wv2p3o/we_hit_363000_cad_arr_in_8_months_heres/) — AI冷邮件个性化与SaaS外呼获客工具（门槛: 中）
 
@@ -98,6 +101,12 @@
 
 ### 🏷️ 跨境电商工具 / Shopify 微 SaaS
 - **[评分: 6/10]** [Would you launch a narrow app while its hardest edge cases are still ugly?](https://www.reddit.com/r/SideProject/comments/1wun4m3/would_you_launch_a_narrow_app_while_its_hardest/) — 给 Shopify 卖家自动推荐 HTS 报关编码的订阅小应用（门槛: 中）
+
+### 🏷️ 开发者工具与效率软件
+- **[评分: 5/10]** [I made Buildiary to track my side projects that you or your agent can update](https://www.reddit.com/r/SideProject/comments/1wvloum/i_made_buildiary_to_track_my_side_projects_that/) — AI可更新的开发者项目日志工具（门槛: 低）
+
+### 🏷️ AI 开发者工具与多智能体协作
+- **[评分: 5/10]** [Built a group chat where you and your AI agents work together, now open source](https://www.reddit.com/r/SideProject/comments/1wvkgr0/built_a_group_chat_where_you_and_your_ai_agents/) — 开源多AI智能体群聊协作工具，靠企业版或托管变现。（门槛: 中）
 
 ### 🏷️ AI 写作与内容质量工具
 - **[评分: 5/10]** [Show HN: Zero Slop – Open-source skill that finds and fixes AI slop in writing](https://github.com/manavmishra/ZeroSlop) — 面向内容团队的AI去味与文风润色订阅工具（门槛: 低）
@@ -137,15 +146,6 @@
 
 ### 🏷️ 语言学习 / 教育类 App
 - **[评分: 5/10]** [I built an Arabic learning app that tells you what anything around you is called in Arabic](https://www.reddit.com/r/SideProject/comments/1wu8fdy/i_built_an_arabic_learning_app_that_tells_you/) — 用相机识别身边物品并给出阿拉伯语叫法的学习小工具（门槛: 中）
-
-### 🏷️ 视频营销工具 SaaS
-- **[评分: 5/10]** [I built a tool to make polished product demo videos without spending hours editing](https://www.reddit.com/r/SideProject/comments/1wu8u9a/i_built_a_tool_to_make_polished_product_demo/) — 上传产品图自动生成演示视频的轻量 SaaS 工具（门槛: 中）
-
-### 🏷️ AI 垂类识别工具（潜水/海洋生物）
-- **[评分: 5/10]** [I built an app that names every species in an underwater photo](https://www.reddit.com/r/SideProject/comments/1wu584t/i_built_an_app_that_names_every_species_in_an/) — 给潜水员用的水下照片鱼种识别App（门槛: 中）
-
-### 🏷️ AI短视频生成/内容自动化
-- **[评分: 5/10]** [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) — 用开源AI工具批量生成短视频去做流量或带货变现（门槛: 低）
 
 
 ---
