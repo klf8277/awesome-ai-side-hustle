@@ -36,6 +36,7 @@
 
 | 评分 | 标杆项目 / 原型 | 赛道 | 门槛 | 商业研判与一句话逻辑 | 原始链接 | 完整研报 |
 |---|---|---|---|---|---|---|
+| **⭐️ 8/10** | **Panniantong/Agent-Reach** | `B2B 高客单数据抓取与精准名单` | 中 | 零 API 费抓取社媒，一键交付海外精准潜客名单 | [🔗 来源](https://github.com/Panniantong/Agent-Reach) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 8/10** | **Famulor** | `极窄场景的 Micro-AI 插件` | 中 | 给本地商家搭AI电话+WhatsApp跟进客服，按月收费 | [🔗 来源](https://www.producthunt.com/products/famulor-telephony-ai) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 8/10** | **Stuck at 40k** | `跨境电商与出海独立站工具` | 中 | 为卡流水的Shopify卖家做AI广告素材与投放诊断 | [🔗 来源](https://www.reddit.com/r/shopify/comments/1wuq36p/stuck_at_40k/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 8/10** | **How can I set up pickup locations that are NOT my business address?** | `跨境电商与出海独立站工具` | 中 | Shopify多自提点共享库存插件，按月订阅变现 | [🔗 来源](https://www.reddit.com/r/shopify/comments/1wvbkh3/how_can_i_set_up_pickup_locations_that_are_not_my/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
@@ -45,7 +46,6 @@
 | **⭐️ 8/10** | **I built a free invoice generator for French freelancers - no signup, real- time preview** | `极窄场景的 Micro-AI 插件` | 中 | 法国自由职业者合规发票生成器，免费引流+订阅增值 | [🔗 来源](https://www.reddit.com/r/SideProject/comments/1wvmxak/i_built_a_free_invoice_generator_for_french/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 8/10** | **Ecommerce product AI search?** | `跨境电商与出海独立站工具` | 中 | 给独立站装可嵌入的对话式AI商品搜索插件，按月订阅收费 | [🔗 来源](https://www.reddit.com/r/ecommerce/comments/1wtnwsn/ecommerce_product_ai_search/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 8/10** | **how do you vet a real estate sponsor** | `B2B 高客单数据抓取与精准名单` | 中 | AI生成房产发起人尽调报告 | [🔗 来源](https://www.reddit.com/r/passive_income/comments/1wupwrp/how_do_you_vet_a_real_estate_sponsor/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
-| **⭐️ 8/10** | **I solved my biggest marketing pain with Opus 5.5** | `视频与动效代交付` | 低 | 用AI给初创SaaS批量代做演示视频与UGC动效，按条或包月收费。 | [🔗 来源](https://www.reddit.com/r/SaaS/comments/1wurdap/i_solved_my_biggest_marketing_pain_with_opus_55/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 
 ---
 
@@ -73,7 +73,14 @@
 - **[评分: 7/10]** [Homepage builder](https://www.reddit.com/r/shopify/comments/1wuq40q/homepage_builder/) — 为 Shopify 卖家代做高转化首页，AI 提效客单 $500+（门槛: 中）
 - **[评分: 7/10]** [How do you guys manage "markets" and different language URLs?](https://www.reddit.com/r/shopify/comments/1wuvct9/how_do_you_guys_manage_markets_and_different/) — 帮Shopify卖家搞定多语言多币种URL与SEO配置（门槛: 中）
 - **[评分: 7/10]** [How do I disable Sidekick completely?](https://www.reddit.com/r/shopify/comments/1wus4eq/how_do_i_disable_sidekick_completely/) — Shopify后台净化插件，一键关Sidekick与推销（门槛: 低）
-- **[评分: 7/10]** [Looking for a way to hide products/display in "secret" collections only.](https://www.reddit.com/r/shopify/comments/1wv79kt/looking_for_a_way_to_hide_productsdisplay_in/) — 为 Shopify 卖家做隐形合集早鸟访问插件，按月订阅收费（门槛: 中）
+
+### 🏷️ 极窄场景的 Micro-AI 插件
+- **[评分: 8/10]** [Famulor](https://www.producthunt.com/products/famulor-telephony-ai) — 给本地商家搭AI电话+WhatsApp跟进客服，按月收费（门槛: 中）
+- **[评分: 8/10]** [I built a free invoice generator for French freelancers - no signup, real- time preview](https://www.reddit.com/r/SideProject/comments/1wvmxak/i_built_a_free_invoice_generator_for_french/) — 法国自由职业者合规发票生成器，免费引流+订阅增值（门槛: 中）
+- **[评分: 8/10]** [Communicate](https://www.producthunt.com/products/communicate) — 垂直行业AI客服代理，知识库+人工接管月费变现（门槛: 中）
+- **[评分: 7/10]** [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) — 给 AI 编程代理做省 token 代理，按月订阅收租（门槛: 低）
+- **[评分: 7/10]** [I’m building what I think should be the easiest way to automate computer tasks](https://www.reddit.com/r/SideProject/comments/1wvo19e/im_building_what_i_think_should_be_the_easiest/) — 把电脑操作型 AI 收窄到单点流程，按次收费代交付（门槛: 中）
+- **[评分: 7/10]** [customer uploaded 100 contacts. our app couldn’t find a single email.](https://www.reddit.com/r/SideProject/comments/1wvom6v/customer_uploaded_100_contacts_our_app_couldnt/) — 智能联系人表格解析插件，按 API 订阅收费（门槛: 低）
 
 ### 🏷️ 国学文化数字化与情绪消费
 - **[评分: 8/10]** [I need help. Why do i get triggered easily? anyone like me and learned to manage it?](https://www.reddit.com/r/Mindfulness/comments/1wvns20/i_need_help_why_do_i_get_triggered_easily_anyone/) — AI 情绪触发复盘日记，订阅制陪伴高复购（门槛: 低）
@@ -82,16 +89,9 @@
 - **[评分: 7/10]** [How come some places feel so special if the reality we see is just a concept?](https://www.reddit.com/r/Mindfulness/comments/1wsqelx/how_come_some_places_feel_so_special_if_the/) — 面向正念人群的「心念地标」情绪复盘日记订阅（门槛: 低）
 - **[评分: 7/10]** [How to train your attention to stay in the moment if you are someone who lives in their head all the time?](https://www.reddit.com/r/Mindfulness/comments/1ws6xjy/how_to_train_your_attention_to_stay_in_the_moment/) — 为「想太多的人」做专注力训练情绪订阅小程序（门槛: 低）
 - **[评分: 7/10]** [Hi everyone, kinda struggling would appreciate any advice…](https://www.reddit.com/r/Mindfulness/comments/1wt0gez/hi_everyone_kinda_struggling_would_appreciate_any/) — AI情绪复盘日记，订阅陪伴孤独年轻人（门槛: 低）
-- **[评分: 7/10]** [The calm I felt after a stressful meeting was already there before it](https://www.reddit.com/r/Mindfulness/comments/1wt1ubv/the_calm_i_felt_after_a_stressful_meeting_was/) — 会前焦虑释放+会后情绪复盘的正念引导日记订阅（门槛: 低）
-
-### 🏷️ 极窄场景的 Micro-AI 插件
-- **[评分: 8/10]** [Famulor](https://www.producthunt.com/products/famulor-telephony-ai) — 给本地商家搭AI电话+WhatsApp跟进客服，按月收费（门槛: 中）
-- **[评分: 8/10]** [I built a free invoice generator for French freelancers - no signup, real- time preview](https://www.reddit.com/r/SideProject/comments/1wvmxak/i_built_a_free_invoice_generator_for_french/) — 法国自由职业者合规发票生成器，免费引流+订阅增值（门槛: 中）
-- **[评分: 8/10]** [Communicate](https://www.producthunt.com/products/communicate) — 垂直行业AI客服代理，知识库+人工接管月费变现（门槛: 中）
-- **[评分: 7/10]** [I’m building what I think should be the easiest way to automate computer tasks](https://www.reddit.com/r/SideProject/comments/1wvo19e/im_building_what_i_think_should_be_the_easiest/) — 把电脑操作型 AI 收窄到单点流程，按次收费代交付（门槛: 中）
-- **[评分: 7/10]** [customer uploaded 100 contacts. our app couldn’t find a single email.](https://www.reddit.com/r/SideProject/comments/1wvom6v/customer_uploaded_100_contacts_our_app_couldnt/) — 智能联系人表格解析插件，按 API 订阅收费（门槛: 低）
 
 ### 🏷️ B2B 高客单数据抓取与精准名单
+- **[评分: 8/10]** [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) — 零 API 费抓取社媒，一键交付海外精准潜客名单（门槛: 中）
 - **[评分: 8/10]** [how do you vet a real estate sponsor](https://www.reddit.com/r/passive_income/comments/1wupwrp/how_do_you_vet_a_real_estate_sponsor/) — AI生成房产发起人尽调报告（门槛: 中）
 - **[评分: 8/10]** [I made $7,802 today](https://www.reddit.com/r/SaaS/comments/1wvjgm2/i_made_7802_today/) — 给美国本地商家做AI名单清洗+B2B冷短信代运营，月费制收割。（门槛: 中）
 - **[评分: 7/10]** [Scrapping social media for fashion trends- legal?](https://www.reddit.com/r/SaaS/comments/1wvp6wh/scrapping_social_media_for_fashion_trends_legal/) — 收集公开社媒图像，AI识别时尚趋势，向品牌卖报告（门槛: 中）
