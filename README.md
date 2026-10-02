@@ -36,116 +36,74 @@
 
 | 评分 | 标杆项目 / 原型 | 赛道 | 门槛 | 商业研判与一句话逻辑 | 原始链接 | 完整研报 |
 |---|---|---|---|---|---|---|
-| **⭐️ 8/10** | **Opus 5.5 Cooking the motion designers lol** | `AI视频生产服务` | 低 | 用AI替企业做$2K级动效视频，赚外包差价 | [🔗 来源](https://www.reddit.com/r/SaaS/comments/1wvcokc/opus_55_cooking_the_motion_designers_lol/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
-| **⭐️ 7/10** | **节假日不休， 6.1sol,6astra， onnet 5-5h,Opus 5-5 保持稳定不降智，不降智倍率低至 0.19，欢迎天才程序员来蹬，回复送测试额度。** | `信息差与跨国套利` | 中 | 低价不降智AI模型API中转套利 | [🔗 来源](https://www.v2ex.com/t/1246002) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
-| **⭐️ 7/10** | **Your Big Mac might cost more if McDonald&#x27;s AI thinks people nearby can afford it** | `跨境电商与出海独立站工具` | 中 | 按购买力自动调价的出海独立站 AI 定价插件 | [🔗 来源](https://neow.in/NGxhb3d6) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
-| **⭐️ 7/10** | **From talking to myself to a mobile app** | `垂直Micro-SaaS（心理健康/ADHD辅助工具）` | 低 | 面向ADHD人群的AI语音日记与情绪复盘订阅App | [🔗 来源](https://www.reddit.com/r/SideProject/comments/1wvd45a/from_talking_to_myself_to_a_mobile_app/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
-| **⭐️ 7/10** | **How would you make money with 500 IG posts per day?** | `流量套利与IG矩阵代运营` | 中 | AI批量生成内容+IG矩阵代发，导流独立站与联盟高佣 | [🔗 来源](https://www.reddit.com/r/Entrepreneur/comments/1wtpy48/how_would_you_make_money_with_500_ig_posts_per_day/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
-| **⭐️ 7/10** | **Today was supposed to be my first platform launch. Then Stripe said no.** | `垂直Micro-SaaS` | 中 | Stripe拒审自救指南与替代支付导航 | [🔗 来源](https://www.reddit.com/r/SaaS/comments/1wv5oud/today_was_supposed_to_be_my_first_platform_launch/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
-| **⭐️ 7/10** | **First-time supplement DTC launch in the EU. What do you wish you&#x27;d known before your first campaign?** | `跨境电商合规工具` | 中 | 中国补剂出海欧盟的合规自查与德语落地工具包 | [🔗 来源](https://www.reddit.com/r/ecommerce/comments/1wu5o48/firsttime_supplement_dtc_launch_in_the_eu_what_do/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
-| **⭐️ 7/10** | **Today was supposed to be my first platform launch. Then Stripe said no.** | `出海支付合规与独立开发者工具` | 低 | 为被Stripe封号的出海独立开发者提供替代收款方案与开户陪跑 | [🔗 来源](https://www.reddit.com/r/Entrepreneur/comments/1wv58fr/today_was_supposed_to_be_my_first_platform_launch/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
-| **⭐️ 7/10** | **I launched a SaaS and got a $5k offer to buy it 2 days later. I said no. Here&#x27;s what happened next (real numbers)** | `垂直Micro-SaaS` | 低 | 3天做个Mac小工具，挂收购市场套现数千美金 | [🔗 来源](https://www.reddit.com/r/SaaS/comments/1wvdeyb/i_launched_a_saas_and_got_a_5k_offer_to_buy_it_2/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
-| **⭐️ 7/10** | **I MADE $492 TODAY!! (I&#x27;m solo founder)** | `垂直Micro-SaaS` | 低 | 冷邮件获客的垂直B2B微型SaaS订阅工具 | [🔗 来源](https://www.reddit.com/r/SaaS/comments/1wv57i1/i_made_492_today_im_solo_founder/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
+| **⭐️ 8/10** | **Ecommerce product AI search?** | `跨境电商与出海独立站工具` | 中 | 给独立站装可嵌入的对话式AI商品搜索插件，按月订阅收费 | [🔗 来源](https://www.reddit.com/r/ecommerce/comments/1wtnwsn/ecommerce_product_ai_search/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
+| **⭐️ 8/10** | **how do you vet a real estate sponsor** | `B2B 高客单数据抓取与精准名单` | 中 | AI生成房产发起人尽调报告 | [🔗 来源](https://www.reddit.com/r/passive_income/comments/1wupwrp/how_do_you_vet_a_real_estate_sponsor/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
+| **⭐️ 8/10** | **I solved my biggest marketing pain with Opus 5.5** | `视频与动效代交付` | 低 | 用AI给初创SaaS批量代做演示视频与UGC动效，按条或包月收费。 | [🔗 来源](https://www.reddit.com/r/SaaS/comments/1wurdap/i_solved_my_biggest_marketing_pain_with_opus_55/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
+| **⭐️ 8/10** | **Communicate** | `极窄场景的 Micro-AI 插件` | 中 | 垂直行业AI客服代理，知识库+人工接管月费变现 | [🔗 来源](https://www.producthunt.com/products/communicate) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
+| **⭐️ 8/10** | **How do I create these AI cinema cartoon-style videos (like TJR)** | `视频与动效代交付` | 中 | 代做AI卡通电影感短视频并卖工作流 | [🔗 来源](https://www.reddit.com/r/Entrepreneur/comments/1wtg7wg/how_do_i_create_these_ai_cinema_cartoonstyle/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
+| **⭐️ 8/10** | **I’m burnt out and looking for ways to make money that don’t take such a toll on my body.** | `国学文化数字化与情绪消费` | 低 | 把按摩师的经络手艺变成节气身心节律订阅，AI代交付。 | [🔗 来源](https://www.reddit.com/r/passive_income/comments/1wvggvl/im_burnt_out_and_looking_for_ways_to_make_money/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
+| **⭐️ 8/10** | **Anyone using Wholescale for reviews/syndication?** | `跨境电商与出海独立站工具` | 中 | 为独立站做AI评论收集与分发SaaS | [🔗 来源](https://www.reddit.com/r/ecommerce/comments/1wubr1b/anyone_using_wholescale_for_reviewssyndication/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
+| **⭐️ 8/10** | **Help... Why are there so many abandoned carts? Literally 200+ and counting... Ugh! 🤣** | `跨境电商与出海独立站工具` | 低 | AI诊断独立站弃购并代建挽回自动化，按单收$200+ | [🔗 来源](https://www.reddit.com/r/ecommerce/comments/1wuy1iw/help_why_are_there_so_many_abandoned_carts/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
+| **⭐️ 8/10** | **B2B Large Payments; How Do I Send it with “Protection?”** | `跨境电商与出海独立站工具` | 中 | 为中国工厂大额货款提供AI背调+第三方托管的风控代交付服务 | [🔗 来源](https://www.reddit.com/r/ecommerce/comments/1wuqysa/b2b_large_payments_how_do_i_send_it_with/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
+| **⭐️ 8/10** | **Best way to handle marketplace payments, seller payouts and KYC?** | `跨境电商与出海独立站工具` | 中 | 为跨境市场平台做卖家分账与KYC合规中间件 | [🔗 来源](https://www.reddit.com/r/SaaS/comments/1wveo8m/best_way_to_handle_marketplace_payments_seller/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 
 ---
 
 ## 📚 垂直赛道分类商机库 (Categories)
 
-### 🏷️ 垂直Micro-SaaS
-- **[评分: 7/10]** [Today was supposed to be my first platform launch. Then Stripe said no.](https://www.reddit.com/r/SaaS/comments/1wv5oud/today_was_supposed_to_be_my_first_platform_launch/) — Stripe拒审自救指南与替代支付导航（门槛: 中）
-- **[评分: 7/10]** [I launched a SaaS and got a $5k offer to buy it 2 days later. I said no. Here's what happened next (real numbers)](https://www.reddit.com/r/SaaS/comments/1wvdeyb/i_launched_a_saas_and_got_a_5k_offer_to_buy_it_2/) — 3天做个Mac小工具，挂收购市场套现数千美金（门槛: 低）
-- **[评分: 7/10]** [I MADE $492 TODAY!! (I'm solo founder)](https://www.reddit.com/r/SaaS/comments/1wv57i1/i_made_492_today_im_solo_founder/) — 冷邮件获客的垂直B2B微型SaaS订阅工具（门槛: 低）
-- **[评分: 6/10]** [The mistake I made on my first day in collections (and what fixed it).](https://www.reddit.com/r/Entrepreneur/comments/1wupy4j/the_mistake_i_made_on_my_first_day_in_collections/) — 面向小微企业主的AI自动催款与现金流提醒工具（门槛: 中）
-- **[评分: 6/10]** [Got my first couple customers on my app, cool!](https://www.reddit.com/r/SaaS/comments/1wvbs8p/got_my_first_couple_customers_on_my_app_cool/) — 给独立音乐制作人的AI取样整理与分轨订阅工具（门槛: 低）
-- **[评分: 6/10]** [Getting clicks from Instagram ads, but visitors leave instantly. Where am I losing them? (10 signups in 2 weeks)](https://www.reddit.com/r/SaaS/comments/1wveb8s/getting_clicks_from_instagram_ads_but_visitors/) — 面向独立SaaS创始人的AI落地页转化诊断与重写服务（门槛: 低）
-- **[评分: 6/10]** [Scan your LLM agent's tools for cost-amplification bugs (no API key)](https://github.com/samuelrojas-dev/agent-cost-bench) — 扫描AI Agent工具成本漏洞的CI审计服务（门槛: 低）
-- **[评分: 5/10]** [What are the reasons this product will fail?](https://www.reddit.com/r/SideProject/comments/1wv9keu/what_are_the_reasons_this_product_will_fail/) — 监测并优化AI代理如何推荐你SaaS的GEO工具（门槛: 中）
-- **[评分: 5/10]** [I created a Mac app that opens your MacBook notch: push the cursor against it and your music, messages and clipboard are right there](https://www.reddit.com/r/SaaS/comments/1wvdcka/i_created_a_mac_app_that_opens_your_macbook_notch/) — 把MacBook刘海变成音乐消息剪贴板交互坞（门槛: 中）
-- **[评分: 5/10]** [I got tired of paying for 3 different tools to manage my projects, so I built a unified Canvas, Kanban, and CRM. Looking for feedback!](https://www.reddit.com/r/SaaS/comments/1wv9tue/i_got_tired_of_paying_for_3_different_tools_to/) — 白板+看板+CRM三合一的一体化轻量项目协作SaaS（门槛: 中）
-
-### 🏷️ 信息差与跨国套利
-- **[评分: 7/10]** [节假日不休， 6.1sol,6astra， onnet 5-5h,Opus 5-5 保持稳定不降智，不降智倍率低至 0.19，欢迎天才程序员来蹬，回复送测试额度。](https://www.v2ex.com/t/1246002) — 低价不降智AI模型API中转套利（门槛: 中）
-- **[评分: 6/10]** [有没有 token 信用合作社,蹬不完的 token 先给别人用,那天自己不够了再去取用](https://www.v2ex.com/t/1246062) — AI Token互助信用合作社，抽成或利差变现（门槛: 中）
-- **[评分: 5/10]** [Show HN: Grist, open source coding harness](https://grist.lol/) — 开源编码路由工具，按节省 token 收费（门槛: 低）
-
 ### 🏷️ 跨境电商与出海独立站工具
-- **[评分: 7/10]** [Your Big Mac might cost more if McDonald's AI thinks people nearby can afford it](https://neow.in/NGxhb3d6) — 按购买力自动调价的出海独立站 AI 定价插件（门槛: 中）
-- **[评分: 5/10]** [做 YouTube 评论分析踩到的坑：配额、分页，和 searchTerms](https://www.v2ex.com/t/1246085) — 为出海品牌做YouTube评论批量洞察的轻量SaaS（门槛: 中）
+- **[评分: 8/10]** [Ecommerce product AI search?](https://www.reddit.com/r/ecommerce/comments/1wtnwsn/ecommerce_product_ai_search/) — 给独立站装可嵌入的对话式AI商品搜索插件，按月订阅收费（门槛: 中）
+- **[评分: 8/10]** [Anyone using Wholescale for reviews/syndication?](https://www.reddit.com/r/ecommerce/comments/1wubr1b/anyone_using_wholescale_for_reviewssyndication/) — 为独立站做AI评论收集与分发SaaS（门槛: 中）
+- **[评分: 8/10]** [Help... Why are there so many abandoned carts? Literally 200+ and counting... Ugh! 🤣](https://www.reddit.com/r/ecommerce/comments/1wuy1iw/help_why_are_there_so_many_abandoned_carts/) — AI诊断独立站弃购并代建挽回自动化，按单收$200+（门槛: 低）
+- **[评分: 8/10]** [B2B Large Payments; How Do I Send it with “Protection?”](https://www.reddit.com/r/ecommerce/comments/1wuqysa/b2b_large_payments_how_do_i_send_it_with/) — 为中国工厂大额货款提供AI背调+第三方托管的风控代交付服务（门槛: 中）
+- **[评分: 8/10]** [Best way to handle marketplace payments, seller payouts and KYC?](https://www.reddit.com/r/SaaS/comments/1wveo8m/best_way_to_handle_marketplace_payments_seller/) — 为跨境市场平台做卖家分账与KYC合规中间件（门槛: 中）
+- **[评分: 8/10]** [AI is changing my industry, my corporate role was eliminated, and my ecommerce business is growing. Take severance or pursue another job?](https://www.reddit.com/r/ecommerce/comments/1wvla1p/ai_is_changing_my_industry_my_corporate_role_was/) — 为被裁品牌人代搭出海独立站并陪跑首单（门槛: 低）
+- **[评分: 8/10]** [What’s the hardest ecommerce number to get a clear answer on?](https://www.reddit.com/r/shopify/comments/1wv6ptv/whats_the_hardest_ecommerce_number_to_get_a_clear/) — 给Shopify卖家算真实利润与LTV的轻量看板订阅（门槛: 中）
+- **[评分: 8/10]** [Abandoned checkouts are killing me - what works nowadays?](https://www.reddit.com/r/ecommerce/comments/1wunk30/abandoned_checkouts_are_killing_me_what_works/) — 给独立站卖家做AI弃购挽回邮件/短信自动化代交付（门槛: 低）
+- **[评分: 8/10]** [Chargeback Prevention Kit for merchants and e-commerce businesses](https://www.reddit.com/r/ecommerce/comments/1wu6k0e/chargeback_prevention_kit_for_merchants_and/) — 把拒付申诉经验做成模板包+AI申辩信，卖给独立站卖家（门槛: 中）
+- **[评分: 8/10]** [Hi everyone, is it just me, or shopify has been declining cards lately?](https://www.reddit.com/r/shopify/comments/1wu1nyq/hi_everyone_is_it_just_me_or_shopify_has_been/) — Shopify拒付诊断+自动重试，按月订阅卖给独立站卖家（门槛: 中）
+- **[评分: 8/10]** [Cannot believe Shopify cannot provide a simple complaint tax invoice without additional paying a plugin.](https://www.reddit.com/r/shopify/comments/1wurepo/cannot_believe_shopify_cannot_provide_a_simple/) — 做Shopify合规税务发票插件，按店铺月费订阅变现（门槛: 中）
+- **[评分: 8/10]** [How are you preparing your stores for Agentic shopping?](https://www.reddit.com/r/shopify/comments/1wv5cvf/how_are_you_preparing_your_stores_for_agentic/) — 帮独立站做 AI 购物代理可读性诊断与优化交付（门槛: 低）
+- **[评分: 7/10]** [Graphic designer platform hunting](https://www.reddit.com/r/passive_income/comments/1wv0ask/graphic_designer_platform_hunting/) — 帮南亚设计师挑低费率平台并搞定跨境收款（门槛: 低）
+- **[评分: 7/10]** [Woo's low stock alert ignores our supplier's 4-week lead time. How are you guys tracking reorder points?](https://www.reddit.com/r/ecommerce/comments/1wtzb9j/woos_low_stock_alert_ignores_our_suppliers_4week/) — 按供应商交期自动算重订货点的 Woo 库存插件（门槛: 中）
+- **[评分: 7/10]** [Line of credit or lump sum for inventory? What we see sellers pick](https://www.reddit.com/r/ecommerce/comments/1wuiyqw/line_of_credit_or_lump_sum_for_inventory_what_we/) — 为跨境卖家做资金流诊断并撮合融资，按放款抽佣（门槛: 中）
+- **[评分: 7/10]** [Why does the last item always seem to cause inventory problems?](https://www.reddit.com/r/ecommerce/comments/1wuchqn/why_does_the_last_item_always_seem_to_cause/) — 多渠道防超卖库存同步插件，按月订阅收费（门槛: 中）
+- **[评分: 7/10]** [Experience in results with Non-White Background Google product Photos? Penalty?](https://www.reddit.com/r/ecommerce/comments/1wuaokb/experience_in_results_with_nonwhite_background/) — 给跨境卖家批量出合规白底与场景图，按张订阅收费（门槛: 低）
+- **[评分: 7/10]** [Confused with margins](https://www.reddit.com/r/ecommerce/comments/1wu17t1/confused_with_margins/) — 跨境选品利润测算器，一键算清税费运费佣金（门槛: 低）
+
+### 🏷️ 垂直数字资产与全自动工作流模板
+- **[评分: 7/10]** [What apps are people using for phone farming in 2026?](https://www.reddit.com/r/passive_income/comments/1wulvqg/what_apps_are_people_using_for_phone_farming_in/) — 聚合手机农场App收益与设备上限，卖付费订阅数据库（门槛: 低）
+- **[评分: 7/10]** [I'm overthinking making content for different platforms](https://www.reddit.com/r/Entrepreneur/comments/1wq17nx/im_overthinking_making_content_for_different/) — 一次输入，自动生成适配各平台语气的多版本内容工作流（门槛: 低）
+- **[评分: 7/10]** [What's your threshold for moving a brand off SFMC?](https://www.reddit.com/r/ecommerce/comments/1wtk2q5/whats_your_threshold_for_moving_a_brand_off_sfmc/) — 卖 SFMC 迁移评估框架与邮件旅程自动转换工具（门槛: 中）
+- **[评分: 7/10]** [How do you know you product is not actually needed?](https://www.reddit.com/r/SaaS/comments/1wvbdme/how_do_you_know_you_product_is_not_actually_needed/) — AI 需求验证与冷启动代交付，帮开发者先卖后做（门槛: 低）
+- **[评分: 7/10]** [Mintlify Desktop](https://www.producthunt.com/products/mintlify) — 为出海SaaS代搭AI文档知识库，卖模板+月费维护（门槛: 中）
+- **[评分: 7/10]** [ShipHQ](https://www.producthunt.com/products/shiphq) — 把上架应用自动生成工作室级品牌落地页模板（门槛: 低）
+
+### 🏷️ 视频与动效代交付
+- **[评分: 8/10]** [I solved my biggest marketing pain with Opus 5.5](https://www.reddit.com/r/SaaS/comments/1wurdap/i_solved_my_biggest_marketing_pain_with_opus_55/) — 用AI给初创SaaS批量代做演示视频与UGC动效，按条或包月收费。（门槛: 低）
+- **[评分: 8/10]** [How do I create these AI cinema cartoon-style videos (like TJR)](https://www.reddit.com/r/Entrepreneur/comments/1wtg7wg/how_do_i_create_these_ai_cinema_cartoonstyle/) — 代做AI卡通电影感短视频并卖工作流（门槛: 中）
+- **[评分: 7/10]** [You have $50,000 that must be invested into any business.](https://www.reddit.com/r/Entrepreneur/comments/1wt82ug/you_have_50000_that_must_be_invested_into_any/) — 一人 AI 代交付工作室，年框客户养出 3.5 万美元净收入（门槛: 低）
+- **[评分: 7/10]** [Eleven v4 and Eleven v4 Turbo](https://www.producthunt.com/products/eleven-v4-and-eleven-v4-turbo) — 用 ElevenLabs v4 为出海卖家批量交付多语言 AI 口播视频（门槛: 低）
+- **[评分: 7/10]** [How to find a designer](https://www.reddit.com/r/SaaS/comments/1wvloh3/how_to_find_a_designer/) — AI订阅制SaaS后台UI代交付，月费$2K起（门槛: 中）
+
+### 🏷️ 极窄场景的 Micro-AI 插件
+- **[评分: 8/10]** [Communicate](https://www.producthunt.com/products/communicate) — 垂直行业AI客服代理，知识库+人工接管月费变现（门槛: 中）
+- **[评分: 7/10]** [Finbar](https://www.producthunt.com/products/finbar-2) — AI财报投研助手，按报告或订阅收费（门槛: 中）
+- **[评分: 7/10]** [esigna](https://www.producthunt.com/products/esigna) — AI按品牌生成统一邮箱签名，订阅或模板包变现。（门槛: 低）
+- **[评分: 7/10]** [Lloyal](https://www.producthunt.com/products/lloyal) — 开源模型打包成垂直离线AI应用，订阅变现（门槛: 低）
+
+### 🏷️ B2B 高客单数据抓取与精准名单
+- **[评分: 8/10]** [how do you vet a real estate sponsor](https://www.reddit.com/r/passive_income/comments/1wupwrp/how_do_you_vet_a_real_estate_sponsor/) — AI生成房产发起人尽调报告（门槛: 中）
+- **[评分: 8/10]** [I made $7,802 today](https://www.reddit.com/r/SaaS/comments/1wvjgm2/i_made_7802_today/) — 给美国本地商家做AI名单清洗+B2B冷短信代运营，月费制收割。（门槛: 中）
+- **[评分: 7/10]** [Anyone figured out best ways to sell via AI?](https://www.reddit.com/r/ecommerce/comments/1wtnaf6/anyone_figured_out_best_ways_to_sell_via_ai/) — 为食品分销商批量交付本地买家名单与 AI 外呼话术（门槛: 中）
+
+### 🏷️ 国学文化数字化与情绪消费
+- **[评分: 8/10]** [I’m burnt out and looking for ways to make money that don’t take such a toll on my body.](https://www.reddit.com/r/passive_income/comments/1wvggvl/im_burnt_out_and_looking_for_ways_to_make_money/) — 把按摩师的经络手艺变成节气身心节律订阅，AI代交付。（门槛: 低）
+- **[评分: 8/10]** [Has anyone used stories to teach mindfulness to kids?](https://www.reddit.com/r/Mindfulness/comments/1wt6vv4/has_anyone_used_stories_to_teach_mindfulness_to/) — AI儿童正念故事订阅，按月收费（门槛: 低）
+- **[评分: 7/10]** [I sold my last company for €2M+. Right now, feeling like an absolute loser and having severe anxiety attack](https://www.reddit.com/r/Entrepreneur/comments/1wtd568/i_sold_my_last_company_for_2m_right_now_feeling/) — 为套现退出的创始人做高客单情绪复盘与身份重建社群（门槛: 低）
 
 ### 🏷️ AI视频生产服务
 - **[评分: 8/10]** [Opus 5.5 Cooking the motion designers lol](https://www.reddit.com/r/SaaS/comments/1wvcokc/opus_55_cooking_the_motion_designers_lol/) — 用AI替企业做$2K级动效视频，赚外包差价（门槛: 低）
-
-### 🏷️ 垂直Micro-SaaS（心理健康/ADHD辅助工具）
-- **[评分: 7/10]** [From talking to myself to a mobile app](https://www.reddit.com/r/SideProject/comments/1wvd45a/from_talking_to_myself_to_a_mobile_app/) — 面向ADHD人群的AI语音日记与情绪复盘订阅App（门槛: 低）
-
-### 🏷️ 流量套利与IG矩阵代运营
-- **[评分: 7/10]** [How would you make money with 500 IG posts per day?](https://www.reddit.com/r/Entrepreneur/comments/1wtpy48/how_would_you_make_money_with_500_ig_posts_per_day/) — AI批量生成内容+IG矩阵代发，导流独立站与联盟高佣（门槛: 中）
-
-### 🏷️ 跨境电商合规工具
-- **[评分: 7/10]** [First-time supplement DTC launch in the EU. What do you wish you'd known before your first campaign?](https://www.reddit.com/r/ecommerce/comments/1wu5o48/firsttime_supplement_dtc_launch_in_the_eu_what_do/) — 中国补剂出海欧盟的合规自查与德语落地工具包（门槛: 中）
-
-### 🏷️ 出海支付合规与独立开发者工具
-- **[评分: 7/10]** [Today was supposed to be my first platform launch. Then Stripe said no.](https://www.reddit.com/r/Entrepreneur/comments/1wv58fr/today_was_supposed_to_be_my_first_platform_launch/) — 为被Stripe封号的出海独立开发者提供替代收款方案与开户陪跑（门槛: 低）
-
-### 🏷️ 隐私合规本地 AI 部署工具
-- **[评分: 6/10]** [Pricacy-first local AI interface for document reviews and chat](https://www.reddit.com/r/SideProject/comments/1wvm3xz/pricacyfirst_local_ai_interface_for_document/) — 面向禁止上云的科研机构的本地 LLM 审稿工具（门槛: 中）
-
-### 🏷️ B2B出海SaaS增长/冷启动外呼
-- **[评分: 6/10]** [We hit $363,000 CAD ARR in 8 months, here's everything we learned so far about using outbound.](https://www.reddit.com/r/SaaS/comments/1wv2p3o/we_hit_363000_cad_arr_in_8_months_heres/) — AI冷邮件个性化与SaaS外呼获客工具（门槛: 中）
-
-### 🏷️ 垂直Micro-SaaS（数字健康/专注力）
-- **[评分: 6/10]** [I just got my first paying subscriber 🎉](https://www.reddit.com/r/SaaS/comments/1wut7r8/i_just_got_my_first_paying_subscriber/) — 防刷屏+生产力结合的订阅制App，靠内容引流收月费（门槛: 中）
-
-### 🏷️ 网络安全（中小诊所安全监测 SaaS）
-- **[评分: 6/10]** [I built a morning check that tells a small clinic if it's actually safe to see patients today](https://www.reddit.com/r/SideProject/comments/1wuoad8/i_built_a_morning_check_that_tells_a_small_clinic/) — 给小型诊所做每日安全自检的订阅工具（门槛: 中）
-
-### 🏷️ 跨境电商工具 / Shopify 微 SaaS
-- **[评分: 6/10]** [Would you launch a narrow app while its hardest edge cases are still ugly?](https://www.reddit.com/r/SideProject/comments/1wun4m3/would_you_launch_a_narrow_app_while_its_hardest/) — 给 Shopify 卖家自动推荐 HTS 报关编码的订阅小应用（门槛: 中）
-
-### 🏷️ 开发者工具与效率软件
-- **[评分: 5/10]** [I made Buildiary to track my side projects that you or your agent can update](https://www.reddit.com/r/SideProject/comments/1wvloum/i_made_buildiary_to_track_my_side_projects_that/) — AI可更新的开发者项目日志工具（门槛: 低）
-
-### 🏷️ AI 开发者工具与多智能体协作
-- **[评分: 5/10]** [Built a group chat where you and your AI agents work together, now open source](https://www.reddit.com/r/SideProject/comments/1wvkgr0/built_a_group_chat_where_you_and_your_ai_agents/) — 开源多AI智能体群聊协作工具，靠企业版或托管变现。（门槛: 中）
-
-### 🏷️ AI 写作与内容质量工具
-- **[评分: 5/10]** [Show HN: Zero Slop – Open-source skill that finds and fixes AI slop in writing](https://github.com/manavmishra/ZeroSlop) — 面向内容团队的AI去味与文风润色订阅工具（门槛: 低）
-
-### 🏷️ 垂直Micro-SaaS/AI效率工具
-- **[评分: 5/10]** [got tired of copy/pasting into chatgpt, so i made this inline AI tool](https://www.reddit.com/r/SideProject/comments/1wve5jc/got_tired_of_copypasting_into_chatgpt_so_i_made/) — 浏览器内联AI改写摘要工具，按月订阅（门槛: 低）
-
-### 🏷️ AI基础设施与开发者工具
-- **[评分: 5/10]** [High Scale Agentic Memory with Turbopuffer](https://www.youtube.com/watch?v=ht0sxHBmVMY) — 为AI Agent提供托管的长期记忆检索服务（门槛: 高）
-
-### 🏷️ AI Agent基础设施
-- **[评分: 5/10]** [Aweb – Communication for AI Agents](https://aweb.ai) — 为AI代理提供通信协作层，个人短期变现难（门槛: 高）
-
-### 🏷️ 音频/降噪工具
-- **[评分: 5/10]** [Clarity](https://www.producthunt.com/products/kugelaudio) — 实时人声分离的本地降噪工具，卖给会议与内容创作者（门槛: 中）
-
-### 🏷️ SEO工具 / SaaS
-- **[评分: 5/10]** [My last startup died cuz it couldnt rank on Google, so I built the thing that would've saved it](https://www.reddit.com/r/SideProject/comments/1wv4gr9/my_last_startup_died_cuz_it_couldnt_rank_on/) — 帮小站和独立开发者解决Google排名难题的SEO工具（门槛: 中）
-
-### 🏷️ macOS 系统工具/文件系统读写
-- **[评分: 5/10]** [[分享送码] Forma Drive 在 Mac 上读写 NTFS 和 ext4 移动硬盘，顺带看线缆速度、清理磁盘](https://www.v2ex.com/t/1245993) — Mac读写NTFS/ext4的付费工具，需求真但红海。（门槛: 高）
-
-### 🏷️ AI 教育内容生成
-- **[评分: 5/10]** [I built an app that turns maths questions into animated explainers for ~﹩1 each | Example: 23 people, 50.7% chance two share a birthday](https://www.reddit.com/r/SideProject/comments/1wuzoet/i_built_an_app_that_turns_maths_questions_into/) — 把数学题自动生成动画讲解视频，按条低价卖给教师或内容创作者。（门槛: 中）
-
-### 🏷️ 开发者工具/信息聚合
-- **[评分: 5/10]** [I built a comparison site for AI video, image and audio APIs — with the pricing conditions beside the price](https://www.reddit.com/r/SideProject/comments/1wutaye/i_built_a_comparison_site_for_ai_video_image_and/) — AI 视频图像音频 API 比价站，靠流量返佣变现（门槛: 低）
-
-### 🏷️ AI 求职效率工具
-- **[评分: 5/10]** [I may have priced this stupidly low. S1 for 50 tailored resumes 😭](https://www.reddit.com/r/SideProject/comments/1wuovm3/i_may_have_priced_this_stupidly_low_s1_for_50/) — 按岗位自动定制简历，一人可做但红海同质化（门槛: 中）
-
-### 🏷️ 教育科技/儿童数学
-- **[评分: 5/10]** [Show HN: Lathoa, a math app for kids where the AI is wrong on purpose](https://lathoa.ai/en) — 面向10-14岁孩子的AI故意出错找错数学练习应用（门槛: 中）
-
-### 🏷️ 开发者工具 / 测试质量
-- **[评分: 5/10]** [I built a tool that finds tests which can never fail](https://www.reddit.com/r/SideProject/comments/1wuig0r/i_built_a_tool_that_finds_tests_which_can_never/) — 检测 TypeScript/Python 中永不失败的无效测试的静态扫描工具（门槛: 低）
-
-### 🏷️ 语言学习 / 教育类 App
-- **[评分: 5/10]** [I built an Arabic learning app that tells you what anything around you is called in Arabic](https://www.reddit.com/r/SideProject/comments/1wu8fdy/i_built_an_arabic_learning_app_that_tells_you/) — 用相机识别身边物品并给出阿拉伯语叫法的学习小工具（门槛: 中）
 
 
 ---
