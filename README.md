@@ -36,6 +36,7 @@
 
 | 评分 | 标杆项目 / 原型 | 赛道 | 门槛 | 商业研判与一句话逻辑 | 原始链接 | 完整研报 |
 |---|---|---|---|---|---|---|
+| **⭐️ 8/10** | **节假日不休， 6.1sol,6astra， onnet 5-5h,Op** | `⚡ 非对称套利与增长黑客` | 高 | 低倍率转售不降智大模型 API，赚算力与信息差。 | [🔗 来源](https://t.me/V2EX_Channel/10761) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 8/10** | **Panniantong/Agent-Reach** | `B2B 高客单数据抓取与精准名单` | 中 | 零 API 费抓取社媒，一键交付海外精准潜客名单 | [🔗 来源](https://github.com/Panniantong/Agent-Reach) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 8/10** | **Famulor** | `极窄场景的 Micro-AI 插件` | 中 | 给本地商家搭AI电话+WhatsApp跟进客服，按月收费 | [🔗 来源](https://www.producthunt.com/products/famulor-telephony-ai) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 8/10** | **Communicate** | `极窄场景的 Micro-AI 插件` | 中 | 垂直行业AI客服代理，知识库+人工接管月费变现 | [🔗 来源](https://www.producthunt.com/products/communicate) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
@@ -45,7 +46,6 @@
 | **⭐️ 7/10** | **$3K5 MRR in 1 month how would you scale this to $100K MRR?** | `垂直数字资产与全自动工作流模板` | 中 | AI生成游戏订阅SaaS，靠用户创作付费。 | [🔗 来源](https://www.reddit.com/r/SaaS/comments/1wvryxj/3k5_mrr_in_1_month_how_would_you_scale_this_to/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 7/10** | **JuliusBrussee/caveman** | `极窄场景的 Micro-AI 插件` | 低 | 给 AI 编程代理做省 token 代理，按月订阅收租 | [🔗 来源](https://github.com/JuliusBrussee/caveman) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 7/10** | **Muse/meta agentique** | `跨境电商与出海独立站工具` | 中 | 追踪AI代理流量与归因的Shopify插件 | [🔗 来源](https://www.reddit.com/r/shopify/comments/1wudccr/musemeta_agentique/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
-| **⭐️ 7/10** | **High unusual bot traffic** | `跨境电商与出海独立站工具` | 中 | 独立站机器人流量清洗插件，按访客计费省钱的刚需工具 | [🔗 来源](https://www.reddit.com/r/shopify/comments/1wukvvr/high_unusual_bot_traffic/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 
 ---
 
@@ -95,11 +95,13 @@
 - **[评分: 8/10]** [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) — 零 API 费抓取社媒，一键交付海外精准潜客名单（门槛: 中）
 - **[评分: 7/10]** [Scrapping social media for fashion trends- legal?](https://www.reddit.com/r/SaaS/comments/1wvp6wh/scrapping_social_media_for_fashion_trends_legal/) — 收集公开社媒图像，AI识别时尚趋势，向品牌卖报告（门槛: 中）
 - **[评分: 7/10]** [I built an iMessage apartment finder for NYC](https://www.reddit.com/r/SideProject/comments/1wvmxwb/i_built_an_imessage_apartment_finder_for_nyc/) — iMessage AI匹配纽约房源，向经纪人卖精准租客线索（门槛: 中）
-- **[评分: 7/10]** [Anyone figured out best ways to sell via AI?](https://www.reddit.com/r/ecommerce/comments/1wtnaf6/anyone_figured_out_best_ways_to_sell_via_ai/) — 为食品分销商批量交付本地买家名单与 AI 外呼话术（门槛: 中）
 
 ### 🏷️ 视频与动效代交付
 - **[评分: 7/10]** [Faceless ways to make money in 2026?](https://www.reddit.com/r/passive_income/comments/1wvn0jf/faceless_ways_to_make_money_in_2026/) — AI 声音+模板批量代做不露脸 UGC 视频（门槛: 低）
 - **[评分: 7/10]** [WeftCut](https://www.producthunt.com/products/weftcut) — 用 AI Agent 驱动开源剪辑器，批量代交付 UGC 与演示视频（门槛: 低）
+
+### 🏷️ ⚡ 非对称套利与增长黑客
+- **[评分: 8/10]** [节假日不休， 6.1sol,6astra， onnet 5-5h,Op](https://t.me/V2EX_Channel/10761) — 低倍率转售不降智大模型 API，赚算力与信息差。（门槛: 高）
 
 ### 🏷️ 非对称套利与增长黑客
 - **[评分: 7/10]** [我说一句，中转站降智的都是撒流氓，全网首家主打包不降智的源头中转站，实时监测降智情况，倍率低至 0.1x，主打稳如老狗。](https://www.v2ex.com/t/1246088) — 搭建不降智API中转站，低价算力转卖套利（门槛: 中）
