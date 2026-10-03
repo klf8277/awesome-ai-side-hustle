@@ -39,19 +39,20 @@
 | **⭐️ 8/10** | **Panniantong/Agent-Reach** | `B2B 高客单数据抓取与精准名单` | 中 | 零 API 费抓取社媒，一键交付海外精准潜客名单 | [🔗 来源](https://github.com/Panniantong/Agent-Reach) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 8/10** | **Famulor** | `极窄场景的 Micro-AI 插件` | 中 | 给本地商家搭AI电话+WhatsApp跟进客服，按月收费 | [🔗 来源](https://www.producthunt.com/products/famulor-telephony-ai) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 8/10** | **Communicate** | `极窄场景的 Micro-AI 插件` | 中 | 垂直行业AI客服代理，知识库+人工接管月费变现 | [🔗 来源](https://www.producthunt.com/products/communicate) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
+| **⭐️ 7/10** | **I read 123 negative reviews of Shopify&#x27;s top order-tracking apps. Here are 4 problems nobody is fixing.** | `跨境电商与出海独立站工具` | 低 | 拆解Shopify差评做订单跟踪插件，订阅收钱 | [🔗 来源](https://www.reddit.com/r/SaaS/comments/1wwie0j/i_read_123_negative_reviews_of_shopifys_top/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 7/10** | **Built a data API that finds restaurants before they open, and it works, but I can&#x27;t crack distribution. How would you do it?** | `B2B 高客单数据抓取与精准名单` | 中 | 提前半年锁定未开业餐厅，向餐饮供应链卖高价线索 | [🔗 来源](https://www.reddit.com/r/SaaS/comments/1wwg9fp/built_a_data_api_that_finds_restaurants_before/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 7/10** | **What to do?** | `视频与动效代交付` | 中 | 给保健品独立站做AI批量UGC广告素材月费代交付 | [🔗 来源](https://www.reddit.com/r/ecommerce/comments/1wwcay1/what_to_do/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
-| **⭐️ 7/10** | **GCP300放水了** | `⚡ 非对称套利与增长黑客` | 中 | 利用GCP300放水零成本囤云算力做AI套利 | [🔗 来源](https://t.me/nodeseek_rss/19793) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
+| **⭐️ 7/10** | **GCP300放水了** | `⚡ 非对称套利与增长黑客` | 中 | 利用GCP300放水零成本囤云算力做AI套利 | [🔗 来源](https://www.nodeseek.com/post-308701-1) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 7/10** | **e-ink.me 更新：目录页一键生成整本 EPUB、内置 Send to Kindle、EPUB 整本转有声书** | `极窄场景的 Micro-AI 插件` | 中 | 网页目录批量转EPUB+有声书，按章节积分变现 | [🔗 来源](https://www.v2ex.com/t/1246201) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 7/10** | **Best app that allows gwp tiers and choices** | `跨境电商与出海独立站工具` | 中 | Shopify满额阶梯赠品自选插件，月费订阅变现 | [🔗 来源](https://www.reddit.com/r/shopify/comments/1ww6utf/best_app_that_allows_gwp_tiers_and_choices/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 7/10** | **Can You SEO Your Way into an AI Agent&#x27;s Recommendation?** | `⚡ 非对称套利与增长黑客` | 中 | 帮品牌抢占AI助手推荐位的GEO代运营 | [🔗 来源](https://www.joe-shirey.com/2026/10/02/seo-for-ai-agents.html) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
-| **⭐️ 7/10** | **my shopify store is embarrassingly slow and i don&#x27;t know what else to try** | `跨境电商与出海独立站工具` | 中 | 为Shopify卖家做移动端速度诊断与优化订阅 | [🔗 来源](https://www.reddit.com/r/ecommerce/comments/1wvztfq/my_shopify_store_is_embarrassingly_slow_and_i/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 
 ---
 
 ## 📚 垂直赛道分类商机库 (Categories)
 
 ### 🏷️ 跨境电商与出海独立站工具
+- **[评分: 7/10]** [I read 123 negative reviews of Shopify's top order-tracking apps. Here are 4 problems nobody is fixing.](https://www.reddit.com/r/SaaS/comments/1wwie0j/i_read_123_negative_reviews_of_shopifys_top/) — 拆解Shopify差评做订单跟踪插件，订阅收钱（门槛: 低）
 - **[评分: 7/10]** [Best app that allows gwp tiers and choices](https://www.reddit.com/r/shopify/comments/1ww6utf/best_app_that_allows_gwp_tiers_and_choices/) — Shopify满额阶梯赠品自选插件，月费订阅变现（门槛: 中）
 - **[评分: 7/10]** [my shopify store is embarrassingly slow and i don't know what else to try](https://www.reddit.com/r/ecommerce/comments/1wvztfq/my_shopify_store_is_embarrassingly_slow_and_i/) — 为Shopify卖家做移动端速度诊断与优化订阅（门槛: 中）
 - **[评分: 7/10]** [Whop vs Stripe for payment processing in 2026](https://www.reddit.com/r/ecommerce/comments/1wvx907/whop_vs_stripe_for_payment_processing_in_2026/) — 为独立站卖家做Stripe防封体检与多通道支付容灾切换（门槛: 中）
@@ -74,7 +75,6 @@
 - **[评分: 7/10]** [Trying to feel normal, but somehow ending up in the same routine](https://www.reddit.com/r/Mindfulness/comments/1wv75td/trying_to_feel_normal_but_somehow_ending_up_in/) — 把'停止内耗'做成节气情绪复盘订阅产品，AI 陪练变现（门槛: 低）
 - **[评分: 7/10]** [Is 360 breathing meant to be our default way of breathing?](https://www.reddit.com/r/Mindfulness/comments/1wv1s0u/is_360_breathing_meant_to_be_our_default_way_of/) — AI呼吸节律纠正陪伴订阅，低成本高复购情绪生意（门槛: 低）
 - **[评分: 7/10]** [How do I make myself better and keep myself alive?](https://www.reddit.com/r/Mindfulness/comments/1wvdpg4/how_do_i_make_myself_better_and_keep_myself_alive/) — AI 情绪复盘日记＋节气节律陪伴订阅，做孤独者的日常精神锚点。（门槛: 低）
-- **[评分: 7/10]** [How I use the "Inner Observer" to step out of the daily stress loop (and what neuroscience says about it)](https://www.reddit.com/r/Mindfulness/comments/1wvmhjg/how_i_use_the_inner_observer_to_step_out_of_the/) — 把内观练习做成情绪复盘数字产品，AI代交付（门槛: 低）
 
 ### 🏷️ 极窄场景的 Micro-AI 插件
 - **[评分: 8/10]** [Famulor](https://www.producthunt.com/products/famulor-telephony-ai) — 给本地商家搭AI电话+WhatsApp跟进客服，按月收费（门槛: 中）
@@ -96,7 +96,7 @@
 - **[评分: 7/10]** [Faceless ways to make money in 2026?](https://www.reddit.com/r/passive_income/comments/1wvn0jf/faceless_ways_to_make_money_in_2026/) — AI 声音+模板批量代做不露脸 UGC 视频（门槛: 低）
 
 ### 🏷️ ⚡ 非对称套利与增长黑客
-- **[评分: 7/10]** [GCP300放水了](https://t.me/nodeseek_rss/19793) — 利用GCP300放水零成本囤云算力做AI套利（门槛: 中）
+- **[评分: 7/10]** [GCP300放水了](https://www.nodeseek.com/post-308701-1) — 利用GCP300放水零成本囤云算力做AI套利（门槛: 中）
 - **[评分: 7/10]** [Can You SEO Your Way into an AI Agent's Recommendation?](https://www.joe-shirey.com/2026/10/02/seo-for-ai-agents.html) — 帮品牌抢占AI助手推荐位的GEO代运营（门槛: 中）
 
 ### 🏷️ 垂直数字资产与全自动工作流模板
