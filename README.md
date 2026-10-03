@@ -39,13 +39,13 @@
 | **⭐️ 8/10** | **Panniantong/Agent-Reach** | `B2B 高客单数据抓取与精准名单` | 中 | 零 API 费抓取社媒，一键交付海外精准潜客名单 | [🔗 来源](https://github.com/Panniantong/Agent-Reach) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 8/10** | **Famulor** | `极窄场景的 Micro-AI 插件` | 中 | 给本地商家搭AI电话+WhatsApp跟进客服，按月收费 | [🔗 来源](https://www.producthunt.com/products/famulor-telephony-ai) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 8/10** | **Communicate** | `极窄场景的 Micro-AI 插件` | 中 | 垂直行业AI客服代理，知识库+人工接管月费变现 | [🔗 来源](https://www.producthunt.com/products/communicate) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
+| **⭐️ 7/10** | **The easy tickets answer fine. The handoff is where my setup breaks.** | `极窄场景的 Micro-AI 插件` | 低 | AI转人工上下文接力层，做客服交接的会话记忆中间件 | [🔗 来源](https://www.reddit.com/r/SaaS/comments/1wwudrg/the_easy_tickets_answer_fine_the_handoff_is_where/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
+| **⭐️ 7/10** | **HOA Spy – free, open-source public records on every US HOA (liens &amp; lawsuits)** | `B2B 高客单数据抓取与精准名单` | 低 | HOA 留置权诉讼数据转为付费尽调报告 | [🔗 来源](https://www.reddit.com/r/SideProject/comments/1wwsmty/hoa_spy_free_opensource_public_records_on_every/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 7/10** | **Thinking about building a tool that shows which Reddit threads AI cites in your niche. Is this a real problem?** | `极窄场景的 Micro-AI 插件` | 低 | 看AI在垂直赛道引用了哪些Reddit帖的GEO溯源Micro-SaaS | [🔗 来源](https://www.reddit.com/r/SaaS/comments/1wwnzo6/thinking_about_building_a_tool_that_shows_which/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 7/10** | **Payment gateway** | `跨境电商与出海独立站工具` | 中 | 埃及等新兴市场USD收款+Settlement支付通道代办与路由工具 | [🔗 来源](https://www.reddit.com/r/passive_income/comments/1wwiths/payment_gateway/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 7/10** | **How do you guys make product demo videos for SaaS?** | `视频与动效代交付` | 低 | SaaS创始人的AI产品演示视频代做，低门槛高客单 | [🔗 来源](https://www.reddit.com/r/SaaS/comments/1wwn33s/how_do_you_guys_make_product_demo_videos_for_saas/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 7/10** | **One Line, 25M Revenue** | `⚡ 非对称套利与增长黑客` | 低 | 一行代码撬动 $25M 营收的增长黑客案例 | [🔗 来源](https://huntersoftwareconsulting.com/posts/2026-10-02-one-line-25m/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 7/10** | **【免费Token/API放水】 Create logo.png** | `⚡ 非对称套利与增长黑客` | 低 | 白嫖免费GPT接口，零算力成本封装AI工具变现 | [🔗 来源](https://github.com/chatanywhere/GPT_API_free/commit/3d5349d9c05f6c0a10456bacdf4faf45f0d66a34) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
-| **⭐️ 7/10** | **【免费Token/API放水】 Update README.md** | `非对称套利与增长黑客` | 低 | 白嫖GPT中转池，零成本试跑套壳产品变现 | [🔗 来源](https://github.com/chatanywhere/GPT_API_free/commit/24c54736232aa98a6c993e48e3c589f2b33a0eea) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
-| **⭐️ 7/10** | **【免费Token/API放水】 Update README.md** | `⚡ 非对称套利与增长黑客` | 低 | 白嫖免费 API 额度，做零算力成本的套壳与转售套利 | [🔗 来源](https://github.com/chatanywhere/GPT_API_free/commit/15492201420b98e83ea5b227f89836acb28c7789) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 
 ---
 
@@ -62,18 +62,17 @@
 - **[评分: 7/10]** [Homepage builder](https://www.reddit.com/r/shopify/comments/1wuq40q/homepage_builder/) — 为 Shopify 卖家代做高转化首页，AI 提效客单 $500+（门槛: 中）
 - **[评分: 7/10]** [How do you guys manage "markets" and different language URLs?](https://www.reddit.com/r/shopify/comments/1wuvct9/how_do_you_guys_manage_markets_and_different/) — 帮Shopify卖家搞定多语言多币种URL与SEO配置（门槛: 中）
 - **[评分: 7/10]** [How do I disable Sidekick completely?](https://www.reddit.com/r/shopify/comments/1wus4eq/how_do_i_disable_sidekick_completely/) — Shopify后台净化插件，一键关Sidekick与推销（门槛: 低）
-- **[评分: 7/10]** [Looking for a way to hide products/display in "secret" collections only.](https://www.reddit.com/r/shopify/comments/1wv79kt/looking_for_a_way_to_hide_productsdisplay_in/) — 为 Shopify 卖家做隐形合集早鸟访问插件，按月订阅收费（门槛: 中）
 
 ### 🏷️ 极窄场景的 Micro-AI 插件
 - **[评分: 8/10]** [Famulor](https://www.producthunt.com/products/famulor-telephony-ai) — 给本地商家搭AI电话+WhatsApp跟进客服，按月收费（门槛: 中）
 - **[评分: 8/10]** [Communicate](https://www.producthunt.com/products/communicate) — 垂直行业AI客服代理，知识库+人工接管月费变现（门槛: 中）
+- **[评分: 7/10]** [The easy tickets answer fine. The handoff is where my setup breaks.](https://www.reddit.com/r/SaaS/comments/1wwudrg/the_easy_tickets_answer_fine_the_handoff_is_where/) — AI转人工上下文接力层，做客服交接的会话记忆中间件（门槛: 低）
 - **[评分: 7/10]** [Thinking about building a tool that shows which Reddit threads AI cites in your niche. Is this a real problem?](https://www.reddit.com/r/SaaS/comments/1wwnzo6/thinking_about_building_a_tool_that_shows_which/) — 看AI在垂直赛道引用了哪些Reddit帖的GEO溯源Micro-SaaS（门槛: 低）
 - **[评分: 7/10]** [e-ink.me 更新：目录页一键生成整本 EPUB、内置 Send to Kindle、EPUB 整本转有声书](https://www.v2ex.com/t/1246201) — 网页目录批量转EPUB+有声书，按章节积分变现（门槛: 中）
 - **[评分: 7/10]** [I built a testing tool that talks to your AI phone bot so you don't have to](https://www.reddit.com/r/SaaS/comments/1ww01by/i_built_a_testing_tool_that_talks_to_your_ai/) — 自动拨测语音AI智能体，按订阅收测试费（门槛: 中）
 - **[评分: 7/10]** [I made $280 selling one-button Mac apps for $4.99. No ads, just Reddit.](https://www.reddit.com/r/passive_income/comments/1wvvuzm/i_made_280_selling_onebutton_mac_apps_for_499_no/) — 用AI批量做单点Mac小工具，Reddit发帖卖$4.99。（门槛: 中）
 - **[评分: 7/10]** [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) — 给 AI 编程代理做省 token 代理，按月订阅收租（门槛: 低）
 - **[评分: 7/10]** [I’m building what I think should be the easiest way to automate computer tasks](https://www.reddit.com/r/SideProject/comments/1wvo19e/im_building_what_i_think_should_be_the_easiest/) — 把电脑操作型 AI 收窄到单点流程，按次收费代交付（门槛: 中）
-- **[评分: 7/10]** [customer uploaded 100 contacts. our app couldn’t find a single email.](https://www.reddit.com/r/SideProject/comments/1wvom6v/customer_uploaded_100_contacts_our_app_couldnt/) — 智能联系人表格解析插件，按 API 订阅收费（门槛: 低）
 
 ### 🏷️ ⚡ 非对称套利与增长黑客
 - **[评分: 7/10]** [One Line, 25M Revenue](https://huntersoftwareconsulting.com/posts/2026-10-02-one-line-25m/) — 一行代码撬动 $25M 营收的增长黑客案例（门槛: 低）
@@ -87,6 +86,7 @@
 
 ### 🏷️ B2B 高客单数据抓取与精准名单
 - **[评分: 8/10]** [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) — 零 API 费抓取社媒，一键交付海外精准潜客名单（门槛: 中）
+- **[评分: 7/10]** [HOA Spy – free, open-source public records on every US HOA (liens & lawsuits)](https://www.reddit.com/r/SideProject/comments/1wwsmty/hoa_spy_free_opensource_public_records_on_every/) — HOA 留置权诉讼数据转为付费尽调报告（门槛: 低）
 - **[评分: 7/10]** [Built a data API that finds restaurants before they open, and it works, but I can't crack distribution. How would you do it?](https://www.reddit.com/r/SaaS/comments/1wwg9fp/built_a_data_api_that_finds_restaurants_before/) — 提前半年锁定未开业餐厅，向餐饮供应链卖高价线索（门槛: 中）
 - **[评分: 7/10]** [Scrapping social media for fashion trends- legal?](https://www.reddit.com/r/SaaS/comments/1wvp6wh/scrapping_social_media_for_fashion_trends_legal/) — 收集公开社媒图像，AI识别时尚趋势，向品牌卖报告（门槛: 中）
 
