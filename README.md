@@ -39,13 +39,13 @@
 | **⭐️ 8/10** | **Panniantong/Agent-Reach** | `B2B 高客单数据抓取与精准名单` | 中 | 零 API 费抓取社媒，一键交付海外精准潜客名单 | [🔗 来源](https://github.com/Panniantong/Agent-Reach) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 8/10** | **Famulor** | `极窄场景的 Micro-AI 插件` | 中 | 给本地商家搭AI电话+WhatsApp跟进客服，按月收费 | [🔗 来源](https://www.producthunt.com/products/famulor-telephony-ai) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 8/10** | **Communicate** | `极窄场景的 Micro-AI 插件` | 中 | 垂直行业AI客服代理，知识库+人工接管月费变现 | [🔗 来源](https://www.producthunt.com/products/communicate) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
+| **⭐️ 7/10** | **Built a data API that finds restaurants before they open, and it works, but I can&#x27;t crack distribution. How would you do it?** | `B2B 高客单数据抓取与精准名单` | 中 | 提前半年锁定未开业餐厅，向餐饮供应链卖高价线索 | [🔗 来源](https://www.reddit.com/r/SaaS/comments/1wwg9fp/built_a_data_api_that_finds_restaurants_before/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 7/10** | **What to do?** | `视频与动效代交付` | 中 | 给保健品独立站做AI批量UGC广告素材月费代交付 | [🔗 来源](https://www.reddit.com/r/ecommerce/comments/1wwcay1/what_to_do/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 7/10** | **GCP300放水了** | `⚡ 非对称套利与增长黑客` | 中 | 利用GCP300放水零成本囤云算力做AI套利 | [🔗 来源](https://t.me/nodeseek_rss/19793) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 7/10** | **e-ink.me 更新：目录页一键生成整本 EPUB、内置 Send to Kindle、EPUB 整本转有声书** | `极窄场景的 Micro-AI 插件` | 中 | 网页目录批量转EPUB+有声书，按章节积分变现 | [🔗 来源](https://www.v2ex.com/t/1246201) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 7/10** | **Best app that allows gwp tiers and choices** | `跨境电商与出海独立站工具` | 中 | Shopify满额阶梯赠品自选插件，月费订阅变现 | [🔗 来源](https://www.reddit.com/r/shopify/comments/1ww6utf/best_app_that_allows_gwp_tiers_and_choices/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 7/10** | **Can You SEO Your Way into an AI Agent&#x27;s Recommendation?** | `⚡ 非对称套利与增长黑客` | 中 | 帮品牌抢占AI助手推荐位的GEO代运营 | [🔗 来源](https://www.joe-shirey.com/2026/10/02/seo-for-ai-agents.html) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 7/10** | **my shopify store is embarrassingly slow and i don&#x27;t know what else to try** | `跨境电商与出海独立站工具` | 中 | 为Shopify卖家做移动端速度诊断与优化订阅 | [🔗 来源](https://www.reddit.com/r/ecommerce/comments/1wvztfq/my_shopify_store_is_embarrassingly_slow_and_i/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
-| **⭐️ 7/10** | **I built a testing tool that talks to your AI phone bot so you don&#x27;t have to** | `极窄场景的 Micro-AI 插件` | 中 | 自动拨测语音AI智能体，按订阅收测试费 | [🔗 来源](https://www.reddit.com/r/SaaS/comments/1ww01by/i_built_a_testing_tool_that_talks_to_your_ai/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 
 ---
 
@@ -88,8 +88,8 @@
 
 ### 🏷️ B2B 高客单数据抓取与精准名单
 - **[评分: 8/10]** [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) — 零 API 费抓取社媒，一键交付海外精准潜客名单（门槛: 中）
+- **[评分: 7/10]** [Built a data API that finds restaurants before they open, and it works, but I can't crack distribution. How would you do it?](https://www.reddit.com/r/SaaS/comments/1wwg9fp/built_a_data_api_that_finds_restaurants_before/) — 提前半年锁定未开业餐厅，向餐饮供应链卖高价线索（门槛: 中）
 - **[评分: 7/10]** [Scrapping social media for fashion trends- legal?](https://www.reddit.com/r/SaaS/comments/1wvp6wh/scrapping_social_media_for_fashion_trends_legal/) — 收集公开社媒图像，AI识别时尚趋势，向品牌卖报告（门槛: 中）
-- **[评分: 7/10]** [I built an iMessage apartment finder for NYC](https://www.reddit.com/r/SideProject/comments/1wvmxwb/i_built_an_imessage_apartment_finder_for_nyc/) — iMessage AI匹配纽约房源，向经纪人卖精准租客线索（门槛: 中）
 
 ### 🏷️ 视频与动效代交付
 - **[评分: 7/10]** [What to do?](https://www.reddit.com/r/ecommerce/comments/1wwcay1/what_to_do/) — 给保健品独立站做AI批量UGC广告素材月费代交付（门槛: 中）
