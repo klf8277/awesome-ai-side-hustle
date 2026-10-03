@@ -39,13 +39,13 @@
 | **⭐️ 8/10** | **Panniantong/Agent-Reach** | `B2B 高客单数据抓取与精准名单` | 中 | 零 API 费抓取社媒，一键交付海外精准潜客名单 | [🔗 来源](https://github.com/Panniantong/Agent-Reach) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 8/10** | **Famulor** | `极窄场景的 Micro-AI 插件` | 中 | 给本地商家搭AI电话+WhatsApp跟进客服，按月收费 | [🔗 来源](https://www.producthunt.com/products/famulor-telephony-ai) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 8/10** | **Communicate** | `极窄场景的 Micro-AI 插件` | 中 | 垂直行业AI客服代理，知识库+人工接管月费变现 | [🔗 来源](https://www.producthunt.com/products/communicate) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
+| **⭐️ 7/10** | **What to do?** | `视频与动效代交付` | 中 | 给保健品独立站做AI批量UGC广告素材月费代交付 | [🔗 来源](https://www.reddit.com/r/ecommerce/comments/1wwcay1/what_to_do/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 7/10** | **GCP300放水了** | `⚡ 非对称套利与增长黑客` | 中 | 利用GCP300放水零成本囤云算力做AI套利 | [🔗 来源](https://t.me/nodeseek_rss/19793) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 7/10** | **e-ink.me 更新：目录页一键生成整本 EPUB、内置 Send to Kindle、EPUB 整本转有声书** | `极窄场景的 Micro-AI 插件` | 中 | 网页目录批量转EPUB+有声书，按章节积分变现 | [🔗 来源](https://www.v2ex.com/t/1246201) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 7/10** | **Best app that allows gwp tiers and choices** | `跨境电商与出海独立站工具` | 中 | Shopify满额阶梯赠品自选插件，月费订阅变现 | [🔗 来源](https://www.reddit.com/r/shopify/comments/1ww6utf/best_app_that_allows_gwp_tiers_and_choices/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 7/10** | **Can You SEO Your Way into an AI Agent&#x27;s Recommendation?** | `⚡ 非对称套利与增长黑客` | 中 | 帮品牌抢占AI助手推荐位的GEO代运营 | [🔗 来源](https://www.joe-shirey.com/2026/10/02/seo-for-ai-agents.html) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 7/10** | **my shopify store is embarrassingly slow and i don&#x27;t know what else to try** | `跨境电商与出海独立站工具` | 中 | 为Shopify卖家做移动端速度诊断与优化订阅 | [🔗 来源](https://www.reddit.com/r/ecommerce/comments/1wvztfq/my_shopify_store_is_embarrassingly_slow_and_i/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 7/10** | **I built a testing tool that talks to your AI phone bot so you don&#x27;t have to** | `极窄场景的 Micro-AI 插件` | 中 | 自动拨测语音AI智能体，按订阅收测试费 | [🔗 来源](https://www.reddit.com/r/SaaS/comments/1ww01by/i_built_a_testing_tool_that_talks_to_your_ai/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
-| **⭐️ 7/10** | **I made $280 selling one-button Mac apps for $4.99. No ads, just Reddit.** | `极窄场景的 Micro-AI 插件` | 中 | 用AI批量做单点Mac小工具，Reddit发帖卖$4.99。 | [🔗 来源](https://www.reddit.com/r/passive_income/comments/1wvvuzm/i_made_280_selling_onebutton_mac_apps_for_499_no/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 
 ---
 
@@ -63,7 +63,6 @@
 - **[评分: 7/10]** [Looking for a way to hide products/display in "secret" collections only.](https://www.reddit.com/r/shopify/comments/1wv79kt/looking_for_a_way_to_hide_productsdisplay_in/) — 为 Shopify 卖家做隐形合集早鸟访问插件，按月订阅收费（门槛: 中）
 - **[评分: 7/10]** [How do you handle cash in your slow months?](https://www.reddit.com/r/shopify/comments/1wvfwuz/how_do_you_handle_cash_in_your_slow_months/) — AI 预测 Shopify 卖家淡旺季现金流，自动生成弹性还款排期（门槛: 中）
 - **[评分: 7/10]** [How to Deal with Sales Slumps in e-com ?](https://www.reddit.com/r/ecommerce/comments/1wvpdh3/how_to_deal_with_sales_slumps_in_ecom/) — 给掉单独立站卖家做 AI 店铺诊断，单次 $99-$299（门槛: 低）
-- **[评分: 7/10]** [I built a tool that runs your Windows installer on a clean VM to see if SmartScreen will warn your users](https://www.reddit.com/r/SideProject/comments/1wvnek8/i_built_a_tool_that_runs_your_windows_installer/) — 帮出海开发者做 SmartScreen 信誉体检与签发策略，按次收费。（门槛: 中）
 
 ### 🏷️ 国学文化数字化与情绪消费
 - **[评分: 7/10]** [How come some places feel so special if the reality we see is just a concept?](https://www.reddit.com/r/Mindfulness/comments/1wsqelx/how_come_some_places_feel_so_special_if_the/) — 面向正念人群的「心念地标」情绪复盘日记订阅（门槛: 低）
@@ -92,6 +91,10 @@
 - **[评分: 7/10]** [Scrapping social media for fashion trends- legal?](https://www.reddit.com/r/SaaS/comments/1wvp6wh/scrapping_social_media_for_fashion_trends_legal/) — 收集公开社媒图像，AI识别时尚趋势，向品牌卖报告（门槛: 中）
 - **[评分: 7/10]** [I built an iMessage apartment finder for NYC](https://www.reddit.com/r/SideProject/comments/1wvmxwb/i_built_an_imessage_apartment_finder_for_nyc/) — iMessage AI匹配纽约房源，向经纪人卖精准租客线索（门槛: 中）
 
+### 🏷️ 视频与动效代交付
+- **[评分: 7/10]** [What to do?](https://www.reddit.com/r/ecommerce/comments/1wwcay1/what_to_do/) — 给保健品独立站做AI批量UGC广告素材月费代交付（门槛: 中）
+- **[评分: 7/10]** [Faceless ways to make money in 2026?](https://www.reddit.com/r/passive_income/comments/1wvn0jf/faceless_ways_to_make_money_in_2026/) — AI 声音+模板批量代做不露脸 UGC 视频（门槛: 低）
+
 ### 🏷️ ⚡ 非对称套利与增长黑客
 - **[评分: 7/10]** [GCP300放水了](https://t.me/nodeseek_rss/19793) — 利用GCP300放水零成本囤云算力做AI套利（门槛: 中）
 - **[评分: 7/10]** [Can You SEO Your Way into an AI Agent's Recommendation?](https://www.joe-shirey.com/2026/10/02/seo-for-ai-agents.html) — 帮品牌抢占AI助手推荐位的GEO代运营（门槛: 中）
@@ -102,9 +105,6 @@
 
 ### 🏷️ 非对称套利与增长黑客
 - **[评分: 7/10]** [我说一句，中转站降智的都是撒流氓，全网首家主打包不降智的源头中转站，实时监测降智情况，倍率低至 0.1x，主打稳如老狗。](https://www.v2ex.com/t/1246088) — 搭建不降智API中转站，低价算力转卖套利（门槛: 中）
-
-### 🏷️ 视频与动效代交付
-- **[评分: 7/10]** [Faceless ways to make money in 2026?](https://www.reddit.com/r/passive_income/comments/1wvn0jf/faceless_ways_to_make_money_in_2026/) — AI 声音+模板批量代做不露脸 UGC 视频（门槛: 低）
 
 ### 🏷️ 视频与动效代交付（AI 轻资产外包与 Micro-SaaS）
 - **[评分: 7/10]** [Got an app or store idea? We’ll build the first version for you for free](https://www.reddit.com/r/SaaS/comments/1wvp54f/got_an_app_or_store_idea_well_build_the_first/) — 用 AI 三天交付他人 MVP，收 $500-$2000 代建费（门槛: 中）
