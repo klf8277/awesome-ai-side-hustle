@@ -36,10 +36,10 @@
 
 | 评分 | 标杆项目 / 原型 | 赛道 | 门槛 | 商业研判与一句话逻辑 | 原始链接 | 完整研报 |
 |---|---|---|---|---|---|---|
-| **⭐️ 8/10** | **节假日不休， 6.1sol,6astra， onnet 5-5h,Op** | `⚡ 非对称套利与增长黑客` | 高 | 低倍率转售不降智大模型 API，赚算力与信息差。 | [🔗 来源](https://t.me/V2EX_Channel/10761) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 8/10** | **Panniantong/Agent-Reach** | `B2B 高客单数据抓取与精准名单` | 中 | 零 API 费抓取社媒，一键交付海外精准潜客名单 | [🔗 来源](https://github.com/Panniantong/Agent-Reach) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 8/10** | **Famulor** | `极窄场景的 Micro-AI 插件` | 中 | 给本地商家搭AI电话+WhatsApp跟进客服，按月收费 | [🔗 来源](https://www.producthunt.com/products/famulor-telephony-ai) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 8/10** | **Communicate** | `极窄场景的 Micro-AI 插件` | 中 | 垂直行业AI客服代理，知识库+人工接管月费变现 | [🔗 来源](https://www.producthunt.com/products/communicate) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
+| **⭐️ 7/10** | **GCP300放水了** | `⚡ 非对称套利与增长黑客` | 中 | 利用GCP300放水零成本囤云算力做AI套利 | [🔗 来源](https://t.me/nodeseek_rss/19793) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 7/10** | **e-ink.me 更新：目录页一键生成整本 EPUB、内置 Send to Kindle、EPUB 整本转有声书** | `极窄场景的 Micro-AI 插件` | 中 | 网页目录批量转EPUB+有声书，按章节积分变现 | [🔗 来源](https://www.v2ex.com/t/1246201) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 7/10** | **Best app that allows gwp tiers and choices** | `跨境电商与出海独立站工具` | 中 | Shopify满额阶梯赠品自选插件，月费订阅变现 | [🔗 来源](https://www.reddit.com/r/shopify/comments/1ww6utf/best_app_that_allows_gwp_tiers_and_choices/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 7/10** | **Can You SEO Your Way into an AI Agent&#x27;s Recommendation?** | `⚡ 非对称套利与增长黑客` | 中 | 帮品牌抢占AI助手推荐位的GEO代运营 | [🔗 来源](https://www.joe-shirey.com/2026/10/02/seo-for-ai-agents.html) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
@@ -93,7 +93,7 @@
 - **[评分: 7/10]** [I built an iMessage apartment finder for NYC](https://www.reddit.com/r/SideProject/comments/1wvmxwb/i_built_an_imessage_apartment_finder_for_nyc/) — iMessage AI匹配纽约房源，向经纪人卖精准租客线索（门槛: 中）
 
 ### 🏷️ ⚡ 非对称套利与增长黑客
-- **[评分: 8/10]** [节假日不休， 6.1sol,6astra， onnet 5-5h,Op](https://t.me/V2EX_Channel/10761) — 低倍率转售不降智大模型 API，赚算力与信息差。（门槛: 高）
+- **[评分: 7/10]** [GCP300放水了](https://t.me/nodeseek_rss/19793) — 利用GCP300放水零成本囤云算力做AI套利（门槛: 中）
 - **[评分: 7/10]** [Can You SEO Your Way into an AI Agent's Recommendation?](https://www.joe-shirey.com/2026/10/02/seo-for-ai-agents.html) — 帮品牌抢占AI助手推荐位的GEO代运营（门槛: 中）
 
 ### 🏷️ 垂直数字资产与全自动工作流模板
