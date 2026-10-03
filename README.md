@@ -40,12 +40,12 @@
 | **⭐️ 8/10** | **Panniantong/Agent-Reach** | `B2B 高客单数据抓取与精准名单` | 中 | 零 API 费抓取社媒，一键交付海外精准潜客名单 | [🔗 来源](https://github.com/Panniantong/Agent-Reach) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 8/10** | **Famulor** | `极窄场景的 Micro-AI 插件` | 中 | 给本地商家搭AI电话+WhatsApp跟进客服，按月收费 | [🔗 来源](https://www.producthunt.com/products/famulor-telephony-ai) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 8/10** | **Communicate** | `极窄场景的 Micro-AI 插件` | 中 | 垂直行业AI客服代理，知识库+人工接管月费变现 | [🔗 来源](https://www.producthunt.com/products/communicate) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
+| **⭐️ 7/10** | **e-ink.me 更新：目录页一键生成整本 EPUB、内置 Send to Kindle、EPUB 整本转有声书** | `极窄场景的 Micro-AI 插件` | 中 | 网页目录批量转EPUB+有声书，按章节积分变现 | [🔗 来源](https://www.v2ex.com/t/1246201) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 7/10** | **Best app that allows gwp tiers and choices** | `跨境电商与出海独立站工具` | 中 | Shopify满额阶梯赠品自选插件，月费订阅变现 | [🔗 来源](https://www.reddit.com/r/shopify/comments/1ww6utf/best_app_that_allows_gwp_tiers_and_choices/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 7/10** | **Can You SEO Your Way into an AI Agent&#x27;s Recommendation?** | `⚡ 非对称套利与增长黑客` | 中 | 帮品牌抢占AI助手推荐位的GEO代运营 | [🔗 来源](https://www.joe-shirey.com/2026/10/02/seo-for-ai-agents.html) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 7/10** | **my shopify store is embarrassingly slow and i don&#x27;t know what else to try** | `跨境电商与出海独立站工具` | 中 | 为Shopify卖家做移动端速度诊断与优化订阅 | [🔗 来源](https://www.reddit.com/r/ecommerce/comments/1wvztfq/my_shopify_store_is_embarrassingly_slow_and_i/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 7/10** | **I built a testing tool that talks to your AI phone bot so you don&#x27;t have to** | `极窄场景的 Micro-AI 插件` | 中 | 自动拨测语音AI智能体，按订阅收测试费 | [🔗 来源](https://www.reddit.com/r/SaaS/comments/1ww01by/i_built_a_testing_tool_that_talks_to_your_ai/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 7/10** | **I made $280 selling one-button Mac apps for $4.99. No ads, just Reddit.** | `极窄场景的 Micro-AI 插件` | 中 | 用AI批量做单点Mac小工具，Reddit发帖卖$4.99。 | [🔗 来源](https://www.reddit.com/r/passive_income/comments/1wvvuzm/i_made_280_selling_onebutton_mac_apps_for_499_no/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
-| **⭐️ 7/10** | **Whop vs Stripe for payment processing in 2026** | `跨境电商与出海独立站工具` | 中 | 为独立站卖家做Stripe防封体检与多通道支付容灾切换 | [🔗 来源](https://www.reddit.com/r/ecommerce/comments/1wvx907/whop_vs_stripe_for_payment_processing_in_2026/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 
 ---
 
@@ -80,6 +80,7 @@
 ### 🏷️ 极窄场景的 Micro-AI 插件
 - **[评分: 8/10]** [Famulor](https://www.producthunt.com/products/famulor-telephony-ai) — 给本地商家搭AI电话+WhatsApp跟进客服，按月收费（门槛: 中）
 - **[评分: 8/10]** [Communicate](https://www.producthunt.com/products/communicate) — 垂直行业AI客服代理，知识库+人工接管月费变现（门槛: 中）
+- **[评分: 7/10]** [e-ink.me 更新：目录页一键生成整本 EPUB、内置 Send to Kindle、EPUB 整本转有声书](https://www.v2ex.com/t/1246201) — 网页目录批量转EPUB+有声书，按章节积分变现（门槛: 中）
 - **[评分: 7/10]** [I built a testing tool that talks to your AI phone bot so you don't have to](https://www.reddit.com/r/SaaS/comments/1ww01by/i_built_a_testing_tool_that_talks_to_your_ai/) — 自动拨测语音AI智能体，按订阅收测试费（门槛: 中）
 - **[评分: 7/10]** [I made $280 selling one-button Mac apps for $4.99. No ads, just Reddit.](https://www.reddit.com/r/passive_income/comments/1wvvuzm/i_made_280_selling_onebutton_mac_apps_for_499_no/) — 用AI批量做单点Mac小工具，Reddit发帖卖$4.99。（门槛: 中）
 - **[评分: 7/10]** [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) — 给 AI 编程代理做省 token 代理，按月订阅收租（门槛: 低）
@@ -99,12 +100,11 @@
 - **[评分: 7/10]** [$3K5 MRR in 1 month how would you scale this to $100K MRR?](https://www.reddit.com/r/SaaS/comments/1wvryxj/3k5_mrr_in_1_month_how_would_you_scale_this_to/) — AI生成游戏订阅SaaS，靠用户创作付费。（门槛: 中）
 - **[评分: 7/10]** [2 years from consultant to SaaS founder: what changed when I stopped selling my time](https://www.reddit.com/r/SaaS/comments/1wvo3lg/2_years_from_consultant_to_saas_founder_what/) — 把重复咨询话术做成订阅制垂直数字工作流（门槛: 中）
 
-### 🏷️ 视频与动效代交付
-- **[评分: 7/10]** [Faceless ways to make money in 2026?](https://www.reddit.com/r/passive_income/comments/1wvn0jf/faceless_ways_to_make_money_in_2026/) — AI 声音+模板批量代做不露脸 UGC 视频（门槛: 低）
-- **[评分: 7/10]** [WeftCut](https://www.producthunt.com/products/weftcut) — 用 AI Agent 驱动开源剪辑器，批量代交付 UGC 与演示视频（门槛: 低）
-
 ### 🏷️ 非对称套利与增长黑客
 - **[评分: 7/10]** [我说一句，中转站降智的都是撒流氓，全网首家主打包不降智的源头中转站，实时监测降智情况，倍率低至 0.1x，主打稳如老狗。](https://www.v2ex.com/t/1246088) — 搭建不降智API中转站，低价算力转卖套利（门槛: 中）
+
+### 🏷️ 视频与动效代交付
+- **[评分: 7/10]** [Faceless ways to make money in 2026?](https://www.reddit.com/r/passive_income/comments/1wvn0jf/faceless_ways_to_make_money_in_2026/) — AI 声音+模板批量代做不露脸 UGC 视频（门槛: 低）
 
 ### 🏷️ 视频与动效代交付（AI 轻资产外包与 Micro-SaaS）
 - **[评分: 7/10]** [Got an app or store idea? We’ll build the first version for you for free](https://www.reddit.com/r/SaaS/comments/1wvp54f/got_an_app_or_store_idea_well_build_the_first/) — 用 AI 三天交付他人 MVP，收 $500-$2000 代建费（门槛: 中）
