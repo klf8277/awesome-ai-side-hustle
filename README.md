@@ -72,6 +72,7 @@
 
 ### 🏷️ ⚡ 非对称套利与增长黑客
 - **[评分: 8/10]** [Ontario/Alberta only](https://www.reddit.com/r/passive_income/comments/1wxhd6m/ontarioalberta_only/) — 博彩App注册奖金清单，每日打卡周赚50刀（门槛: 低）
+- **[评分: 7/10]** [promptql 注册送 150 刀额度，可用 Fable-5.1 Opus-5.5 和 Astra 模型](https://www.nodeseek.com/post-964842-1) — 注册白嫖150刀高级模型额度，零成本跑AI产品（门槛: 低）
 - **[评分: 7/10]** [紧跟时事，腾讯版muse（LightVela）,现在注册白嫖一个月](https://www.nodeseek.com/post-964832-1) — 白嫖腾讯 2C8G 云电脑一个月，邀请返双倍积分套利（门槛: 低）
 - **[评分: 7/10]** [继续推特 X Premium X会员 3个月/23元 半年/45元](https://www.nodeseek.com/post-964809-1) — 孟加拉区 X 会员接口漏洞低价代开套利（门槛: 中）
 - **[评分: 7/10]** [今天 （白嫖）注册了一个 nameou.com 域名，但是鸡腿只有 5 个](https://www.nodeseek.com/post-964806-1) — 白嫖永久免费域名，零成本囤建站刚需耗材（门槛: 低）
@@ -96,7 +97,6 @@
 ### 🏷️ 跨境电商与出海独立站工具
 - **[评分: 8/10]** [Bootstrapping to €600k MRR and getting killed by Shopify: Checkout X](https://www.leteyski.com/bootstrapping-to-600k-mrr-and-getting-killed-by-shopify-the-story-of-checkout-x) — 独立站结账优化插件，€600k MRR 验证刚需（门槛: 高）
 - **[评分: 7/10]** [How do you check competitor prices on other Shopify stores?](https://www.reddit.com/r/shopify/comments/1wxiaxx/how_do_you_check_competitor_prices_on_other/) — 轻量竞品价格库存监控，替代笨重调价App（门槛: 低）
-- **[评分: 7/10]** [Am I doing something wrong?](https://www.reddit.com/r/shopify/comments/1wx14du/am_i_doing_something_wrong/) — Shopify移动端打单受阻，做一键批量出单比价插件（门槛: 低）
 
 ### 🏷️ 视频与动效代交付
 - **[评分: 7/10]** [Product videos are harder than they look](https://www.reddit.com/r/SaaS/comments/1wxa29c/product_videos_are_harder_than_they_look/) — AI 帮 SaaS 做 30 秒产品演示视频代交付（门槛: 低）
