@@ -61,6 +61,7 @@
 - **[评分: 8/10]** [Ask HN: How do I manage the profit of a successful website?](https://news.ycombinator.com/item?id=29779944) — 单人订阅站月入$45k，利润处置与税务优化是付费买点（门槛: 中）
 - **[评分: 8/10]** [Show HN: After 2.5 years on my side project, it has hit £500/month revenue](https://news.ycombinator.com/item?id=25372464) — 音频私密分享SaaS，替代Bandcamp/SoundCloud的细分付费工具（门槛: 中）
 - **[评分: 8/10]** [Ask HN: Is it okay to just bootstrap it, even when VCs are knocking?](https://news.ycombinator.com/item?id=32746741) — 单人 bootstrap SaaS 做到 15K MRR 的订阅变现样本（门槛: 中）
+- **[评分: 7/10]** [Show HN: Build with Python – a beginner course where your code draws](https://scimigo.com/en/learn/build-with-python/01-draw-with-python) — 浏览器可视化编程课，免费引流+49美元进阶实验包（门槛: 中）
 - **[评分: 7/10]** [Kanban Email. Why has no one done this?](https://www.reddit.com/r/SaaS/comments/1wxl72e/kanban_email_why_has_no_one_done_this/) — 把邮件变成看板卡片的 GTD 工具，替代已停服的 Flow-e（门槛: 中）
 - **[评分: 7/10]** [I stopped trying to make my fitness app perfect and got my first paying customers](https://www.reddit.com/r/SideProject/comments/1wxniz8/i_stopped_trying_to_make_my_fitness_app_perfect/) — AI 按目标生成训练计划的订阅制健身小站（门槛: 低）
 - **[评分: 7/10]** [Show HN: Build with Python – a beginner course where your code draws](https://scimigo.com/en/learn/build-with-python/01-draw-with-python) — 浏览器内画图学 Python，进阶实验一次收 49 美元（门槛: 中）
@@ -96,7 +97,6 @@
 - **[评分: 8/10]** [Bootstrapping to €600k MRR and getting killed by Shopify: Checkout X](https://www.leteyski.com/bootstrapping-to-600k-mrr-and-getting-killed-by-shopify-the-story-of-checkout-x) — 独立站结账优化插件，€600k MRR 验证刚需（门槛: 高）
 - **[评分: 7/10]** [How do you check competitor prices on other Shopify stores?](https://www.reddit.com/r/shopify/comments/1wxiaxx/how_do_you_check_competitor_prices_on_other/) — 轻量竞品价格库存监控，替代笨重调价App（门槛: 低）
 - **[评分: 7/10]** [Am I doing something wrong?](https://www.reddit.com/r/shopify/comments/1wx14du/am_i_doing_something_wrong/) — Shopify移动端打单受阻，做一键批量出单比价插件（门槛: 低）
-- **[评分: 7/10]** [Best country to register a tech startup as a non resident? I will not promote](https://www.reddit.com/r/startups/comments/1wv3blx/best_country_to_register_a_tech_startup_as_a_non/) — 非居民公司注册与DUNS申办代办服务（门槛: 中）
 
 ### 🏷️ 视频与动效代交付
 - **[评分: 7/10]** [Product videos are harder than they look](https://www.reddit.com/r/SaaS/comments/1wxa29c/product_videos_are_harder_than_they_look/) — AI 帮 SaaS 做 30 秒产品演示视频代交付（门槛: 低）
