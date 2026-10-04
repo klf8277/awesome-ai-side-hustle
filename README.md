@@ -39,30 +39,17 @@
 | **⭐️ 8/10** | **Panniantong/Agent-Reach** | `B2B 高客单数据抓取与精准名单` | 中 | 零 API 费抓取社媒，一键交付海外精准潜客名单 | [🔗 来源](https://github.com/Panniantong/Agent-Reach) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 8/10** | **Famulor** | `极窄场景的 Micro-AI 插件` | 中 | 给本地商家搭AI电话+WhatsApp跟进客服，按月收费 | [🔗 来源](https://www.producthunt.com/products/famulor-telephony-ai) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 8/10** | **Communicate** | `极窄场景的 Micro-AI 插件` | 中 | 垂直行业AI客服代理，知识库+人工接管月费变现 | [🔗 来源](https://www.producthunt.com/products/communicate) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
+| **⭐️ 7/10** | **Agent Job Boards: Payroll Gap, Wallet Lockout, Human Sign-Off** | `⚡ 非对称套利与增长黑客` | 中 | 给 AI Agent 接单做收款通道与钱包容灾 | [🔗 来源](https://trends.vc/agent-job-boards-payroll-gap-wallet-lockout-human-sign-off/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 7/10** | **Launch HN: Speko (YC S26) – OpenRouter for Voice AI** | `极窄场景的 Micro-AI 插件` | 高 | 语音AI路由层：按成本/延迟自动切换最优STT+LLM+TTS组合 | [🔗 来源](https://speko.ai/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 7/10** | **Am I doing something wrong?** | `跨境电商与出海独立站工具` | 低 | Shopify移动端打单受阻，做一键批量出单比价插件 | [🔗 来源](https://www.reddit.com/r/shopify/comments/1wx14du/am_i_doing_something_wrong/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 7/10** | **How to hack time, with C2PA** | `⚡ 非对称套利与增长黑客` | 中 | 白嫖C2PA签名服务，免费获取可信时间戳套利。 | [🔗 来源](https://www.da.vidbuchanan.co.uk/blog/hacking-time.html) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 7/10** | **Best country to register a tech startup as a non resident? I will not promote** | `跨境电商与出海独立站工具` | 中 | 非居民公司注册与DUNS申办代办服务 | [🔗 来源](https://www.reddit.com/r/startups/comments/1wv3blx/best_country_to_register_a_tech_startup_as_a_non/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 7/10** | **Product Recalls** | `跨境电商与出海独立站工具` | 低 | CPSC召回监控告警，按ASIN订阅防下架罚款 | [🔗 来源](https://www.reddit.com/r/passive_income/comments/1wwy5b9/product_recalls/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 7/10** | **How do e-commerce teams trace wrong product information in AI search?** | `跨境电商与出海独立站工具` | 低 | 监控AI搜索错播商品信息并溯源，按SKU订阅收费 | [🔗 来源](https://www.reddit.com/r/ecommerce/comments/1wwxjhy/how_do_ecommerce_teams_trace_wrong_product/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
-| **⭐️ 7/10** | **What it actually takes to get API access to post videos on YouTube, TikTok, Instagram, LinkedIn and others (notes from doing all of them)** | `视频与动效代交付` | 中 | 多平台视频发布API审批通关手册，可做成统一一键分发Micro-SaaS | [🔗 来源](https://www.reddit.com/r/SaaS/comments/1www928/what_it_actually_takes_to_get_api_access_to_post/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 
 ---
 
 ## 📚 垂直赛道分类商机库 (Categories)
-
-### 🏷️ 跨境电商与出海独立站工具
-- **[评分: 7/10]** [Am I doing something wrong?](https://www.reddit.com/r/shopify/comments/1wx14du/am_i_doing_something_wrong/) — Shopify移动端打单受阻，做一键批量出单比价插件（门槛: 低）
-- **[评分: 7/10]** [Best country to register a tech startup as a non resident? I will not promote](https://www.reddit.com/r/startups/comments/1wv3blx/best_country_to_register_a_tech_startup_as_a_non/) — 非居民公司注册与DUNS申办代办服务（门槛: 中）
-- **[评分: 7/10]** [Product Recalls](https://www.reddit.com/r/passive_income/comments/1wwy5b9/product_recalls/) — CPSC召回监控告警，按ASIN订阅防下架罚款（门槛: 低）
-- **[评分: 7/10]** [How do e-commerce teams trace wrong product information in AI search?](https://www.reddit.com/r/ecommerce/comments/1wwxjhy/how_do_ecommerce_teams_trace_wrong_product/) — 监控AI搜索错播商品信息并溯源，按SKU订阅收费（门槛: 低）
-- **[评分: 7/10]** [(Migrated to shopify from wordpress) how do i bulk remove all the background from product images?](https://www.reddit.com/r/shopify/comments/1wwvsxw/migrated_to_shopify_from_wordpress_how_do_i_bulk/) — Shopify商品图批量去背景+主题配色自适应插件（门槛: 低）
-- **[评分: 7/10]** [Payment gateway](https://www.reddit.com/r/passive_income/comments/1wwiths/payment_gateway/) — 埃及等新兴市场USD收款+Settlement支付通道代办与路由工具（门槛: 中）
-- **[评分: 7/10]** [I read 123 negative reviews of Shopify's top order-tracking apps. Here are 4 problems nobody is fixing.](https://www.reddit.com/r/SaaS/comments/1wwie0j/i_read_123_negative_reviews_of_shopifys_top/) — 拆解Shopify差评做订单跟踪插件，订阅收钱（门槛: 低）
-- **[评分: 7/10]** [Best app that allows gwp tiers and choices](https://www.reddit.com/r/shopify/comments/1ww6utf/best_app_that_allows_gwp_tiers_and_choices/) — Shopify满额阶梯赠品自选插件，月费订阅变现（门槛: 中）
-- **[评分: 7/10]** [my shopify store is embarrassingly slow and i don't know what else to try](https://www.reddit.com/r/ecommerce/comments/1wvztfq/my_shopify_store_is_embarrassingly_slow_and_i/) — 为Shopify卖家做移动端速度诊断与优化订阅（门槛: 中）
-- **[评分: 7/10]** [Whop vs Stripe for payment processing in 2026](https://www.reddit.com/r/ecommerce/comments/1wvx907/whop_vs_stripe_for_payment_processing_in_2026/) — 为独立站卖家做Stripe防封体检与多通道支付容灾切换（门槛: 中）
-- **[评分: 7/10]** [Muse/meta agentique](https://www.reddit.com/r/shopify/comments/1wudccr/musemeta_agentique/) — 追踪AI代理流量与归因的Shopify插件（门槛: 中）
 
 ### 🏷️ 极窄场景的 Micro-AI 插件
 - **[评分: 8/10]** [Famulor](https://www.producthunt.com/products/famulor-telephony-ai) — 给本地商家搭AI电话+WhatsApp跟进客服，按月收费（门槛: 中）
@@ -77,6 +64,7 @@
 - **[评分: 7/10]** [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) — 给 AI 编程代理做省 token 代理，按月订阅收租（门槛: 低）
 
 ### 🏷️ ⚡ 非对称套利与增长黑客
+- **[评分: 7/10]** [Agent Job Boards: Payroll Gap, Wallet Lockout, Human Sign-Off](https://trends.vc/agent-job-boards-payroll-gap-wallet-lockout-human-sign-off/) — 给 AI Agent 接单做收款通道与钱包容灾（门槛: 中）
 - **[评分: 7/10]** [How to hack time, with C2PA](https://www.da.vidbuchanan.co.uk/blog/hacking-time.html) — 白嫖C2PA签名服务，免费获取可信时间戳套利。（门槛: 中）
 - **[评分: 7/10]** [One Line, 25M Revenue](https://huntersoftwareconsulting.com/posts/2026-10-02-one-line-25m/) — 一行代码撬动 $25M 营收的增长黑客案例（门槛: 低）
 - **[评分: 7/10]** [【免费Token/API放水】 Create logo.png](https://github.com/chatanywhere/GPT_API_free/commit/3d5349d9c05f6c0a10456bacdf4faf45f0d66a34) — 白嫖免费GPT接口，零算力成本封装AI工具变现（门槛: 低）
@@ -86,6 +74,18 @@
 - **[评分: 7/10]** [【免费Token/API放水】 Update README.md to enhance model support details and pricing informa…](https://github.com/chatanywhere/GPT_API_free/commit/cacfadc783ce2c1e63341a7bf7b48f016367b3d8) — 免费GPT Token通道，套壳转售或自用降本套利（门槛: 低）
 - **[评分: 7/10]** [GCP300放水了](https://www.nodeseek.com/post-308701-1) — 利用GCP300放水零成本囤云算力做AI套利（门槛: 中）
 - **[评分: 7/10]** [Can You SEO Your Way into an AI Agent's Recommendation?](https://www.joe-shirey.com/2026/10/02/seo-for-ai-agents.html) — 帮品牌抢占AI助手推荐位的GEO代运营（门槛: 中）
+
+### 🏷️ 跨境电商与出海独立站工具
+- **[评分: 7/10]** [Am I doing something wrong?](https://www.reddit.com/r/shopify/comments/1wx14du/am_i_doing_something_wrong/) — Shopify移动端打单受阻，做一键批量出单比价插件（门槛: 低）
+- **[评分: 7/10]** [Best country to register a tech startup as a non resident? I will not promote](https://www.reddit.com/r/startups/comments/1wv3blx/best_country_to_register_a_tech_startup_as_a_non/) — 非居民公司注册与DUNS申办代办服务（门槛: 中）
+- **[评分: 7/10]** [Product Recalls](https://www.reddit.com/r/passive_income/comments/1wwy5b9/product_recalls/) — CPSC召回监控告警，按ASIN订阅防下架罚款（门槛: 低）
+- **[评分: 7/10]** [How do e-commerce teams trace wrong product information in AI search?](https://www.reddit.com/r/ecommerce/comments/1wwxjhy/how_do_ecommerce_teams_trace_wrong_product/) — 监控AI搜索错播商品信息并溯源，按SKU订阅收费（门槛: 低）
+- **[评分: 7/10]** [(Migrated to shopify from wordpress) how do i bulk remove all the background from product images?](https://www.reddit.com/r/shopify/comments/1wwvsxw/migrated_to_shopify_from_wordpress_how_do_i_bulk/) — Shopify商品图批量去背景+主题配色自适应插件（门槛: 低）
+- **[评分: 7/10]** [Payment gateway](https://www.reddit.com/r/passive_income/comments/1wwiths/payment_gateway/) — 埃及等新兴市场USD收款+Settlement支付通道代办与路由工具（门槛: 中）
+- **[评分: 7/10]** [I read 123 negative reviews of Shopify's top order-tracking apps. Here are 4 problems nobody is fixing.](https://www.reddit.com/r/SaaS/comments/1wwie0j/i_read_123_negative_reviews_of_shopifys_top/) — 拆解Shopify差评做订单跟踪插件，订阅收钱（门槛: 低）
+- **[评分: 7/10]** [Best app that allows gwp tiers and choices](https://www.reddit.com/r/shopify/comments/1ww6utf/best_app_that_allows_gwp_tiers_and_choices/) — Shopify满额阶梯赠品自选插件，月费订阅变现（门槛: 中）
+- **[评分: 7/10]** [my shopify store is embarrassingly slow and i don't know what else to try](https://www.reddit.com/r/ecommerce/comments/1wvztfq/my_shopify_store_is_embarrassingly_slow_and_i/) — 为Shopify卖家做移动端速度诊断与优化订阅（门槛: 中）
+- **[评分: 7/10]** [Whop vs Stripe for payment processing in 2026](https://www.reddit.com/r/ecommerce/comments/1wvx907/whop_vs_stripe_for_payment_processing_in_2026/) — 为独立站卖家做Stripe防封体检与多通道支付容灾切换（门槛: 中）
 
 ### 🏷️ B2B 高客单数据抓取与精准名单
 - **[评分: 8/10]** [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) — 零 API 费抓取社媒，一键交付海外精准潜客名单（门槛: 中）
