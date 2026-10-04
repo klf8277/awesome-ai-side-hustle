@@ -72,12 +72,12 @@
 
 ### 🏷️ ⚡ 非对称套利与增长黑客
 - **[评分: 8/10]** [Ontario/Alberta only](https://www.reddit.com/r/passive_income/comments/1wxhd6m/ontarioalberta_only/) — 博彩App注册奖金清单，每日打卡周赚50刀（门槛: 低）
+- **[评分: 7/10]** [紧跟时事，腾讯版muse（LightVela）,现在注册白嫖一个月](https://www.nodeseek.com/post-964832-1) — 白嫖腾讯 2C8G 云电脑一个月，邀请返双倍积分套利（门槛: 低）
 - **[评分: 7/10]** [继续推特 X Premium X会员 3个月/23元 半年/45元](https://www.nodeseek.com/post-964809-1) — 孟加拉区 X 会员接口漏洞低价代开套利（门槛: 中）
 - **[评分: 7/10]** [今天 （白嫖）注册了一个 nameou.com 域名，但是鸡腿只有 5 个](https://www.nodeseek.com/post-964806-1) — 白嫖永久免费域名，零成本囤建站刚需耗材（门槛: 低）
 - **[评分: 7/10]** [claude 的 100 刀在苹果商店要加 24 刀税,如何避免?](https://www.v2ex.com/t/1246350) — 帮 AI 订阅用户绕开苹果 24% 抽税的低价充值通道（门槛: 低）
 - **[评分: 7/10]** [实测， 6.1sol 不降智真的太能打了，我感觉不比 6astra 差，但是价格只有 5 分之一，一天下来十来块钱随便蹬，真的不要太爽了。](https://www.v2ex.com/t/1246355) — 低价满血大模型 API 中转，倍率 0.19 起送测试额度（门槛: 中）
 - **[评分: 7/10]** [Agent Job Boards: Payroll Gap, Wallet Lockout, Human Sign-Off](https://trends.vc/agent-job-boards-payroll-gap-wallet-lockout-human-sign-off/) — 给 AI Agent 接单做收款通道与钱包容灾（门槛: 中）
-- **[评分: 7/10]** [How to hack time, with C2PA](https://www.da.vidbuchanan.co.uk/blog/hacking-time.html) — 白嫖C2PA签名服务，免费获取可信时间戳套利。（门槛: 中）
 
 ### 🏷️ 极窄场景的 Micro-AI 插件
 - **[评分: 8/10]** [Famulor](https://www.producthunt.com/products/famulor-telephony-ai) — 给本地商家搭AI电话+WhatsApp跟进客服，按月收费（门槛: 中）
