@@ -39,19 +39,20 @@
 | **⭐️ 8/10** | **Panniantong/Agent-Reach** | `B2B 高客单数据抓取与精准名单` | 中 | 零 API 费抓取社媒，一键交付海外精准潜客名单 | [🔗 来源](https://github.com/Panniantong/Agent-Reach) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 8/10** | **Famulor** | `极窄场景的 Micro-AI 插件` | 中 | 给本地商家搭AI电话+WhatsApp跟进客服，按月收费 | [🔗 来源](https://www.producthunt.com/products/famulor-telephony-ai) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 8/10** | **Communicate** | `极窄场景的 Micro-AI 插件` | 中 | 垂直行业AI客服代理，知识库+人工接管月费变现 | [🔗 来源](https://www.producthunt.com/products/communicate) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
+| **⭐️ 7/10** | **Am I doing something wrong?** | `跨境电商与出海独立站工具` | 低 | Shopify移动端打单受阻，做一键批量出单比价插件 | [🔗 来源](https://www.reddit.com/r/shopify/comments/1wx14du/am_i_doing_something_wrong/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 7/10** | **How to hack time, with C2PA** | `⚡ 非对称套利与增长黑客` | 中 | 白嫖C2PA签名服务，免费获取可信时间戳套利。 | [🔗 来源](https://www.da.vidbuchanan.co.uk/blog/hacking-time.html) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 7/10** | **Best country to register a tech startup as a non resident? I will not promote** | `跨境电商与出海独立站工具` | 中 | 非居民公司注册与DUNS申办代办服务 | [🔗 来源](https://www.reddit.com/r/startups/comments/1wv3blx/best_country_to_register_a_tech_startup_as_a_non/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 7/10** | **Product Recalls** | `跨境电商与出海独立站工具` | 低 | CPSC召回监控告警，按ASIN订阅防下架罚款 | [🔗 来源](https://www.reddit.com/r/passive_income/comments/1wwy5b9/product_recalls/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 7/10** | **How do e-commerce teams trace wrong product information in AI search?** | `跨境电商与出海独立站工具` | 低 | 监控AI搜索错播商品信息并溯源，按SKU订阅收费 | [🔗 来源](https://www.reddit.com/r/ecommerce/comments/1wwxjhy/how_do_ecommerce_teams_trace_wrong_product/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 7/10** | **What it actually takes to get API access to post videos on YouTube, TikTok, Instagram, LinkedIn and others (notes from doing all of them)** | `视频与动效代交付` | 中 | 多平台视频发布API审批通关手册，可做成统一一键分发Micro-SaaS | [🔗 来源](https://www.reddit.com/r/SaaS/comments/1www928/what_it_actually_takes_to_get_api_access_to_post/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 7/10** | **(Migrated to shopify from wordpress) how do i bulk remove all the background from product images?** | `跨境电商与出海独立站工具` | 低 | Shopify商品图批量去背景+主题配色自适应插件 | [🔗 来源](https://www.reddit.com/r/shopify/comments/1wwvsxw/migrated_to_shopify_from_wordpress_how_do_i_bulk/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
-| **⭐️ 7/10** | **Show HN: [Open-source] Sign JSON and send it as a business document** | `极窄场景的 Micro-AI 插件` | 中 | 签JSON替代贸易PDF，赚单据解析提效钱 | [🔗 来源](https://json-doc.com/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 
 ---
 
 ## 📚 垂直赛道分类商机库 (Categories)
 
 ### 🏷️ 跨境电商与出海独立站工具
+- **[评分: 7/10]** [Am I doing something wrong?](https://www.reddit.com/r/shopify/comments/1wx14du/am_i_doing_something_wrong/) — Shopify移动端打单受阻，做一键批量出单比价插件（门槛: 低）
 - **[评分: 7/10]** [Best country to register a tech startup as a non resident? I will not promote](https://www.reddit.com/r/startups/comments/1wv3blx/best_country_to_register_a_tech_startup_as_a_non/) — 非居民公司注册与DUNS申办代办服务（门槛: 中）
 - **[评分: 7/10]** [Product Recalls](https://www.reddit.com/r/passive_income/comments/1wwy5b9/product_recalls/) — CPSC召回监控告警，按ASIN订阅防下架罚款（门槛: 低）
 - **[评分: 7/10]** [How do e-commerce teams trace wrong product information in AI search?](https://www.reddit.com/r/ecommerce/comments/1wwxjhy/how_do_ecommerce_teams_trace_wrong_product/) — 监控AI搜索错播商品信息并溯源，按SKU订阅收费（门槛: 低）
@@ -90,7 +91,6 @@
 - **[评分: 8/10]** [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) — 零 API 费抓取社媒，一键交付海外精准潜客名单（门槛: 中）
 - **[评分: 7/10]** [HOA Spy – free, open-source public records on every US HOA (liens & lawsuits)](https://www.reddit.com/r/SideProject/comments/1wwsmty/hoa_spy_free_opensource_public_records_on_every/) — HOA 留置权诉讼数据转为付费尽调报告（门槛: 低）
 - **[评分: 7/10]** [Built a data API that finds restaurants before they open, and it works, but I can't crack distribution. How would you do it?](https://www.reddit.com/r/SaaS/comments/1wwg9fp/built_a_data_api_that_finds_restaurants_before/) — 提前半年锁定未开业餐厅，向餐饮供应链卖高价线索（门槛: 中）
-- **[评分: 7/10]** [Scrapping social media for fashion trends- legal?](https://www.reddit.com/r/SaaS/comments/1wvp6wh/scrapping_social_media_for_fashion_trends_legal/) — 收集公开社媒图像，AI识别时尚趋势，向品牌卖报告（门槛: 中）
 
 ### 🏷️ 视频与动效代交付
 - **[评分: 7/10]** [What it actually takes to get API access to post videos on YouTube, TikTok, Instagram, LinkedIn and others (notes from doing all of them)](https://www.reddit.com/r/SaaS/comments/1www928/what_it_actually_takes_to_get_api_access_to_post/) — 多平台视频发布API审批通关手册，可做成统一一键分发Micro-SaaS（门槛: 中）
