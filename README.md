@@ -61,20 +61,11 @@
 - **[评分: 8/10]** [Ask HN: How do I manage the profit of a successful website?](https://news.ycombinator.com/item?id=29779944) — 单人订阅站月入$45k，利润处置与税务优化是付费买点（门槛: 中）
 - **[评分: 8/10]** [Show HN: After 2.5 years on my side project, it has hit £500/month revenue](https://news.ycombinator.com/item?id=25372464) — 音频私密分享SaaS，替代Bandcamp/SoundCloud的细分付费工具（门槛: 中）
 - **[评分: 8/10]** [Ask HN: Is it okay to just bootstrap it, even when VCs are knocking?](https://news.ycombinator.com/item?id=32746741) — 单人 bootstrap SaaS 做到 15K MRR 的订阅变现样本（门槛: 中）
+- **[评分: 7/10]** [Show HN: Build with Python – a beginner course where your code draws](https://scimigo.com/en/learn/build-with-python/01-draw-with-python) — 浏览器内画图学 Python，进阶实验一次收 49 美元（门槛: 中）
 - **[评分: 7/10]** [Is there a side project that can manage all the side projects and your time?](https://www.reddit.com/r/SideProject/comments/1wxh8mp/is_there_a_side_project_that_can_manage_all_the/) — 给多副业人群的轻量项目+时间优先级统管工具（门槛: 低）
 - **[评分: 7/10]** [I built an iPhone dictionary that helps you remember the words you look up](https://www.reddit.com/r/SideProject/comments/1wxiu55/i_built_an_iphone_dictionary_that_helps_you/) — 查词即记忆的订阅制词典，靠锁屏复习与阅读模式收月费（门槛: 中）
 - **[评分: 7/10]** [My first SaaS took 9 months and 4k in ad spent and never made a penny. Here's what my second made in 4 weeks, and everything I learned.](https://www.reddit.com/r/SaaS/comments/1wxabzn/my_first_saas_took_9_months_and_4k_in_ad_spent/) — 把 SaaS 从 0 到首笔收入的踩坑复盘做成付费陪跑（门槛: 低）
 - **[评分: 7/10]** [Ask HN: Anyone making a living from a paid API?](https://news.ycombinator.com/item?id=44144473) — 垂直场景API订阅，按月收租的被动收入（门槛: 中）
-
-### 🏷️ 跨境电商与出海独立站工具
-- **[评分: 8/10]** [Bootstrapping to €600k MRR and getting killed by Shopify: Checkout X](https://www.leteyski.com/bootstrapping-to-600k-mrr-and-getting-killed-by-shopify-the-story-of-checkout-x) — 独立站结账优化插件，€600k MRR 验证刚需（门槛: 高）
-- **[评分: 7/10]** [How do you check competitor prices on other Shopify stores?](https://www.reddit.com/r/shopify/comments/1wxiaxx/how_do_you_check_competitor_prices_on_other/) — 轻量竞品价格库存监控，替代笨重调价App（门槛: 低）
-- **[评分: 7/10]** [Am I doing something wrong?](https://www.reddit.com/r/shopify/comments/1wx14du/am_i_doing_something_wrong/) — Shopify移动端打单受阻，做一键批量出单比价插件（门槛: 低）
-- **[评分: 7/10]** [Best country to register a tech startup as a non resident? I will not promote](https://www.reddit.com/r/startups/comments/1wv3blx/best_country_to_register_a_tech_startup_as_a_non/) — 非居民公司注册与DUNS申办代办服务（门槛: 中）
-- **[评分: 7/10]** [Product Recalls](https://www.reddit.com/r/passive_income/comments/1wwy5b9/product_recalls/) — CPSC召回监控告警，按ASIN订阅防下架罚款（门槛: 低）
-- **[评分: 7/10]** [How do e-commerce teams trace wrong product information in AI search?](https://www.reddit.com/r/ecommerce/comments/1wwxjhy/how_do_ecommerce_teams_trace_wrong_product/) — 监控AI搜索错播商品信息并溯源，按SKU订阅收费（门槛: 低）
-- **[评分: 7/10]** [(Migrated to shopify from wordpress) how do i bulk remove all the background from product images?](https://www.reddit.com/r/shopify/comments/1wwvsxw/migrated_to_shopify_from_wordpress_how_do_i_bulk/) — Shopify商品图批量去背景+主题配色自适应插件（门槛: 低）
-- **[评分: 7/10]** [Payment gateway](https://www.reddit.com/r/passive_income/comments/1wwiths/payment_gateway/) — 埃及等新兴市场USD收款+Settlement支付通道代办与路由工具（门槛: 中）
 
 ### 🏷️ 极窄场景的 Micro-AI 插件
 - **[评分: 8/10]** [Famulor](https://www.producthunt.com/products/famulor-telephony-ai) — 给本地商家搭AI电话+WhatsApp跟进客服，按月收费（门槛: 中）
@@ -85,6 +76,15 @@
 - **[评分: 7/10]** [Show HN: [Open-source] Sign JSON and send it as a business document](https://json-doc.com/) — 签JSON替代贸易PDF，赚单据解析提效钱（门槛: 中）
 - **[评分: 7/10]** [The easy tickets answer fine. The handoff is where my setup breaks.](https://www.reddit.com/r/SaaS/comments/1wwudrg/the_easy_tickets_answer_fine_the_handoff_is_where/) — AI转人工上下文接力层，做客服交接的会话记忆中间件（门槛: 低）
 - **[评分: 7/10]** [Thinking about building a tool that shows which Reddit threads AI cites in your niche. Is this a real problem?](https://www.reddit.com/r/SaaS/comments/1wwnzo6/thinking_about_building_a_tool_that_shows_which/) — 看AI在垂直赛道引用了哪些Reddit帖的GEO溯源Micro-SaaS（门槛: 低）
+
+### 🏷️ 跨境电商与出海独立站工具
+- **[评分: 8/10]** [Bootstrapping to €600k MRR and getting killed by Shopify: Checkout X](https://www.leteyski.com/bootstrapping-to-600k-mrr-and-getting-killed-by-shopify-the-story-of-checkout-x) — 独立站结账优化插件，€600k MRR 验证刚需（门槛: 高）
+- **[评分: 7/10]** [How do you check competitor prices on other Shopify stores?](https://www.reddit.com/r/shopify/comments/1wxiaxx/how_do_you_check_competitor_prices_on_other/) — 轻量竞品价格库存监控，替代笨重调价App（门槛: 低）
+- **[评分: 7/10]** [Am I doing something wrong?](https://www.reddit.com/r/shopify/comments/1wx14du/am_i_doing_something_wrong/) — Shopify移动端打单受阻，做一键批量出单比价插件（门槛: 低）
+- **[评分: 7/10]** [Best country to register a tech startup as a non resident? I will not promote](https://www.reddit.com/r/startups/comments/1wv3blx/best_country_to_register_a_tech_startup_as_a_non/) — 非居民公司注册与DUNS申办代办服务（门槛: 中）
+- **[评分: 7/10]** [Product Recalls](https://www.reddit.com/r/passive_income/comments/1wwy5b9/product_recalls/) — CPSC召回监控告警，按ASIN订阅防下架罚款（门槛: 低）
+- **[评分: 7/10]** [How do e-commerce teams trace wrong product information in AI search?](https://www.reddit.com/r/ecommerce/comments/1wwxjhy/how_do_ecommerce_teams_trace_wrong_product/) — 监控AI搜索错播商品信息并溯源，按SKU订阅收费（门槛: 低）
+- **[评分: 7/10]** [(Migrated to shopify from wordpress) how do i bulk remove all the background from product images?](https://www.reddit.com/r/shopify/comments/1wwvsxw/migrated_to_shopify_from_wordpress_how_do_i_bulk/) — Shopify商品图批量去背景+主题配色自适应插件（门槛: 低）
 
 ### 🏷️ ⚡ 非对称套利与增长黑客
 - **[评分: 8/10]** [Ontario/Alberta only](https://www.reddit.com/r/passive_income/comments/1wxhd6m/ontarioalberta_only/) — 博彩App注册奖金清单，每日打卡周赚50刀（门槛: 低）
