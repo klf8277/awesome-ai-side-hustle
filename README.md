@@ -39,13 +39,13 @@
 | **⭐️ 8/10** | **Panniantong/Agent-Reach** | `B2B 高客单数据抓取与精准名单` | 中 | 零 API 费抓取社媒，一键交付海外精准潜客名单 | [🔗 来源](https://github.com/Panniantong/Agent-Reach) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 8/10** | **Famulor** | `极窄场景的 Micro-AI 插件` | 中 | 给本地商家搭AI电话+WhatsApp跟进客服，按月收费 | [🔗 来源](https://www.producthunt.com/products/famulor-telephony-ai) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 8/10** | **Communicate** | `极窄场景的 Micro-AI 插件` | 中 | 垂直行业AI客服代理，知识库+人工接管月费变现 | [🔗 来源](https://www.producthunt.com/products/communicate) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
+| **⭐️ 7/10** | **How to hack time, with C2PA** | `⚡ 非对称套利与增长黑客` | 中 | 白嫖C2PA签名服务，免费获取可信时间戳套利。 | [🔗 来源](https://www.da.vidbuchanan.co.uk/blog/hacking-time.html) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 7/10** | **Best country to register a tech startup as a non resident? I will not promote** | `跨境电商与出海独立站工具` | 中 | 非居民公司注册与DUNS申办代办服务 | [🔗 来源](https://www.reddit.com/r/startups/comments/1wv3blx/best_country_to_register_a_tech_startup_as_a_non/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 7/10** | **Product Recalls** | `跨境电商与出海独立站工具` | 低 | CPSC召回监控告警，按ASIN订阅防下架罚款 | [🔗 来源](https://www.reddit.com/r/passive_income/comments/1wwy5b9/product_recalls/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 7/10** | **How do e-commerce teams trace wrong product information in AI search?** | `跨境电商与出海独立站工具` | 低 | 监控AI搜索错播商品信息并溯源，按SKU订阅收费 | [🔗 来源](https://www.reddit.com/r/ecommerce/comments/1wwxjhy/how_do_ecommerce_teams_trace_wrong_product/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 7/10** | **What it actually takes to get API access to post videos on YouTube, TikTok, Instagram, LinkedIn and others (notes from doing all of them)** | `视频与动效代交付` | 中 | 多平台视频发布API审批通关手册，可做成统一一键分发Micro-SaaS | [🔗 来源](https://www.reddit.com/r/SaaS/comments/1www928/what_it_actually_takes_to_get_api_access_to_post/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 7/10** | **(Migrated to shopify from wordpress) how do i bulk remove all the background from product images?** | `跨境电商与出海独立站工具` | 低 | Shopify商品图批量去背景+主题配色自适应插件 | [🔗 来源](https://www.reddit.com/r/shopify/comments/1wwvsxw/migrated_to_shopify_from_wordpress_how_do_i_bulk/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 7/10** | **Show HN: [Open-source] Sign JSON and send it as a business document** | `极窄场景的 Micro-AI 插件` | 中 | 签JSON替代贸易PDF，赚单据解析提效钱 | [🔗 来源](https://json-doc.com/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
-| **⭐️ 7/10** | **The easy tickets answer fine. The handoff is where my setup breaks.** | `极窄场景的 Micro-AI 插件` | 低 | AI转人工上下文接力层，做客服交接的会话记忆中间件 | [🔗 来源](https://www.reddit.com/r/SaaS/comments/1wwudrg/the_easy_tickets_answer_fine_the_handoff_is_where/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 
 ---
 
@@ -63,7 +63,6 @@
 - **[评分: 7/10]** [Whop vs Stripe for payment processing in 2026](https://www.reddit.com/r/ecommerce/comments/1wvx907/whop_vs_stripe_for_payment_processing_in_2026/) — 为独立站卖家做Stripe防封体检与多通道支付容灾切换（门槛: 中）
 - **[评分: 7/10]** [Muse/meta agentique](https://www.reddit.com/r/shopify/comments/1wudccr/musemeta_agentique/) — 追踪AI代理流量与归因的Shopify插件（门槛: 中）
 - **[评分: 7/10]** [High unusual bot traffic](https://www.reddit.com/r/shopify/comments/1wukvvr/high_unusual_bot_traffic/) — 独立站机器人流量清洗插件，按访客计费省钱的刚需工具（门槛: 中）
-- **[评分: 7/10]** [Homepage builder](https://www.reddit.com/r/shopify/comments/1wuq40q/homepage_builder/) — 为 Shopify 卖家代做高转化首页，AI 提效客单 $500+（门槛: 中）
 
 ### 🏷️ 极窄场景的 Micro-AI 插件
 - **[评分: 8/10]** [Famulor](https://www.producthunt.com/products/famulor-telephony-ai) — 给本地商家搭AI电话+WhatsApp跟进客服，按月收费（门槛: 中）
@@ -77,6 +76,7 @@
 - **[评分: 7/10]** [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) — 给 AI 编程代理做省 token 代理，按月订阅收租（门槛: 低）
 
 ### 🏷️ ⚡ 非对称套利与增长黑客
+- **[评分: 7/10]** [How to hack time, with C2PA](https://www.da.vidbuchanan.co.uk/blog/hacking-time.html) — 白嫖C2PA签名服务，免费获取可信时间戳套利。（门槛: 中）
 - **[评分: 7/10]** [One Line, 25M Revenue](https://huntersoftwareconsulting.com/posts/2026-10-02-one-line-25m/) — 一行代码撬动 $25M 营收的增长黑客案例（门槛: 低）
 - **[评分: 7/10]** [【免费Token/API放水】 Create logo.png](https://github.com/chatanywhere/GPT_API_free/commit/3d5349d9c05f6c0a10456bacdf4faf45f0d66a34) — 白嫖免费GPT接口，零算力成本封装AI工具变现（门槛: 低）
 - **[评分: 7/10]** [【免费Token/API放水】 Update README.md](https://github.com/chatanywhere/GPT_API_free/commit/15492201420b98e83ea5b227f89836acb28c7789) — 白嫖免费 API 额度，做零算力成本的套壳与转售套利（门槛: 低）
