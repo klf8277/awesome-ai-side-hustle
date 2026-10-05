@@ -68,10 +68,10 @@
 - **[评分: 7/10]** [Show HN: Build with Python – a beginner course where your code draws](https://scimigo.com/en/learn/build-with-python/01-draw-with-python) — 浏览器内画图学 Python，进阶实验一次收 49 美元（门槛: 中）
 - **[评分: 7/10]** [Is there a side project that can manage all the side projects and your time?](https://www.reddit.com/r/SideProject/comments/1wxh8mp/is_there_a_side_project_that_can_manage_all_the/) — 给多副业人群的轻量项目+时间优先级统管工具（门槛: 低）
 - **[评分: 7/10]** [I built an iPhone dictionary that helps you remember the words you look up](https://www.reddit.com/r/SideProject/comments/1wxiu55/i_built_an_iphone_dictionary_that_helps_you/) — 查词即记忆的订阅制词典，靠锁屏复习与阅读模式收月费（门槛: 中）
-- **[评分: 7/10]** [My first SaaS took 9 months and 4k in ad spent and never made a penny. Here's what my second made in 4 weeks, and everything I learned.](https://www.reddit.com/r/SaaS/comments/1wxabzn/my_first_saas_took_9_months_and_4k_in_ad_spent/) — 把 SaaS 从 0 到首笔收入的踩坑复盘做成付费陪跑（门槛: 低）
 
 ### 🏷️ ⚡ 非对称套利与增长黑客
 - **[评分: 8/10]** [Ontario/Alberta only](https://www.reddit.com/r/passive_income/comments/1wxhd6m/ontarioalberta_only/) — 博彩App注册奖金清单，每日打卡周赚50刀（门槛: 低）
+- **[评分: 7/10]** [我靠，还没用过claude Fable，真是注册就送150$，邀请还能得75$，含AFF](https://www.nodeseek.com/post-965213-1) — AI平台注册送150美元额度，邀请返75美元可套利（门槛: 低）
 - **[评分: 7/10]** [150美刀大羊毛！可以用Claude 模型！](https://www.nodeseek.com/post-965055-1) — 150美元Claude额度免费领，信息差套利窗口（门槛: 低）
 - **[评分: 7/10]** [prompt.ql.app 150＄额度羊毛刚才试了下，秒过！](https://www.nodeseek.com/post-964972-1) — 薅150美元AI额度，注册即到账的放水窗口（门槛: 低）
 - **[评分: 7/10]** [波区claude max20第二次续费成功](https://www.nodeseek.com/post-964853-1) — 低价区订阅+汇率差套利 Claude Max，稳定续费可复制（门槛: 中）
