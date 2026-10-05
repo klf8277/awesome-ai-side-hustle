@@ -37,6 +37,7 @@
 | 评分 | 标杆项目 / 原型 | 赛道 | 门槛 | 商业研判与一句话逻辑 | 原始链接 | 完整研报 |
 |---|---|---|---|---|---|---|
 | **⭐️ 9/10** | **I MADE $927 IN ONE DAY! with my SaaS as a solo founder** | `B2B 高客单数据抓取与精准名单` | 中 | 多域名邮箱矩阵冷邮件外呼，帮 B2B 批量获客 | [🔗 来源](https://www.reddit.com/r/SaaS/comments/1wxk3x2/i_made_927_in_one_day_with_my_saas_as_a_solo/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
+| **⭐️ 8/10** | **I made $5,000 over 2 years from one 10-minute video** | `⚡ 非对称套利与增长黑客` | 低 | 一条视频复制30个长尾词，靠CPL注册每单$3躺赚 | [🔗 来源](https://www.reddit.com/r/passive_income/comments/1wxetby/i_made_5000_over_2_years_from_one_10minute_video/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 8/10** | **I scraped billions of TikTok videos and profiles by reverse engineering the mobile API. Here&#x27;s how it works + source code** | `B2B 高客单数据抓取与精准名单` | 高 | 逆向 TikTok 接口，把爆款趋势与达人名单做成付费数据 API | [🔗 来源](https://www.reddit.com/r/SaaS/comments/1wxoasb/i_scraped_billions_of_tiktok_videos_and_profiles/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 8/10** | **Ontario/Alberta only** | `⚡ 非对称套利与增长黑客` | 低 | 博彩App注册奖金清单，每日打卡周赚50刀 | [🔗 来源](https://www.reddit.com/r/passive_income/comments/1wxhd6m/ontarioalberta_only/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 8/10** | **How deleting my free tier made more in 3 days than it made all year** | `垂直数字资产与全自动工作流模板` | 低 | 付费商业点子数据库，砍免费版即变现 | [🔗 来源](https://www.reddit.com/r/SaaS/comments/1wx8y4w/how_deleting_my_free_tier_made_more_in_3_days/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
@@ -45,7 +46,6 @@
 | **⭐️ 8/10** | **My 2 Year Journey to $10K MRR** | `垂直数字资产与全自动工作流模板` | 中 | API化图片视频自动生成工具，2年做到$10K MRR | [🔗 来源](https://www.bannerbear.com/journey-to-10k-mrr/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 8/10** | **I run multiple $10K MRR companies on a $20/month tech stack** | `垂直数字资产与全自动工作流模板` | 中 | $20 月成本跑出 $10K MRR 的极简技术栈拆解变现 | [🔗 来源](https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 8/10** | **My solopreneur story** | `垂直数字资产与全自动工作流模板` | 中 | 单人从 0 到月入 4.5 万美元的可复制变现路径拆解 | [🔗 来源](https://news.tonydinh.com/p/my-solopreneur-story-zero-to-45kmo) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
-| **⭐️ 8/10** | **Ask HN: How do I manage the profit of a successful website?** | `垂直数字资产与全自动工作流模板` | 中 | 单人订阅站月入$45k，利润处置与税务优化是付费买点 | [🔗 来源](https://news.ycombinator.com/item?id=29779944) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 
 ---
 
@@ -66,10 +66,9 @@
 - **[评分: 7/10]** [Kanban Email. Why has no one done this?](https://www.reddit.com/r/SaaS/comments/1wxl72e/kanban_email_why_has_no_one_done_this/) — 把邮件变成看板卡片的 GTD 工具，替代已停服的 Flow-e（门槛: 中）
 - **[评分: 7/10]** [I stopped trying to make my fitness app perfect and got my first paying customers](https://www.reddit.com/r/SideProject/comments/1wxniz8/i_stopped_trying_to_make_my_fitness_app_perfect/) — AI 按目标生成训练计划的订阅制健身小站（门槛: 低）
 - **[评分: 7/10]** [Show HN: Build with Python – a beginner course where your code draws](https://scimigo.com/en/learn/build-with-python/01-draw-with-python) — 浏览器内画图学 Python，进阶实验一次收 49 美元（门槛: 中）
-- **[评分: 7/10]** [Is there a side project that can manage all the side projects and your time?](https://www.reddit.com/r/SideProject/comments/1wxh8mp/is_there_a_side_project_that_can_manage_all_the/) — 给多副业人群的轻量项目+时间优先级统管工具（门槛: 低）
-- **[评分: 7/10]** [I built an iPhone dictionary that helps you remember the words you look up](https://www.reddit.com/r/SideProject/comments/1wxiu55/i_built_an_iphone_dictionary_that_helps_you/) — 查词即记忆的订阅制词典，靠锁屏复习与阅读模式收月费（门槛: 中）
 
 ### 🏷️ ⚡ 非对称套利与增长黑客
+- **[评分: 8/10]** [I made $5,000 over 2 years from one 10-minute video](https://www.reddit.com/r/passive_income/comments/1wxetby/i_made_5000_over_2_years_from_one_10minute_video/) — 一条视频复制30个长尾词，靠CPL注册每单$3躺赚（门槛: 低）
 - **[评分: 8/10]** [Ontario/Alberta only](https://www.reddit.com/r/passive_income/comments/1wxhd6m/ontarioalberta_only/) — 博彩App注册奖金清单，每日打卡周赚50刀（门槛: 低）
 - **[评分: 7/10]** [我靠，还没用过claude Fable，真是注册就送150$，邀请还能得75$，含AFF](https://www.nodeseek.com/post-965213-1) — AI平台注册送150美元额度，邀请返75美元可套利（门槛: 低）
 - **[评分: 7/10]** [150美刀大羊毛！可以用Claude 模型！](https://www.nodeseek.com/post-965055-1) — 150美元Claude额度免费领，信息差套利窗口（门槛: 低）
@@ -83,6 +82,8 @@
 ### 🏷️ 极窄场景的 Micro-AI 插件
 - **[评分: 8/10]** [Famulor](https://www.producthunt.com/products/famulor-telephony-ai) — 给本地商家搭AI电话+WhatsApp跟进客服，按月收费（门槛: 中）
 - **[评分: 8/10]** [Communicate](https://www.producthunt.com/products/communicate) — 垂直行业AI客服代理，知识库+人工接管月费变现（门槛: 中）
+- **[评分: 7/10]** [sending otps through an old android phone sim because sms providers here cost way too much](https://www.reddit.com/r/SaaS/comments/1wy0qlf/sending_otps_through_an_old_android_phone_sim/) — 闲置安卓机+本地SIM卡做低成本OTP短信网关（门槛: 中）
+- **[评分: 7/10]** [AI support bots are getting a bad reputation](https://www.reddit.com/r/SaaS/comments/1wxznle/ai_support_bots_are_getting_a_bad_reputation/) — AI 转人工上下文交接与重复率追踪插件（门槛: 低）
 - **[评分: 7/10]** [针对 icp 备案查询的 Chrome 扩展，有需求吗](https://www.v2ex.com/t/1246457) — ICP 备案查询 Chrome 插件按次收费，填补停维护空档（门槛: 低）
 - **[评分: 7/10]** [I made my phone a remote for my PC monitor because the brightness buttons are on the back](https://www.reddit.com/r/SideProject/comments/1wxx1ya/i_made_my_phone_a_remote_for_my_pc_monitor/) — 手机遥控显示器亮度，$19.99 买断的小工具（门槛: 低）
 - **[评分: 7/10]** [做了个 Claude Code 多账号路由工具：撞上限自动切账号](https://www.v2ex.com/t/1246443) — 多账号自动轮换路由，解决 AI 编程限额撞墙（门槛: 中）
@@ -95,13 +96,12 @@
 - **[评分: 8/10]** [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) — 零 API 费抓取社媒，一键交付海外精准潜客名单（门槛: 中）
 - **[评分: 7/10]** [Failing badly at marketing, looking for advice](https://www.reddit.com/r/SaaS/comments/1wxo6uh/failing_badly_at_marketing_looking_for_advice/) — 为有营收却不会获客的独立 SaaS 卖家提供精准潜客名单与冷启动外联（门槛: 低）
 
-### 🏷️ 跨境电商与出海独立站工具
-- **[评分: 8/10]** [Bootstrapping to €600k MRR and getting killed by Shopify: Checkout X](https://www.leteyski.com/bootstrapping-to-600k-mrr-and-getting-killed-by-shopify-the-story-of-checkout-x) — 独立站结账优化插件，€600k MRR 验证刚需（门槛: 高）
-- **[评分: 7/10]** [How do you check competitor prices on other Shopify stores?](https://www.reddit.com/r/shopify/comments/1wxiaxx/how_do_you_check_competitor_prices_on_other/) — 轻量竞品价格库存监控，替代笨重调价App（门槛: 低）
-
 ### 🏷️ 视频与动效代交付
 - **[评分: 7/10]** [做了个给文章自动配手绘图的小工具，整篇文章都是同一个角色](https://www.v2ex.com/t/1246466) — 给文章自动配统一角色手绘插图，按张买断收费（门槛: 中）
 - **[评分: 7/10]** [Product videos are harder than they look](https://www.reddit.com/r/SaaS/comments/1wxa29c/product_videos_are_harder_than_they_look/) — AI 帮 SaaS 做 30 秒产品演示视频代交付（门槛: 低）
+
+### 🏷️ 跨境电商与出海独立站工具
+- **[评分: 8/10]** [Bootstrapping to €600k MRR and getting killed by Shopify: Checkout X](https://www.leteyski.com/bootstrapping-to-600k-mrr-and-getting-killed-by-shopify-the-story-of-checkout-x) — 独立站结账优化插件，€600k MRR 验证刚需（门槛: 高）
 
 
 ---
