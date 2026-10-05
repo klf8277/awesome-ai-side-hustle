@@ -66,7 +66,6 @@
 - **[评分: 7/10]** [Show HN: Era – Complete Simulated Companies for Your Agents](https://console.era.eon.io/) — 免费拿 SaaS 数字孪生沙箱，给 Agent 做测试演示（门槛: 中）
 - **[评分: 7/10]** [I’m obsessed with my 2 customers](https://www.reddit.com/r/SaaS/comments/1wyb0gc/im_obsessed_with_my_2_customers/) — 招聘SaaS冷启动即获2付费客户，验证垂直招聘工具付费意愿（门槛: 中）
 - **[评分: 7/10]** [My gf kept loosing TikTok recipes so I built Plateful](https://www.reddit.com/r/SideProject/comments/1wy7tny/my_gf_kept_loosing_tiktok_recipes_so_i_built/) — 把短视频菜谱一键转成可执行食谱与购物清单，按家庭订阅收费（门槛: 中）
-- **[评分: 7/10]** [I built Pullfolio, a free binder app for trading card collectors. Every set gets a pocket for every card, with today's price on each](https://www.reddit.com/r/SideProject/comments/1wxuqpr/i_built_pullfolio_a_free_binder_app_for_trading/) — 卡牌收藏管理+价格提醒订阅，免费引流月费变现（门槛: 中）
 
 ### 🏷️ 极窄场景的 Micro-AI 插件
 - **[评分: 8/10]** [I built an Amazon Flex station Closure tracker. I made over $632 from donations alone in the last week!](https://www.reddit.com/r/SaaS/comments/1wyblws/i_built_an_amazon_flex_station_closure_tracker_i/) — 给配送司机做站点关闭提醒，靠打赏周入 632 美元（门槛: 低）
@@ -81,6 +80,7 @@
 ### 🏷️ ⚡ 非对称套利与增长黑客
 - **[评分: 8/10]** [I made $5,000 over 2 years from one 10-minute video](https://www.reddit.com/r/passive_income/comments/1wxetby/i_made_5000_over_2_years_from_one_10minute_video/) — 一条视频复制30个长尾词，靠CPL注册每单$3躺赚（门槛: 低）
 - **[评分: 8/10]** [Ontario/Alberta only](https://www.reddit.com/r/passive_income/comments/1wxhd6m/ontarioalberta_only/) — 博彩App注册奖金清单，每日打卡周赚50刀（门槛: 低）
+- **[评分: 7/10]** [Show HN: Codex and Claude subscriptions pooled together with whoever you trust](https://github.com/jaynlabs/jaynshare) — AI 订阅拼车共享，分摊高价月费赚差价（门槛: 中）
 - **[评分: 7/10]** [收 gcp300 240 明盘](https://www.nodeseek.com/post-966332-1) — 低价收 GCP 300 赠金额度再转手赚差价（门槛: 低）
 - **[评分: 7/10]** [喵的，用了 2 年的 Claude 账号 10.5 凌晨 2 点被封了](https://www.v2ex.com/t/1246477) — AI 订阅账号防封与容灾方案，卖给重度开发者（门槛: 中）
 - **[评分: 7/10]** [我靠，还没用过claude Fable，真是注册就送150$，邀请还能得75$，含AFF](https://www.nodeseek.com/post-965213-1) — AI平台注册送150美元额度，邀请返75美元可套利（门槛: 低）
