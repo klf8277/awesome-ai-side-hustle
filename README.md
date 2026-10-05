@@ -37,6 +37,7 @@
 | 评分 | 标杆项目 / 原型 | 赛道 | 门槛 | 商业研判与一句话逻辑 | 原始链接 | 完整研报 |
 |---|---|---|---|---|---|---|
 | **⭐️ 9/10** | **I MADE $927 IN ONE DAY! with my SaaS as a solo founder** | `B2B 高客单数据抓取与精准名单` | 中 | 多域名邮箱矩阵冷邮件外呼，帮 B2B 批量获客 | [🔗 来源](https://www.reddit.com/r/SaaS/comments/1wxk3x2/i_made_927_in_one_day_with_my_saas_as_a_solo/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
+| **⭐️ 8/10** | **Show HN: Halo – A Personal AI with On-Device Harness, Memory and Browser Agent** | `极窄场景的 Micro-AI 插件` | 中 | 端侧隐私 AI 助手，$49 终身买断，数据不出手机 | [🔗 来源](https://apps.apple.com/us/app/halo-personal-ai/id6783715054) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 8/10** | **$1.6M ARR, 370 B2B customers, almost half pay late. Looking for advice on finding a mentor or coach.** | `B2B 高客单数据抓取与精准名单` | 中 | 跨境 B2B 多地区电汇收款与逾期催收自动化工具 | [🔗 来源](https://www.reddit.com/r/SaaS/comments/1wyfoqp/16m_arr_370_b2b_customers_almost_half_pay_late/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 8/10** | **I built an Amazon Flex station Closure tracker. I made over $632 from donations alone in the last week!** | `极窄场景的 Micro-AI 插件` | 低 | 给配送司机做站点关闭提醒，靠打赏周入 632 美元 | [🔗 来源](https://www.reddit.com/r/SaaS/comments/1wyblws/i_built_an_amazon_flex_station_closure_tracker_i/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 8/10** | **I made $15,400+ selling simple educational PDFs on Amazon KDP. Here is what I learned about building a low-content book catalog.** | `垂直数字资产与全自动工作流模板` | 低 | AI批量生成数学练习PDF，上架亚马逊KDP赚版税 | [🔗 来源](https://www.reddit.com/r/passive_income/comments/1wy4wlu/i_made_15400_selling_simple_educational_pdfs_on/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
@@ -45,7 +46,6 @@
 | **⭐️ 8/10** | **Ontario/Alberta only** | `⚡ 非对称套利与增长黑客` | 低 | 博彩App注册奖金清单，每日打卡周赚50刀 | [🔗 来源](https://www.reddit.com/r/passive_income/comments/1wxhd6m/ontarioalberta_only/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 8/10** | **How deleting my free tier made more in 3 days than it made all year** | `垂直数字资产与全自动工作流模板` | 低 | 付费商业点子数据库，砍免费版即变现 | [🔗 来源](https://www.reddit.com/r/SaaS/comments/1wx8y4w/how_deleting_my_free_tier_made_more_in_3_days/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 8/10** | **Simple Analytics hits $4k MRR and shares its numbers** | `垂直数字资产与全自动工作流模板` | 中 | 隐私优先轻量网站分析，$4k MRR可复制 | [🔗 来源](https://simpleanalytics.com/open) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
-| **⭐️ 8/10** | **6 months in and $1k MRR: my biggest mistakes so far** | `垂直数字资产与全自动工作流模板` | 中 | 个人财务SaaS半年做到$1k MRR的复盘 | [🔗 来源](https://lunchbag.ca/lunch-money-mistakes/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 
 ---
 
@@ -66,7 +66,6 @@
 - **[评分: 7/10]** [Show HN: I run five micro-SaaS products on one Mac Mini, billed in USDC](https://store.watchtbot.site) — 一人一机跑五个微SaaS，USDC收款可复制（门槛: 中）
 - **[评分: 7/10]** [Show HN: Era – Complete Simulated Companies for Your Agents](https://console.era.eon.io/) — 免费拿 SaaS 数字孪生沙箱，给 Agent 做测试演示（门槛: 中）
 - **[评分: 7/10]** [I’m obsessed with my 2 customers](https://www.reddit.com/r/SaaS/comments/1wyb0gc/im_obsessed_with_my_2_customers/) — 招聘SaaS冷启动即获2付费客户，验证垂直招聘工具付费意愿（门槛: 中）
-- **[评分: 7/10]** [My gf kept loosing TikTok recipes so I built Plateful](https://www.reddit.com/r/SideProject/comments/1wy7tny/my_gf_kept_loosing_tiktok_recipes_so_i_built/) — 把短视频菜谱一键转成可执行食谱与购物清单，按家庭订阅收费（门槛: 中）
 
 ### 🏷️ B2B 高客单数据抓取与精准名单
 - **[评分: 9/10]** [I MADE $927 IN ONE DAY! with my SaaS as a solo founder](https://www.reddit.com/r/SaaS/comments/1wxk3x2/i_made_927_in_one_day_with_my_saas_as_a_solo/) — 多域名邮箱矩阵冷邮件外呼，帮 B2B 批量获客（门槛: 中）
@@ -77,16 +76,17 @@
 - **[评分: 7/10]** [Show HN: SoldStack – sold prices API for secondhand clothes](https://soldstack.fly.dev/) — 二手服装成交价清洗 API，帮卖家精准定价（门槛: 中）
 
 ### 🏷️ 极窄场景的 Micro-AI 插件
+- **[评分: 8/10]** [Show HN: Halo – A Personal AI with On-Device Harness, Memory and Browser Agent](https://apps.apple.com/us/app/halo-personal-ai/id6783715054) — 端侧隐私 AI 助手，$49 终身买断，数据不出手机（门槛: 中）
 - **[评分: 8/10]** [I built an Amazon Flex station Closure tracker. I made over $632 from donations alone in the last week!](https://www.reddit.com/r/SaaS/comments/1wyblws/i_built_an_amazon_flex_station_closure_tracker_i/) — 给配送司机做站点关闭提醒，靠打赏周入 632 美元（门槛: 低）
 - **[评分: 8/10]** [Famulor](https://www.producthunt.com/products/famulor-telephony-ai) — 给本地商家搭AI电话+WhatsApp跟进客服，按月收费（门槛: 中）
 - **[评分: 8/10]** [Communicate](https://www.producthunt.com/products/communicate) — 垂直行业AI客服代理，知识库+人工接管月费变现（门槛: 中）
 - **[评分: 7/10]** [Show HN: Halo – A Personal AI with On-Device Harness, Memory and Browser Agent](https://apps.apple.com/us/app/halo-personal-ai/id6783715054) — 本地隐私 AI 助手，$49 终身买断，数据不出手机（门槛: 中）
 - **[评分: 7/10]** [做了个查 AI 用量的 App](https://www.v2ex.com/t/1246529) — 多平台 AI 额度聚合看板，一次买断 ¥15（门槛: 中）
-- **[评分: 7/10]** [Too good to be true? 13k installs, 4.7 stars, ~€22k revenue. All in I'm still in the minus](https://www.reddit.com/r/SaaS/comments/1wy4wbu/too_good_to_be_true_13k_installs_47_stars_22k/) — 拍照算卡路里的 AI 订阅 App，单人做到 $2.2k MRR（门槛: 中）
 
 ### 🏷️ ⚡ 非对称套利与增长黑客
 - **[评分: 8/10]** [I made $5,000 over 2 years from one 10-minute video](https://www.reddit.com/r/passive_income/comments/1wxetby/i_made_5000_over_2_years_from_one_10minute_video/) — 一条视频复制30个长尾词，靠CPL注册每单$3躺赚（门槛: 低）
 - **[评分: 8/10]** [Ontario/Alberta only](https://www.reddit.com/r/passive_income/comments/1wxhd6m/ontarioalberta_only/) — 博彩App注册奖金清单，每日打卡周赚50刀（门槛: 低）
+- **[评分: 7/10]** [bybit改新人返现后用不完了，充gpt找我，55返现](https://www.nodeseek.com/post-966421-1) — 用平台返现额度做海外AI服务代购，五五分套利（门槛: 低）
 - **[评分: 7/10]** [Show HN: Codex and Claude subscriptions pooled together with whoever you trust](https://github.com/jaynlabs/jaynshare) — AI 订阅拼车共享，分摊高价月费赚差价（门槛: 中）
 - **[评分: 7/10]** [收 gcp300 240 明盘](https://www.nodeseek.com/post-966332-1) — 低价收 GCP 300 赠金额度再转手赚差价（门槛: 低）
 - **[评分: 7/10]** [喵的，用了 2 年的 Claude 账号 10.5 凌晨 2 点被封了](https://www.v2ex.com/t/1246477) — AI 订阅账号防封与容灾方案，卖给重度开发者（门槛: 中）
