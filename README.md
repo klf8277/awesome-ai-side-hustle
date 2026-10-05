@@ -68,10 +68,10 @@
 - **[评分: 7/10]** [Is there a side project that can manage all the side projects and your time?](https://www.reddit.com/r/SideProject/comments/1wxh8mp/is_there_a_side_project_that_can_manage_all_the/) — 给多副业人群的轻量项目+时间优先级统管工具（门槛: 低）
 - **[评分: 7/10]** [I built an iPhone dictionary that helps you remember the words you look up](https://www.reddit.com/r/SideProject/comments/1wxiu55/i_built_an_iphone_dictionary_that_helps_you/) — 查词即记忆的订阅制词典，靠锁屏复习与阅读模式收月费（门槛: 中）
 - **[评分: 7/10]** [My first SaaS took 9 months and 4k in ad spent and never made a penny. Here's what my second made in 4 weeks, and everything I learned.](https://www.reddit.com/r/SaaS/comments/1wxabzn/my_first_saas_took_9_months_and_4k_in_ad_spent/) — 把 SaaS 从 0 到首笔收入的踩坑复盘做成付费陪跑（门槛: 低）
-- **[评分: 7/10]** [Ask HN: Anyone making a living from a paid API?](https://news.ycombinator.com/item?id=44144473) — 垂直场景API订阅，按月收租的被动收入（门槛: 中）
 
 ### 🏷️ ⚡ 非对称套利与增长黑客
 - **[评分: 8/10]** [Ontario/Alberta only](https://www.reddit.com/r/passive_income/comments/1wxhd6m/ontarioalberta_only/) — 博彩App注册奖金清单，每日打卡周赚50刀（门槛: 低）
+- **[评分: 7/10]** [prompt.ql.app 150＄额度羊毛刚才试了下，秒过！](https://www.nodeseek.com/post-964972-1) — 薅150美元AI额度，注册即到账的放水窗口（门槛: 低）
 - **[评分: 7/10]** [波区claude max20第二次续费成功](https://www.nodeseek.com/post-964853-1) — 低价区订阅+汇率差套利 Claude Max，稳定续费可复制（门槛: 中）
 - **[评分: 7/10]** [promptql 注册送 150 刀额度，可用 Fable-5.1 Opus-5.5 和 Astra 模型](https://www.nodeseek.com/post-964842-1) — 注册白嫖150刀高级模型额度，零成本跑AI产品（门槛: 低）
 - **[评分: 7/10]** [紧跟时事，腾讯版muse（LightVela）,现在注册白嫖一个月](https://www.nodeseek.com/post-964832-1) — 白嫖腾讯 2C8G 云电脑一个月，邀请返双倍积分套利（门槛: 低）
