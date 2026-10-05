@@ -61,6 +61,7 @@
 - **[评分: 8/10]** [Ask HN: How do I manage the profit of a successful website?](https://news.ycombinator.com/item?id=29779944) — 单人订阅站月入$45k，利润处置与税务优化是付费买点（门槛: 中）
 - **[评分: 8/10]** [Show HN: After 2.5 years on my side project, it has hit £500/month revenue](https://news.ycombinator.com/item?id=25372464) — 音频私密分享SaaS，替代Bandcamp/SoundCloud的细分付费工具（门槛: 中）
 - **[评分: 8/10]** [Ask HN: Is it okay to just bootstrap it, even when VCs are knocking?](https://news.ycombinator.com/item?id=32746741) — 单人 bootstrap SaaS 做到 15K MRR 的订阅变现样本（门槛: 中）
+- **[评分: 7/10]** [I built Pullfolio, a free binder app for trading card collectors. Every set gets a pocket for every card, with today's price on each](https://www.reddit.com/r/SideProject/comments/1wxuqpr/i_built_pullfolio_a_free_binder_app_for_trading/) — 卡牌收藏管理+价格提醒订阅，免费引流月费变现（门槛: 中）
 - **[评分: 7/10]** [Show HN: Build with Python – a beginner course where your code draws](https://scimigo.com/en/learn/build-with-python/01-draw-with-python) — 浏览器可视化编程课，免费引流+49美元进阶实验包（门槛: 中）
 - **[评分: 7/10]** [Kanban Email. Why has no one done this?](https://www.reddit.com/r/SaaS/comments/1wxl72e/kanban_email_why_has_no_one_done_this/) — 把邮件变成看板卡片的 GTD 工具，替代已停服的 Flow-e（门槛: 中）
 - **[评分: 7/10]** [I stopped trying to make my fitness app perfect and got my first paying customers](https://www.reddit.com/r/SideProject/comments/1wxniz8/i_stopped_trying_to_make_my_fitness_app_perfect/) — AI 按目标生成训练计划的订阅制健身小站（门槛: 低）
@@ -71,22 +72,22 @@
 
 ### 🏷️ ⚡ 非对称套利与增长黑客
 - **[评分: 8/10]** [Ontario/Alberta only](https://www.reddit.com/r/passive_income/comments/1wxhd6m/ontarioalberta_only/) — 博彩App注册奖金清单，每日打卡周赚50刀（门槛: 低）
+- **[评分: 7/10]** [150美刀大羊毛！可以用Claude 模型！](https://www.nodeseek.com/post-965055-1) — 150美元Claude额度免费领，信息差套利窗口（门槛: 低）
 - **[评分: 7/10]** [prompt.ql.app 150＄额度羊毛刚才试了下，秒过！](https://www.nodeseek.com/post-964972-1) — 薅150美元AI额度，注册即到账的放水窗口（门槛: 低）
 - **[评分: 7/10]** [波区claude max20第二次续费成功](https://www.nodeseek.com/post-964853-1) — 低价区订阅+汇率差套利 Claude Max，稳定续费可复制（门槛: 中）
 - **[评分: 7/10]** [promptql 注册送 150 刀额度，可用 Fable-5.1 Opus-5.5 和 Astra 模型](https://www.nodeseek.com/post-964842-1) — 注册白嫖150刀高级模型额度，零成本跑AI产品（门槛: 低）
 - **[评分: 7/10]** [紧跟时事，腾讯版muse（LightVela）,现在注册白嫖一个月](https://www.nodeseek.com/post-964832-1) — 白嫖腾讯 2C8G 云电脑一个月，邀请返双倍积分套利（门槛: 低）
 - **[评分: 7/10]** [继续推特 X Premium X会员 3个月/23元 半年/45元](https://www.nodeseek.com/post-964809-1) — 孟加拉区 X 会员接口漏洞低价代开套利（门槛: 中）
 - **[评分: 7/10]** [今天 （白嫖）注册了一个 nameou.com 域名，但是鸡腿只有 5 个](https://www.nodeseek.com/post-964806-1) — 白嫖永久免费域名，零成本囤建站刚需耗材（门槛: 低）
-- **[评分: 7/10]** [claude 的 100 刀在苹果商店要加 24 刀税,如何避免?](https://www.v2ex.com/t/1246350) — 帮 AI 订阅用户绕开苹果 24% 抽税的低价充值通道（门槛: 低）
-- **[评分: 7/10]** [实测， 6.1sol 不降智真的太能打了，我感觉不比 6astra 差，但是价格只有 5 分之一，一天下来十来块钱随便蹬，真的不要太爽了。](https://www.v2ex.com/t/1246355) — 低价满血大模型 API 中转，倍率 0.19 起送测试额度（门槛: 中）
 
 ### 🏷️ 极窄场景的 Micro-AI 插件
 - **[评分: 8/10]** [Famulor](https://www.producthunt.com/products/famulor-telephony-ai) — 给本地商家搭AI电话+WhatsApp跟进客服，按月收费（门槛: 中）
 - **[评分: 8/10]** [Communicate](https://www.producthunt.com/products/communicate) — 垂直行业AI客服代理，知识库+人工接管月费变现（门槛: 中）
+- **[评分: 7/10]** [针对 icp 备案查询的 Chrome 扩展，有需求吗](https://www.v2ex.com/t/1246457) — ICP 备案查询 Chrome 插件按次收费，填补停维护空档（门槛: 低）
+- **[评分: 7/10]** [I made my phone a remote for my PC monitor because the brightness buttons are on the back](https://www.reddit.com/r/SideProject/comments/1wxx1ya/i_made_my_phone_a_remote_for_my_pc_monitor/) — 手机遥控显示器亮度，$19.99 买断的小工具（门槛: 低）
 - **[评分: 7/10]** [做了个 Claude Code 多账号路由工具：撞上限自动切账号](https://www.v2ex.com/t/1246443) — 多账号自动轮换路由，解决 AI 编程限额撞墙（门槛: 中）
 - **[评分: 7/10]** [Amount of customer emails](https://www.reddit.com/r/shopify/comments/1wxjsgi/amount_of_customer_emails/) — Shopify 卖家客服邮件 AI 分类与自动回复低价替代工具（门槛: 低）
 - **[评分: 7/10]** [I launched my Mac app. 800 people visited, but getting them to pay is the real problem.](https://www.reddit.com/r/SaaS/comments/1wxgebs/i_launched_my_mac_app_800_people_visited_but/) — Mac 清理工具已获首批付费，卡在免费替代下的转化（门槛: 中）
-- **[评分: 7/10]** [Bot detection in 2026: how do you stop spam signups when AI agents fill out forms like people?](https://www.reddit.com/r/SaaS/comments/1wxh5ii/bot_detection_in_2026_how_do_you_stop_spam/) — 给 SaaS 注册表单做 AI 代理识别与风控，按注册量收费（门槛: 中）
 
 ### 🏷️ B2B 高客单数据抓取与精准名单
 - **[评分: 9/10]** [I MADE $927 IN ONE DAY! with my SaaS as a solo founder](https://www.reddit.com/r/SaaS/comments/1wxk3x2/i_made_927_in_one_day_with_my_saas_as_a_solo/) — 多域名邮箱矩阵冷邮件外呼，帮 B2B 批量获客（门槛: 中）
@@ -99,11 +100,8 @@
 - **[评分: 7/10]** [How do you check competitor prices on other Shopify stores?](https://www.reddit.com/r/shopify/comments/1wxiaxx/how_do_you_check_competitor_prices_on_other/) — 轻量竞品价格库存监控，替代笨重调价App（门槛: 低）
 
 ### 🏷️ 视频与动效代交付
+- **[评分: 7/10]** [做了个给文章自动配手绘图的小工具，整篇文章都是同一个角色](https://www.v2ex.com/t/1246466) — 给文章自动配统一角色手绘插图，按张买断收费（门槛: 中）
 - **[评分: 7/10]** [Product videos are harder than they look](https://www.reddit.com/r/SaaS/comments/1wxa29c/product_videos_are_harder_than_they_look/) — AI 帮 SaaS 做 30 秒产品演示视频代交付（门槛: 低）
-- **[评分: 7/10]** [Which AI video editor do you recommend for product demos, UGC and montages?](https://www.reddit.com/r/SaaS/comments/1wx6hy5/which_ai_video_editor_do_you_recommend_for/) — 为 SaaS 团队做 AI 产品演示与 UGC 动效代交付（门槛: 低）
-
-### 🏷️ 国学文化数字化与情绪消费
-- **[评分: 7/10]** [I got called out for monetizing crisis support. You were right. I fixed it. I apologize!](https://www.reddit.com/r/SideProject/comments/1wx5p11/i_got_called_out_for_monetizing_crisis_support/) — 情绪戒断节律助手，免费危机工具+付费复盘PDF变现（门槛: 低）
 
 
 ---
