@@ -62,6 +62,8 @@
 - **[评分: 8/10]** [Ask HN: How do I manage the profit of a successful website?](https://news.ycombinator.com/item?id=29779944) — 单人订阅站月入$45k，利润处置与税务优化是付费买点（门槛: 中）
 - **[评分: 8/10]** [Show HN: After 2.5 years on my side project, it has hit £500/month revenue](https://news.ycombinator.com/item?id=25372464) — 音频私密分享SaaS，替代Bandcamp/SoundCloud的细分付费工具（门槛: 中）
 - **[评分: 8/10]** [Ask HN: Is it okay to just bootstrap it, even when VCs are knocking?](https://news.ycombinator.com/item?id=32746741) — 单人 bootstrap SaaS 做到 15K MRR 的订阅变现样本（门槛: 中）
+- **[评分: 7/10]** [Show HN: I run five micro-SaaS products on one Mac Mini, billed in USDC](https://store.watchtbot.site) — 一人一机跑五个微SaaS，USDC收款可复制（门槛: 中）
+- **[评分: 7/10]** [Show HN: Era – Complete Simulated Companies for Your Agents](https://console.era.eon.io/) — 免费拿 SaaS 数字孪生沙箱，给 Agent 做测试演示（门槛: 中）
 - **[评分: 7/10]** [I’m obsessed with my 2 customers](https://www.reddit.com/r/SaaS/comments/1wyb0gc/im_obsessed_with_my_2_customers/) — 招聘SaaS冷启动即获2付费客户，验证垂直招聘工具付费意愿（门槛: 中）
 - **[评分: 7/10]** [My gf kept loosing TikTok recipes so I built Plateful](https://www.reddit.com/r/SideProject/comments/1wy7tny/my_gf_kept_loosing_tiktok_recipes_so_i_built/) — 把短视频菜谱一键转成可执行食谱与购物清单，按家庭订阅收费（门槛: 中）
 - **[评分: 7/10]** [I built Pullfolio, a free binder app for trading card collectors. Every set gets a pocket for every card, with today's price on each](https://www.reddit.com/r/SideProject/comments/1wxuqpr/i_built_pullfolio_a_free_binder_app_for_trading/) — 卡牌收藏管理+价格提醒订阅，免费引流月费变现（门槛: 中）
@@ -75,7 +77,6 @@
 - **[评分: 7/10]** [sending otps through an old android phone sim because sms providers here cost way too much](https://www.reddit.com/r/SaaS/comments/1wy0qlf/sending_otps_through_an_old_android_phone_sim/) — 闲置安卓机+本地SIM卡做低成本OTP短信网关（门槛: 中）
 - **[评分: 7/10]** [AI support bots are getting a bad reputation](https://www.reddit.com/r/SaaS/comments/1wxznle/ai_support_bots_are_getting_a_bad_reputation/) — AI 转人工上下文交接与重复率追踪插件（门槛: 低）
 - **[评分: 7/10]** [针对 icp 备案查询的 Chrome 扩展，有需求吗](https://www.v2ex.com/t/1246457) — ICP 备案查询 Chrome 插件按次收费，填补停维护空档（门槛: 低）
-- **[评分: 7/10]** [I made my phone a remote for my PC monitor because the brightness buttons are on the back](https://www.reddit.com/r/SideProject/comments/1wxx1ya/i_made_my_phone_a_remote_for_my_pc_monitor/) — 手机遥控显示器亮度，$19.99 买断的小工具（门槛: 低）
 
 ### 🏷️ ⚡ 非对称套利与增长黑客
 - **[评分: 8/10]** [I made $5,000 over 2 years from one 10-minute video](https://www.reddit.com/r/passive_income/comments/1wxetby/i_made_5000_over_2_years_from_one_10minute_video/) — 一条视频复制30个长尾词，靠CPL注册每单$3躺赚（门槛: 低）
@@ -84,7 +85,6 @@
 - **[评分: 7/10]** [喵的，用了 2 年的 Claude 账号 10.5 凌晨 2 点被封了](https://www.v2ex.com/t/1246477) — AI 订阅账号防封与容灾方案，卖给重度开发者（门槛: 中）
 - **[评分: 7/10]** [我靠，还没用过claude Fable，真是注册就送150$，邀请还能得75$，含AFF](https://www.nodeseek.com/post-965213-1) — AI平台注册送150美元额度，邀请返75美元可套利（门槛: 低）
 - **[评分: 7/10]** [150美刀大羊毛！可以用Claude 模型！](https://www.nodeseek.com/post-965055-1) — 150美元Claude额度免费领，信息差套利窗口（门槛: 低）
-- **[评分: 7/10]** [prompt.ql.app 150＄额度羊毛刚才试了下，秒过！](https://www.nodeseek.com/post-964972-1) — 薅150美元AI额度，注册即到账的放水窗口（门槛: 低）
 
 ### 🏷️ B2B 高客单数据抓取与精准名单
 - **[评分: 9/10]** [I MADE $927 IN ONE DAY! with my SaaS as a solo founder](https://www.reddit.com/r/SaaS/comments/1wxk3x2/i_made_927_in_one_day_with_my_saas_as_a_solo/) — 多域名邮箱矩阵冷邮件外呼，帮 B2B 批量获客（门槛: 中）
