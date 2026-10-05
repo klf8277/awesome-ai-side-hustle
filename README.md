@@ -72,21 +72,21 @@
 
 ### 🏷️ ⚡ 非对称套利与增长黑客
 - **[评分: 8/10]** [Ontario/Alberta only](https://www.reddit.com/r/passive_income/comments/1wxhd6m/ontarioalberta_only/) — 博彩App注册奖金清单，每日打卡周赚50刀（门槛: 低）
+- **[评分: 7/10]** [波区claude max20第二次续费成功](https://www.nodeseek.com/post-964853-1) — 低价区订阅+汇率差套利 Claude Max，稳定续费可复制（门槛: 中）
 - **[评分: 7/10]** [promptql 注册送 150 刀额度，可用 Fable-5.1 Opus-5.5 和 Astra 模型](https://www.nodeseek.com/post-964842-1) — 注册白嫖150刀高级模型额度，零成本跑AI产品（门槛: 低）
 - **[评分: 7/10]** [紧跟时事，腾讯版muse（LightVela）,现在注册白嫖一个月](https://www.nodeseek.com/post-964832-1) — 白嫖腾讯 2C8G 云电脑一个月，邀请返双倍积分套利（门槛: 低）
 - **[评分: 7/10]** [继续推特 X Premium X会员 3个月/23元 半年/45元](https://www.nodeseek.com/post-964809-1) — 孟加拉区 X 会员接口漏洞低价代开套利（门槛: 中）
 - **[评分: 7/10]** [今天 （白嫖）注册了一个 nameou.com 域名，但是鸡腿只有 5 个](https://www.nodeseek.com/post-964806-1) — 白嫖永久免费域名，零成本囤建站刚需耗材（门槛: 低）
 - **[评分: 7/10]** [claude 的 100 刀在苹果商店要加 24 刀税,如何避免?](https://www.v2ex.com/t/1246350) — 帮 AI 订阅用户绕开苹果 24% 抽税的低价充值通道（门槛: 低）
 - **[评分: 7/10]** [实测， 6.1sol 不降智真的太能打了，我感觉不比 6astra 差，但是价格只有 5 分之一，一天下来十来块钱随便蹬，真的不要太爽了。](https://www.v2ex.com/t/1246355) — 低价满血大模型 API 中转，倍率 0.19 起送测试额度（门槛: 中）
-- **[评分: 7/10]** [Agent Job Boards: Payroll Gap, Wallet Lockout, Human Sign-Off](https://trends.vc/agent-job-boards-payroll-gap-wallet-lockout-human-sign-off/) — 给 AI Agent 接单做收款通道与钱包容灾（门槛: 中）
 
 ### 🏷️ 极窄场景的 Micro-AI 插件
 - **[评分: 8/10]** [Famulor](https://www.producthunt.com/products/famulor-telephony-ai) — 给本地商家搭AI电话+WhatsApp跟进客服，按月收费（门槛: 中）
 - **[评分: 8/10]** [Communicate](https://www.producthunt.com/products/communicate) — 垂直行业AI客服代理，知识库+人工接管月费变现（门槛: 中）
+- **[评分: 7/10]** [做了个 Claude Code 多账号路由工具：撞上限自动切账号](https://www.v2ex.com/t/1246443) — 多账号自动轮换路由，解决 AI 编程限额撞墙（门槛: 中）
 - **[评分: 7/10]** [Amount of customer emails](https://www.reddit.com/r/shopify/comments/1wxjsgi/amount_of_customer_emails/) — Shopify 卖家客服邮件 AI 分类与自动回复低价替代工具（门槛: 低）
 - **[评分: 7/10]** [I launched my Mac app. 800 people visited, but getting them to pay is the real problem.](https://www.reddit.com/r/SaaS/comments/1wxgebs/i_launched_my_mac_app_800_people_visited_but/) — Mac 清理工具已获首批付费，卡在免费替代下的转化（门槛: 中）
 - **[评分: 7/10]** [Bot detection in 2026: how do you stop spam signups when AI agents fill out forms like people?](https://www.reddit.com/r/SaaS/comments/1wxh5ii/bot_detection_in_2026_how_do_you_stop_spam/) — 给 SaaS 注册表单做 AI 代理识别与风控，按注册量收费（门槛: 中）
-- **[评分: 7/10]** [Launch HN: Speko (YC S26) – OpenRouter for Voice AI](https://speko.ai/) — 语音AI路由层：按成本/延迟自动切换最优STT+LLM+TTS组合（门槛: 高）
 
 ### 🏷️ B2B 高客单数据抓取与精准名单
 - **[评分: 9/10]** [I MADE $927 IN ONE DAY! with my SaaS as a solo founder](https://www.reddit.com/r/SaaS/comments/1wxk3x2/i_made_927_in_one_day_with_my_saas_as_a_solo/) — 多域名邮箱矩阵冷邮件外呼，帮 B2B 批量获客（门槛: 中）
