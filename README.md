@@ -66,11 +66,11 @@
 - **[评分: 7/10]** [I counted 92 invoice generators launched on Reddit this year. Mine would be #93](https://www.reddit.com/r/SideProject/comments/1wyksjs/i_counted_92_invoice_generators_launched_on/) — 做德国电子发票合规+定金发票的付费生成器，避开92个免费同质竞品（门槛: 低）
 - **[评分: 7/10]** [My open-source project hit 9k GitHub stars, so I'm turning it into a SaaS. Here's how I'm doing it without paywalling the open-source version.](https://www.reddit.com/r/SaaS/comments/1wyk1go/my_opensource_project_hit_9k_github_stars_so_im/) — 开源项目免费自托管，靠省心托管订阅收月费（门槛: 中）
 - **[评分: 7/10]** [my first saas crossed 50 paid customers 🤩](https://www.reddit.com/r/SaaS/comments/1wygc3b/my_first_saas_crossed_50_paid_customers/) — 单人 SaaS 跑通 50 位付费用户，验证小工具订阅变现可行（门槛: 中）
-- **[评分: 7/10]** [Show HN: I run five micro-SaaS products on one Mac Mini, billed in USDC](https://store.watchtbot.site) — 一人一机跑五个微SaaS，USDC收款可复制（门槛: 中）
 
 ### 🏷️ 跨境电商与出海独立站工具
 - **[评分: 8/10]** [What is everyone doing about fraud prevention with Shopify taking away order data?](https://www.reddit.com/r/shopify/comments/1wyjkcp/what_is_everyone_doing_about_fraud_prevention/) — Shopify 风控数据被砍，卖家急需第三方反欺诈补位工具（门槛: 中）
 - **[评分: 8/10]** [Bootstrapping to €600k MRR and getting killed by Shopify: Checkout X](https://www.leteyski.com/bootstrapping-to-600k-mrr-and-getting-killed-by-shopify-the-story-of-checkout-x) — 独立站结账优化插件，€600k MRR 验证刚需（门槛: 高）
+- **[评分: 7/10]** [美西住宅ip推荐哪个？性价比高的，用在claude上](https://www.nodeseek.com/post-966815-1) — AI 账号防封催生住宅 IP 刚需，做美西住宅代理选品与转售（门槛: 中）
 - **[评分: 7/10]** [My wife kept missing her size, so I did what any developer husband would do and built an app for her and now it has 1000 users!](https://www.reddit.com/r/SideProject/comments/1wyn4ja/my_wife_kept_missing_her_size_so_i_did_what_any/) — 断货商品补货监控提醒，按尺码颜色精准通知（门槛: 中）
 - **[评分: 7/10]** [What ROAS do you need to break even after Shopify fees, returns and COGS?](https://www.reddit.com/r/shopify/comments/1wyq47k/what_roas_do_you_need_to_break_even_after_shopify/) — Shopify 保本 ROAS 自动计算器，含退货与复购（门槛: 低）
 - **[评分: 7/10]** [Looking for advice on a Google Ads/SaaS website audit](https://www.reddit.com/r/SaaS/comments/1wyjuxl/looking_for_advice_on_a_google_adssaas_website/) — AI 帮 SaaS 做 Google Ads 合规审计，防封号停投（门槛: 低）
