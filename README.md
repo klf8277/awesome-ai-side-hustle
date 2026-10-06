@@ -37,6 +37,7 @@
 | 评分 | 标杆项目 / 原型 | 赛道 | 门槛 | 商业研判与一句话逻辑 | 原始链接 | 完整研报 |
 |---|---|---|---|---|---|---|
 | **⭐️ 9/10** | **I MADE $927 IN ONE DAY! with my SaaS as a solo founder** | `B2B 高客单数据抓取与精准名单` | 中 | 多域名邮箱矩阵冷邮件外呼，帮 B2B 批量获客 | [🔗 来源](https://www.reddit.com/r/SaaS/comments/1wxk3x2/i_made_927_in_one_day_with_my_saas_as_a_solo/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
+| **⭐️ 8/10** | **We hand every new signup $1 of API credit. 9,900 signed up in ten days and we banned half of them.** | `⚡ 非对称套利与增长黑客` | 中 | 给发免费额度的平台做防薅羊毛自动封号流水线 | [🔗 来源](https://www.reddit.com/r/SaaS/comments/1wyv4mh/we_hand_every_new_signup_1_of_api_credit_9900/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 8/10** | **Got my first purchase of one of my free apps!** | `极窄场景的 Micro-AI 插件` | 低 | 免费小工具挂自愿付费，首单即验证打赏变现 | [🔗 来源](https://www.reddit.com/r/SideProject/comments/1wynjck/got_my_first_purchase_of_one_of_my_free_apps/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 8/10** | **What is everyone doing about fraud prevention with Shopify taking away order data?** | `跨境电商与出海独立站工具` | 中 | Shopify 风控数据被砍，卖家急需第三方反欺诈补位工具 | [🔗 来源](https://www.reddit.com/r/shopify/comments/1wyjkcp/what_is_everyone_doing_about_fraud_prevention/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 8/10** | **Show HN: Halo – A Personal AI with On-Device Harness, Memory and Browser Agent** | `极窄场景的 Micro-AI 插件` | 中 | 端侧隐私 AI 助手，$49 终身买断，数据不出手机 | [🔗 来源](https://apps.apple.com/us/app/halo-personal-ai/id6783715054) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
@@ -45,7 +46,6 @@
 | **⭐️ 8/10** | **I made $15,400+ selling simple educational PDFs on Amazon KDP. Here is what I learned about building a low-content book catalog.** | `垂直数字资产与全自动工作流模板` | 低 | AI批量生成数学练习PDF，上架亚马逊KDP赚版税 | [🔗 来源](https://www.reddit.com/r/passive_income/comments/1wy4wlu/i_made_15400_selling_simple_educational_pdfs_on/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 8/10** | **I made $5,000 over 2 years from one 10-minute video** | `⚡ 非对称套利与增长黑客` | 低 | 一条视频复制30个长尾词，靠CPL注册每单$3躺赚 | [🔗 来源](https://www.reddit.com/r/passive_income/comments/1wxetby/i_made_5000_over_2_years_from_one_10minute_video/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 8/10** | **I scraped billions of TikTok videos and profiles by reverse engineering the mobile API. Here&#x27;s how it works + source code** | `B2B 高客单数据抓取与精准名单` | 高 | 逆向 TikTok 接口，把爆款趋势与达人名单做成付费数据 API | [🔗 来源](https://www.reddit.com/r/SaaS/comments/1wxoasb/i_scraped_billions_of_tiktok_videos_and_profiles/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
-| **⭐️ 8/10** | **Ontario/Alberta only** | `⚡ 非对称套利与增长黑客` | 低 | 博彩App注册奖金清单，每日打卡周赚50刀 | [🔗 来源](https://www.reddit.com/r/passive_income/comments/1wxhd6m/ontarioalberta_only/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 
 ---
 
@@ -67,6 +67,7 @@
 - **[评分: 7/10]** [My open-source project hit 9k GitHub stars, so I'm turning it into a SaaS. Here's how I'm doing it without paywalling the open-source version.](https://www.reddit.com/r/SaaS/comments/1wyk1go/my_opensource_project_hit_9k_github_stars_so_im/) — 开源项目免费自托管，靠省心托管订阅收月费（门槛: 中）
 
 ### 🏷️ ⚡ 非对称套利与增长黑客
+- **[评分: 8/10]** [We hand every new signup $1 of API credit. 9,900 signed up in ten days and we banned half of them.](https://www.reddit.com/r/SaaS/comments/1wyv4mh/we_hand_every_new_signup_1_of_api_credit_9900/) — 给发免费额度的平台做防薅羊毛自动封号流水线（门槛: 中）
 - **[评分: 8/10]** [I made $5,000 over 2 years from one 10-minute video](https://www.reddit.com/r/passive_income/comments/1wxetby/i_made_5000_over_2_years_from_one_10minute_video/) — 一条视频复制30个长尾词，靠CPL注册每单$3躺赚（门槛: 低）
 - **[评分: 8/10]** [Ontario/Alberta only](https://www.reddit.com/r/passive_income/comments/1wxhd6m/ontarioalberta_only/) — 博彩App注册奖金清单，每日打卡周赚50刀（门槛: 低）
 - **[评分: 7/10]** [接上回，Claude pro用自己护照过kyc+谷歌pay订阅](https://www.nodeseek.com/post-966907-1) — 护照KYC+谷歌支付绕过封锁稳定订阅Claude Pro（门槛: 中）
@@ -92,14 +93,15 @@
 - **[评分: 7/10]** [My wife kept missing her size, so I did what any developer husband would do and built an app for her and now it has 1000 users!](https://www.reddit.com/r/SideProject/comments/1wyn4ja/my_wife_kept_missing_her_size_so_i_did_what_any/) — 断货商品补货监控提醒，按尺码颜色精准通知（门槛: 中）
 - **[评分: 7/10]** [What ROAS do you need to break even after Shopify fees, returns and COGS?](https://www.reddit.com/r/shopify/comments/1wyq47k/what_roas_do_you_need_to_break_even_after_shopify/) — Shopify 保本 ROAS 自动计算器，含退货与复购（门槛: 低）
 - **[评分: 7/10]** [Looking for advice on a Google Ads/SaaS website audit](https://www.reddit.com/r/SaaS/comments/1wyjuxl/looking_for_advice_on_a_google_adssaas_website/) — AI 帮 SaaS 做 Google Ads 合规审计，防封号停投（门槛: 低）
-- **[评分: 7/10]** [Wix account got bannned without any reasosn and pathetic customer support.](https://www.reddit.com/r/SaaS/comments/1wyj3u0/wix_account_got_bannned_without_any_reasosn_and/) — 帮独立站卖家把域名和业务从平台账号解耦，做封号容灾托管（门槛: 中）
 
 ### 🏷️ B2B 高客单数据抓取与精准名单
 - **[评分: 9/10]** [I MADE $927 IN ONE DAY! with my SaaS as a solo founder](https://www.reddit.com/r/SaaS/comments/1wxk3x2/i_made_927_in_one_day_with_my_saas_as_a_solo/) — 多域名邮箱矩阵冷邮件外呼，帮 B2B 批量获客（门槛: 中）
 - **[评分: 8/10]** [$1.6M ARR, 370 B2B customers, almost half pay late. Looking for advice on finding a mentor or coach.](https://www.reddit.com/r/SaaS/comments/1wyfoqp/16m_arr_370_b2b_customers_almost_half_pay_late/) — 跨境 B2B 多地区电汇收款与逾期催收自动化工具（门槛: 中）
 - **[评分: 8/10]** [I scraped billions of TikTok videos and profiles by reverse engineering the mobile API. Here's how it works + source code](https://www.reddit.com/r/SaaS/comments/1wxoasb/i_scraped_billions_of_tiktok_videos_and_profiles/) — 逆向 TikTok 接口，把爆款趋势与达人名单做成付费数据 API（门槛: 高）
 - **[评分: 8/10]** [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) — 零 API 费抓取社媒，一键交付海外精准潜客名单（门槛: 中）
-- **[评分: 7/10]** [12 years running a B2B company in the Caribbean, ~$1.6M ARR, and I've never had a mentor. How did you find yours?](https://www.reddit.com/r/Entrepreneur/comments/1wyfq2m/12_years_running_a_b2b_company_in_the_caribbean/) — 跨境 B2B 多地区电汇应收催收与对账自动化（门槛: 中）
+
+### 🏷️ 视频与动效代交付
+- **[评分: 7/10]** [Grok Bot is f***ing insane](https://www.reddit.com/r/ecommerce/comments/1wyshml/grok_bot_is_fing_insane/) — 用AI替电商卖家做整套邮件营销，替代月费数千美元的外包机构（门槛: 低）
 
 
 ---
