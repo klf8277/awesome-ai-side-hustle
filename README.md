@@ -87,7 +87,6 @@
 - **[评分: 7/10]** [Claude 一条龙服务？](https://www.v2ex.com/t/1246664) — 卖「不封号」的 Claude 稳定配置与美区充值一条龙服务（门槛: 中）
 - **[评分: 7/10]** [填我muse邀请码2r](https://www.nodeseek.com/post-967520-1) — 填邀请码白拿10亿AI词元，双边返利套利（门槛: 低）
 - **[评分: 7/10]** [做了个国内大模型 API 中转，说说各家价格对比和省钱技巧](https://www.v2ex.com/t/1246657) — 大模型 API 批量中转，吃闲时半价与缓存折扣差价（门槛: 中）
-- **[评分: 7/10]** [国外机构实测GPT/Claude订阅额度](https://www.nodeseek.com/post-967329-1) — 同价订阅额度差5倍，做AI订阅比价与代充套利（门槛: 低）
 
 ### 🏷️ B2B 高客单数据抓取与精准名单
 - **[评分: 9/10]** [I MADE $927 IN ONE DAY! with my SaaS as a solo founder](https://www.reddit.com/r/SaaS/comments/1wxk3x2/i_made_927_in_one_day_with_my_saas_as_a_solo/) — 多域名邮箱矩阵冷邮件外呼，帮 B2B 批量获客（门槛: 中）
@@ -99,6 +98,7 @@
 ### 🏷️ 跨境电商与出海独立站工具
 - **[评分: 8/10]** [What is everyone doing about fraud prevention with Shopify taking away order data?](https://www.reddit.com/r/shopify/comments/1wyjkcp/what_is_everyone_doing_about_fraud_prevention/) — Shopify 风控数据被砍，卖家急需第三方反欺诈补位工具（门槛: 中）
 - **[评分: 8/10]** [Bootstrapping to €600k MRR and getting killed by Shopify: Checkout X](https://www.leteyski.com/bootstrapping-to-600k-mrr-and-getting-killed-by-shopify-the-story-of-checkout-x) — 独立站结账优化插件，€600k MRR 验证刚需（门槛: 高）
+- **[评分: 7/10]** [各位大佬是怎么stripe收款的](https://www.nodeseek.com/post-967940-1) — 帮被Stripe卡款的卖家解决提现与替代收款通道（门槛: 中）
 - **[评分: 7/10]** [Launched an influencer led brand this week on Shopify, response has been decent. Wondering the next best steps?](https://www.reddit.com/r/shopify/comments/1wz3vt7/launched_an_influencer_led_brand_this_week_on/) — 网红带货独立站首日 8500 美元，补货预测与投放工具是刚需（门槛: 中）
 
 
