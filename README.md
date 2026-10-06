@@ -64,6 +64,7 @@
 - **[评分: 8/10]** [Show HN: After 2.5 years on my side project, it has hit £500/month revenue](https://news.ycombinator.com/item?id=25372464) — 音频私密分享SaaS，替代Bandcamp/SoundCloud的细分付费工具（门槛: 中）
 - **[评分: 8/10]** [Ask HN: Is it okay to just bootstrap it, even when VCs are knocking?](https://news.ycombinator.com/item?id=32746741) — 单人 bootstrap SaaS 做到 15K MRR 的订阅变现样本（门槛: 中）
 - **[评分: 7/10]** [Show HN: Tofu – let your agent deploy full-stack apps](https://trytofu.ai) — 帮 AI 写好的代码一键上线，省掉 2 小时部署苦活（门槛: 中）
+- **[评分: 7/10]** [Show HN: Tofu – let your agent deploy full-stack apps](https://trytofu.ai) — 帮 AI 写好的代码一键上线，省掉 2 小时部署苦活（门槛: 中）
 - **[评分: 7/10]** [Building a tool that automates SEO on side projects you've stopped working on. How do you handle this?](https://www.reddit.com/r/SideProject/comments/1wyx5qy/building_a_tool_that_automates_seo_on_side/) — 给闲置副业站点自动写发SEO内容的订阅工具（门槛: 低）
 
 ### 🏷️ ⚡ 非对称套利与增长黑客
@@ -75,7 +76,6 @@
 - **[评分: 7/10]** [接上回，Claude pro用自己护照过kyc+谷歌pay订阅](https://www.nodeseek.com/post-966907-1) — 护照KYC+谷歌支付绕过封锁稳定订阅Claude Pro（门槛: 中）
 - **[评分: 7/10]** [[公益中转站]bothome for develops 免费cc+gpt+国模 有账号要求](https://www.nodeseek.com/post-966908-1) — GitHub 老号白嫖 150 刀 AI 额度，签到续领（门槛: 低）
 - **[评分: 7/10]** [个人使用 Claude 防止封号的经验分享](https://www.v2ex.com/t/1246574) — Claude 防封住宅 IP 代理与配置包（门槛: 中）
-- **[评分: 7/10]** [做了个 AI API 聚合服务， V2EX 前 20 位送 20 元额度](https://www.v2ex.com/t/1246595) — AI API聚合站放水送额度，白嫖算力兼抄中转站模式（门槛: 中）
 
 ### 🏷️ 极窄场景的 Micro-AI 插件
 - **[评分: 8/10]** [Got my first purchase of one of my free apps!](https://www.reddit.com/r/SideProject/comments/1wynjck/got_my_first_purchase_of_one_of_my_free_apps/) — 免费小工具挂自愿付费，首单即验证打赏变现（门槛: 低）
