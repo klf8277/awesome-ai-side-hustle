@@ -63,9 +63,18 @@
 - **[评分: 8/10]** [Ask HN: How do I manage the profit of a successful website?](https://news.ycombinator.com/item?id=29779944) — 单人订阅站月入$45k，利润处置与税务优化是付费买点（门槛: 中）
 - **[评分: 8/10]** [Show HN: After 2.5 years on my side project, it has hit £500/month revenue](https://news.ycombinator.com/item?id=25372464) — 音频私密分享SaaS，替代Bandcamp/SoundCloud的细分付费工具（门槛: 中）
 - **[评分: 8/10]** [Ask HN: Is it okay to just bootstrap it, even when VCs are knocking?](https://news.ycombinator.com/item?id=32746741) — 单人 bootstrap SaaS 做到 15K MRR 的订阅变现样本（门槛: 中）
+- **[评分: 7/10]** [Building a tool that automates SEO on side projects you've stopped working on. How do you handle this?](https://www.reddit.com/r/SideProject/comments/1wyx5qy/building_a_tool_that_automates_seo_on_side/) — 给闲置副业站点自动写发SEO内容的订阅工具（门槛: 低）
 - **[评分: 7/10]** [My side project got its first paying customer and suddenly it stopped feeling like a side project](https://www.reddit.com/r/SideProject/comments/1wyoewf/my_side_project_got_its_first_paying_customer_and/) — AI按个人目标生成定制健身计划，陌生人已付费验证（门槛: 低）
-- **[评分: 7/10]** [I counted 92 invoice generators launched on Reddit this year. Mine would be #93](https://www.reddit.com/r/SideProject/comments/1wyksjs/i_counted_92_invoice_generators_launched_on/) — 做德国电子发票合规+定金发票的付费生成器，避开92个免费同质竞品（门槛: 低）
-- **[评分: 7/10]** [My open-source project hit 9k GitHub stars, so I'm turning it into a SaaS. Here's how I'm doing it without paywalling the open-source version.](https://www.reddit.com/r/SaaS/comments/1wyk1go/my_opensource_project_hit_9k_github_stars_so_im/) — 开源项目免费自托管，靠省心托管订阅收月费（门槛: 中）
+
+### 🏷️ 极窄场景的 Micro-AI 插件
+- **[评分: 8/10]** [Got my first purchase of one of my free apps!](https://www.reddit.com/r/SideProject/comments/1wynjck/got_my_first_purchase_of_one_of_my_free_apps/) — 免费小工具挂自愿付费，首单即验证打赏变现（门槛: 低）
+- **[评分: 8/10]** [Show HN: Halo – A Personal AI with On-Device Harness, Memory and Browser Agent](https://apps.apple.com/us/app/halo-personal-ai/id6783715054) — 端侧隐私 AI 助手，$49 终身买断，数据不出手机（门槛: 中）
+- **[评分: 8/10]** [I built an Amazon Flex station Closure tracker. I made over $632 from donations alone in the last week!](https://www.reddit.com/r/SaaS/comments/1wyblws/i_built_an_amazon_flex_station_closure_tracker_i/) — 给配送司机做站点关闭提醒，靠打赏周入 632 美元（门槛: 低）
+- **[评分: 8/10]** [Famulor](https://www.producthunt.com/products/famulor-telephony-ai) — 给本地商家搭AI电话+WhatsApp跟进客服，按月收费（门槛: 中）
+- **[评分: 8/10]** [Communicate](https://www.producthunt.com/products/communicate) — 垂直行业AI客服代理，知识库+人工接管月费变现（门槛: 中）
+- **[评分: 7/10]** [I built a knitting app that keeps your place in the PDF patterns you already own](https://www.reddit.com/r/SideProject/comments/1wyxe7o/i_built_a_knitting_app_that_keeps_your_place_in/) — PDF图解自动定位行数的编织助手，一次买断替代年费订阅（门槛: 中）
+- **[评分: 7/10]** [LiveAgent: Over $250K monthly recurring revenue with a spin-off project](https://www.failory.com/mistakes/liveagent) — AI客服工单插件，月费订阅卖给中小卖家（门槛: 中）
+- **[评分: 7/10]** [Plainserp – Google search API for AI agents at $0.30 per 1k](https://plainserp.com) — 给 AI Agent 用的廉价 Google 搜索 API，按千次调用收费（门槛: 中）
 
 ### 🏷️ ⚡ 非对称套利与增长黑客
 - **[评分: 8/10]** [We hand every new signup $1 of API credit. 9,900 signed up in ten days and we banned half of them.](https://www.reddit.com/r/SaaS/comments/1wyv4mh/we_hand_every_new_signup_1_of_api_credit_9900/) — 给发免费额度的平台做防薅羊毛自动封号流水线（门槛: 中）
@@ -75,30 +84,21 @@
 - **[评分: 7/10]** [[公益中转站]bothome for develops 免费cc+gpt+国模 有账号要求](https://www.nodeseek.com/post-966908-1) — GitHub 老号白嫖 150 刀 AI 额度，签到续领（门槛: 低）
 - **[评分: 7/10]** [个人使用 Claude 防止封号的经验分享](https://www.v2ex.com/t/1246574) — Claude 防封住宅 IP 代理与配置包（门槛: 中）
 - **[评分: 7/10]** [做了个 AI API 聚合服务， V2EX 前 20 位送 20 元额度](https://www.v2ex.com/t/1246595) — AI API聚合站放水送额度，白嫖算力兼抄中转站模式（门槛: 中）
-- **[评分: 7/10]** [Claude Max 20x 拼车 两人车 带质保](https://www.nodeseek.com/post-966567-1) — 官方 AI 订阅拆车转售，赚额度价差与拼车服务费（门槛: 中）
-
-### 🏷️ 极窄场景的 Micro-AI 插件
-- **[评分: 8/10]** [Got my first purchase of one of my free apps!](https://www.reddit.com/r/SideProject/comments/1wynjck/got_my_first_purchase_of_one_of_my_free_apps/) — 免费小工具挂自愿付费，首单即验证打赏变现（门槛: 低）
-- **[评分: 8/10]** [Show HN: Halo – A Personal AI with On-Device Harness, Memory and Browser Agent](https://apps.apple.com/us/app/halo-personal-ai/id6783715054) — 端侧隐私 AI 助手，$49 终身买断，数据不出手机（门槛: 中）
-- **[评分: 8/10]** [I built an Amazon Flex station Closure tracker. I made over $632 from donations alone in the last week!](https://www.reddit.com/r/SaaS/comments/1wyblws/i_built_an_amazon_flex_station_closure_tracker_i/) — 给配送司机做站点关闭提醒，靠打赏周入 632 美元（门槛: 低）
-- **[评分: 8/10]** [Famulor](https://www.producthunt.com/products/famulor-telephony-ai) — 给本地商家搭AI电话+WhatsApp跟进客服，按月收费（门槛: 中）
-- **[评分: 8/10]** [Communicate](https://www.producthunt.com/products/communicate) — 垂直行业AI客服代理，知识库+人工接管月费变现（门槛: 中）
-- **[评分: 7/10]** [LiveAgent: Over $250K monthly recurring revenue with a spin-off project](https://www.failory.com/mistakes/liveagent) — AI客服工单插件，月费订阅卖给中小卖家（门槛: 中）
-- **[评分: 7/10]** [Plainserp – Google search API for AI agents at $0.30 per 1k](https://plainserp.com) — 给 AI Agent 用的廉价 Google 搜索 API，按千次调用收费（门槛: 中）
 
 ### 🏷️ 跨境电商与出海独立站工具
 - **[评分: 8/10]** [What is everyone doing about fraud prevention with Shopify taking away order data?](https://www.reddit.com/r/shopify/comments/1wyjkcp/what_is_everyone_doing_about_fraud_prevention/) — Shopify 风控数据被砍，卖家急需第三方反欺诈补位工具（门槛: 中）
 - **[评分: 8/10]** [Bootstrapping to €600k MRR and getting killed by Shopify: Checkout X](https://www.leteyski.com/bootstrapping-to-600k-mrr-and-getting-killed-by-shopify-the-story-of-checkout-x) — 独立站结账优化插件，€600k MRR 验证刚需（门槛: 高）
+- **[评分: 7/10]** [I built a public database of EU GARAN durability labels. Shops add one line of code and the correct label shows up per product, by brand, model and country. Free.](https://www.reddit.com/r/ecommerce/comments/1wyw4lt/i_built_a_public_database_of_eu_garan_durability/) — 欧盟保修标签合规插件，一行代码自动生成，卖家为省事付费（门槛: 中）
 - **[评分: 7/10]** [美西住宅ip推荐哪个？性价比高的，用在claude上](https://www.nodeseek.com/post-966815-1) — AI 账号防封催生住宅 IP 刚需，做美西住宅代理选品与转售（门槛: 中）
 - **[评分: 7/10]** [My wife kept missing her size, so I did what any developer husband would do and built an app for her and now it has 1000 users!](https://www.reddit.com/r/SideProject/comments/1wyn4ja/my_wife_kept_missing_her_size_so_i_did_what_any/) — 断货商品补货监控提醒，按尺码颜色精准通知（门槛: 中）
 - **[评分: 7/10]** [What ROAS do you need to break even after Shopify fees, returns and COGS?](https://www.reddit.com/r/shopify/comments/1wyq47k/what_roas_do_you_need_to_break_even_after_shopify/) — Shopify 保本 ROAS 自动计算器，含退货与复购（门槛: 低）
-- **[评分: 7/10]** [Looking for advice on a Google Ads/SaaS website audit](https://www.reddit.com/r/SaaS/comments/1wyjuxl/looking_for_advice_on_a_google_adssaas_website/) — AI 帮 SaaS 做 Google Ads 合规审计，防封号停投（门槛: 低）
 
 ### 🏷️ B2B 高客单数据抓取与精准名单
 - **[评分: 9/10]** [I MADE $927 IN ONE DAY! with my SaaS as a solo founder](https://www.reddit.com/r/SaaS/comments/1wxk3x2/i_made_927_in_one_day_with_my_saas_as_a_solo/) — 多域名邮箱矩阵冷邮件外呼，帮 B2B 批量获客（门槛: 中）
 - **[评分: 8/10]** [$1.6M ARR, 370 B2B customers, almost half pay late. Looking for advice on finding a mentor or coach.](https://www.reddit.com/r/SaaS/comments/1wyfoqp/16m_arr_370_b2b_customers_almost_half_pay_late/) — 跨境 B2B 多地区电汇收款与逾期催收自动化工具（门槛: 中）
 - **[评分: 8/10]** [I scraped billions of TikTok videos and profiles by reverse engineering the mobile API. Here's how it works + source code](https://www.reddit.com/r/SaaS/comments/1wxoasb/i_scraped_billions_of_tiktok_videos_and_profiles/) — 逆向 TikTok 接口，把爆款趋势与达人名单做成付费数据 API（门槛: 高）
 - **[评分: 8/10]** [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) — 零 API 费抓取社媒，一键交付海外精准潜客名单（门槛: 中）
+- **[评分: 7/10]** [I have every featured Product Hunt launch from the last 757 days in a table. Ask me anything and I'll pull the number.](https://www.reddit.com/r/indiehackers/comments/1wywitl/i_have_every_featured_product_hunt_launch_from/) — Product Hunt 上线数据情报库，按问题卖发布策略（门槛: 低）
 
 ### 🏷️ 视频与动效代交付
 - **[评分: 7/10]** [Grok Bot is f***ing insane](https://www.reddit.com/r/ecommerce/comments/1wyshml/grok_bot_is_fing_insane/) — 用AI替电商卖家做整套邮件营销，替代月费数千美元的外包机构（门槛: 低）
