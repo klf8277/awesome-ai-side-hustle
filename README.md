@@ -76,7 +76,14 @@
 - **[评分: 7/10]** [Wix account got bannned without any reasosn and pathetic customer support.](https://www.reddit.com/r/SaaS/comments/1wyj3u0/wix_account_got_bannned_without_any_reasosn_and/) — 帮独立站卖家把域名和业务从平台账号解耦，做封号容灾托管（门槛: 中）
 - **[评分: 7/10]** [POS Self Checkout](https://www.reddit.com/r/shopify/comments/1wyhvuy/pos_self_checkout/) — 给 Shopify 线下小店做 iPad 无人自助结账插件（门槛: 低）
 - **[评分: 7/10]** [67 packages lost via InPost, Shopify paying out credit only?](https://www.reddit.com/r/shopify/comments/1wyb6n0/67_packages_lost_via_inpost_shopify_paying_out/) — 批量物流丢件自动索赔与赔付追踪工具（门槛: 中）
-- **[评分: 7/10]** [准备注册美国公司来使用 claude](https://www.v2ex.com/t/1246523) — 美国公司注册+Stripe 开户攻略，解 AI 封号痛点（门槛: 中）
+
+### 🏷️ ⚡ 非对称套利与增长黑客
+- **[评分: 8/10]** [I made $5,000 over 2 years from one 10-minute video](https://www.reddit.com/r/passive_income/comments/1wxetby/i_made_5000_over_2_years_from_one_10minute_video/) — 一条视频复制30个长尾词，靠CPL注册每单$3躺赚（门槛: 低）
+- **[评分: 8/10]** [Ontario/Alberta only](https://www.reddit.com/r/passive_income/comments/1wxhd6m/ontarioalberta_only/) — 博彩App注册奖金清单，每日打卡周赚50刀（门槛: 低）
+- **[评分: 7/10]** [Claude Max 20x 拼车 两人车 带质保](https://www.nodeseek.com/post-966567-1) — 官方 AI 订阅拆车转售，赚额度价差与拼车服务费（门槛: 中）
+- **[评分: 7/10]** [bybit改新人返现后用不完了，充gpt找我，55返现](https://www.nodeseek.com/post-966421-1) — 用平台返现额度做海外AI服务代购，五五分套利（门槛: 低）
+- **[评分: 7/10]** [Show HN: Codex and Claude subscriptions pooled together with whoever you trust](https://github.com/jaynlabs/jaynshare) — AI 订阅拼车共享，分摊高价月费赚差价（门槛: 中）
+- **[评分: 7/10]** [收 gcp300 240 明盘](https://www.nodeseek.com/post-966332-1) — 低价收 GCP 300 赠金额度再转手赚差价（门槛: 低）
 
 ### 🏷️ B2B 高客单数据抓取与精准名单
 - **[评分: 9/10]** [I MADE $927 IN ONE DAY! with my SaaS as a solo founder](https://www.reddit.com/r/SaaS/comments/1wxk3x2/i_made_927_in_one_day_with_my_saas_as_a_solo/) — 多域名邮箱矩阵冷邮件外呼，帮 B2B 批量获客（门槛: 中）
@@ -91,13 +98,6 @@
 - **[评分: 8/10]** [Famulor](https://www.producthunt.com/products/famulor-telephony-ai) — 给本地商家搭AI电话+WhatsApp跟进客服，按月收费（门槛: 中）
 - **[评分: 8/10]** [Communicate](https://www.producthunt.com/products/communicate) — 垂直行业AI客服代理，知识库+人工接管月费变现（门槛: 中）
 - **[评分: 7/10]** [Show HN: Halo – A Personal AI with On-Device Harness, Memory and Browser Agent](https://apps.apple.com/us/app/halo-personal-ai/id6783715054) — 本地隐私 AI 助手，$49 终身买断，数据不出手机（门槛: 中）
-
-### 🏷️ ⚡ 非对称套利与增长黑客
-- **[评分: 8/10]** [I made $5,000 over 2 years from one 10-minute video](https://www.reddit.com/r/passive_income/comments/1wxetby/i_made_5000_over_2_years_from_one_10minute_video/) — 一条视频复制30个长尾词，靠CPL注册每单$3躺赚（门槛: 低）
-- **[评分: 8/10]** [Ontario/Alberta only](https://www.reddit.com/r/passive_income/comments/1wxhd6m/ontarioalberta_only/) — 博彩App注册奖金清单，每日打卡周赚50刀（门槛: 低）
-- **[评分: 7/10]** [bybit改新人返现后用不完了，充gpt找我，55返现](https://www.nodeseek.com/post-966421-1) — 用平台返现额度做海外AI服务代购，五五分套利（门槛: 低）
-- **[评分: 7/10]** [Show HN: Codex and Claude subscriptions pooled together with whoever you trust](https://github.com/jaynlabs/jaynshare) — AI 订阅拼车共享，分摊高价月费赚差价（门槛: 中）
-- **[评分: 7/10]** [收 gcp300 240 明盘](https://www.nodeseek.com/post-966332-1) — 低价收 GCP 300 赠金额度再转手赚差价（门槛: 低）
 
 ### 🏷️ 视频与动效代交付
 - **[评分: 7/10]** [I asked Opus 5.5 for a motion graphic and it gave me this 🤯](https://www.reddit.com/r/SaaS/comments/1wycf3l/i_asked_opus_55_for_a_motion_graphic_and_it_gave/) — 用AI给初创公司代做演示动效，替代昂贵动效设计师（门槛: 低）
