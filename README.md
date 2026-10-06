@@ -71,11 +71,11 @@
 - **[评分: 8/10]** [We hand every new signup $1 of API credit. 9,900 signed up in ten days and we banned half of them.](https://www.reddit.com/r/SaaS/comments/1wyv4mh/we_hand_every_new_signup_1_of_api_credit_9900/) — 给发免费额度的平台做防薅羊毛自动封号流水线（门槛: 中）
 - **[评分: 8/10]** [I made $5,000 over 2 years from one 10-minute video](https://www.reddit.com/r/passive_income/comments/1wxetby/i_made_5000_over_2_years_from_one_10minute_video/) — 一条视频复制30个长尾词，靠CPL注册每单$3躺赚（门槛: 低）
 - **[评分: 8/10]** [Ontario/Alberta only](https://www.reddit.com/r/passive_income/comments/1wxhd6m/ontarioalberta_only/) — 博彩App注册奖金清单，每日打卡周赚50刀（门槛: 低）
+- **[评分: 7/10]** [填我muse邀请码2r](https://www.nodeseek.com/post-967520-1) — 填邀请码白拿10亿AI词元，双边返利套利（门槛: 低）
 - **[评分: 7/10]** [做了个国内大模型 API 中转，说说各家价格对比和省钱技巧](https://www.v2ex.com/t/1246657) — 大模型 API 批量中转，吃闲时半价与缓存折扣差价（门槛: 中）
 - **[评分: 7/10]** [国外机构实测GPT/Claude订阅额度](https://www.nodeseek.com/post-967329-1) — 同价订阅额度差5倍，做AI订阅比价与代充套利（门槛: 低）
 - **[评分: 7/10]** [接上回，Claude pro用自己护照过kyc+谷歌pay订阅](https://www.nodeseek.com/post-966907-1) — 护照KYC+谷歌支付绕过封锁稳定订阅Claude Pro（门槛: 中）
 - **[评分: 7/10]** [[公益中转站]bothome for develops 免费cc+gpt+国模 有账号要求](https://www.nodeseek.com/post-966908-1) — GitHub 老号白嫖 150 刀 AI 额度，签到续领（门槛: 低）
-- **[评分: 7/10]** [个人使用 Claude 防止封号的经验分享](https://www.v2ex.com/t/1246574) — Claude 防封住宅 IP 代理与配置包（门槛: 中）
 
 ### 🏷️ 极窄场景的 Micro-AI 插件
 - **[评分: 8/10]** [Got my first purchase of one of my free apps!](https://www.reddit.com/r/SideProject/comments/1wynjck/got_my_first_purchase_of_one_of_my_free_apps/) — 免费小工具挂自愿付费，首单即验证打赏变现（门槛: 低）
