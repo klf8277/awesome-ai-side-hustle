@@ -32,7 +32,7 @@
 ---
 
 ## 🔥 今日精选高潜力商机 (Top Featured)
-*最后更新：2026-10-06 ｜ 数据源自全球技术雷达自动研判*
+*最后更新：2026-10-07 ｜ 数据源自全球技术雷达自动研判*
 
 | 评分 | 标杆项目 / 原型 | 赛道 | 门槛 | 商业研判与一句话逻辑 | 原始链接 | 完整研报 |
 |---|---|---|---|---|---|---|
@@ -75,9 +75,18 @@
 - **[评分: 8/10]** [I built an Amazon Flex station Closure tracker. I made over $632 from donations alone in the last week!](https://www.reddit.com/r/SaaS/comments/1wyblws/i_built_an_amazon_flex_station_closure_tracker_i/) — 给配送司机做站点关闭提醒，靠打赏周入 632 美元（门槛: 低）
 - **[评分: 8/10]** [Famulor](https://www.producthunt.com/products/famulor-telephony-ai) — 给本地商家搭AI电话+WhatsApp跟进客服，按月收费（门槛: 中）
 - **[评分: 8/10]** [Communicate](https://www.producthunt.com/products/communicate) — 垂直行业AI客服代理，知识库+人工接管月费变现（门槛: 中）
+- **[评分: 7/10]** [做了个 PDF 银行流水转 Excel 的网站](https://www.v2ex.com/t/1246688) — PDF 银行流水一键转 Excel，卖给会计和财务团队按次收费（门槛: 中）
+- **[评分: 7/10]** [Show HN: Octri.dev – Generate customizable docs, 10 SDKs, and get an MCP server](https://octri.dev) — 给独立开发者的平价 API 文档与多语言 SDK 自动生成器（门槛: 中）
 - **[评分: 7/10]** [I built a knitting app that keeps your place in the PDF patterns you already own](https://www.reddit.com/r/SideProject/comments/1wyxe7o/i_built_a_knitting_app_that_keeps_your_place_in/) — PDF图解自动定位行数的编织助手，一次买断替代年费订阅（门槛: 中）
-- **[评分: 7/10]** [LiveAgent: Over $250K monthly recurring revenue with a spin-off project](https://www.failory.com/mistakes/liveagent) — AI客服工单插件，月费订阅卖给中小卖家（门槛: 中）
-- **[评分: 7/10]** [Plainserp – Google search API for AI agents at $0.30 per 1k](https://plainserp.com) — 给 AI Agent 用的廉价 Google 搜索 API，按千次调用收费（门槛: 中）
+
+### 🏷️ ⚡ 非对称套利与增长黑客
+- **[评分: 8/10]** [We hand every new signup $1 of API credit. 9,900 signed up in ten days and we banned half of them.](https://www.reddit.com/r/SaaS/comments/1wyv4mh/we_hand_every_new_signup_1_of_api_credit_9900/) — 给发免费额度的平台做防薅羊毛自动封号流水线（门槛: 中）
+- **[评分: 8/10]** [I made $5,000 over 2 years from one 10-minute video](https://www.reddit.com/r/passive_income/comments/1wxetby/i_made_5000_over_2_years_from_one_10minute_video/) — 一条视频复制30个长尾词，靠CPL注册每单$3躺赚（门槛: 低）
+- **[评分: 8/10]** [Ontario/Alberta only](https://www.reddit.com/r/passive_income/comments/1wxhd6m/ontarioalberta_only/) — 博彩App注册奖金清单，每日打卡周赚50刀（门槛: 低）
+- **[评分: 7/10]** [Claude 一条龙服务？](https://www.v2ex.com/t/1246664) — 卖「不封号」的 Claude 稳定配置与美区充值一条龙服务（门槛: 中）
+- **[评分: 7/10]** [填我muse邀请码2r](https://www.nodeseek.com/post-967520-1) — 填邀请码白拿10亿AI词元，双边返利套利（门槛: 低）
+- **[评分: 7/10]** [做了个国内大模型 API 中转，说说各家价格对比和省钱技巧](https://www.v2ex.com/t/1246657) — 大模型 API 批量中转，吃闲时半价与缓存折扣差价（门槛: 中）
+- **[评分: 7/10]** [国外机构实测GPT/Claude订阅额度](https://www.nodeseek.com/post-967329-1) — 同价订阅额度差5倍，做AI订阅比价与代充套利（门槛: 低）
 
 ### 🏷️ B2B 高客单数据抓取与精准名单
 - **[评分: 9/10]** [I MADE $927 IN ONE DAY! with my SaaS as a solo founder](https://www.reddit.com/r/SaaS/comments/1wxk3x2/i_made_927_in_one_day_with_my_saas_as_a_solo/) — 多域名邮箱矩阵冷邮件外呼，帮 B2B 批量获客（门槛: 中）
@@ -87,21 +96,10 @@
 - **[评分: 8/10]** [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) — 零 API 费抓取社媒，一键交付海外精准潜客名单（门槛: 中）
 - **[评分: 7/10]** [I have every featured Product Hunt launch from the last 757 days in a table. Ask me anything and I'll pull the number.](https://www.reddit.com/r/indiehackers/comments/1wywitl/i_have_every_featured_product_hunt_launch_from/) — Product Hunt 上线数据情报库，按问题卖发布策略（门槛: 低）
 
-### 🏷️ ⚡ 非对称套利与增长黑客
-- **[评分: 8/10]** [We hand every new signup $1 of API credit. 9,900 signed up in ten days and we banned half of them.](https://www.reddit.com/r/SaaS/comments/1wyv4mh/we_hand_every_new_signup_1_of_api_credit_9900/) — 给发免费额度的平台做防薅羊毛自动封号流水线（门槛: 中）
-- **[评分: 8/10]** [I made $5,000 over 2 years from one 10-minute video](https://www.reddit.com/r/passive_income/comments/1wxetby/i_made_5000_over_2_years_from_one_10minute_video/) — 一条视频复制30个长尾词，靠CPL注册每单$3躺赚（门槛: 低）
-- **[评分: 8/10]** [Ontario/Alberta only](https://www.reddit.com/r/passive_income/comments/1wxhd6m/ontarioalberta_only/) — 博彩App注册奖金清单，每日打卡周赚50刀（门槛: 低）
-- **[评分: 7/10]** [填我muse邀请码2r](https://www.nodeseek.com/post-967520-1) — 填邀请码白拿10亿AI词元，双边返利套利（门槛: 低）
-- **[评分: 7/10]** [做了个国内大模型 API 中转，说说各家价格对比和省钱技巧](https://www.v2ex.com/t/1246657) — 大模型 API 批量中转，吃闲时半价与缓存折扣差价（门槛: 中）
-- **[评分: 7/10]** [国外机构实测GPT/Claude订阅额度](https://www.nodeseek.com/post-967329-1) — 同价订阅额度差5倍，做AI订阅比价与代充套利（门槛: 低）
-
 ### 🏷️ 跨境电商与出海独立站工具
 - **[评分: 8/10]** [What is everyone doing about fraud prevention with Shopify taking away order data?](https://www.reddit.com/r/shopify/comments/1wyjkcp/what_is_everyone_doing_about_fraud_prevention/) — Shopify 风控数据被砍，卖家急需第三方反欺诈补位工具（门槛: 中）
 - **[评分: 8/10]** [Bootstrapping to €600k MRR and getting killed by Shopify: Checkout X](https://www.leteyski.com/bootstrapping-to-600k-mrr-and-getting-killed-by-shopify-the-story-of-checkout-x) — 独立站结账优化插件，€600k MRR 验证刚需（门槛: 高）
 - **[评分: 7/10]** [I built a public database of EU GARAN durability labels. Shops add one line of code and the correct label shows up per product, by brand, model and country. Free.](https://www.reddit.com/r/ecommerce/comments/1wyw4lt/i_built_a_public_database_of_eu_garan_durability/) — 欧盟保修标签合规插件，一行代码自动生成，卖家为省事付费（门槛: 中）
-
-### 🏷️ 视频与动效代交付
-- **[评分: 7/10]** [Grok Bot is f***ing insane](https://www.reddit.com/r/ecommerce/comments/1wyshml/grok_bot_is_fing_insane/) — 用AI替电商卖家做整套邮件营销，替代月费数千美元的外包机构（门槛: 低）
 
 
 ---
