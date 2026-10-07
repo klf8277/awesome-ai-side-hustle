@@ -38,6 +38,7 @@
 |---|---|---|---|---|---|---|
 | **⭐️ 9/10** | **New Record - $1,478 in ONE DAY! (Should I fundraise?)** | `垂直数字资产与全自动工作流模板` | 中 | 给初创公司做 GTM 工作流与邮件基建，单日营收破千刀 | [🔗 来源](https://www.reddit.com/r/SaaS/comments/1wz4ugu/new_record_1478_in_one_day_should_i_fundraise/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 9/10** | **I MADE $927 IN ONE DAY! with my SaaS as a solo founder** | `B2B 高客单数据抓取与精准名单` | 中 | 多域名邮箱矩阵冷邮件外呼，帮 B2B 批量获客 | [🔗 来源](https://www.reddit.com/r/SaaS/comments/1wxk3x2/i_made_927_in_one_day_with_my_saas_as_a_solo/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
+| **⭐️ 8/10** | **My SAAS is making $175 MRR but $42 went to API and hosting bills. How do you track what you keep each month?** | `垂直数字资产与全自动工作流模板` | 低 | 给独立开发者做「真实利润」聚合看板，一键算清 API 与托管成本 | [🔗 来源](https://www.reddit.com/r/SaaS/comments/1x057ed/my_saas_is_making_175_mrr_but_42_went_to_api_and/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 8/10** | **Claude is offering startups 12 months of free Claude** | `⚡ 非对称套利与增长黑客` | 低 | 用公司邮箱白拿一年 7000 美元 Claude 额度，AI 成本归零 | [🔗 来源](https://www.reddit.com/r/SideProject/comments/1x009vd/claude_is_offering_startups_12_months_of_free/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 8/10** | **I made $31.29 on Teachers Pay Teachers over the last 30 days selling simple educational printables** | `垂直数字资产与全自动工作流模板` | 低 | AI批量做可打印教辅，挂TPT零推广被动收美元 | [🔗 来源](https://www.reddit.com/r/passive_income/comments/1wzo3it/i_made_3129_on_teachers_pay_teachers_over_the/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 8/10** | **[Token Unlimited 中转站] Azure 官 key 渠道，满血 GPT 模型，最后两天限时优惠，留言赠 $3（新老同享）** | `⚡ 非对称套利与增长黑客` | 中 | 0.4 折囤 GPT 官 key 额度，回帖再白拿 $3 | [🔗 来源](https://www.v2ex.com/t/1246636) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
@@ -45,7 +46,6 @@
 | **⭐️ 8/10** | **how i got my first software to €3k mrr with zero ad spend** | `垂直数字资产与全自动工作流模板` | 中 | 给创作者做AI粉丝聊天工具，免费额度换付费订阅 | [🔗 来源](https://www.reddit.com/r/SaaS/comments/1wz4u1r/how_i_got_my_first_software_to_3k_mrr_with_zero/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 8/10** | **The travel data side project I built solo just hit 37 paying customers, and most of the new ones found it on their own** | `B2B 高客单数据抓取与精准名单` | 中 | 逆向旅行比价数据做成 API，挂平台靠自然流量收订阅费 | [🔗 来源](https://www.reddit.com/r/SaaS/comments/1wz0ue6/the_travel_data_side_project_i_built_solo_just/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 8/10** | **How we reached $6250 monthly recurring revenue in 77 days from launch** | `垂直数字资产与全自动工作流模板` | 中 | 帮团队把help@、jobs@等公共邮箱变成共享收件箱，按月订阅收费 | [🔗 来源](https://news.ycombinator.com/item?id=22364941) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
-| **⭐️ 8/10** | **We hand every new signup $1 of API credit. 9,900 signed up in ten days and we banned half of them.** | `⚡ 非对称套利与增长黑客` | 中 | 给发免费额度的平台做防薅羊毛自动封号流水线 | [🔗 来源](https://www.reddit.com/r/SaaS/comments/1wyv4mh/we_hand_every_new_signup_1_of_api_credit_9900/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 
 ---
 
@@ -53,6 +53,7 @@
 
 ### 🏷️ 垂直数字资产与全自动工作流模板
 - **[评分: 9/10]** [New Record - $1,478 in ONE DAY! (Should I fundraise?)](https://www.reddit.com/r/SaaS/comments/1wz4ugu/new_record_1478_in_one_day_should_i_fundraise/) — 给初创公司做 GTM 工作流与邮件基建，单日营收破千刀（门槛: 中）
+- **[评分: 8/10]** [My SAAS is making $175 MRR but $42 went to API and hosting bills. How do you track what you keep each month?](https://www.reddit.com/r/SaaS/comments/1x057ed/my_saas_is_making_175_mrr_but_42_went_to_api_and/) — 给独立开发者做「真实利润」聚合看板，一键算清 API 与托管成本（门槛: 低）
 - **[评分: 8/10]** [I made $31.29 on Teachers Pay Teachers over the last 30 days selling simple educational printables](https://www.reddit.com/r/passive_income/comments/1wzo3it/i_made_3129_on_teachers_pay_teachers_over_the/) — AI批量做可打印教辅，挂TPT零推广被动收美元（门槛: 低）
 - **[评分: 8/10]** [how i got my first software to €3k mrr with zero ad spend](https://www.reddit.com/r/SaaS/comments/1wz4u1r/how_i_got_my_first_software_to_3k_mrr_with_zero/) — 给创作者做AI粉丝聊天工具，免费额度换付费订阅（门槛: 中）
 - **[评分: 8/10]** [How we reached $6250 monthly recurring revenue in 77 days from launch](https://news.ycombinator.com/item?id=22364941) — 帮团队把help@、jobs@等公共邮箱变成共享收件箱，按月订阅收费（门槛: 中）
@@ -66,7 +67,6 @@
 - **[评分: 8/10]** [Ask HN: How do I manage the profit of a successful website?](https://news.ycombinator.com/item?id=29779944) — 单人订阅站月入$45k，利润处置与税务优化是付费买点（门槛: 中）
 - **[评分: 8/10]** [Show HN: After 2.5 years on my side project, it has hit £500/month revenue](https://news.ycombinator.com/item?id=25372464) — 音频私密分享SaaS，替代Bandcamp/SoundCloud的细分付费工具（门槛: 中）
 - **[评分: 8/10]** [Ask HN: Is it okay to just bootstrap it, even when VCs are knocking?](https://news.ycombinator.com/item?id=32746741) — 单人 bootstrap SaaS 做到 15K MRR 的订阅变现样本（门槛: 中）
-- **[评分: 7/10]** [Out of my 7 SaaS products, only 2 got real traction. Here’s what they had in common](https://www.reddit.com/r/SideProject/comments/1x01kk2/out_of_my_7_saas_products_only_2_got_real/) — 帮网红追踪品牌合作、催收欠款的轻量工具（门槛: 低）
 
 ### 🏷️ 极窄场景的 Micro-AI 插件
 - **[评分: 8/10]** [We did itt ! 😭😭 $2K in a span of 6 months (Coupon Giveaway included)](https://www.reddit.com/r/SaaS/comments/1wzmeb5/we_did_itt_2k_in_a_span_of_6_months_coupon/) — 本地隐私版 AI 会议纪要，零投放 6 个月收 $2K（门槛: 中）
@@ -75,6 +75,8 @@
 - **[评分: 8/10]** [I built an Amazon Flex station Closure tracker. I made over $632 from donations alone in the last week!](https://www.reddit.com/r/SaaS/comments/1wyblws/i_built_an_amazon_flex_station_closure_tracker_i/) — 给配送司机做站点关闭提醒，靠打赏周入 632 美元（门槛: 低）
 - **[评分: 8/10]** [Famulor](https://www.producthunt.com/products/famulor-telephony-ai) — 给本地商家搭AI电话+WhatsApp跟进客服，按月收费（门槛: 中）
 - **[评分: 8/10]** [Communicate](https://www.producthunt.com/products/communicate) — 垂直行业AI客服代理，知识库+人工接管月费变现（门槛: 中）
+- **[评分: 7/10]** [launched my app a week ago and its already getting paid users from different countries](https://www.reddit.com/r/SaaS/comments/1x0855m/launched_my_app_a_week_ago_and_its_already/) — MacBook 刘海监控 AI 代理状态与花费，多国开发者已付费（门槛: 低）
+- **[评分: 7/10]** [Layout - a Mac app that switches your whole dev setup between projects with one shortcut](https://www.reddit.com/r/SideProject/comments/1x03ser/layout_a_mac_app_that_switches_your_whole_dev/) — 多项目开发者的 Mac 窗口工作区切换器，一次快捷键归位全部窗口（门槛: 中）
 - **[评分: 7/10]** [Show HN: VoiceGremlin, a SaaS tool for automated tests against AI phone agents](https://voicegremlin.com/) — 给 AI 电话代理做自动化测试的 SaaS，痛点真实可收费（门槛: 中）
 - **[评分: 7/10]** [Show HN: VoiceGremlin, a SaaS tool for automated tests against AI phone agents](https://voicegremlin.com/) — 给 AI 电话客服做自动化测试的 SaaS，痛点明确有人已付费（门槛: 中）
 
@@ -98,10 +100,6 @@
 - **[评分: 8/10]** [What is everyone doing about fraud prevention with Shopify taking away order data?](https://www.reddit.com/r/shopify/comments/1wyjkcp/what_is_everyone_doing_about_fraud_prevention/) — Shopify 风控数据被砍，卖家急需第三方反欺诈补位工具（门槛: 中）
 - **[评分: 8/10]** [Bootstrapping to €600k MRR and getting killed by Shopify: Checkout X](https://www.leteyski.com/bootstrapping-to-600k-mrr-and-getting-killed-by-shopify-the-story-of-checkout-x) — 独立站结账优化插件，€600k MRR 验证刚需（门槛: 高）
 - **[评分: 7/10]** [welp, we just lost automated tax filings](https://www.reddit.com/r/shopify/comments/1x006h6/welp_we_just_lost_automated_tax_filings/) — Shopify 停报税，卖家急找替代，做跨境税表自动化小工具（门槛: 中）
-
-### 🏷️ 视频与动效代交付
-- **[评分: 7/10]** [I built a small affiliate-content workflow that made ~$380 last month — realistic numbers, not “passive income” hype](https://www.reddit.com/r/passive_income/comments/1wzst1h/i_built_a_small_affiliatecontent_workflow_that/) — AI批量产带货短视频，赚联盟佣金，月入数百美元（门槛: 低）
-- **[评分: 7/10]** [Built an AI zombie hug tool — aizombie.app: 2 photos → ~20s vertical clip, guest checkout $9.90](https://www.v2ex.com/t/1246852) — 热门短视频模板做成 $9.9 一次性付费生成器（门槛: 低）
 
 
 ---
