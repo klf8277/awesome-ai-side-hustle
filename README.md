@@ -70,6 +70,16 @@
 - **[评分: 7/10]** [How we minimized cloud infrastructure overhead to offer an always-on AI agent layer for $10/mo instead of the standard $200/mo corporate stack.](https://www.reddit.com/r/SaaS/comments/1wzc8s3/how_we_minimized_cloud_infrastructure_overhead_to/) — 把常驻 AI 代理成本压到 $10/月，做低价订阅层卖给小团队（门槛: 中）
 - **[评分: 7/10]** [First-time founder, already started to raise. How much of this is paperwork and how much is actually fundraising? (I will not promote)](https://www.reddit.com/r/startups/comments/1wz7jr8/firsttime_founder_already_started_to_raise_how/) — 首次融资合规清单与截止日提醒工具，帮创始人少踩83(b)和备案坑（门槛: 中）
 
+### 🏷️ ⚡ 非对称套利与增长黑客
+- **[评分: 8/10]** [We hand every new signup $1 of API credit. 9,900 signed up in ten days and we banned half of them.](https://www.reddit.com/r/SaaS/comments/1wyv4mh/we_hand_every_new_signup_1_of_api_credit_9900/) — 给发免费额度的平台做防薅羊毛自动封号流水线（门槛: 中）
+- **[评分: 8/10]** [I made $5,000 over 2 years from one 10-minute video](https://www.reddit.com/r/passive_income/comments/1wxetby/i_made_5000_over_2_years_from_one_10minute_video/) — 一条视频复制30个长尾词，靠CPL注册每单$3躺赚（门槛: 低）
+- **[评分: 8/10]** [Ontario/Alberta only](https://www.reddit.com/r/passive_income/comments/1wxhd6m/ontarioalberta_only/) — 博彩App注册奖金清单，每日打卡周赚50刀（门槛: 低）
+- **[评分: 7/10]** [被封 30 多个号换来的防封教程，静态 IP+指纹浏览器这套靠谱吗](https://www.nodeseek.com/post-968083-1) — AI账号防封组合方案，打包成工具或教程卖给批量用户（门槛: 中）
+- **[评分: 7/10]** [TG Bot 签到 50 天白嫖 18 个月 Gemini Pro，有 mjj 在肝吗](https://www.nodeseek.com/post-968078-1) — 签到攒积分换 18 个月 Gemini Pro 的免费额度套利窗口（门槛: 低）
+- **[评分: 7/10]** [继续接muse注册邀请相关，代注册，代助力，成品号都可以](https://www.nodeseek.com/post-968022-1) — 批量注册平台邀请额度，按次或成品号转卖套利（门槛: 低）
+- **[评分: 7/10]** [被封三十多个 Claude 号的防封策略分享](https://www.nodeseek.com/post-968032-1) — Claude Max 防封订阅方案，帮用户保住高额账号（门槛: 中）
+- **[评分: 7/10]** [转发：X上大佬的X会员自助赠送开通服务-32.8元/6个月](https://www.nodeseek.com/post-967972-1) — X蓝V会员低价代充，吃官方区域定价差套利（门槛: 低）
+
 ### 🏷️ 极窄场景的 Micro-AI 插件
 - **[评分: 8/10]** [Got my first purchase of one of my free apps!](https://www.reddit.com/r/SideProject/comments/1wynjck/got_my_first_purchase_of_one_of_my_free_apps/) — 免费小工具挂自愿付费，首单即验证打赏变现（门槛: 低）
 - **[评分: 8/10]** [Show HN: Halo – A Personal AI with On-Device Harness, Memory and Browser Agent](https://apps.apple.com/us/app/halo-personal-ai/id6783715054) — 端侧隐私 AI 助手，$49 终身买断，数据不出手机（门槛: 中）
@@ -77,15 +87,6 @@
 - **[评分: 8/10]** [Famulor](https://www.producthunt.com/products/famulor-telephony-ai) — 给本地商家搭AI电话+WhatsApp跟进客服，按月收费（门槛: 中）
 - **[评分: 8/10]** [Communicate](https://www.producthunt.com/products/communicate) — 垂直行业AI客服代理，知识库+人工接管月费变现（门槛: 中）
 - **[评分: 7/10]** [Cassette - a tape deck for iPhone and Apple Watch that writes your notes with Apple's own models](https://www.reddit.com/r/SideProject/comments/1wz8thk/cassette_a_tape_deck_for_iphone_and_apple_watch/) — 苹果本地模型做会议录音转写摘要，订阅+终身买断变现（门槛: 中）
-- **[评分: 7/10]** [After 5 Months of GRINDING... I hit 11k in revenue!](https://www.reddit.com/r/SaaS/comments/1wz5eb4/after_5_months_of_grinding_i_hit_11k_in_revenue/) — 给 AI 生成的应用做安全体检，按月订阅收费（门槛: 中）
-
-### 🏷️ ⚡ 非对称套利与增长黑客
-- **[评分: 8/10]** [We hand every new signup $1 of API credit. 9,900 signed up in ten days and we banned half of them.](https://www.reddit.com/r/SaaS/comments/1wyv4mh/we_hand_every_new_signup_1_of_api_credit_9900/) — 给发免费额度的平台做防薅羊毛自动封号流水线（门槛: 中）
-- **[评分: 8/10]** [I made $5,000 over 2 years from one 10-minute video](https://www.reddit.com/r/passive_income/comments/1wxetby/i_made_5000_over_2_years_from_one_10minute_video/) — 一条视频复制30个长尾词，靠CPL注册每单$3躺赚（门槛: 低）
-- **[评分: 8/10]** [Ontario/Alberta only](https://www.reddit.com/r/passive_income/comments/1wxhd6m/ontarioalberta_only/) — 博彩App注册奖金清单，每日打卡周赚50刀（门槛: 低）
-- **[评分: 7/10]** [继续接muse注册邀请相关，代注册，代助力，成品号都可以](https://www.nodeseek.com/post-968022-1) — 批量注册平台邀请额度，按次或成品号转卖套利（门槛: 低）
-- **[评分: 7/10]** [被封三十多个 Claude 号的防封策略分享](https://www.nodeseek.com/post-968032-1) — Claude Max 防封订阅方案，帮用户保住高额账号（门槛: 中）
-- **[评分: 7/10]** [转发：X上大佬的X会员自助赠送开通服务-32.8元/6个月](https://www.nodeseek.com/post-967972-1) — X蓝V会员低价代充，吃官方区域定价差套利（门槛: 低）
 
 ### 🏷️ B2B 高客单数据抓取与精准名单
 - **[评分: 9/10]** [I MADE $927 IN ONE DAY! with my SaaS as a solo founder](https://www.reddit.com/r/SaaS/comments/1wxk3x2/i_made_927_in_one_day_with_my_saas_as_a_solo/) — 多域名邮箱矩阵冷邮件外呼，帮 B2B 批量获客（门槛: 中）
@@ -98,7 +99,6 @@
 - **[评分: 8/10]** [What is everyone doing about fraud prevention with Shopify taking away order data?](https://www.reddit.com/r/shopify/comments/1wyjkcp/what_is_everyone_doing_about_fraud_prevention/) — Shopify 风控数据被砍，卖家急需第三方反欺诈补位工具（门槛: 中）
 - **[评分: 8/10]** [Bootstrapping to €600k MRR and getting killed by Shopify: Checkout X](https://www.leteyski.com/bootstrapping-to-600k-mrr-and-getting-killed-by-shopify-the-story-of-checkout-x) — 独立站结账优化插件，€600k MRR 验证刚需（门槛: 高）
 - **[评分: 7/10]** [各位大佬是怎么stripe收款的](https://www.nodeseek.com/post-967940-1) — 帮被Stripe卡款的卖家解决提现与替代收款通道（门槛: 中）
-- **[评分: 7/10]** [Launched an influencer led brand this week on Shopify, response has been decent. Wondering the next best steps?](https://www.reddit.com/r/shopify/comments/1wz3vt7/launched_an_influencer_led_brand_this_week_on/) — 网红带货独立站首日 8500 美元，补货预测与投放工具是刚需（门槛: 中）
 
 ### 🏷️ 视频与动效代交付
 - **[评分: 7/10]** [Guysss i just made my 2nd sale. Hoping to reach 1k before gta 6](https://www.reddit.com/r/SaaS/comments/1wzin8r/guysss_i_just_made_my_2nd_sale_hoping_to_reach_1k/) — AI 自动扒 TikTok 爆款格式并生成幻灯片，创作者付费（门槛: 低）
