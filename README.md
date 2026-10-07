@@ -32,7 +32,7 @@
 ---
 
 ## 🔥 今日精选高潜力商机 (Top Featured)
-*最后更新：2026-10-07 ｜ 数据源自全球技术雷达自动研判*
+*最后更新：2026-10-08 ｜ 数据源自全球技术雷达自动研判*
 
 | 评分 | 标杆项目 / 原型 | 赛道 | 门槛 | 商业研判与一句话逻辑 | 原始链接 | 完整研报 |
 |---|---|---|---|---|---|---|
@@ -68,16 +68,6 @@
 - **[评分: 8/10]** [Ask HN: Is it okay to just bootstrap it, even when VCs are knocking?](https://news.ycombinator.com/item?id=32746741) — 单人 bootstrap SaaS 做到 15K MRR 的订阅变现样本（门槛: 中）
 - **[评分: 7/10]** [Personalized Landing Pages - different copy for different visitors, without changing the offer. Code on GitHub. Doesnt need LLM so is super duper fast and needs one JS snippet addition and nothing more.](https://www.reddit.com/r/SideProject/comments/1wzrsnp/personalized_landing_pages_different_copy_for/) — 按访客来源自动换落地页文案，$5/站订阅变现（门槛: 中）
 
-### 🏷️ ⚡ 非对称套利与增长黑客
-- **[评分: 8/10]** [[Token Unlimited 中转站] Azure 官 key 渠道，满血 GPT 模型，最后两天限时优惠，留言赠 $3（新老同享）](https://www.v2ex.com/t/1246636) — 0.4 折囤 GPT 官 key 额度，回帖再白拿 $3（门槛: 中）
-- **[评分: 8/10]** [We hand every new signup $1 of API credit. 9,900 signed up in ten days and we banned half of them.](https://www.reddit.com/r/SaaS/comments/1wyv4mh/we_hand_every_new_signup_1_of_api_credit_9900/) — 给发免费额度的平台做防薅羊毛自动封号流水线（门槛: 中）
-- **[评分: 8/10]** [I made $5,000 over 2 years from one 10-minute video](https://www.reddit.com/r/passive_income/comments/1wxetby/i_made_5000_over_2_years_from_one_10minute_video/) — 一条视频复制30个长尾词，靠CPL注册每单$3躺赚（门槛: 低）
-- **[评分: 8/10]** [Ontario/Alberta only](https://www.reddit.com/r/passive_income/comments/1wxhd6m/ontarioalberta_only/) — 博彩App注册奖金清单，每日打卡周赚50刀（门槛: 低）
-- **[评分: 7/10]** [muse 邀请码](https://www.nodeseek.com/post-969488-1) — Muse 邀请码互领10亿词元，零成本薅AI算力额度（门槛: 低）
-- **[评分: 7/10]** [【claude 5× 】提示：您已获得 250 美元云会话奖励额度，可在您的套餐限额之外使用 是什么意思？](https://www.nodeseek.com/post-969493-1) — 250 美元 AI 云额度放水，信息差套利与代充服务（门槛: 低）
-- **[评分: 7/10]** [原来workbuddy 1个积分=31,874  token ，还真大方](https://www.nodeseek.com/post-968991-1) — 新平台送6000万token额度，薅算力差价或转售变现（门槛: 低）
-- **[评分: 7/10]** [hark 你们领了吗](https://www.nodeseek.com/post-968979-1) — AI 工具免费 Pro 额度实测与领取攻略（门槛: 低）
-
 ### 🏷️ 极窄场景的 Micro-AI 插件
 - **[评分: 8/10]** [We did itt ! 😭😭 $2K in a span of 6 months (Coupon Giveaway included)](https://www.reddit.com/r/SaaS/comments/1wzmeb5/we_did_itt_2k_in_a_span_of_6_months_coupon/) — 本地隐私版 AI 会议纪要，零投放 6 个月收 $2K（门槛: 中）
 - **[评分: 8/10]** [Got my first purchase of one of my free apps!](https://www.reddit.com/r/SideProject/comments/1wynjck/got_my_first_purchase_of_one_of_my_free_apps/) — 免费小工具挂自愿付费，首单即验证打赏变现（门槛: 低）
@@ -96,10 +86,22 @@
 - **[评分: 8/10]** [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) — 零 API 费抓取社媒，一键交付海外精准潜客名单（门槛: 中）
 - **[评分: 7/10]** [What outbound tools are companies actually using that convert and not just generate noise?](https://www.reddit.com/r/SaaS/comments/1wzscvl/what_outbound_tools_are_companies_actually_using/) — 卖能约到会的精准潜客名单，不卖工具（门槛: 中）
 
+### 🏷️ ⚡ 非对称套利与增长黑客
+- **[评分: 8/10]** [[Token Unlimited 中转站] Azure 官 key 渠道，满血 GPT 模型，最后两天限时优惠，留言赠 $3（新老同享）](https://www.v2ex.com/t/1246636) — 0.4 折囤 GPT 官 key 额度，回帖再白拿 $3（门槛: 中）
+- **[评分: 8/10]** [We hand every new signup $1 of API credit. 9,900 signed up in ten days and we banned half of them.](https://www.reddit.com/r/SaaS/comments/1wyv4mh/we_hand_every_new_signup_1_of_api_credit_9900/) — 给发免费额度的平台做防薅羊毛自动封号流水线（门槛: 中）
+- **[评分: 8/10]** [I made $5,000 over 2 years from one 10-minute video](https://www.reddit.com/r/passive_income/comments/1wxetby/i_made_5000_over_2_years_from_one_10minute_video/) — 一条视频复制30个长尾词，靠CPL注册每单$3躺赚（门槛: 低）
+- **[评分: 8/10]** [Ontario/Alberta only](https://www.reddit.com/r/passive_income/comments/1wxhd6m/ontarioalberta_only/) — 博彩App注册奖金清单，每日打卡周赚50刀（门槛: 低）
+- **[评分: 7/10]** [muse 邀请码](https://www.nodeseek.com/post-969488-1) — Muse 邀请码互领10亿词元，零成本薅AI算力额度（门槛: 低）
+- **[评分: 7/10]** [【claude 5× 】提示：您已获得 250 美元云会话奖励额度，可在您的套餐限额之外使用 是什么意思？](https://www.nodeseek.com/post-969493-1) — 250 美元 AI 云额度放水，信息差套利与代充服务（门槛: 低）
+
 ### 🏷️ 跨境电商与出海独立站工具
 - **[评分: 8/10]** [What is everyone doing about fraud prevention with Shopify taking away order data?](https://www.reddit.com/r/shopify/comments/1wyjkcp/what_is_everyone_doing_about_fraud_prevention/) — Shopify 风控数据被砍，卖家急需第三方反欺诈补位工具（门槛: 中）
 - **[评分: 8/10]** [Bootstrapping to €600k MRR and getting killed by Shopify: Checkout X](https://www.leteyski.com/bootstrapping-to-600k-mrr-and-getting-killed-by-shopify-the-story-of-checkout-x) — 独立站结账优化插件，€600k MRR 验证刚需（门槛: 高）
 - **[评分: 7/10]** [Same store, same ad spend, Q3 down a third from 2022. Is google organic just over for small stores?](https://www.reddit.com/r/ecommerce/comments/1wzwt6x/same_store_same_ad_spend_q3_down_a_third_from/) — 帮独立站被 ChatGPT 推荐，替代失效的 SEO 预算（门槛: 中）
+
+### 🏷️ 视频与动效代交付
+- **[评分: 7/10]** [Built an AI zombie hug tool — aizombie.app: 2 photos → ~20s vertical clip, guest checkout $9.90](https://www.v2ex.com/t/1246852) — 热门短视频模板做成 $9.9 一次性付费生成器（门槛: 低）
+- **[评分: 7/10]** [Show HN: I made a Jackbox-style tower defense game where trivia earns you gold](https://couchslop.com/tower) — 免费派对游戏引流，定制题目版本 $9.99 变现（门槛: 中）
 
 
 ---
