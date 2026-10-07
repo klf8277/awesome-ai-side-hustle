@@ -77,7 +77,6 @@
 - **[评分: 7/10]** [hark 你们领了吗](https://www.nodeseek.com/post-968979-1) — AI 工具免费 Pro 额度实测与领取攻略（门槛: 低）
 - **[评分: 7/10]** [等了几天，终于注册成功 muse](https://www.nodeseek.com/post-968884-1) — 填邀请码白拿 10 亿 AI 词元额度（门槛: 低）
 - **[评分: 7/10]** [claude pro ios 130 以下的私一天 30,40 个](https://www.nodeseek.com/post-968880-1) — 低价 Claude Pro 订阅渠道批量收单，赚跨区价差（门槛: 中）
-- **[评分: 7/10]** [muse 邀请码 助力   DB2OO9](https://www.nodeseek.com/post-968665-1) — AI平台拉新送10亿词元，邀请码双向套利（门槛: 低）
 
 ### 🏷️ 极窄场景的 Micro-AI 插件
 - **[评分: 8/10]** [We did itt ! 😭😭 $2K in a span of 6 months (Coupon Giveaway included)](https://www.reddit.com/r/SaaS/comments/1wzmeb5/we_did_itt_2k_in_a_span_of_6_months_coupon/) — 本地隐私版 AI 会议纪要，零投放 6 个月收 $2K（门槛: 中）
@@ -100,6 +99,7 @@
 ### 🏷️ 跨境电商与出海独立站工具
 - **[评分: 8/10]** [What is everyone doing about fraud prevention with Shopify taking away order data?](https://www.reddit.com/r/shopify/comments/1wyjkcp/what_is_everyone_doing_about_fraud_prevention/) — Shopify 风控数据被砍，卖家急需第三方反欺诈补位工具（门槛: 中）
 - **[评分: 8/10]** [Bootstrapping to €600k MRR and getting killed by Shopify: Checkout X](https://www.leteyski.com/bootstrapping-to-600k-mrr-and-getting-killed-by-shopify-the-story-of-checkout-x) — 独立站结账优化插件，€600k MRR 验证刚需（门槛: 高）
+- **[评分: 7/10]** [Same store, same ad spend, Q3 down a third from 2022. Is google organic just over for small stores?](https://www.reddit.com/r/ecommerce/comments/1wzwt6x/same_store_same_ad_spend_q3_down_a_third_from/) — 帮独立站被 ChatGPT 推荐，替代失效的 SEO 预算（门槛: 中）
 
 
 ---
