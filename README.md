@@ -75,6 +75,7 @@
 - **[评分: 8/10]** [I built an Amazon Flex station Closure tracker. I made over $632 from donations alone in the last week!](https://www.reddit.com/r/SaaS/comments/1wyblws/i_built_an_amazon_flex_station_closure_tracker_i/) — 给配送司机做站点关闭提醒，靠打赏周入 632 美元（门槛: 低）
 - **[评分: 8/10]** [Famulor](https://www.producthunt.com/products/famulor-telephony-ai) — 给本地商家搭AI电话+WhatsApp跟进客服，按月收费（门槛: 中）
 - **[评分: 8/10]** [Communicate](https://www.producthunt.com/products/communicate) — 垂直行业AI客服代理，知识库+人工接管月费变现（门槛: 中）
+- **[评分: 7/10]** [Show HN: Smart Blur – Auto-Blur PII in the Browser, with a OpenAI Local Model](https://smartbuildlabs.com/apps/smart-blur/) — 浏览器本地AI自动打码敏感信息，会议共享防泄露按Pro订阅收费（门槛: 中）
 - **[评分: 7/10]** [launched my app a week ago and its already getting paid users from different countries](https://www.reddit.com/r/SaaS/comments/1x0855m/launched_my_app_a_week_ago_and_its_already/) — MacBook 刘海监控 AI 代理状态与花费，多国开发者已付费（门槛: 低）
 - **[评分: 7/10]** [Layout - a Mac app that switches your whole dev setup between projects with one shortcut](https://www.reddit.com/r/SideProject/comments/1x03ser/layout_a_mac_app_that_switches_your_whole_dev/) — 多项目开发者的 Mac 窗口工作区切换器，一次快捷键归位全部窗口（门槛: 中）
 - **[评分: 7/10]** [Show HN: VoiceGremlin, a SaaS tool for automated tests against AI phone agents](https://voicegremlin.com/) — 给 AI 电话代理做自动化测试的 SaaS，痛点真实可收费（门槛: 中）
@@ -99,7 +100,6 @@
 ### 🏷️ 跨境电商与出海独立站工具
 - **[评分: 8/10]** [What is everyone doing about fraud prevention with Shopify taking away order data?](https://www.reddit.com/r/shopify/comments/1wyjkcp/what_is_everyone_doing_about_fraud_prevention/) — Shopify 风控数据被砍，卖家急需第三方反欺诈补位工具（门槛: 中）
 - **[评分: 8/10]** [Bootstrapping to €600k MRR and getting killed by Shopify: Checkout X](https://www.leteyski.com/bootstrapping-to-600k-mrr-and-getting-killed-by-shopify-the-story-of-checkout-x) — 独立站结账优化插件，€600k MRR 验证刚需（门槛: 高）
-- **[评分: 7/10]** [welp, we just lost automated tax filings](https://www.reddit.com/r/shopify/comments/1x006h6/welp_we_just_lost_automated_tax_filings/) — Shopify 停报税，卖家急找替代，做跨境税表自动化小工具（门槛: 中）
 
 
 ---
