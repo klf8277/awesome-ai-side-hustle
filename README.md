@@ -66,19 +66,19 @@
 - **[评分: 8/10]** [Ask HN: How do I manage the profit of a successful website?](https://news.ycombinator.com/item?id=29779944) — 单人订阅站月入$45k，利润处置与税务优化是付费买点（门槛: 中）
 - **[评分: 8/10]** [Show HN: After 2.5 years on my side project, it has hit £500/month revenue](https://news.ycombinator.com/item?id=25372464) — 音频私密分享SaaS，替代Bandcamp/SoundCloud的细分付费工具（门槛: 中）
 - **[评分: 8/10]** [Ask HN: Is it okay to just bootstrap it, even when VCs are knocking?](https://news.ycombinator.com/item?id=32746741) — 单人 bootstrap SaaS 做到 15K MRR 的订阅变现样本（门槛: 中）
-- **[评分: 7/10]** [Show HN: Typeform was too expensive so I built my own forms](https://www.ikiform.com/) — Typeform太贵，自建AI表单让询盘翻倍（门槛: 低）
 
 ### 🏷️ ⚡ 非对称套利与增长黑客
 - **[评分: 8/10]** [[Token Unlimited 中转站] Azure 官 key 渠道，满血 GPT 模型，最后两天限时优惠，留言赠 $3（新老同享）](https://www.v2ex.com/t/1246636) — 0.4 折囤 GPT 官 key 额度，回帖再白拿 $3（门槛: 中）
 - **[评分: 8/10]** [We hand every new signup $1 of API credit. 9,900 signed up in ten days and we banned half of them.](https://www.reddit.com/r/SaaS/comments/1wyv4mh/we_hand_every_new_signup_1_of_api_credit_9900/) — 给发免费额度的平台做防薅羊毛自动封号流水线（门槛: 中）
 - **[评分: 8/10]** [I made $5,000 over 2 years from one 10-minute video](https://www.reddit.com/r/passive_income/comments/1wxetby/i_made_5000_over_2_years_from_one_10minute_video/) — 一条视频复制30个长尾词，靠CPL注册每单$3躺赚（门槛: 低）
 - **[评分: 8/10]** [Ontario/Alberta only](https://www.reddit.com/r/passive_income/comments/1wxhd6m/ontarioalberta_only/) — 博彩App注册奖金清单，每日打卡周赚50刀（门槛: 低）
+- **[评分: 7/10]** [原来workbuddy 1个积分=31,874  token ，还真大方](https://www.nodeseek.com/post-968991-1) — 新平台送6000万token额度，薅算力差价或转售变现（门槛: 低）
+- **[评分: 7/10]** [hark 你们领了吗](https://www.nodeseek.com/post-968979-1) — AI 工具免费 Pro 额度实测与领取攻略（门槛: 低）
 - **[评分: 7/10]** [等了几天，终于注册成功 muse](https://www.nodeseek.com/post-968884-1) — 填邀请码白拿 10 亿 AI 词元额度（门槛: 低）
 - **[评分: 7/10]** [claude pro ios 130 以下的私一天 30,40 个](https://www.nodeseek.com/post-968880-1) — 低价 Claude Pro 订阅渠道批量收单，赚跨区价差（门槛: 中）
 - **[评分: 7/10]** [muse 邀请码 助力   DB2OO9](https://www.nodeseek.com/post-968665-1) — AI平台拉新送10亿词元，邀请码双向套利（门槛: 低）
 - **[评分: 7/10]** [Nano Banana 2.1 API: $0.03 per image, same price at 1K, 2K and 4K](https://www.v2ex.com/t/1246730) — 4K 出图成本砍 60%，批量出图套利窗口（门槛: 低）
 - **[评分: 7/10]** [Claude 开放大陆地区了？](https://www.v2ex.com/t/1246660) — Claude 对大陆开放付款，代充与合规通道先到先得（门槛: 中）
-- **[评分: 7/10]** [6.1sol 排名第一没人反对吧](https://www.v2ex.com/t/1246603) — 低价大模型 API 中转站，五分之一成本用顶级模型（门槛: 低）
 
 ### 🏷️ 极窄场景的 Micro-AI 插件
 - **[评分: 8/10]** [We did itt ! 😭😭 $2K in a span of 6 months (Coupon Giveaway included)](https://www.reddit.com/r/SaaS/comments/1wzmeb5/we_did_itt_2k_in_a_span_of_6_months_coupon/) — 本地隐私版 AI 会议纪要，零投放 6 个月收 $2K（门槛: 中）
