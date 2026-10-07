@@ -92,6 +92,7 @@
 - **[评分: 8/10]** [We hand every new signup $1 of API credit. 9,900 signed up in ten days and we banned half of them.](https://www.reddit.com/r/SaaS/comments/1wyv4mh/we_hand_every_new_signup_1_of_api_credit_9900/) — 给发免费额度的平台做防薅羊毛自动封号流水线（门槛: 中）
 - **[评分: 8/10]** [I made $5,000 over 2 years from one 10-minute video](https://www.reddit.com/r/passive_income/comments/1wxetby/i_made_5000_over_2_years_from_one_10minute_video/) — 一条视频复制30个长尾词，靠CPL注册每单$3躺赚（门槛: 低）
 - **[评分: 8/10]** [Ontario/Alberta only](https://www.reddit.com/r/passive_income/comments/1wxhd6m/ontarioalberta_only/) — 博彩App注册奖金清单，每日打卡周赚50刀（门槛: 低）
+- **[评分: 7/10]** [Claude Agents SDK will no longer use subscription; API credits included in plans](https://news.ycombinator.com/item?id=49997654) — 订阅额度变 API 算力，帮人申领拆分赚服务费（门槛: 低）
 
 ### 🏷️ 跨境电商与出海独立站工具
 - **[评分: 8/10]** [What is everyone doing about fraud prevention with Shopify taking away order data?](https://www.reddit.com/r/shopify/comments/1wyjkcp/what_is_everyone_doing_about_fraud_prevention/) — Shopify 风控数据被砍，卖家急需第三方反欺诈补位工具（门槛: 中）
@@ -101,7 +102,6 @@
 ### 🏷️ 视频与动效代交付
 - **[评分: 7/10]** [I built a small affiliate-content workflow that made ~$380 last month — realistic numbers, not “passive income” hype](https://www.reddit.com/r/passive_income/comments/1wzst1h/i_built_a_small_affiliatecontent_workflow_that/) — AI批量产带货短视频，赚联盟佣金，月入数百美元（门槛: 低）
 - **[评分: 7/10]** [Built an AI zombie hug tool — aizombie.app: 2 photos → ~20s vertical clip, guest checkout $9.90](https://www.v2ex.com/t/1246852) — 热门短视频模板做成 $9.9 一次性付费生成器（门槛: 低）
-- **[评分: 7/10]** [Show HN: I made a Jackbox-style tower defense game where trivia earns you gold](https://couchslop.com/tower) — 免费派对游戏引流，定制题目版本 $9.99 变现（门槛: 中）
 
 
 ---
