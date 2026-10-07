@@ -78,7 +78,6 @@
 - **[评分: 7/10]** [等了几天，终于注册成功 muse](https://www.nodeseek.com/post-968884-1) — 填邀请码白拿 10 亿 AI 词元额度（门槛: 低）
 - **[评分: 7/10]** [claude pro ios 130 以下的私一天 30,40 个](https://www.nodeseek.com/post-968880-1) — 低价 Claude Pro 订阅渠道批量收单，赚跨区价差（门槛: 中）
 - **[评分: 7/10]** [muse 邀请码 助力   DB2OO9](https://www.nodeseek.com/post-968665-1) — AI平台拉新送10亿词元，邀请码双向套利（门槛: 低）
-- **[评分: 7/10]** [Nano Banana 2.1 API: $0.03 per image, same price at 1K, 2K and 4K](https://www.v2ex.com/t/1246730) — 4K 出图成本砍 60%，批量出图套利窗口（门槛: 低）
 
 ### 🏷️ 极窄场景的 Micro-AI 插件
 - **[评分: 8/10]** [We did itt ! 😭😭 $2K in a span of 6 months (Coupon Giveaway included)](https://www.reddit.com/r/SaaS/comments/1wzmeb5/we_did_itt_2k_in_a_span_of_6_months_coupon/) — 本地隐私版 AI 会议纪要，零投放 6 个月收 $2K（门槛: 中）
@@ -87,6 +86,7 @@
 - **[评分: 8/10]** [I built an Amazon Flex station Closure tracker. I made over $632 from donations alone in the last week!](https://www.reddit.com/r/SaaS/comments/1wyblws/i_built_an_amazon_flex_station_closure_tracker_i/) — 给配送司机做站点关闭提醒，靠打赏周入 632 美元（门槛: 低）
 - **[评分: 8/10]** [Famulor](https://www.producthunt.com/products/famulor-telephony-ai) — 给本地商家搭AI电话+WhatsApp跟进客服，按月收费（门槛: 中）
 - **[评分: 8/10]** [Communicate](https://www.producthunt.com/products/communicate) — 垂直行业AI客服代理，知识库+人工接管月费变现（门槛: 中）
+- **[评分: 7/10]** [【claude帮开】真诚发问，想收集一些意见](https://www.nodeseek.com/post-969296-1) — 代配 Claude 环境，一人已开三单可标准化（门槛: 低）
 - **[评分: 7/10]** [I spent years at Adobe & Amazon. I built a tool for a problem I kept seeing in Facebook Ads, 1,000+ free trials later, it’s making $1K/day.](https://www.reddit.com/r/SaaS/comments/1wzslm8/i_spent_years_at_adobe_amazon_i_built_a_tool_for/) — AI 诊断广告被拒原因并自动改写合规文案（门槛: 中）
 
 ### 🏷️ B2B 高客单数据抓取与精准名单
