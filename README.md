@@ -66,6 +66,7 @@
 - **[评分: 8/10]** [Ask HN: How do I manage the profit of a successful website?](https://news.ycombinator.com/item?id=29779944) — 单人订阅站月入$45k，利润处置与税务优化是付费买点（门槛: 中）
 - **[评分: 8/10]** [Show HN: After 2.5 years on my side project, it has hit £500/month revenue](https://news.ycombinator.com/item?id=25372464) — 音频私密分享SaaS，替代Bandcamp/SoundCloud的细分付费工具（门槛: 中）
 - **[评分: 8/10]** [Ask HN: Is it okay to just bootstrap it, even when VCs are knocking?](https://news.ycombinator.com/item?id=32746741) — 单人 bootstrap SaaS 做到 15K MRR 的订阅变现样本（门槛: 中）
+- **[评分: 7/10]** [Personalized Landing Pages - different copy for different visitors, without changing the offer. Code on GitHub. Doesnt need LLM so is super duper fast and needs one JS snippet addition and nothing more.](https://www.reddit.com/r/SideProject/comments/1wzrsnp/personalized_landing_pages_different_copy_for/) — 按访客来源自动换落地页文案，$5/站订阅变现（门槛: 中）
 
 ### 🏷️ ⚡ 非对称套利与增长黑客
 - **[评分: 8/10]** [[Token Unlimited 中转站] Azure 官 key 渠道，满血 GPT 模型，最后两天限时优惠，留言赠 $3（新老同享）](https://www.v2ex.com/t/1246636) — 0.4 折囤 GPT 官 key 额度，回帖再白拿 $3（门槛: 中）
@@ -78,7 +79,6 @@
 - **[评分: 7/10]** [claude pro ios 130 以下的私一天 30,40 个](https://www.nodeseek.com/post-968880-1) — 低价 Claude Pro 订阅渠道批量收单，赚跨区价差（门槛: 中）
 - **[评分: 7/10]** [muse 邀请码 助力   DB2OO9](https://www.nodeseek.com/post-968665-1) — AI平台拉新送10亿词元，邀请码双向套利（门槛: 低）
 - **[评分: 7/10]** [Nano Banana 2.1 API: $0.03 per image, same price at 1K, 2K and 4K](https://www.v2ex.com/t/1246730) — 4K 出图成本砍 60%，批量出图套利窗口（门槛: 低）
-- **[评分: 7/10]** [Claude 开放大陆地区了？](https://www.v2ex.com/t/1246660) — Claude 对大陆开放付款，代充与合规通道先到先得（门槛: 中）
 
 ### 🏷️ 极窄场景的 Micro-AI 插件
 - **[评分: 8/10]** [We did itt ! 😭😭 $2K in a span of 6 months (Coupon Giveaway included)](https://www.reddit.com/r/SaaS/comments/1wzmeb5/we_did_itt_2k_in_a_span_of_6_months_coupon/) — 本地隐私版 AI 会议纪要，零投放 6 个月收 $2K（门槛: 中）
@@ -87,7 +87,7 @@
 - **[评分: 8/10]** [I built an Amazon Flex station Closure tracker. I made over $632 from donations alone in the last week!](https://www.reddit.com/r/SaaS/comments/1wyblws/i_built_an_amazon_flex_station_closure_tracker_i/) — 给配送司机做站点关闭提醒，靠打赏周入 632 美元（门槛: 低）
 - **[评分: 8/10]** [Famulor](https://www.producthunt.com/products/famulor-telephony-ai) — 给本地商家搭AI电话+WhatsApp跟进客服，按月收费（门槛: 中）
 - **[评分: 8/10]** [Communicate](https://www.producthunt.com/products/communicate) — 垂直行业AI客服代理，知识库+人工接管月费变现（门槛: 中）
-- **[评分: 7/10]** [Safari 用户苦沉浸式翻译久矣，所以我开发了一个代替它的软件，支持 iOS 和 macOS，正在 TestFlight 中，欢迎使用](https://www.v2ex.com/t/1246740) — Safari 版自带 API Key 的沉浸式翻译平替（门槛: 中）
+- **[评分: 7/10]** [I spent years at Adobe & Amazon. I built a tool for a problem I kept seeing in Facebook Ads, 1,000+ free trials later, it’s making $1K/day.](https://www.reddit.com/r/SaaS/comments/1wzslm8/i_spent_years_at_adobe_amazon_i_built_a_tool_for/) — AI 诊断广告被拒原因并自动改写合规文案（门槛: 中）
 
 ### 🏷️ B2B 高客单数据抓取与精准名单
 - **[评分: 9/10]** [I MADE $927 IN ONE DAY! with my SaaS as a solo founder](https://www.reddit.com/r/SaaS/comments/1wxk3x2/i_made_927_in_one_day_with_my_saas_as_a_solo/) — 多域名邮箱矩阵冷邮件外呼，帮 B2B 批量获客（门槛: 中）
@@ -95,7 +95,7 @@
 - **[评分: 8/10]** [$1.6M ARR, 370 B2B customers, almost half pay late. Looking for advice on finding a mentor or coach.](https://www.reddit.com/r/SaaS/comments/1wyfoqp/16m_arr_370_b2b_customers_almost_half_pay_late/) — 跨境 B2B 多地区电汇收款与逾期催收自动化工具（门槛: 中）
 - **[评分: 8/10]** [I scraped billions of TikTok videos and profiles by reverse engineering the mobile API. Here's how it works + source code](https://www.reddit.com/r/SaaS/comments/1wxoasb/i_scraped_billions_of_tiktok_videos_and_profiles/) — 逆向 TikTok 接口，把爆款趋势与达人名单做成付费数据 API（门槛: 高）
 - **[评分: 8/10]** [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) — 零 API 费抓取社媒，一键交付海外精准潜客名单（门槛: 中）
-- **[评分: 7/10]** [Cold email tips I used to get 60K signups](https://medium.com/@dunjalazic/10-cold-email-tips-i-used-to-get-60-000-app-signups-dd928d86ca21#.h0s9l6wzp) — 冷邮件获客方法论打包成代发服务，卖精准名单与送达率（门槛: 低）
+- **[评分: 7/10]** [What outbound tools are companies actually using that convert and not just generate noise?](https://www.reddit.com/r/SaaS/comments/1wzscvl/what_outbound_tools_are_companies_actually_using/) — 卖能约到会的精准潜客名单，不卖工具（门槛: 中）
 
 ### 🏷️ 跨境电商与出海独立站工具
 - **[评分: 8/10]** [What is everyone doing about fraud prevention with Shopify taking away order data?](https://www.reddit.com/r/shopify/comments/1wyjkcp/what_is_everyone_doing_about_fraud_prevention/) — Shopify 风控数据被砍，卖家急需第三方反欺诈补位工具（门槛: 中）
