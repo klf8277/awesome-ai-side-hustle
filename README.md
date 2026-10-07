@@ -73,12 +73,12 @@
 - **[评分: 8/10]** [We hand every new signup $1 of API credit. 9,900 signed up in ten days and we banned half of them.](https://www.reddit.com/r/SaaS/comments/1wyv4mh/we_hand_every_new_signup_1_of_api_credit_9900/) — 给发免费额度的平台做防薅羊毛自动封号流水线（门槛: 中）
 - **[评分: 8/10]** [I made $5,000 over 2 years from one 10-minute video](https://www.reddit.com/r/passive_income/comments/1wxetby/i_made_5000_over_2_years_from_one_10minute_video/) — 一条视频复制30个长尾词，靠CPL注册每单$3躺赚（门槛: 低）
 - **[评分: 8/10]** [Ontario/Alberta only](https://www.reddit.com/r/passive_income/comments/1wxhd6m/ontarioalberta_only/) — 博彩App注册奖金清单，每日打卡周赚50刀（门槛: 低）
+- **[评分: 7/10]** [等了几天，终于注册成功 muse](https://www.nodeseek.com/post-968884-1) — 填邀请码白拿 10 亿 AI 词元额度（门槛: 低）
+- **[评分: 7/10]** [claude pro ios 130 以下的私一天 30,40 个](https://www.nodeseek.com/post-968880-1) — 低价 Claude Pro 订阅渠道批量收单，赚跨区价差（门槛: 中）
 - **[评分: 7/10]** [muse 邀请码 助力   DB2OO9](https://www.nodeseek.com/post-968665-1) — AI平台拉新送10亿词元，邀请码双向套利（门槛: 低）
 - **[评分: 7/10]** [Nano Banana 2.1 API: $0.03 per image, same price at 1K, 2K and 4K](https://www.v2ex.com/t/1246730) — 4K 出图成本砍 60%，批量出图套利窗口（门槛: 低）
 - **[评分: 7/10]** [Claude 开放大陆地区了？](https://www.v2ex.com/t/1246660) — Claude 对大陆开放付款，代充与合规通道先到先得（门槛: 中）
 - **[评分: 7/10]** [6.1sol 排名第一没人反对吧](https://www.v2ex.com/t/1246603) — 低价大模型 API 中转站，五分之一成本用顶级模型（门槛: 低）
-- **[评分: 7/10]** [被封 30 多个号换来的防封教程，静态 IP+指纹浏览器这套靠谱吗](https://www.nodeseek.com/post-968083-1) — AI账号防封组合方案，打包成工具或教程卖给批量用户（门槛: 中）
-- **[评分: 7/10]** [TG Bot 签到 50 天白嫖 18 个月 Gemini Pro，有 mjj 在肝吗](https://www.nodeseek.com/post-968078-1) — 签到攒积分换 18 个月 Gemini Pro 的免费额度套利窗口（门槛: 低）
 
 ### 🏷️ 极窄场景的 Micro-AI 插件
 - **[评分: 8/10]** [We did itt ! 😭😭 $2K in a span of 6 months (Coupon Giveaway included)](https://www.reddit.com/r/SaaS/comments/1wzmeb5/we_did_itt_2k_in_a_span_of_6_months_coupon/) — 本地隐私版 AI 会议纪要，零投放 6 个月收 $2K（门槛: 中）
