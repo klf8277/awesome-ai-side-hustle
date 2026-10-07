@@ -68,12 +68,12 @@
 - **[评分: 7/10]** [Takt tab manager Update n°7: 15 users, my second user and my feedback notification is broken 😅](https://www.reddit.com/r/SideProject/comments/1wzewtf/takt_tab_manager_update_n7_15_users_my_second/) — 浏览器标签管理插件靠订阅制拿到真实付费用户（门槛: 低）
 - **[评分: 7/10]** [I started this SaaS back in May, and it took a lot of my time, mostly because I enjoyed building it! When I launched, I told myself "if I get 5 paying users by the end of the year, I'll consider myself lucky" Turns out I'm a bit more than lucky. Not life-changing money , but it feels really good!!](https://www.reddit.com/r/SaaS/comments/1wzbbry/i_started_this_saas_back_in_may_and_it_took_a_lot/) — 单人做SaaS，5个付费用户即验证订阅变现可行（门槛: 中）
 - **[评分: 7/10]** [How we minimized cloud infrastructure overhead to offer an always-on AI agent layer for $10/mo instead of the standard $200/mo corporate stack.](https://www.reddit.com/r/SaaS/comments/1wzc8s3/how_we_minimized_cloud_infrastructure_overhead_to/) — 把常驻 AI 代理成本压到 $10/月，做低价订阅层卖给小团队（门槛: 中）
-- **[评分: 7/10]** [First-time founder, already started to raise. How much of this is paperwork and how much is actually fundraising? (I will not promote)](https://www.reddit.com/r/startups/comments/1wz7jr8/firsttime_founder_already_started_to_raise_how/) — 首次融资合规清单与截止日提醒工具，帮创始人少踩83(b)和备案坑（门槛: 中）
 
 ### 🏷️ ⚡ 非对称套利与增长黑客
 - **[评分: 8/10]** [We hand every new signup $1 of API credit. 9,900 signed up in ten days and we banned half of them.](https://www.reddit.com/r/SaaS/comments/1wyv4mh/we_hand_every_new_signup_1_of_api_credit_9900/) — 给发免费额度的平台做防薅羊毛自动封号流水线（门槛: 中）
 - **[评分: 8/10]** [I made $5,000 over 2 years from one 10-minute video](https://www.reddit.com/r/passive_income/comments/1wxetby/i_made_5000_over_2_years_from_one_10minute_video/) — 一条视频复制30个长尾词，靠CPL注册每单$3躺赚（门槛: 低）
 - **[评分: 8/10]** [Ontario/Alberta only](https://www.reddit.com/r/passive_income/comments/1wxhd6m/ontarioalberta_only/) — 博彩App注册奖金清单，每日打卡周赚50刀（门槛: 低）
+- **[评分: 7/10]** [6.1sol 排名第一没人反对吧](https://www.v2ex.com/t/1246603) — 低价大模型 API 中转站，五分之一成本用顶级模型（门槛: 低）
 - **[评分: 7/10]** [被封 30 多个号换来的防封教程，静态 IP+指纹浏览器这套靠谱吗](https://www.nodeseek.com/post-968083-1) — AI账号防封组合方案，打包成工具或教程卖给批量用户（门槛: 中）
 - **[评分: 7/10]** [TG Bot 签到 50 天白嫖 18 个月 Gemini Pro，有 mjj 在肝吗](https://www.nodeseek.com/post-968078-1) — 签到攒积分换 18 个月 Gemini Pro 的免费额度套利窗口（门槛: 低）
 - **[评分: 7/10]** [继续接muse注册邀请相关，代注册，代助力，成品号都可以](https://www.nodeseek.com/post-968022-1) — 批量注册平台邀请额度，按次或成品号转卖套利（门槛: 低）
