@@ -73,10 +73,10 @@
 - **[评分: 8/10]** [We hand every new signup $1 of API credit. 9,900 signed up in ten days and we banned half of them.](https://www.reddit.com/r/SaaS/comments/1wyv4mh/we_hand_every_new_signup_1_of_api_credit_9900/) — 给发免费额度的平台做防薅羊毛自动封号流水线（门槛: 中）
 - **[评分: 8/10]** [I made $5,000 over 2 years from one 10-minute video](https://www.reddit.com/r/passive_income/comments/1wxetby/i_made_5000_over_2_years_from_one_10minute_video/) — 一条视频复制30个长尾词，靠CPL注册每单$3躺赚（门槛: 低）
 - **[评分: 8/10]** [Ontario/Alberta only](https://www.reddit.com/r/passive_income/comments/1wxhd6m/ontarioalberta_only/) — 博彩App注册奖金清单，每日打卡周赚50刀（门槛: 低）
+- **[评分: 7/10]** [muse 邀请码](https://www.nodeseek.com/post-969488-1) — Muse 邀请码互领10亿词元，零成本薅AI算力额度（门槛: 低）
+- **[评分: 7/10]** [【claude 5× 】提示：您已获得 250 美元云会话奖励额度，可在您的套餐限额之外使用 是什么意思？](https://www.nodeseek.com/post-969493-1) — 250 美元 AI 云额度放水，信息差套利与代充服务（门槛: 低）
 - **[评分: 7/10]** [原来workbuddy 1个积分=31,874  token ，还真大方](https://www.nodeseek.com/post-968991-1) — 新平台送6000万token额度，薅算力差价或转售变现（门槛: 低）
 - **[评分: 7/10]** [hark 你们领了吗](https://www.nodeseek.com/post-968979-1) — AI 工具免费 Pro 额度实测与领取攻略（门槛: 低）
-- **[评分: 7/10]** [等了几天，终于注册成功 muse](https://www.nodeseek.com/post-968884-1) — 填邀请码白拿 10 亿 AI 词元额度（门槛: 低）
-- **[评分: 7/10]** [claude pro ios 130 以下的私一天 30,40 个](https://www.nodeseek.com/post-968880-1) — 低价 Claude Pro 订阅渠道批量收单，赚跨区价差（门槛: 中）
 
 ### 🏷️ 极窄场景的 Micro-AI 插件
 - **[评分: 8/10]** [We did itt ! 😭😭 $2K in a span of 6 months (Coupon Giveaway included)](https://www.reddit.com/r/SaaS/comments/1wzmeb5/we_did_itt_2k_in_a_span_of_6_months_coupon/) — 本地隐私版 AI 会议纪要，零投放 6 个月收 $2K（门槛: 中）
