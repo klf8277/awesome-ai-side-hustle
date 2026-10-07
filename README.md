@@ -38,6 +38,7 @@
 |---|---|---|---|---|---|---|
 | **⭐️ 9/10** | **New Record - $1,478 in ONE DAY! (Should I fundraise?)** | `垂直数字资产与全自动工作流模板` | 中 | 给初创公司做 GTM 工作流与邮件基建，单日营收破千刀 | [🔗 来源](https://www.reddit.com/r/SaaS/comments/1wz4ugu/new_record_1478_in_one_day_should_i_fundraise/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 9/10** | **I MADE $927 IN ONE DAY! with my SaaS as a solo founder** | `B2B 高客单数据抓取与精准名单` | 中 | 多域名邮箱矩阵冷邮件外呼，帮 B2B 批量获客 | [🔗 来源](https://www.reddit.com/r/SaaS/comments/1wxk3x2/i_made_927_in_one_day_with_my_saas_as_a_solo/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
+| **⭐️ 8/10** | **🦙 Claude AI 创业公司计划 — 12个月 Pro Team + $1,000 API Credits** | `⚡ 非对称套利与增长黑客` | 低 | 白嫖Claude官方12个月会员+千刀API额度，最高撬10万 | [🔗 来源](https://www.nodeseek.com/post-969760-1) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 8/10** | **My SAAS is making $175 MRR but $42 went to API and hosting bills. How do you track what you keep each month?** | `垂直数字资产与全自动工作流模板` | 低 | 给独立开发者做「真实利润」聚合看板，一键算清 API 与托管成本 | [🔗 来源](https://www.reddit.com/r/SaaS/comments/1x057ed/my_saas_is_making_175_mrr_but_42_went_to_api_and/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 8/10** | **Claude is offering startups 12 months of free Claude** | `⚡ 非对称套利与增长黑客` | 低 | 用公司邮箱白拿一年 7000 美元 Claude 额度，AI 成本归零 | [🔗 来源](https://www.reddit.com/r/SideProject/comments/1x009vd/claude_is_offering_startups_12_months_of_free/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 8/10** | **I made $31.29 on Teachers Pay Teachers over the last 30 days selling simple educational printables** | `垂直数字资产与全自动工作流模板` | 低 | AI批量做可打印教辅，挂TPT零推广被动收美元 | [🔗 来源](https://www.reddit.com/r/passive_income/comments/1wzo3it/i_made_3129_on_teachers_pay_teachers_over_the/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
@@ -45,7 +46,6 @@
 | **⭐️ 8/10** | **We did itt ! 😭😭 $2K in a span of 6 months (Coupon Giveaway included)** | `极窄场景的 Micro-AI 插件` | 中 | 本地隐私版 AI 会议纪要，零投放 6 个月收 $2K | [🔗 来源](https://www.reddit.com/r/SaaS/comments/1wzmeb5/we_did_itt_2k_in_a_span_of_6_months_coupon/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 8/10** | **how i got my first software to €3k mrr with zero ad spend** | `垂直数字资产与全自动工作流模板` | 中 | 给创作者做AI粉丝聊天工具，免费额度换付费订阅 | [🔗 来源](https://www.reddit.com/r/SaaS/comments/1wz4u1r/how_i_got_my_first_software_to_3k_mrr_with_zero/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 8/10** | **The travel data side project I built solo just hit 37 paying customers, and most of the new ones found it on their own** | `B2B 高客单数据抓取与精准名单` | 中 | 逆向旅行比价数据做成 API，挂平台靠自然流量收订阅费 | [🔗 来源](https://www.reddit.com/r/SaaS/comments/1wz0ue6/the_travel_data_side_project_i_built_solo_just/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
-| **⭐️ 8/10** | **How we reached $6250 monthly recurring revenue in 77 days from launch** | `垂直数字资产与全自动工作流模板` | 中 | 帮团队把help@、jobs@等公共邮箱变成共享收件箱，按月订阅收费 | [🔗 来源](https://news.ycombinator.com/item?id=22364941) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 
 ---
 
@@ -79,7 +79,16 @@
 - **[评分: 7/10]** [launched my app a week ago and its already getting paid users from different countries](https://www.reddit.com/r/SaaS/comments/1x0855m/launched_my_app_a_week_ago_and_its_already/) — MacBook 刘海监控 AI 代理状态与花费，多国开发者已付费（门槛: 低）
 - **[评分: 7/10]** [Layout - a Mac app that switches your whole dev setup between projects with one shortcut](https://www.reddit.com/r/SideProject/comments/1x03ser/layout_a_mac_app_that_switches_your_whole_dev/) — 多项目开发者的 Mac 窗口工作区切换器，一次快捷键归位全部窗口（门槛: 中）
 - **[评分: 7/10]** [Show HN: VoiceGremlin, a SaaS tool for automated tests against AI phone agents](https://voicegremlin.com/) — 给 AI 电话代理做自动化测试的 SaaS，痛点真实可收费（门槛: 中）
-- **[评分: 7/10]** [Show HN: VoiceGremlin, a SaaS tool for automated tests against AI phone agents](https://voicegremlin.com/) — 给 AI 电话客服做自动化测试的 SaaS，痛点明确有人已付费（门槛: 中）
+
+### 🏷️ ⚡ 非对称套利与增长黑客
+- **[评分: 8/10]** [🦙 Claude AI 创业公司计划 — 12个月 Pro Team + $1,000 API Credits](https://www.nodeseek.com/post-969760-1) — 白嫖Claude官方12个月会员+千刀API额度，最高撬10万（门槛: 低）
+- **[评分: 8/10]** [Claude is offering startups 12 months of free Claude](https://www.reddit.com/r/SideProject/comments/1x009vd/claude_is_offering_startups_12_months_of_free/) — 用公司邮箱白拿一年 7000 美元 Claude 额度，AI 成本归零（门槛: 低）
+- **[评分: 8/10]** [[Token Unlimited 中转站] Azure 官 key 渠道，满血 GPT 模型，最后两天限时优惠，留言赠 $3（新老同享）](https://www.v2ex.com/t/1246636) — 0.4 折囤 GPT 官 key 额度，回帖再白拿 $3（门槛: 中）
+- **[评分: 8/10]** [We hand every new signup $1 of API credit. 9,900 signed up in ten days and we banned half of them.](https://www.reddit.com/r/SaaS/comments/1wyv4mh/we_hand_every_new_signup_1_of_api_credit_9900/) — 给发免费额度的平台做防薅羊毛自动封号流水线（门槛: 中）
+- **[评分: 8/10]** [I made $5,000 over 2 years from one 10-minute video](https://www.reddit.com/r/passive_income/comments/1wxetby/i_made_5000_over_2_years_from_one_10minute_video/) — 一条视频复制30个长尾词，靠CPL注册每单$3躺赚（门槛: 低）
+- **[评分: 8/10]** [Ontario/Alberta only](https://www.reddit.com/r/passive_income/comments/1wxhd6m/ontarioalberta_only/) — 博彩App注册奖金清单，每日打卡周赚50刀（门槛: 低）
+- **[评分: 7/10]** [Claude Max and Teams plans now forced to API (Oct 7th update)](https://news.ycombinator.com/item?id=49999508) — 把订阅额度变成 API 算力，做额度聚合与转接套利（门槛: 中）
+- **[评分: 7/10]** [Claude Agents SDK will no longer use subscription; API credits included in plans](https://news.ycombinator.com/item?id=49997654) — 订阅额度变 API 算力，帮人申领拆分赚服务费（门槛: 低）
 
 ### 🏷️ B2B 高客单数据抓取与精准名单
 - **[评分: 9/10]** [I MADE $927 IN ONE DAY! with my SaaS as a solo founder](https://www.reddit.com/r/SaaS/comments/1wxk3x2/i_made_927_in_one_day_with_my_saas_as_a_solo/) — 多域名邮箱矩阵冷邮件外呼，帮 B2B 批量获客（门槛: 中）
@@ -87,15 +96,6 @@
 - **[评分: 8/10]** [$1.6M ARR, 370 B2B customers, almost half pay late. Looking for advice on finding a mentor or coach.](https://www.reddit.com/r/SaaS/comments/1wyfoqp/16m_arr_370_b2b_customers_almost_half_pay_late/) — 跨境 B2B 多地区电汇收款与逾期催收自动化工具（门槛: 中）
 - **[评分: 8/10]** [I scraped billions of TikTok videos and profiles by reverse engineering the mobile API. Here's how it works + source code](https://www.reddit.com/r/SaaS/comments/1wxoasb/i_scraped_billions_of_tiktok_videos_and_profiles/) — 逆向 TikTok 接口，把爆款趋势与达人名单做成付费数据 API（门槛: 高）
 - **[评分: 8/10]** [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) — 零 API 费抓取社媒，一键交付海外精准潜客名单（门槛: 中）
-- **[评分: 7/10]** [What saves an SDR time.](https://www.reddit.com/r/SaaS/comments/1x02hlt/what_saves_an_sdr_time/) — 帮 SaaS 销售批量清洗出 100 条合格潜客名单（门槛: 低）
-
-### 🏷️ ⚡ 非对称套利与增长黑客
-- **[评分: 8/10]** [Claude is offering startups 12 months of free Claude](https://www.reddit.com/r/SideProject/comments/1x009vd/claude_is_offering_startups_12_months_of_free/) — 用公司邮箱白拿一年 7000 美元 Claude 额度，AI 成本归零（门槛: 低）
-- **[评分: 8/10]** [[Token Unlimited 中转站] Azure 官 key 渠道，满血 GPT 模型，最后两天限时优惠，留言赠 $3（新老同享）](https://www.v2ex.com/t/1246636) — 0.4 折囤 GPT 官 key 额度，回帖再白拿 $3（门槛: 中）
-- **[评分: 8/10]** [We hand every new signup $1 of API credit. 9,900 signed up in ten days and we banned half of them.](https://www.reddit.com/r/SaaS/comments/1wyv4mh/we_hand_every_new_signup_1_of_api_credit_9900/) — 给发免费额度的平台做防薅羊毛自动封号流水线（门槛: 中）
-- **[评分: 8/10]** [I made $5,000 over 2 years from one 10-minute video](https://www.reddit.com/r/passive_income/comments/1wxetby/i_made_5000_over_2_years_from_one_10minute_video/) — 一条视频复制30个长尾词，靠CPL注册每单$3躺赚（门槛: 低）
-- **[评分: 8/10]** [Ontario/Alberta only](https://www.reddit.com/r/passive_income/comments/1wxhd6m/ontarioalberta_only/) — 博彩App注册奖金清单，每日打卡周赚50刀（门槛: 低）
-- **[评分: 7/10]** [Claude Agents SDK will no longer use subscription; API credits included in plans](https://news.ycombinator.com/item?id=49997654) — 订阅额度变 API 算力，帮人申领拆分赚服务费（门槛: 低）
 
 ### 🏷️ 跨境电商与出海独立站工具
 - **[评分: 8/10]** [What is everyone doing about fraud prevention with Shopify taking away order data?](https://www.reddit.com/r/shopify/comments/1wyjkcp/what_is_everyone_doing_about_fraud_prevention/) — Shopify 风控数据被砍，卖家急需第三方反欺诈补位工具（门槛: 中）
