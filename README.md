@@ -38,14 +38,14 @@
 |---|---|---|---|---|---|---|
 | **⭐️ 9/10** | **New Record - $1,478 in ONE DAY! (Should I fundraise?)** | `垂直数字资产与全自动工作流模板` | 中 | 给初创公司做 GTM 工作流与邮件基建，单日营收破千刀 | [🔗 来源](https://www.reddit.com/r/SaaS/comments/1wz4ugu/new_record_1478_in_one_day_should_i_fundraise/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 9/10** | **I MADE $927 IN ONE DAY! with my SaaS as a solo founder** | `B2B 高客单数据抓取与精准名单` | 中 | 多域名邮箱矩阵冷邮件外呼，帮 B2B 批量获客 | [🔗 来源](https://www.reddit.com/r/SaaS/comments/1wxk3x2/i_made_927_in_one_day_with_my_saas_as_a_solo/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
+| **⭐️ 8/10** | **[Token Unlimited 中转站] Azure 官 key 渠道，满血 GPT 模型，最后两天限时优惠，留言赠 $3（新老同享）** | `⚡ 非对称套利与增长黑客` | 中 | 0.4 折囤 GPT 官 key 额度，回帖再白拿 $3 | [🔗 来源](https://www.v2ex.com/t/1246636) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
+| **⭐️ 8/10** | **We did itt ! 😭😭 $2K in a span of 6 months (Coupon Giveaway included)** | `极窄场景的 Micro-AI 插件` | 中 | 本地隐私版 AI 会议纪要，零投放 6 个月收 $2K | [🔗 来源](https://www.reddit.com/r/SaaS/comments/1wzmeb5/we_did_itt_2k_in_a_span_of_6_months_coupon/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 8/10** | **how i got my first software to €3k mrr with zero ad spend** | `垂直数字资产与全自动工作流模板` | 中 | 给创作者做AI粉丝聊天工具，免费额度换付费订阅 | [🔗 来源](https://www.reddit.com/r/SaaS/comments/1wz4u1r/how_i_got_my_first_software_to_3k_mrr_with_zero/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 8/10** | **The travel data side project I built solo just hit 37 paying customers, and most of the new ones found it on their own** | `B2B 高客单数据抓取与精准名单` | 中 | 逆向旅行比价数据做成 API，挂平台靠自然流量收订阅费 | [🔗 来源](https://www.reddit.com/r/SaaS/comments/1wz0ue6/the_travel_data_side_project_i_built_solo_just/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 8/10** | **How we reached $6250 monthly recurring revenue in 77 days from launch** | `垂直数字资产与全自动工作流模板` | 中 | 帮团队把help@、jobs@等公共邮箱变成共享收件箱，按月订阅收费 | [🔗 来源](https://news.ycombinator.com/item?id=22364941) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 8/10** | **We hand every new signup $1 of API credit. 9,900 signed up in ten days and we banned half of them.** | `⚡ 非对称套利与增长黑客` | 中 | 给发免费额度的平台做防薅羊毛自动封号流水线 | [🔗 来源](https://www.reddit.com/r/SaaS/comments/1wyv4mh/we_hand_every_new_signup_1_of_api_credit_9900/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 8/10** | **Got my first purchase of one of my free apps!** | `极窄场景的 Micro-AI 插件` | 低 | 免费小工具挂自愿付费，首单即验证打赏变现 | [🔗 来源](https://www.reddit.com/r/SideProject/comments/1wynjck/got_my_first_purchase_of_one_of_my_free_apps/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 8/10** | **What is everyone doing about fraud prevention with Shopify taking away order data?** | `跨境电商与出海独立站工具` | 中 | Shopify 风控数据被砍，卖家急需第三方反欺诈补位工具 | [🔗 来源](https://www.reddit.com/r/shopify/comments/1wyjkcp/what_is_everyone_doing_about_fraud_prevention/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
-| **⭐️ 8/10** | **Show HN: Halo – A Personal AI with On-Device Harness, Memory and Browser Agent** | `极窄场景的 Micro-AI 插件` | 中 | 端侧隐私 AI 助手，$49 终身买断，数据不出手机 | [🔗 来源](https://apps.apple.com/us/app/halo-personal-ai/id6783715054) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
-| **⭐️ 8/10** | **$1.6M ARR, 370 B2B customers, almost half pay late. Looking for advice on finding a mentor or coach.** | `B2B 高客单数据抓取与精准名单` | 中 | 跨境 B2B 多地区电汇收款与逾期催收自动化工具 | [🔗 来源](https://www.reddit.com/r/SaaS/comments/1wyfoqp/16m_arr_370_b2b_customers_almost_half_pay_late/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 
 ---
 
@@ -65,28 +65,29 @@
 - **[评分: 8/10]** [Ask HN: How do I manage the profit of a successful website?](https://news.ycombinator.com/item?id=29779944) — 单人订阅站月入$45k，利润处置与税务优化是付费买点（门槛: 中）
 - **[评分: 8/10]** [Show HN: After 2.5 years on my side project, it has hit £500/month revenue](https://news.ycombinator.com/item?id=25372464) — 音频私密分享SaaS，替代Bandcamp/SoundCloud的细分付费工具（门槛: 中）
 - **[评分: 8/10]** [Ask HN: Is it okay to just bootstrap it, even when VCs are knocking?](https://news.ycombinator.com/item?id=32746741) — 单人 bootstrap SaaS 做到 15K MRR 的订阅变现样本（门槛: 中）
-- **[评分: 7/10]** [Takt tab manager Update n°7: 15 users, my second user and my feedback notification is broken 😅](https://www.reddit.com/r/SideProject/comments/1wzewtf/takt_tab_manager_update_n7_15_users_my_second/) — 浏览器标签管理插件靠订阅制拿到真实付费用户（门槛: 低）
-- **[评分: 7/10]** [I started this SaaS back in May, and it took a lot of my time, mostly because I enjoyed building it! When I launched, I told myself "if I get 5 paying users by the end of the year, I'll consider myself lucky" Turns out I'm a bit more than lucky. Not life-changing money , but it feels really good!!](https://www.reddit.com/r/SaaS/comments/1wzbbry/i_started_this_saas_back_in_may_and_it_took_a_lot/) — 单人做SaaS，5个付费用户即验证订阅变现可行（门槛: 中）
-- **[评分: 7/10]** [How we minimized cloud infrastructure overhead to offer an always-on AI agent layer for $10/mo instead of the standard $200/mo corporate stack.](https://www.reddit.com/r/SaaS/comments/1wzc8s3/how_we_minimized_cloud_infrastructure_overhead_to/) — 把常驻 AI 代理成本压到 $10/月，做低价订阅层卖给小团队（门槛: 中）
+- **[评分: 7/10]** [Show HN: Typeform was too expensive so I built my own forms](https://www.ikiform.com/) — Typeform太贵，自建AI表单让询盘翻倍（门槛: 低）
 
 ### 🏷️ ⚡ 非对称套利与增长黑客
+- **[评分: 8/10]** [[Token Unlimited 中转站] Azure 官 key 渠道，满血 GPT 模型，最后两天限时优惠，留言赠 $3（新老同享）](https://www.v2ex.com/t/1246636) — 0.4 折囤 GPT 官 key 额度，回帖再白拿 $3（门槛: 中）
 - **[评分: 8/10]** [We hand every new signup $1 of API credit. 9,900 signed up in ten days and we banned half of them.](https://www.reddit.com/r/SaaS/comments/1wyv4mh/we_hand_every_new_signup_1_of_api_credit_9900/) — 给发免费额度的平台做防薅羊毛自动封号流水线（门槛: 中）
 - **[评分: 8/10]** [I made $5,000 over 2 years from one 10-minute video](https://www.reddit.com/r/passive_income/comments/1wxetby/i_made_5000_over_2_years_from_one_10minute_video/) — 一条视频复制30个长尾词，靠CPL注册每单$3躺赚（门槛: 低）
 - **[评分: 8/10]** [Ontario/Alberta only](https://www.reddit.com/r/passive_income/comments/1wxhd6m/ontarioalberta_only/) — 博彩App注册奖金清单，每日打卡周赚50刀（门槛: 低）
+- **[评分: 7/10]** [Nano Banana 2.1 API: $0.03 per image, same price at 1K, 2K and 4K](https://www.v2ex.com/t/1246730) — 4K 出图成本砍 60%，批量出图套利窗口（门槛: 低）
+- **[评分: 7/10]** [Claude 开放大陆地区了？](https://www.v2ex.com/t/1246660) — Claude 对大陆开放付款，代充与合规通道先到先得（门槛: 中）
 - **[评分: 7/10]** [6.1sol 排名第一没人反对吧](https://www.v2ex.com/t/1246603) — 低价大模型 API 中转站，五分之一成本用顶级模型（门槛: 低）
 - **[评分: 7/10]** [被封 30 多个号换来的防封教程，静态 IP+指纹浏览器这套靠谱吗](https://www.nodeseek.com/post-968083-1) — AI账号防封组合方案，打包成工具或教程卖给批量用户（门槛: 中）
 - **[评分: 7/10]** [TG Bot 签到 50 天白嫖 18 个月 Gemini Pro，有 mjj 在肝吗](https://www.nodeseek.com/post-968078-1) — 签到攒积分换 18 个月 Gemini Pro 的免费额度套利窗口（门槛: 低）
 - **[评分: 7/10]** [继续接muse注册邀请相关，代注册，代助力，成品号都可以](https://www.nodeseek.com/post-968022-1) — 批量注册平台邀请额度，按次或成品号转卖套利（门槛: 低）
 - **[评分: 7/10]** [被封三十多个 Claude 号的防封策略分享](https://www.nodeseek.com/post-968032-1) — Claude Max 防封订阅方案，帮用户保住高额账号（门槛: 中）
-- **[评分: 7/10]** [转发：X上大佬的X会员自助赠送开通服务-32.8元/6个月](https://www.nodeseek.com/post-967972-1) — X蓝V会员低价代充，吃官方区域定价差套利（门槛: 低）
 
 ### 🏷️ 极窄场景的 Micro-AI 插件
+- **[评分: 8/10]** [We did itt ! 😭😭 $2K in a span of 6 months (Coupon Giveaway included)](https://www.reddit.com/r/SaaS/comments/1wzmeb5/we_did_itt_2k_in_a_span_of_6_months_coupon/) — 本地隐私版 AI 会议纪要，零投放 6 个月收 $2K（门槛: 中）
 - **[评分: 8/10]** [Got my first purchase of one of my free apps!](https://www.reddit.com/r/SideProject/comments/1wynjck/got_my_first_purchase_of_one_of_my_free_apps/) — 免费小工具挂自愿付费，首单即验证打赏变现（门槛: 低）
 - **[评分: 8/10]** [Show HN: Halo – A Personal AI with On-Device Harness, Memory and Browser Agent](https://apps.apple.com/us/app/halo-personal-ai/id6783715054) — 端侧隐私 AI 助手，$49 终身买断，数据不出手机（门槛: 中）
 - **[评分: 8/10]** [I built an Amazon Flex station Closure tracker. I made over $632 from donations alone in the last week!](https://www.reddit.com/r/SaaS/comments/1wyblws/i_built_an_amazon_flex_station_closure_tracker_i/) — 给配送司机做站点关闭提醒，靠打赏周入 632 美元（门槛: 低）
 - **[评分: 8/10]** [Famulor](https://www.producthunt.com/products/famulor-telephony-ai) — 给本地商家搭AI电话+WhatsApp跟进客服，按月收费（门槛: 中）
 - **[评分: 8/10]** [Communicate](https://www.producthunt.com/products/communicate) — 垂直行业AI客服代理，知识库+人工接管月费变现（门槛: 中）
-- **[评分: 7/10]** [Cassette - a tape deck for iPhone and Apple Watch that writes your notes with Apple's own models](https://www.reddit.com/r/SideProject/comments/1wz8thk/cassette_a_tape_deck_for_iphone_and_apple_watch/) — 苹果本地模型做会议录音转写摘要，订阅+终身买断变现（门槛: 中）
+- **[评分: 7/10]** [Safari 用户苦沉浸式翻译久矣，所以我开发了一个代替它的软件，支持 iOS 和 macOS，正在 TestFlight 中，欢迎使用](https://www.v2ex.com/t/1246740) — Safari 版自带 API Key 的沉浸式翻译平替（门槛: 中）
 
 ### 🏷️ B2B 高客单数据抓取与精准名单
 - **[评分: 9/10]** [I MADE $927 IN ONE DAY! with my SaaS as a solo founder](https://www.reddit.com/r/SaaS/comments/1wxk3x2/i_made_927_in_one_day_with_my_saas_as_a_solo/) — 多域名邮箱矩阵冷邮件外呼，帮 B2B 批量获客（门槛: 中）
@@ -94,14 +95,11 @@
 - **[评分: 8/10]** [$1.6M ARR, 370 B2B customers, almost half pay late. Looking for advice on finding a mentor or coach.](https://www.reddit.com/r/SaaS/comments/1wyfoqp/16m_arr_370_b2b_customers_almost_half_pay_late/) — 跨境 B2B 多地区电汇收款与逾期催收自动化工具（门槛: 中）
 - **[评分: 8/10]** [I scraped billions of TikTok videos and profiles by reverse engineering the mobile API. Here's how it works + source code](https://www.reddit.com/r/SaaS/comments/1wxoasb/i_scraped_billions_of_tiktok_videos_and_profiles/) — 逆向 TikTok 接口，把爆款趋势与达人名单做成付费数据 API（门槛: 高）
 - **[评分: 8/10]** [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) — 零 API 费抓取社媒，一键交付海外精准潜客名单（门槛: 中）
+- **[评分: 7/10]** [Cold email tips I used to get 60K signups](https://medium.com/@dunjalazic/10-cold-email-tips-i-used-to-get-60-000-app-signups-dd928d86ca21#.h0s9l6wzp) — 冷邮件获客方法论打包成代发服务，卖精准名单与送达率（门槛: 低）
 
 ### 🏷️ 跨境电商与出海独立站工具
 - **[评分: 8/10]** [What is everyone doing about fraud prevention with Shopify taking away order data?](https://www.reddit.com/r/shopify/comments/1wyjkcp/what_is_everyone_doing_about_fraud_prevention/) — Shopify 风控数据被砍，卖家急需第三方反欺诈补位工具（门槛: 中）
 - **[评分: 8/10]** [Bootstrapping to €600k MRR and getting killed by Shopify: Checkout X](https://www.leteyski.com/bootstrapping-to-600k-mrr-and-getting-killed-by-shopify-the-story-of-checkout-x) — 独立站结账优化插件，€600k MRR 验证刚需（门槛: 高）
-- **[评分: 7/10]** [各位大佬是怎么stripe收款的](https://www.nodeseek.com/post-967940-1) — 帮被Stripe卡款的卖家解决提现与替代收款通道（门槛: 中）
-
-### 🏷️ 视频与动效代交付
-- **[评分: 7/10]** [Guysss i just made my 2nd sale. Hoping to reach 1k before gta 6](https://www.reddit.com/r/SaaS/comments/1wzin8r/guysss_i_just_made_my_2nd_sale_hoping_to_reach_1k/) — AI 自动扒 TikTok 爆款格式并生成幻灯片，创作者付费（门槛: 低）
 
 
 ---
