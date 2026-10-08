@@ -67,17 +67,7 @@
 - **[评分: 8/10]** [Ask HN: How do I manage the profit of a successful website?](https://news.ycombinator.com/item?id=29779944) — 单人订阅站月入$45k，利润处置与税务优化是付费买点（门槛: 中）
 - **[评分: 8/10]** [Show HN: After 2.5 years on my side project, it has hit £500/month revenue](https://news.ycombinator.com/item?id=25372464) — 音频私密分享SaaS，替代Bandcamp/SoundCloud的细分付费工具（门槛: 中）
 - **[评分: 8/10]** [Ask HN: Is it okay to just bootstrap it, even when VCs are knocking?](https://news.ycombinator.com/item?id=32746741) — 单人 bootstrap SaaS 做到 15K MRR 的订阅变现样本（门槛: 中）
-
-### 🏷️ 极窄场景的 Micro-AI 插件
-- **[评分: 8/10]** [Got my first-ever sale for my first AI-based SaaS! 🚀](https://www.reddit.com/r/SaaS/comments/1x0mcc0/got_my_firstever_sale_for_my_first_aibased_saas/) — AI SaaS 首单 $3 验证付费闭环，可复制微工具变现（门槛: 低）
-- **[评分: 8/10]** [We did itt ! 😭😭 $2K in a span of 6 months (Coupon Giveaway included)](https://www.reddit.com/r/SaaS/comments/1wzmeb5/we_did_itt_2k_in_a_span_of_6_months_coupon/) — 本地隐私版 AI 会议纪要，零投放 6 个月收 $2K（门槛: 中）
-- **[评分: 8/10]** [Got my first purchase of one of my free apps!](https://www.reddit.com/r/SideProject/comments/1wynjck/got_my_first_purchase_of_one_of_my_free_apps/) — 免费小工具挂自愿付费，首单即验证打赏变现（门槛: 低）
-- **[评分: 8/10]** [Show HN: Halo – A Personal AI with On-Device Harness, Memory and Browser Agent](https://apps.apple.com/us/app/halo-personal-ai/id6783715054) — 端侧隐私 AI 助手，$49 终身买断，数据不出手机（门槛: 中）
-- **[评分: 8/10]** [I built an Amazon Flex station Closure tracker. I made over $632 from donations alone in the last week!](https://www.reddit.com/r/SaaS/comments/1wyblws/i_built_an_amazon_flex_station_closure_tracker_i/) — 给配送司机做站点关闭提醒，靠打赏周入 632 美元（门槛: 低）
-- **[评分: 8/10]** [Famulor](https://www.producthunt.com/products/famulor-telephony-ai) — 给本地商家搭AI电话+WhatsApp跟进客服，按月收费（门槛: 中）
-- **[评分: 8/10]** [Communicate](https://www.producthunt.com/products/communicate) — 垂直行业AI客服代理，知识库+人工接管月费变现（门槛: 中）
-- **[评分: 7/10]** [Show HN: Singularity – memory that makes coding agents cheaper on repeat work](https://github.com/pandacover/singularity) — 给编程代理装记忆，重复任务省一半 token 成本（门槛: 中）
-- **[评分: 7/10]** [被通用 AI 生图的方向错乱逼疯后，我做了个 Tesla 车衣专用工具：一键生成方向正确、接缝不漏图](https://www.v2ex.com/t/1247163) — 特斯拉数字车衣专用AI生图工具，一键出方向正确不漏图成品（门槛: 中）
+- **[评分: 7/10]** [Anyone else struggling to stop building and just launch?](https://www.reddit.com/r/SaaS/comments/1x0oi50/anyone_else_struggling_to_stop_building_and_just/) — API 月入 7K 却卡在销售，技术创始人缺发布与获客工具（门槛: 中）
 
 ### 🏷️ ⚡ 非对称套利与增长黑客
 - **[评分: 8/10]** [🦙 Claude AI 创业公司计划 — 12个月 Pro Team + $1,000 API Credits](https://www.nodeseek.com/post-969760-1) — 白嫖Claude官方12个月会员+千刀API额度，最高撬10万（门槛: 低）
@@ -89,17 +79,27 @@
 - **[评分: 7/10]** [七个项目跑了一个多月：贵模型开局，便宜模型干活，按 API 价折算省了八成](https://www.v2ex.com/t/1247174) — 贵模型定策略、便宜模型干活，AI 编程成本直降八成（门槛: 低）
 - **[评分: 7/10]** [【羊毛】“微信有礼”泰国，马来西亚。steam、苹果礼品卡](https://www.nodeseek.com/post-971155-1) — 微信全球有礼组队码薅泰国马来礼品卡返现（门槛: 低）
 
+### 🏷️ 极窄场景的 Micro-AI 插件
+- **[评分: 8/10]** [Got my first-ever sale for my first AI-based SaaS! 🚀](https://www.reddit.com/r/SaaS/comments/1x0mcc0/got_my_firstever_sale_for_my_first_aibased_saas/) — AI SaaS 首单 $3 验证付费闭环，可复制微工具变现（门槛: 低）
+- **[评分: 8/10]** [We did itt ! 😭😭 $2K in a span of 6 months (Coupon Giveaway included)](https://www.reddit.com/r/SaaS/comments/1wzmeb5/we_did_itt_2k_in_a_span_of_6_months_coupon/) — 本地隐私版 AI 会议纪要，零投放 6 个月收 $2K（门槛: 中）
+- **[评分: 8/10]** [Got my first purchase of one of my free apps!](https://www.reddit.com/r/SideProject/comments/1wynjck/got_my_first_purchase_of_one_of_my_free_apps/) — 免费小工具挂自愿付费，首单即验证打赏变现（门槛: 低）
+- **[评分: 8/10]** [Show HN: Halo – A Personal AI with On-Device Harness, Memory and Browser Agent](https://apps.apple.com/us/app/halo-personal-ai/id6783715054) — 端侧隐私 AI 助手，$49 终身买断，数据不出手机（门槛: 中）
+- **[评分: 8/10]** [I built an Amazon Flex station Closure tracker. I made over $632 from donations alone in the last week!](https://www.reddit.com/r/SaaS/comments/1wyblws/i_built_an_amazon_flex_station_closure_tracker_i/) — 给配送司机做站点关闭提醒，靠打赏周入 632 美元（门槛: 低）
+- **[评分: 8/10]** [Famulor](https://www.producthunt.com/products/famulor-telephony-ai) — 给本地商家搭AI电话+WhatsApp跟进客服，按月收费（门槛: 中）
+- **[评分: 8/10]** [Communicate](https://www.producthunt.com/products/communicate) — 垂直行业AI客服代理，知识库+人工接管月费变现（门槛: 中）
+
 ### 🏷️ B2B 高客单数据抓取与精准名单
 - **[评分: 9/10]** [I MADE $927 IN ONE DAY! with my SaaS as a solo founder](https://www.reddit.com/r/SaaS/comments/1wxk3x2/i_made_927_in_one_day_with_my_saas_as_a_solo/) — 多域名邮箱矩阵冷邮件外呼，帮 B2B 批量获客（门槛: 中）
 - **[评分: 8/10]** [The travel data side project I built solo just hit 37 paying customers, and most of the new ones found it on their own](https://www.reddit.com/r/SaaS/comments/1wz0ue6/the_travel_data_side_project_i_built_solo_just/) — 逆向旅行比价数据做成 API，挂平台靠自然流量收订阅费（门槛: 中）
 - **[评分: 8/10]** [$1.6M ARR, 370 B2B customers, almost half pay late. Looking for advice on finding a mentor or coach.](https://www.reddit.com/r/SaaS/comments/1wyfoqp/16m_arr_370_b2b_customers_almost_half_pay_late/) — 跨境 B2B 多地区电汇收款与逾期催收自动化工具（门槛: 中）
 - **[评分: 8/10]** [I scraped billions of TikTok videos and profiles by reverse engineering the mobile API. Here's how it works + source code](https://www.reddit.com/r/SaaS/comments/1wxoasb/i_scraped_billions_of_tiktok_videos_and_profiles/) — 逆向 TikTok 接口，把爆款趋势与达人名单做成付费数据 API（门槛: 高）
 - **[评分: 8/10]** [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) — 零 API 费抓取社媒，一键交付海外精准潜客名单（门槛: 中）
-- **[评分: 7/10]** [I built an Instagram dashboard for vetting influencers before paying them](https://hikerapi.com/) — 网红投放前的数据尽调看板，帮品牌方避坑假粉（门槛: 中）
 
 ### 🏷️ 跨境电商与出海独立站工具
 - **[评分: 8/10]** [What is everyone doing about fraud prevention with Shopify taking away order data?](https://www.reddit.com/r/shopify/comments/1wyjkcp/what_is_everyone_doing_about_fraud_prevention/) — Shopify 风控数据被砍，卖家急需第三方反欺诈补位工具（门槛: 中）
 - **[评分: 8/10]** [Bootstrapping to €600k MRR and getting killed by Shopify: Checkout X](https://www.leteyski.com/bootstrapping-to-600k-mrr-and-getting-killed-by-shopify-the-story-of-checkout-x) — 独立站结账优化插件，€600k MRR 验证刚需（门槛: 高）
+- **[评分: 7/10]** [Trying to check competitor international pricing is driving me crazy](https://www.reddit.com/r/ecommerce/comments/1x0pa27/trying_to_check_competitor_international_pricing/) — 一键抓取竞品多国本地化定价与运费的调研工具（门槛: 低）
+- **[评分: 7/10]** [Is there another alternative like stripe but doesnt need KYC ?](https://www.reddit.com/r/SaaS/comments/1x0sips/is_there_another_alternative_like_stripe_but/) — 免KYC收款通道，被封卖家的刚需替代方案（门槛: 高）
 
 
 ---
