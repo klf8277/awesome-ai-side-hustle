@@ -76,8 +76,8 @@
 - **[评分: 8/10]** [We hand every new signup $1 of API credit. 9,900 signed up in ten days and we banned half of them.](https://www.reddit.com/r/SaaS/comments/1wyv4mh/we_hand_every_new_signup_1_of_api_credit_9900/) — 给发免费额度的平台做防薅羊毛自动封号流水线（门槛: 中）
 - **[评分: 8/10]** [I made $5,000 over 2 years from one 10-minute video](https://www.reddit.com/r/passive_income/comments/1wxetby/i_made_5000_over_2_years_from_one_10minute_video/) — 一条视频复制30个长尾词，靠CPL注册每单$3躺赚（门槛: 低）
 - **[评分: 8/10]** [Ontario/Alberta only](https://www.reddit.com/r/passive_income/comments/1wxhd6m/ontarioalberta_only/) — 博彩App注册奖金清单，每日打卡周赚50刀（门槛: 低）
+- **[评分: 7/10]** [话说有人成功申请到 Claude Start Up 计划了吗](https://www.nodeseek.com/post-971592-1) — 低门槛白嫖 Claude 创业额度，信息差套利窗口（门槛: 低）
 - **[评分: 7/10]** [七个项目跑了一个多月：贵模型开局，便宜模型干活，按 API 价折算省了八成](https://www.v2ex.com/t/1247174) — 贵模型定策略、便宜模型干活，AI 编程成本直降八成（门槛: 低）
-- **[评分: 7/10]** [【羊毛】“微信有礼”泰国，马来西亚。steam、苹果礼品卡](https://www.nodeseek.com/post-971155-1) — 微信全球有礼组队码薅泰国马来礼品卡返现（门槛: 低）
 
 ### 🏷️ 极窄场景的 Micro-AI 插件
 - **[评分: 8/10]** [Got my first-ever sale for my first AI-based SaaS! 🚀](https://www.reddit.com/r/SaaS/comments/1x0mcc0/got_my_firstever_sale_for_my_first_aibased_saas/) — AI SaaS 首单 $3 验证付费闭环，可复制微工具变现（门槛: 低）
