@@ -67,8 +67,8 @@
 - **[评分: 8/10]** [Ask HN: How do I manage the profit of a successful website?](https://news.ycombinator.com/item?id=29779944) — 单人订阅站月入$45k，利润处置与税务优化是付费买点（门槛: 中）
 - **[评分: 8/10]** [Show HN: After 2.5 years on my side project, it has hit £500/month revenue](https://news.ycombinator.com/item?id=25372464) — 音频私密分享SaaS，替代Bandcamp/SoundCloud的细分付费工具（门槛: 中）
 - **[评分: 8/10]** [Ask HN: Is it okay to just bootstrap it, even when VCs are knocking?](https://news.ycombinator.com/item?id=32746741) — 单人 bootstrap SaaS 做到 15K MRR 的订阅变现样本（门槛: 中）
+- **[评分: 7/10]** [因为不会做 App 图标，我做了个收了 1.8 万个真实图标的网站](https://www.v2ex.com/t/1247006) — 1.8 万真实 App 图标库+AI 生成，订阅 $9.99/月（门槛: 中）
 - **[评分: 7/10]** [Side project: attendance, subs and schedules for rec leagues, no app or account for players](https://www.reddit.com/r/SideProject/comments/1x0fqg2/side_project_attendance_subs_and_schedules_for/) — 业余联赛免注册排班替补工具，按联盟月费订阅（门槛: 低）
-- **[评分: 7/10]** [Started July 6th with just an idea. Just looked at my Stripe and I can't believe it.](https://www.reddit.com/r/SaaS/comments/1x0gdue/started_july_6th_with_just_an_idea_just_looked_at/) — 14小时AI造SaaS，3个月收到真实付费（门槛: 低）
 
 ### 🏷️ 极窄场景的 Micro-AI 插件
 - **[评分: 8/10]** [We did itt ! 😭😭 $2K in a span of 6 months (Coupon Giveaway included)](https://www.reddit.com/r/SaaS/comments/1wzmeb5/we_did_itt_2k_in_a_span_of_6_months_coupon/) — 本地隐私版 AI 会议纪要，零投放 6 个月收 $2K（门槛: 中）
@@ -87,6 +87,7 @@
 - **[评分: 8/10]** [We hand every new signup $1 of API credit. 9,900 signed up in ten days and we banned half of them.](https://www.reddit.com/r/SaaS/comments/1wyv4mh/we_hand_every_new_signup_1_of_api_credit_9900/) — 给发免费额度的平台做防薅羊毛自动封号流水线（门槛: 中）
 - **[评分: 8/10]** [I made $5,000 over 2 years from one 10-minute video](https://www.reddit.com/r/passive_income/comments/1wxetby/i_made_5000_over_2_years_from_one_10minute_video/) — 一条视频复制30个长尾词，靠CPL注册每单$3躺赚（门槛: 低）
 - **[评分: 8/10]** [Ontario/Alberta only](https://www.reddit.com/r/passive_income/comments/1wxhd6m/ontarioalberta_only/) — 博彩App注册奖金清单，每日打卡周赚50刀（门槛: 低）
+- **[评分: 7/10]** [领了claude MAX订阅赠送的API额度的，记着把缓存过期时间调整到1h](https://www.nodeseek.com/post-970272-1) — Claude MAX 赠额度的缓存配置套利，省一半 token 成本（门槛: 低）
 
 ### 🏷️ B2B 高客单数据抓取与精准名单
 - **[评分: 9/10]** [I MADE $927 IN ONE DAY! with my SaaS as a solo founder](https://www.reddit.com/r/SaaS/comments/1wxk3x2/i_made_927_in_one_day_with_my_saas_as_a_solo/) — 多域名邮箱矩阵冷邮件外呼，帮 B2B 批量获客（门槛: 中）
@@ -99,7 +100,6 @@
 - **[评分: 8/10]** [What is everyone doing about fraud prevention with Shopify taking away order data?](https://www.reddit.com/r/shopify/comments/1wyjkcp/what_is_everyone_doing_about_fraud_prevention/) — Shopify 风控数据被砍，卖家急需第三方反欺诈补位工具（门槛: 中）
 - **[评分: 8/10]** [Bootstrapping to €600k MRR and getting killed by Shopify: Checkout X](https://www.leteyski.com/bootstrapping-to-600k-mrr-and-getting-killed-by-shopify-the-story-of-checkout-x) — 独立站结账优化插件，€600k MRR 验证刚需（门槛: 高）
 - **[评分: 7/10]** [Should I fulfill this high-risk order? It feels extremely suspicious.](https://www.reddit.com/r/shopify/comments/1x0h40f/should_i_fulfill_this_highrisk_order_it_feels/) — 给独立站卖家的高风险订单识别与账单验证插件（门槛: 中）
-- **[评分: 7/10]** [哪个指纹浏览器比较好](https://www.nodeseek.com/post-970077-1) — 能过AI平台注册检测的指纹浏览器+家宽方案（门槛: 中）
 
 
 ---
