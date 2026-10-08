@@ -79,7 +79,6 @@
 - **[评分: 7/10]** [中国移动APP，灵犀口令“柿柿如意”，我抽到了“充10元到账15元”。](https://www.nodeseek.com/post-969947-1) — 蹲守运营商每周放水口令，抢话费充值补贴套利（门槛: 低）
 - **[评分: 7/10]** [Claude 封号无法避免，只能不断想办法重开](https://www.v2ex.com/t/1246729) — Claude 封号无限重开，订阅额度套利比 API 更划算（门槛: 中）
 - **[评分: 7/10]** [Claude Max 的 200刀赠金](https://www.nodeseek.com/post-969779-1) — 200 美元 Claude 赠金需绑卡激活，代激活与避坑教程可套利（门槛: 低）
-- **[评分: 7/10]** [Claude Max and Teams plans now forced to API (Oct 7th update)](https://news.ycombinator.com/item?id=49999508) — 把订阅额度变成 API 算力，做额度聚合与转接套利（门槛: 中）
 
 ### 🏷️ 极窄场景的 Micro-AI 插件
 - **[评分: 8/10]** [We did itt ! 😭😭 $2K in a span of 6 months (Coupon Giveaway included)](https://www.reddit.com/r/SaaS/comments/1wzmeb5/we_did_itt_2k_in_a_span_of_6_months_coupon/) — 本地隐私版 AI 会议纪要，零投放 6 个月收 $2K（门槛: 中）
@@ -100,6 +99,7 @@
 ### 🏷️ 跨境电商与出海独立站工具
 - **[评分: 8/10]** [What is everyone doing about fraud prevention with Shopify taking away order data?](https://www.reddit.com/r/shopify/comments/1wyjkcp/what_is_everyone_doing_about_fraud_prevention/) — Shopify 风控数据被砍，卖家急需第三方反欺诈补位工具（门槛: 中）
 - **[评分: 8/10]** [Bootstrapping to €600k MRR and getting killed by Shopify: Checkout X](https://www.leteyski.com/bootstrapping-to-600k-mrr-and-getting-killed-by-shopify-the-story-of-checkout-x) — 独立站结账优化插件，€600k MRR 验证刚需（门槛: 高）
+- **[评分: 7/10]** [哪个指纹浏览器比较好](https://www.nodeseek.com/post-970077-1) — 能过AI平台注册检测的指纹浏览器+家宽方案（门槛: 中）
 
 
 ---
