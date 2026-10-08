@@ -78,7 +78,6 @@
 - **[评分: 8/10]** [Famulor](https://www.producthunt.com/products/famulor-telephony-ai) — 给本地商家搭AI电话+WhatsApp跟进客服，按月收费（门槛: 中）
 - **[评分: 8/10]** [Communicate](https://www.producthunt.com/products/communicate) — 垂直行业AI客服代理，知识库+人工接管月费变现（门槛: 中）
 - **[评分: 7/10]** [I built a running app that makes the Apple Watch work like a proper running watch](https://www.reddit.com/r/SideProject/comments/1x0x2uk/i_built_a_running_app_that_makes_the_apple_watch/) — Apple Watch 跑步路线+间歇+AI 训练计划，一次买断 $14.99（门槛: 中）
-- **[评分: 7/10]** [I know there are popular dark mode apps for Safari. None of them quite worked for me, so I built my own](https://www.reddit.com/r/SideProject/comments/1x0ty7f/i_know_there_are_popular_dark_mode_apps_for/) — Safari 暗黑模式买断插件，靠用户报错持续修站点（门槛: 低）
 
 ### 🏷️ ⚡ 非对称套利与增长黑客
 - **[评分: 8/10]** [🦙 Claude AI 创业公司计划 — 12个月 Pro Team + $1,000 API Credits](https://www.nodeseek.com/post-969760-1) — 白嫖Claude官方12个月会员+千刀API额度，最高撬10万（门槛: 低）
@@ -87,6 +86,7 @@
 - **[评分: 8/10]** [We hand every new signup $1 of API credit. 9,900 signed up in ten days and we banned half of them.](https://www.reddit.com/r/SaaS/comments/1wyv4mh/we_hand_every_new_signup_1_of_api_credit_9900/) — 给发免费额度的平台做防薅羊毛自动封号流水线（门槛: 中）
 - **[评分: 8/10]** [I made $5,000 over 2 years from one 10-minute video](https://www.reddit.com/r/passive_income/comments/1wxetby/i_made_5000_over_2_years_from_one_10minute_video/) — 一条视频复制30个长尾词，靠CPL注册每单$3躺赚（门槛: 低）
 - **[评分: 8/10]** [Ontario/Alberta only](https://www.reddit.com/r/passive_income/comments/1wxhd6m/ontarioalberta_only/) — 博彩App注册奖金清单，每日打卡周赚50刀（门槛: 低）
+- **[评分: 7/10]** [Show HN: Layer – One API for Polymarket and Kalshi](https://uselayer.sh) — 预测市场跨平台比价套利 API，帮机器人找同注不同价（门槛: 中）
 - **[评分: 7/10]** [awsb ，4.7以下可蒸馏，4.8以上不能蒸馏，除了fable全模型，给只读管理](https://www.nodeseek.com/post-971639-1) — 低价 AI 模型额度中转，赚算力差价（门槛: 中）
 - **[评分: 7/10]** [Show HN: Jevman – AI decision models play Pac-Man](https://opper.ai/jevman-benchmark/) — 用 2 美分/局的 AI 对战游戏做开发者引流与模型评测入口（门槛: 中）
 
