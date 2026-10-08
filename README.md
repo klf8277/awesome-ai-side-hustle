@@ -67,7 +67,6 @@
 - **[评分: 8/10]** [Ask HN: How do I manage the profit of a successful website?](https://news.ycombinator.com/item?id=29779944) — 单人订阅站月入$45k，利润处置与税务优化是付费买点（门槛: 中）
 - **[评分: 8/10]** [Show HN: After 2.5 years on my side project, it has hit £500/month revenue](https://news.ycombinator.com/item?id=25372464) — 音频私密分享SaaS，替代Bandcamp/SoundCloud的细分付费工具（门槛: 中）
 - **[评分: 8/10]** [Ask HN: Is it okay to just bootstrap it, even when VCs are knocking?](https://news.ycombinator.com/item?id=32746741) — 单人 bootstrap SaaS 做到 15K MRR 的订阅变现样本（门槛: 中）
-- **[评分: 7/10]** [I put an "ask ChatGPT if this is worth it" button on my pricing page](https://www.reddit.com/r/SaaS/comments/1x0n6eg/i_put_an_ask_chatgpt_if_this_is_worth_it_button/) — 把用户想问AI的疑虑做成按钮，反而促成付费转化（门槛: 低）
 
 ### 🏷️ 极窄场景的 Micro-AI 插件
 - **[评分: 8/10]** [Got my first-ever sale for my first AI-based SaaS! 🚀](https://www.reddit.com/r/SaaS/comments/1x0mcc0/got_my_firstever_sale_for_my_first_aibased_saas/) — AI SaaS 首单 $3 验证付费闭环，可复制微工具变现（门槛: 低）
@@ -77,6 +76,7 @@
 - **[评分: 8/10]** [I built an Amazon Flex station Closure tracker. I made over $632 from donations alone in the last week!](https://www.reddit.com/r/SaaS/comments/1wyblws/i_built_an_amazon_flex_station_closure_tracker_i/) — 给配送司机做站点关闭提醒，靠打赏周入 632 美元（门槛: 低）
 - **[评分: 8/10]** [Famulor](https://www.producthunt.com/products/famulor-telephony-ai) — 给本地商家搭AI电话+WhatsApp跟进客服，按月收费（门槛: 中）
 - **[评分: 8/10]** [Communicate](https://www.producthunt.com/products/communicate) — 垂直行业AI客服代理，知识库+人工接管月费变现（门槛: 中）
+- **[评分: 7/10]** [被通用 AI 生图的方向错乱逼疯后，我做了个 Tesla 车衣专用工具：一键生成方向正确、接缝不漏图](https://www.v2ex.com/t/1247163) — 特斯拉数字车衣专用AI生图工具，一键出方向正确不漏图成品（门槛: 中）
 
 ### 🏷️ ⚡ 非对称套利与增长黑客
 - **[评分: 8/10]** [🦙 Claude AI 创业公司计划 — 12个月 Pro Team + $1,000 API Credits](https://www.nodeseek.com/post-969760-1) — 白嫖Claude官方12个月会员+千刀API额度，最高撬10万（门槛: 低）
