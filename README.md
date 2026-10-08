@@ -86,8 +86,8 @@
 - **[评分: 8/10]** [We hand every new signup $1 of API credit. 9,900 signed up in ten days and we banned half of them.](https://www.reddit.com/r/SaaS/comments/1wyv4mh/we_hand_every_new_signup_1_of_api_credit_9900/) — 给发免费额度的平台做防薅羊毛自动封号流水线（门槛: 中）
 - **[评分: 8/10]** [I made $5,000 over 2 years from one 10-minute video](https://www.reddit.com/r/passive_income/comments/1wxetby/i_made_5000_over_2_years_from_one_10minute_video/) — 一条视频复制30个长尾词，靠CPL注册每单$3躺赚（门槛: 低）
 - **[评分: 8/10]** [Ontario/Alberta only](https://www.reddit.com/r/passive_income/comments/1wxhd6m/ontarioalberta_only/) — 博彩App注册奖金清单，每日打卡周赚50刀（门槛: 低）
+- **[评分: 7/10]** [Claude Max and Team plans include monthly credits for the Claude API](https://platform.claude.com/docs/en/about-claude/api-credits-for-subscribers) — 订阅套餐附赠 API 额度，可聚合转售或代跑套利（门槛: 低）
 - **[评分: 7/10]** [【gomami补货】上车！扫货！](https://www.nodeseek.com/post-971694-1) — 聚合VPS骨折优惠码赚返佣与信息差（门槛: 低）
-- **[评分: 7/10]** [Show HN: Layer – One API for Polymarket and Kalshi](https://uselayer.sh) — 预测市场跨平台比价套利 API，帮机器人找同注不同价（门槛: 中）
 
 ### 🏷️ B2B 高客单数据抓取与精准名单
 - **[评分: 9/10]** [I MADE $927 IN ONE DAY! with my SaaS as a solo founder](https://www.reddit.com/r/SaaS/comments/1wxk3x2/i_made_927_in_one_day_with_my_saas_as_a_solo/) — 多域名邮箱矩阵冷邮件外呼，帮 B2B 批量获客（门槛: 中）
