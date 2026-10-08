@@ -77,7 +77,6 @@
 - **[评分: 8/10]** [I built an Amazon Flex station Closure tracker. I made over $632 from donations alone in the last week!](https://www.reddit.com/r/SaaS/comments/1wyblws/i_built_an_amazon_flex_station_closure_tracker_i/) — 给配送司机做站点关闭提醒，靠打赏周入 632 美元（门槛: 低）
 - **[评分: 8/10]** [Famulor](https://www.producthunt.com/products/famulor-telephony-ai) — 给本地商家搭AI电话+WhatsApp跟进客服，按月收费（门槛: 中）
 - **[评分: 8/10]** [Communicate](https://www.producthunt.com/products/communicate) — 垂直行业AI客服代理，知识库+人工接管月费变现（门槛: 中）
-- **[评分: 7/10]** [Enterprise clients and insurers are starting to ask: can you prove your AI agent only did what it was authorized to do?](https://www.reddit.com/r/SaaS/comments/1x0o4di/enterprise_clients_and_insurers_are_starting_to/) — 给 AI 代理做授权范围审计，帮 SaaS 过企业合规采购（门槛: 中）
 
 ### 🏷️ ⚡ 非对称套利与增长黑客
 - **[评分: 8/10]** [🦙 Claude AI 创业公司计划 — 12个月 Pro Team + $1,000 API Credits](https://www.nodeseek.com/post-969760-1) — 白嫖Claude官方12个月会员+千刀API额度，最高撬10万（门槛: 低）
@@ -87,7 +86,6 @@
 - **[评分: 8/10]** [I made $5,000 over 2 years from one 10-minute video](https://www.reddit.com/r/passive_income/comments/1wxetby/i_made_5000_over_2_years_from_one_10minute_video/) — 一条视频复制30个长尾词，靠CPL注册每单$3躺赚（门槛: 低）
 - **[评分: 8/10]** [Ontario/Alberta only](https://www.reddit.com/r/passive_income/comments/1wxhd6m/ontarioalberta_only/) — 博彩App注册奖金清单，每日打卡周赚50刀（门槛: 低）
 - **[评分: 7/10]** [SpaceXAI joins Omarchy as corporate sponsor with $1.5M in Grok tokens](https://omarchy.org/news/2026/10/spacexai-joins-as-founding-corporate-patron/) — 150万美元Grok额度放水，蹭免费算力做套壳变现（门槛: 中）
-- **[评分: 7/10]** [Claude for Startups](https://www.reddit.com/r/SaaS/comments/1x0l8jk/claude_for_startups/) — 白拿 Anthropic 500 美元 API 额度做产品原型（门槛: 低）
 
 ### 🏷️ B2B 高客单数据抓取与精准名单
 - **[评分: 9/10]** [I MADE $927 IN ONE DAY! with my SaaS as a solo founder](https://www.reddit.com/r/SaaS/comments/1wxk3x2/i_made_927_in_one_day_with_my_saas_as_a_solo/) — 多域名邮箱矩阵冷邮件外呼，帮 B2B 批量获客（门槛: 中）
@@ -95,12 +93,14 @@
 - **[评分: 8/10]** [$1.6M ARR, 370 B2B customers, almost half pay late. Looking for advice on finding a mentor or coach.](https://www.reddit.com/r/SaaS/comments/1wyfoqp/16m_arr_370_b2b_customers_almost_half_pay_late/) — 跨境 B2B 多地区电汇收款与逾期催收自动化工具（门槛: 中）
 - **[评分: 8/10]** [I scraped billions of TikTok videos and profiles by reverse engineering the mobile API. Here's how it works + source code](https://www.reddit.com/r/SaaS/comments/1wxoasb/i_scraped_billions_of_tiktok_videos_and_profiles/) — 逆向 TikTok 接口，把爆款趋势与达人名单做成付费数据 API（门槛: 高）
 - **[评分: 8/10]** [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) — 零 API 费抓取社媒，一键交付海外精准潜客名单（门槛: 中）
+- **[评分: 7/10]** [I built an Instagram dashboard for vetting influencers before paying them](https://hikerapi.com/) — 网红投放前的数据尽调看板，帮品牌方避坑假粉（门槛: 中）
 
 ### 🏷️ 跨境电商与出海独立站工具
 - **[评分: 8/10]** [What is everyone doing about fraud prevention with Shopify taking away order data?](https://www.reddit.com/r/shopify/comments/1wyjkcp/what_is_everyone_doing_about_fraud_prevention/) — Shopify 风控数据被砍，卖家急需第三方反欺诈补位工具（门槛: 中）
 - **[评分: 8/10]** [Bootstrapping to €600k MRR and getting killed by Shopify: Checkout X](https://www.leteyski.com/bootstrapping-to-600k-mrr-and-getting-killed-by-shopify-the-story-of-checkout-x) — 独立站结账优化插件，€600k MRR 验证刚需（门槛: 高）
 
 ### 🏷️ 视频与动效代交付
+- **[评分: 7/10]** [Show HN: Runbook and scripts for Claude to edit raw footage in DaVinci Resolve](https://blog.simbastack.com/claude-edited-my-youtube-videos-davinci-resolve/) — AI 自动剪片流水线，帮创作者把素材一键变成片（门槛: 中）
 - **[评分: 7/10]** [Show HN: Runbook and scripts for Claude to edit raw footage in DaVinci Resolve](https://blog.simbastack.com/claude-edited-my-youtube-videos-davinci-resolve/) — AI 自动剪片流水线，帮创作者把素材一键变成片（门槛: 中）
 
 
