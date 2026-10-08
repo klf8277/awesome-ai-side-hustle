@@ -86,9 +86,9 @@
 - **[评分: 8/10]** [I built an Amazon Flex station Closure tracker. I made over $632 from donations alone in the last week!](https://www.reddit.com/r/SaaS/comments/1wyblws/i_built_an_amazon_flex_station_closure_tracker_i/) — 给配送司机做站点关闭提醒，靠打赏周入 632 美元（门槛: 低）
 - **[评分: 8/10]** [Famulor](https://www.producthunt.com/products/famulor-telephony-ai) — 给本地商家搭AI电话+WhatsApp跟进客服，按月收费（门槛: 中）
 - **[评分: 8/10]** [Communicate](https://www.producthunt.com/products/communicate) — 垂直行业AI客服代理，知识库+人工接管月费变现（门槛: 中）
+- **[评分: 7/10]** [I got tired of the macOS Dock not changing for years, so I built my own](https://www.reddit.com/r/SideProject/comments/1x0ayte/i_got_tired_of_the_macos_dock_not_changing_for/) — 给 macOS 桌面做增强小工具，订阅或买断收费（门槛: 中）
 - **[评分: 7/10]** [Show HN: Smart Blur – Auto-Blur PII in the Browser, with a OpenAI Local Model](https://smartbuildlabs.com/apps/smart-blur/) — 浏览器本地AI自动打码敏感信息，会议共享防泄露按Pro订阅收费（门槛: 中）
 - **[评分: 7/10]** [launched my app a week ago and its already getting paid users from different countries](https://www.reddit.com/r/SaaS/comments/1x0855m/launched_my_app_a_week_ago_and_its_already/) — MacBook 刘海监控 AI 代理状态与花费，多国开发者已付费（门槛: 低）
-- **[评分: 7/10]** [Layout - a Mac app that switches your whole dev setup between projects with one shortcut](https://www.reddit.com/r/SideProject/comments/1x03ser/layout_a_mac_app_that_switches_your_whole_dev/) — 多项目开发者的 Mac 窗口工作区切换器，一次快捷键归位全部窗口（门槛: 中）
 
 ### 🏷️ B2B 高客单数据抓取与精准名单
 - **[评分: 9/10]** [I MADE $927 IN ONE DAY! with my SaaS as a solo founder](https://www.reddit.com/r/SaaS/comments/1wxk3x2/i_made_927_in_one_day_with_my_saas_as_a_solo/) — 多域名邮箱矩阵冷邮件外呼，帮 B2B 批量获客（门槛: 中）
