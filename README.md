@@ -67,7 +67,6 @@
 - **[评分: 8/10]** [Ask HN: How do I manage the profit of a successful website?](https://news.ycombinator.com/item?id=29779944) — 单人订阅站月入$45k，利润处置与税务优化是付费买点（门槛: 中）
 - **[评分: 8/10]** [Show HN: After 2.5 years on my side project, it has hit £500/month revenue](https://news.ycombinator.com/item?id=25372464) — 音频私密分享SaaS，替代Bandcamp/SoundCloud的细分付费工具（门槛: 中）
 - **[评分: 8/10]** [Ask HN: Is it okay to just bootstrap it, even when VCs are knocking?](https://news.ycombinator.com/item?id=32746741) — 单人 bootstrap SaaS 做到 15K MRR 的订阅变现样本（门槛: 中）
-- **[评分: 7/10]** [Didn’t want to pay $70–100/mo for mobile app market data, so I built my own. Now 150 people use it free and I’m not sure that’s sustainable.](https://www.reddit.com/r/SaaS/comments/1x11neq/didnt_want_to_pay_70100mo_for_mobile_app_market/) — 平价版 App 市场数据与 ASO 关键词工具，替代 70-100 美元月费订阅（门槛: 中）
 
 ### 🏷️ 极窄场景的 Micro-AI 插件
 - **[评分: 8/10]** [I made a small Mac app so I can watch YouTube with my fiancée while we're on a call](https://www.reddit.com/r/SideProject/comments/1x0okgg/i_made_a_small_mac_app_so_i_can_watch_youtube/) — Mac 通话时媒体音量不被压低的小工具，$9 一次性买断（门槛: 中）
@@ -78,6 +77,7 @@
 - **[评分: 8/10]** [I built an Amazon Flex station Closure tracker. I made over $632 from donations alone in the last week!](https://www.reddit.com/r/SaaS/comments/1wyblws/i_built_an_amazon_flex_station_closure_tracker_i/) — 给配送司机做站点关闭提醒，靠打赏周入 632 美元（门槛: 低）
 - **[评分: 8/10]** [Famulor](https://www.producthunt.com/products/famulor-telephony-ai) — 给本地商家搭AI电话+WhatsApp跟进客服，按月收费（门槛: 中）
 - **[评分: 8/10]** [Communicate](https://www.producthunt.com/products/communicate) — 垂直行业AI客服代理，知识库+人工接管月费变现（门槛: 中）
+- **[评分: 7/10]** [I'm building a reply tool. Used Muse as a competitor for two weeks, here's what I learned](https://www.reddit.com/r/SideProject/comments/1x165rz/im_building_a_reply_tool_used_muse_as_a/) — 按联系人语气定制、不擅自答应的 AI 回复助手（门槛: 低）
 
 ### 🏷️ ⚡ 非对称套利与增长黑客
 - **[评分: 8/10]** [🦙 Claude AI 创业公司计划 — 12个月 Pro Team + $1,000 API Credits](https://www.nodeseek.com/post-969760-1) — 白嫖Claude官方12个月会员+千刀API额度，最高撬10万（门槛: 低）
@@ -86,6 +86,7 @@
 - **[评分: 8/10]** [We hand every new signup $1 of API credit. 9,900 signed up in ten days and we banned half of them.](https://www.reddit.com/r/SaaS/comments/1wyv4mh/we_hand_every_new_signup_1_of_api_credit_9900/) — 给发免费额度的平台做防薅羊毛自动封号流水线（门槛: 中）
 - **[评分: 8/10]** [I made $5,000 over 2 years from one 10-minute video](https://www.reddit.com/r/passive_income/comments/1wxetby/i_made_5000_over_2_years_from_one_10minute_video/) — 一条视频复制30个长尾词，靠CPL注册每单$3躺赚（门槛: 低）
 - **[评分: 8/10]** [Ontario/Alberta only](https://www.reddit.com/r/passive_income/comments/1wxhd6m/ontarioalberta_only/) — 博彩App注册奖金清单，每日打卡周赚50刀（门槛: 低）
+- **[评分: 7/10]** [求claude 稳定订阅方式](https://www.nodeseek.com/post-971806-1) — 帮国内用户搞定稳定不封的 Claude 订阅与海外节点（门槛: 中）
 - **[评分: 7/10]** [Hermes  官方提供免费模型 stepfun/step-5-preview:free](https://www.nodeseek.com/post-971741-1) — 免费大模型额度窗口，绑卡即白嫖，可做中转套利（门槛: 低）
 - **[评分: 7/10]** [Claude Max and Team plans include monthly credits for the Claude API](https://platform.claude.com/docs/en/about-claude/api-credits-for-subscribers) — 订阅套餐附赠 API 额度，可聚合转售或代跑套利（门槛: 低）
 
@@ -99,7 +100,6 @@
 ### 🏷️ 跨境电商与出海独立站工具
 - **[评分: 8/10]** [What is everyone doing about fraud prevention with Shopify taking away order data?](https://www.reddit.com/r/shopify/comments/1wyjkcp/what_is_everyone_doing_about_fraud_prevention/) — Shopify 风控数据被砍，卖家急需第三方反欺诈补位工具（门槛: 中）
 - **[评分: 8/10]** [Bootstrapping to €600k MRR and getting killed by Shopify: Checkout X](https://www.leteyski.com/bootstrapping-to-600k-mrr-and-getting-killed-by-shopify-the-story-of-checkout-x) — 独立站结账优化插件，€600k MRR 验证刚需（门槛: 高）
-- **[评分: 7/10]** [What I learned building a storefront for sellers who are "too small" for Shopify](https://www.reddit.com/r/ecommerce/comments/1x11v14/what_i_learned_building_a_storefront_for_sellers/) — 给周末开单的小卖家做按批次预售的轻量店铺（门槛: 低）
 
 
 ---
