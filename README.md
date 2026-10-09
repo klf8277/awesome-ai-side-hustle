@@ -76,8 +76,8 @@
 - **[评分: 8/10]** [We hand every new signup $1 of API credit. 9,900 signed up in ten days and we banned half of them.](https://www.reddit.com/r/SaaS/comments/1wyv4mh/we_hand_every_new_signup_1_of_api_credit_9900/) — 给发免费额度的平台做防薅羊毛自动封号流水线（门槛: 中）
 - **[评分: 8/10]** [I made $5,000 over 2 years from one 10-minute video](https://www.reddit.com/r/passive_income/comments/1wxetby/i_made_5000_over_2_years_from_one_10minute_video/) — 一条视频复制30个长尾词，靠CPL注册每单$3躺赚（门槛: 低）
 - **[评分: 8/10]** [Ontario/Alberta only](https://www.reddit.com/r/passive_income/comments/1wxhd6m/ontarioalberta_only/) — 博彩App注册奖金清单，每日打卡周赚50刀（门槛: 低）
+- **[评分: 7/10]** [为什么AI中转站的价格那么便宜？](https://www.nodeseek.com/post-972019-1) — 低价 AI API 中转通道，赚算力差价（门槛: 中）
 - **[评分: 7/10]** [求claude 稳定订阅方式](https://www.nodeseek.com/post-971806-1) — 帮国内用户搞定稳定不封的 Claude 订阅与海外节点（门槛: 中）
-- **[评分: 7/10]** [Hermes  官方提供免费模型 stepfun/step-5-preview:free](https://www.nodeseek.com/post-971741-1) — 免费大模型额度窗口，绑卡即白嫖，可做中转套利（门槛: 低）
 
 ### 🏷️ 极窄场景的 Micro-AI 插件
 - **[评分: 8/10]** [I made a small Mac app so I can watch YouTube with my fiancée while we're on a call](https://www.reddit.com/r/SideProject/comments/1x0okgg/i_made_a_small_mac_app_so_i_can_watch_youtube/) — Mac 通话时媒体音量不被压低的小工具，$9 一次性买断（门槛: 中）
