@@ -67,7 +67,6 @@
 - **[评分: 8/10]** [Ask HN: How do I manage the profit of a successful website?](https://news.ycombinator.com/item?id=29779944) — 单人订阅站月入$45k，利润处置与税务优化是付费买点（门槛: 中）
 - **[评分: 8/10]** [Show HN: After 2.5 years on my side project, it has hit £500/month revenue](https://news.ycombinator.com/item?id=25372464) — 音频私密分享SaaS，替代Bandcamp/SoundCloud的细分付费工具（门槛: 中）
 - **[评分: 8/10]** [Ask HN: Is it okay to just bootstrap it, even when VCs are knocking?](https://news.ycombinator.com/item?id=32746741) — 单人 bootstrap SaaS 做到 15K MRR 的订阅变现样本（门槛: 中）
-- **[评分: 7/10]** [The per seat pricing model punishes you for growing your team](https://www.reddit.com/r/Entrepreneur/comments/1x18sjn/the_per_seat_pricing_model_punishes_you_for/) — 不限人数的平价派单 CRM，专治按人头收费（门槛: 中）
 
 ### 🏷️ ⚡ 非对称套利与增长黑客
 - **[评分: 8/10]** [注册了一个美国公司，可以提供 Claude Code 团队订阅席位。](https://www.v2ex.com/t/1247029) — 美国公司主体代持 Claude 团队席位，按月转售给国内开发者（门槛: 中）
@@ -77,6 +76,7 @@
 - **[评分: 8/10]** [We hand every new signup $1 of API credit. 9,900 signed up in ten days and we banned half of them.](https://www.reddit.com/r/SaaS/comments/1wyv4mh/we_hand_every_new_signup_1_of_api_credit_9900/) — 给发免费额度的平台做防薅羊毛自动封号流水线（门槛: 中）
 - **[评分: 8/10]** [I made $5,000 over 2 years from one 10-minute video](https://www.reddit.com/r/passive_income/comments/1wxetby/i_made_5000_over_2_years_from_one_10minute_video/) — 一条视频复制30个长尾词，靠CPL注册每单$3躺赚（门槛: 低）
 - **[评分: 8/10]** [Ontario/Alberta only](https://www.reddit.com/r/passive_income/comments/1wxhd6m/ontarioalberta_only/) — 博彩App注册奖金清单，每日打卡周赚50刀（门槛: 低）
+- **[评分: 7/10]** [【实测】Bitget Wallet 新 U 卡：中国身份证 5 分钟秒过，0 开卡费/0月租，能绑微信支付宝](https://www.nodeseek.com/post-972441-1) — 大陆身份证秒过的U卡，打通出海支付与AI订阅通道（门槛: 低）
 - **[评分: 7/10]** [bitget新u卡来啦，居住地可以选择中国大陆，无需地址证明，美国卡bin](https://www.nodeseek.com/post-972311-1) — 免地址证明美国卡BIN，打通国内AI订阅支付（门槛: 中）
 
 ### 🏷️ 极窄场景的 Micro-AI 插件
