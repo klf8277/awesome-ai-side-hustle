@@ -88,6 +88,7 @@
 - **[评分: 8/10]** [We hand every new signup $1 of API credit. 9,900 signed up in ten days and we banned half of them.](https://www.reddit.com/r/SaaS/comments/1wyv4mh/we_hand_every_new_signup_1_of_api_credit_9900/) — 给发免费额度的平台做防薅羊毛自动封号流水线（门槛: 中）
 - **[评分: 8/10]** [I made $5,000 over 2 years from one 10-minute video](https://www.reddit.com/r/passive_income/comments/1wxetby/i_made_5000_over_2_years_from_one_10minute_video/) — 一条视频复制30个长尾词，靠CPL注册每单$3躺赚（门槛: 低）
 - **[评分: 8/10]** [Ontario/Alberta only](https://www.reddit.com/r/passive_income/comments/1wxhd6m/ontarioalberta_only/) — 博彩App注册奖金清单，每日打卡周赚50刀（门槛: 低）
+- **[评分: 7/10]** [【代开 / 官方赠送】Telegram Premium 年费会员 185r ｜ 无需上号 ｜ 官方礼品秒到](https://www.nodeseek.com/post-973620-1) — 官方礼品通道低价拿货，转卖国内用户赚地区价差（门槛: 中）
 
 ### 🏷️ B2B 高客单数据抓取与精准名单
 - **[评分: 9/10]** [I MADE $927 IN ONE DAY! with my SaaS as a solo founder](https://www.reddit.com/r/SaaS/comments/1wxk3x2/i_made_927_in_one_day_with_my_saas_as_a_solo/) — 多域名邮箱矩阵冷邮件外呼，帮 B2B 批量获客（门槛: 中）
@@ -95,7 +96,6 @@
 - **[评分: 8/10]** [$1.6M ARR, 370 B2B customers, almost half pay late. Looking for advice on finding a mentor or coach.](https://www.reddit.com/r/SaaS/comments/1wyfoqp/16m_arr_370_b2b_customers_almost_half_pay_late/) — 跨境 B2B 多地区电汇收款与逾期催收自动化工具（门槛: 中）
 - **[评分: 8/10]** [I scraped billions of TikTok videos and profiles by reverse engineering the mobile API. Here's how it works + source code](https://www.reddit.com/r/SaaS/comments/1wxoasb/i_scraped_billions_of_tiktok_videos_and_profiles/) — 逆向 TikTok 接口，把爆款趋势与达人名单做成付费数据 API（门槛: 高）
 - **[评分: 8/10]** [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) — 零 API 费抓取社媒，一键交付海外精准潜客名单（门槛: 中）
-- **[评分: 7/10]** [Show HN: eBay sold listings APIs and MCP](https://soldfetch.com) — 批量抓 eBay 已售成交数据，卖给转卖卖家做定价选品（门槛: 中）
 
 ### 🏷️ 跨境电商与出海独立站工具
 - **[评分: 8/10]** [What is everyone doing about fraud prevention with Shopify taking away order data?](https://www.reddit.com/r/shopify/comments/1wyjkcp/what_is_everyone_doing_about_fraud_prevention/) — Shopify 风控数据被砍，卖家急需第三方反欺诈补位工具（门槛: 中）
