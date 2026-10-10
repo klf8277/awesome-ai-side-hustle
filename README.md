@@ -38,6 +38,7 @@
 |---|---|---|---|---|---|---|
 | **⭐️ 9/10** | **New Record - $1,478 in ONE DAY! (Should I fundraise?)** | `垂直数字资产与全自动工作流模板` | 中 | 给初创公司做 GTM 工作流与邮件基建，单日营收破千刀 | [🔗 来源](https://www.reddit.com/r/SaaS/comments/1wz4ugu/new_record_1478_in_one_day_should_i_fundraise/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 9/10** | **I MADE $927 IN ONE DAY! with my SaaS as a solo founder** | `B2B 高客单数据抓取与精准名单` | 中 | 多域名邮箱矩阵冷邮件外呼，帮 B2B 批量获客 | [🔗 来源](https://www.reddit.com/r/SaaS/comments/1wxk3x2/i_made_927_in_one_day_with_my_saas_as_a_solo/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
+| **⭐️ 8/10** | **We spent €3,000 on UGC creators, got 500,000 views, and acquired ONE paying customer** | `视频与动效代交付` | 低 | UGC 营销需精准定位和吸引目标受众，否则高成本投入可能难以转化为有效收益。 | [🔗 来源](https://www.reddit.com/r/SaaS/comments/1x2f4zk/we_spent_3000_on_ugc_creators_got_500000_views/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 8/10** | **I hadn’t told a single person about my Mac app. Someone bought it anyway.** | `垂直数字资产与全自动工作流模板` | 低 | 零推广卖 $5 买断制 Mac 屏保小工具，陌生人自动下单 | [🔗 来源](https://www.reddit.com/r/SideProject/comments/1x29yym/i_hadnt_told_a_single_person_about_my_mac_app/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 8/10** | **My first SaaS got its first user and they bought a subscription after 1 week of organic videos. Any tips?** | `垂直数字资产与全自动工作流模板` | 低 | 短视频引流卖 $29.99/月轻量 SaaS 订阅 | [🔗 来源](https://www.reddit.com/r/SaaS/comments/1x24w20/my_first_saas_got_its_first_user_and_they_bought/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 8/10** | **Is $966 dollars in revenue a week good for a SAAS?** | `垂直数字资产与全自动工作流模板` | 低 | 给零工司机做站点关闭提醒，订阅+捐赠周入近千刀 | [🔗 来源](https://www.reddit.com/r/SaaS/comments/1x213xi/is_966_dollars_in_revenue_a_week_good_for_a_saas/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
@@ -45,7 +46,6 @@
 | **⭐️ 8/10** | **$1k revenue in 40 days** | `垂直数字资产与全自动工作流模板` | 中 | AI代理替中小商家全自动打理各平台营销 | [🔗 来源](https://www.reddit.com/r/SaaS/comments/1x1rx9z/1k_revenue_in_40_days/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 8/10** | **Made my first $500 in less than 6 months with a desktop app I built solo** | `极窄场景的 Micro-AI 插件` | 低 | 屏幕共享隐私遮挡小工具，单人6个月赚544美元 | [🔗 来源](https://www.reddit.com/r/SaaS/comments/1x1jlux/made_my_first_500_in_less_than_6_months_with_a/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 8/10** | **MY MONEY APP IS GOING TO THE MOON 🚀** | `垂直数字资产与全自动工作流模板` | 中 | 记账 App 加 7 天试用，单周下载破千、月入 300 美元订阅 | [🔗 来源](https://www.reddit.com/r/passive_income/comments/1x1ii4k/my_money_app_is_going_to_the_moon/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
-| **⭐️ 8/10** | **注册了一个美国公司，可以提供 Claude Code 团队订阅席位。** | `⚡ 非对称套利与增长黑客` | 中 | 美国公司主体代持 Claude 团队席位，按月转售给国内开发者 | [🔗 来源](https://www.v2ex.com/t/1247029) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 
 ---
 
@@ -97,9 +97,11 @@
 - **[评分: 8/10]** [$1.6M ARR, 370 B2B customers, almost half pay late. Looking for advice on finding a mentor or coach.](https://www.reddit.com/r/SaaS/comments/1wyfoqp/16m_arr_370_b2b_customers_almost_half_pay_late/) — 跨境 B2B 多地区电汇收款与逾期催收自动化工具（门槛: 中）
 - **[评分: 8/10]** [I scraped billions of TikTok videos and profiles by reverse engineering the mobile API. Here's how it works + source code](https://www.reddit.com/r/SaaS/comments/1wxoasb/i_scraped_billions_of_tiktok_videos_and_profiles/) — 逆向 TikTok 接口，把爆款趋势与达人名单做成付费数据 API（门槛: 高）
 
+### 🏷️ 视频与动效代交付
+- **[评分: 8/10]** [We spent €3,000 on UGC creators, got 500,000 views, and acquired ONE paying customer](https://www.reddit.com/r/SaaS/comments/1x2f4zk/we_spent_3000_on_ugc_creators_got_500000_views/) — UGC 营销需精准定位和吸引目标受众，否则高成本投入可能难以转化为有效收益。（门槛: 低）
+
 ### 🏷️ 跨境电商与出海独立站工具
 - **[评分: 8/10]** [What is everyone doing about fraud prevention with Shopify taking away order data?](https://www.reddit.com/r/shopify/comments/1wyjkcp/what_is_everyone_doing_about_fraud_prevention/) — Shopify 风控数据被砍，卖家急需第三方反欺诈补位工具（门槛: 中）
-- **[评分: 8/10]** [Bootstrapping to €600k MRR and getting killed by Shopify: Checkout X](https://www.leteyski.com/bootstrapping-to-600k-mrr-and-getting-killed-by-shopify-the-story-of-checkout-x) — 独立站结账优化插件，€600k MRR 验证刚需（门槛: 高）
 
 
 ---
