@@ -38,6 +38,7 @@
 |---|---|---|---|---|---|---|
 | **⭐️ 9/10** | **New Record - $1,478 in ONE DAY! (Should I fundraise?)** | `垂直数字资产与全自动工作流模板` | 中 | 给初创公司做 GTM 工作流与邮件基建，单日营收破千刀 | [🔗 来源](https://www.reddit.com/r/SaaS/comments/1wz4ugu/new_record_1478_in_one_day_should_i_fundraise/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 9/10** | **I MADE $927 IN ONE DAY! with my SaaS as a solo founder** | `B2B 高客单数据抓取与精准名单` | 中 | 多域名邮箱矩阵冷邮件外呼，帮 B2B 批量获客 | [🔗 来源](https://www.reddit.com/r/SaaS/comments/1wxk3x2/i_made_927_in_one_day_with_my_saas_as_a_solo/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
+| **⭐️ 8/10** | **Is $966 dollars in revenue a week good for a SAAS?** | `垂直数字资产与全自动工作流模板` | 低 | 给零工司机做站点关闭提醒，订阅+捐赠周入近千刀 | [🔗 来源](https://www.reddit.com/r/SaaS/comments/1x213xi/is_966_dollars_in_revenue_a_week_good_for_a_saas/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 8/10** | ***** I WILL NOT PROMOTE *** How do you decide how much cash to keep in a solo app business versus reinvesting or paying yourself?** | `垂直数字资产与全自动工作流模板` | 中 | 单人应用年入20万美元，现金分配与广告预算管理工具缺口 | [🔗 来源](https://www.reddit.com/r/startups/comments/1x1wqmq/i_will_not_promote_how_do_you_decide_how_much/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 8/10** | **$1k revenue in 40 days** | `垂直数字资产与全自动工作流模板` | 中 | AI代理替中小商家全自动打理各平台营销 | [🔗 来源](https://www.reddit.com/r/SaaS/comments/1x1rx9z/1k_revenue_in_40_days/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 8/10** | **Made my first $500 in less than 6 months with a desktop app I built solo** | `极窄场景的 Micro-AI 插件` | 低 | 屏幕共享隐私遮挡小工具，单人6个月赚544美元 | [🔗 来源](https://www.reddit.com/r/SaaS/comments/1x1jlux/made_my_first_500_in_less_than_6_months_with_a/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
@@ -45,7 +46,6 @@
 | **⭐️ 8/10** | **注册了一个美国公司，可以提供 Claude Code 团队订阅席位。** | `⚡ 非对称套利与增长黑客` | 中 | 美国公司主体代持 Claude 团队席位，按月转售给国内开发者 | [🔗 来源](https://www.v2ex.com/t/1247029) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 8/10** | **I made a small Mac app so I can watch YouTube with my fiancée while we&#x27;re on a call** | `极窄场景的 Micro-AI 插件` | 中 | Mac 通话时媒体音量不被压低的小工具，$9 一次性买断 | [🔗 来源](https://www.reddit.com/r/SideProject/comments/1x0okgg/i_made_a_small_mac_app_so_i_can_watch_youtube/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 8/10** | **Got my first-ever sale for my first AI-based SaaS! 🚀** | `极窄场景的 Micro-AI 插件` | 低 | AI SaaS 首单 $3 验证付费闭环，可复制微工具变现 | [🔗 来源](https://www.reddit.com/r/SaaS/comments/1x0mcc0/got_my_firstever_sale_for_my_first_aibased_saas/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
-| **⭐️ 8/10** | **🦙 Claude AI 创业公司计划 — 12个月 Pro Team + $1,000 API Credits** | `⚡ 非对称套利与增长黑客` | 低 | 白嫖Claude官方12个月会员+千刀API额度，最高撬10万 | [🔗 来源](https://www.nodeseek.com/post-969760-1) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 
 ---
 
@@ -53,6 +53,7 @@
 
 ### 🏷️ 垂直数字资产与全自动工作流模板
 - **[评分: 9/10]** [New Record - $1,478 in ONE DAY! (Should I fundraise?)](https://www.reddit.com/r/SaaS/comments/1wz4ugu/new_record_1478_in_one_day_should_i_fundraise/) — 给初创公司做 GTM 工作流与邮件基建，单日营收破千刀（门槛: 中）
+- **[评分: 8/10]** [Is $966 dollars in revenue a week good for a SAAS?](https://www.reddit.com/r/SaaS/comments/1x213xi/is_966_dollars_in_revenue_a_week_good_for_a_saas/) — 给零工司机做站点关闭提醒，订阅+捐赠周入近千刀（门槛: 低）
 - **[评分: 8/10]** [*** I WILL NOT PROMOTE *** How do you decide how much cash to keep in a solo app business versus reinvesting or paying yourself?](https://www.reddit.com/r/startups/comments/1x1wqmq/i_will_not_promote_how_do_you_decide_how_much/) — 单人应用年入20万美元，现金分配与广告预算管理工具缺口（门槛: 中）
 - **[评分: 8/10]** [$1k revenue in 40 days](https://www.reddit.com/r/SaaS/comments/1x1rx9z/1k_revenue_in_40_days/) — AI代理替中小商家全自动打理各平台营销（门槛: 中）
 - **[评分: 8/10]** [MY MONEY APP IS GOING TO THE MOON 🚀](https://www.reddit.com/r/passive_income/comments/1x1ii4k/my_money_app_is_going_to_the_moon/) — 记账 App 加 7 天试用，单周下载破千、月入 300 美元订阅（门槛: 中）
@@ -79,7 +80,6 @@
 - **[评分: 8/10]** [Got my first purchase of one of my free apps!](https://www.reddit.com/r/SideProject/comments/1wynjck/got_my_first_purchase_of_one_of_my_free_apps/) — 免费小工具挂自愿付费，首单即验证打赏变现（门槛: 低）
 - **[评分: 8/10]** [Show HN: Halo – A Personal AI with On-Device Harness, Memory and Browser Agent](https://apps.apple.com/us/app/halo-personal-ai/id6783715054) — 端侧隐私 AI 助手，$49 终身买断，数据不出手机（门槛: 中）
 - **[评分: 8/10]** [I built an Amazon Flex station Closure tracker. I made over $632 from donations alone in the last week!](https://www.reddit.com/r/SaaS/comments/1wyblws/i_built_an_amazon_flex_station_closure_tracker_i/) — 给配送司机做站点关闭提醒，靠打赏周入 632 美元（门槛: 低）
-- **[评分: 8/10]** [Famulor](https://www.producthunt.com/products/famulor-telephony-ai) — 给本地商家搭AI电话+WhatsApp跟进客服，按月收费（门槛: 中）
 
 ### 🏷️ ⚡ 非对称套利与增长黑客
 - **[评分: 8/10]** [注册了一个美国公司，可以提供 Claude Code 团队订阅席位。](https://www.v2ex.com/t/1247029) — 美国公司主体代持 Claude 团队席位，按月转售给国内开发者（门槛: 中）
