@@ -36,24 +36,22 @@
 
 | 评分 | 标杆项目 / 原型 | 赛道 | 门槛 | 商业研判与一句话逻辑 | 原始链接 | 完整研报 |
 |---|---|---|---|---|---|---|
-| **⭐️ 9/10** | **I MADE $927 IN ONE DAY! with my SaaS as a solo founder** | `B2B 高客单数据抓取与精准名单` | 中 | 多域名邮箱矩阵冷邮件外呼，帮 B2B 批量获客 | [🔗 来源](https://www.reddit.com/r/SaaS/comments/1wxk3x2/i_made_927_in_one_day_with_my_saas_as_a_solo/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
-| **⭐️ 8/10** | **Is $966 dollars in revenue a week good for a SAAS?** | `垂直数字资产与全自动工作流模板` | 低 | 给零工司机做站点关闭提醒，订阅+捐赠周入近千刀 | [🔗 来源](https://www.reddit.com/r/SaaS/comments/1x213xi/is_966_dollars_in_revenue_a_week_good_for_a_saas/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 8/10** | **注册了一个美国公司，可以提供 Claude Code 团队订阅席位。** | `⚡ 非对称套利与增长黑客` | 中 | 美国公司主体代持 Claude 团队席位，按月转售给国内开发者 | [🔗 来源](https://www.v2ex.com/t/1247029) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 8/10** | **🦙 Claude AI 创业公司计划 — 12个月 Pro Team + $1,000 API Credits** | `⚡ 非对称套利与增长黑客` | 低 | 白嫖Claude官方12个月会员+千刀API额度，最高撬10万 | [🔗 来源](https://www.nodeseek.com/post-969760-1) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
-| **⭐️ 8/10** | **My SAAS is making $175 MRR but $42 went to API and hosting bills. How do you track what you keep each month?** | `垂直数字资产与全自动工作流模板` | 低 | 给独立开发者做「真实利润」聚合看板，一键算清 API 与托管成本 | [🔗 来源](https://www.reddit.com/r/SaaS/comments/1x057ed/my_saas_is_making_175_mrr_but_42_went_to_api_and/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 8/10** | **[Token Unlimited 中转站] Azure 官 key 渠道，满血 GPT 模型，最后两天限时优惠，留言赠 $3（新老同享）** | `⚡ 非对称套利与增长黑客` | 中 | 0.4 折囤 GPT 官 key 额度，回帖再白拿 $3 | [🔗 来源](https://www.v2ex.com/t/1246636) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 8/10** | **How we reached $6250 monthly recurring revenue in 77 days from launch** | `垂直数字资产与全自动工作流模板` | 中 | 帮团队把help@、jobs@等公共邮箱变成共享收件箱，按月订阅收费 | [🔗 来源](https://news.ycombinator.com/item?id=22364941) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 8/10** | **Show HN: Halo – A Personal AI with On-Device Harness, Memory and Browser Agent** | `极窄场景的 Micro-AI 插件` | 中 | 端侧隐私 AI 助手，$49 终身买断，数据不出手机 | [🔗 来源](https://apps.apple.com/us/app/halo-personal-ai/id6783715054) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 8/10** | **I scraped billions of TikTok videos and profiles by reverse engineering the mobile API. Here&#x27;s how it works + source code** | `B2B 高客单数据抓取与精准名单` | 高 | 逆向 TikTok 接口，把爆款趋势与达人名单做成付费数据 API | [🔗 来源](https://www.reddit.com/r/SaaS/comments/1wxoasb/i_scraped_billions_of_tiktok_videos_and_profiles/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 8/10** | **Simple Analytics hits $4k MRR and shares its numbers** | `垂直数字资产与全自动工作流模板` | 中 | 隐私优先轻量网站分析，$4k MRR可复制 | [🔗 来源](https://simpleanalytics.com/open) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
+| **⭐️ 8/10** | **6 months in and $1k MRR: my biggest mistakes so far** | `垂直数字资产与全自动工作流模板` | 中 | 个人财务SaaS半年做到$1k MRR的复盘 | [🔗 来源](https://lunchbag.ca/lunch-money-mistakes/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
+| **⭐️ 8/10** | **My 2 Year Journey to $10K MRR** | `垂直数字资产与全自动工作流模板` | 中 | API化图片视频自动生成工具，2年做到$10K MRR | [🔗 来源](https://www.bannerbear.com/journey-to-10k-mrr/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
+| **⭐️ 8/10** | **I run multiple $10K MRR companies on a $20/month tech stack** | `垂直数字资产与全自动工作流模板` | 中 | $20 月成本跑出 $10K MRR 的极简技术栈拆解变现 | [🔗 来源](https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 
 ---
 
 ## 📚 垂直赛道分类商机库 (Categories)
 
 ### 🏷️ 垂直数字资产与全自动工作流模板
-- **[评分: 8/10]** [Is $966 dollars in revenue a week good for a SAAS?](https://www.reddit.com/r/SaaS/comments/1x213xi/is_966_dollars_in_revenue_a_week_good_for_a_saas/) — 给零工司机做站点关闭提醒，订阅+捐赠周入近千刀（门槛: 低）
-- **[评分: 8/10]** [My SAAS is making $175 MRR but $42 went to API and hosting bills. How do you track what you keep each month?](https://www.reddit.com/r/SaaS/comments/1x057ed/my_saas_is_making_175_mrr_but_42_went_to_api_and/) — 给独立开发者做「真实利润」聚合看板，一键算清 API 与托管成本（门槛: 低）
 - **[评分: 8/10]** [How we reached $6250 monthly recurring revenue in 77 days from launch](https://news.ycombinator.com/item?id=22364941) — 帮团队把help@、jobs@等公共邮箱变成共享收件箱，按月订阅收费（门槛: 中）
 - **[评分: 8/10]** [Simple Analytics hits $4k MRR and shares its numbers](https://simpleanalytics.com/open) — 隐私优先轻量网站分析，$4k MRR可复制（门槛: 中）
 - **[评分: 8/10]** [6 months in and $1k MRR: my biggest mistakes so far](https://lunchbag.ca/lunch-money-mistakes/) — 个人财务SaaS半年做到$1k MRR的复盘（门槛: 中）
@@ -70,27 +68,24 @@
 - **[评分: 7/10]** [[分享创造]写代码久坐腰痛,做了一个放下手机,靠语音闭眼跟练的健身小程序-闻鼓而动](https://www.v2ex.com/t/1247881) — 针对久坐腰痛用户，提供语音指导的健身小程序，解决特定健康需求。（门槛: 低）
 - **[评分: 7/10]** [整了个多 agent 协作工具 Sealwire：让 Claude Code/Codex/OpenCode 等 Agent 互相 review、合作，手机上审批接管（送测试码）](https://www.v2ex.com/t/1247882) — 开发多 Agent 协作工具，解决 AI Agent 交互和工作流程痛点。（门槛: 低）
 - **[评分: 7/10]** [iterm-agents - An open-source iTerm2 sidebar for tracking coding agents](https://www.reddit.com/r/SideProject/comments/1x39bnj/itermagents_an_opensource_iterm2_sidebar_for/) — 为软件开发者提供多编码代理状态跟踪工具，提高工作效率。（门槛: 低）
-- **[评分: 7/10]** [I built a Pokédex that lives in your terminal](https://www.reddit.com/r/SideProject/comments/1x37o2i/i_built_a_pokédex_that_lives_in_your_terminal/) — 为Pokémon粉丝开发终端Pokédex工具，满足特定爱好者的需求。（门槛: 低）
 - **[评分: 7/10]** [📣 #发现频道 【开发者自荐】Skills Hub，从网页合集安装 S](https://meta.appinn.net/t/topic/93321) — 为AI编程工具用户提供多工具管理和多设备同步解决方案。（门槛: 低）
-
-### 🏷️ 视频与动效代交付
-- **[评分: 7/10]** [[送码] 在线 PPT 生成和演示工具，支持现有 pptx 文件。可以 ppt 直播和协作](https://www.v2ex.com/t/1247909) — AI辅助在线PPT生成与协作工具，解决企业演示痛点。（门槛: 低）
-- **[评分: 7/10]** [做了个 AI 视频小工具：上传一张照片，让自己出现在 Bulin 47 的街头 freestyle 里](https://www.v2ex.com/t/1247875) — AI 助力个性化视频制作，无需剪辑技能。（门槛: 低）
-- **[评分: 7/10]** [Show HN: InfiniWord – infinite multiplayer word search](https://infiniword.com) — 开发新颖多人实时单词搜索游戏，吸引游戏玩家付费体验。（门槛: 低）
-- **[评分: 7/10]** [Show HN: Quaesito: a self-hosted app for quiz nights with friends](https://github.com/ggirelli/quaesito) — 为家庭聚会提供创新的本地网络互动游戏工具，提升聚会乐趣。（门槛: 低）
-- **[评分: 7/10]** [Country Scribble - draw a country from memory and get scored on how close you got](https://www.reddit.com/r/SideProject/comments/1x38nf5/country_scribble_draw_a_country_from_memory_and/) — 通过地理知识游戏吸引付费用户。（门槛: 低）
+- **[评分: 7/10]** [我的开源项目收到了一个 AI 机器人提的 CVE 修复 PR，我给它立了套规矩](https://www.v2ex.com/t/1247866) — 开发AI辅助工具，帮助开源项目维护者管理AI生成的PR，提高效率。（门槛: 低）
+- **[评分: 7/10]** [3 个月用了 287 亿的 token。。。](https://www.v2ex.com/t/1247820) — 利用 AI 统计工具吸引用户订阅，降低使用成本（门槛: 低）
+- **[评分: 7/10]** [Show HN: Claude Code Mode](https://github.com/gabe4coding/claude-code-mode) — 为Visual Studio Code开发者提供 Claude 代码模式插件，解决代码模式切换痛点。（门槛: 低）
 
 ### 🏷️ 非对称套利与窗口漏洞
+- **[评分: 7/10]** [这是Claude解封了？](https://www.nodeseek.com/post-977494-1) — 利用平台政策变动进行短期套利。（门槛: 低）
 - **[评分: 7/10]** [Office 365 可以白嫖 AI](https://www.nodeseek.com/post-977421-1) — 利用官方免费AI资源进行套利。（门槛: 低）
 - **[评分: 7/10]** [【抽奖】美国家宽Aaitr Att+Topimage 100元两份奖品，短剧公司可试用seedance2.5模型](https://www.nodeseek.com/post-977427-1) — 利用被骗经历吸引短剧公司试用模型，实现流量套利。（门槛: 低）
 - **[评分: 7/10]** [[NQ+TQ测试 20261011] NovixLink LAX-BGP Lite 轻量版 (Cogent 伪家宽 38.69段 IP)](https://www.nodeseek.com/post-977303-1) — 利用网络服务差异进行套利，针对特定IP段提供定制化网络服务。（门槛: 低）
 - **[评分: 7/10]** [【车找人】 chatgpt team 80/月](https://www.nodeseek.com/post-977315-1) — 利用ChatGPT服务需求套利，提供定制化服务获取收入。（门槛: 低）
 - **[评分: 7/10]** [Show HN: An MCP server where AI agents confess, in their own name](https://ai.confess.online) — 利用AI提供独特服务，吸引个人用户付费（门槛: 低）
 
-### 🏷️ B2B 高客单数据抓取与精准名单
-- **[评分: 9/10]** [I MADE $927 IN ONE DAY! with my SaaS as a solo founder](https://www.reddit.com/r/SaaS/comments/1wxk3x2/i_made_927_in_one_day_with_my_saas_as_a_solo/) — 多域名邮箱矩阵冷邮件外呼，帮 B2B 批量获客（门槛: 中）
-- **[评分: 8/10]** [I scraped billions of TikTok videos and profiles by reverse engineering the mobile API. Here's how it works + source code](https://www.reddit.com/r/SaaS/comments/1wxoasb/i_scraped_billions_of_tiktok_videos_and_profiles/) — 逆向 TikTok 接口，把爆款趋势与达人名单做成付费数据 API（门槛: 高）
-- **[评分: 8/10]** [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) — 零 API 费抓取社媒，一键交付海外精准潜客名单（门槛: 中）
+### 🏷️ 视频与动效代交付
+- **[评分: 7/10]** [[送码] 在线 PPT 生成和演示工具，支持现有 pptx 文件。可以 ppt 直播和协作](https://www.v2ex.com/t/1247909) — AI辅助在线PPT生成与协作工具，解决企业演示痛点。（门槛: 低）
+- **[评分: 7/10]** [做了个 AI 视频小工具：上传一张照片，让自己出现在 Bulin 47 的街头 freestyle 里](https://www.v2ex.com/t/1247875) — AI 助力个性化视频制作，无需剪辑技能。（门槛: 低）
+- **[评分: 7/10]** [Show HN: InfiniWord – infinite multiplayer word search](https://infiniword.com) — 开发新颖多人实时单词搜索游戏，吸引游戏玩家付费体验。（门槛: 低）
+- **[评分: 7/10]** [Show HN: Quaesito: a self-hosted app for quiz nights with friends](https://github.com/ggirelli/quaesito) — 为家庭聚会提供创新的本地网络互动游戏工具，提升聚会乐趣。（门槛: 低）
 
 ### 🏷️ ⚡ 非对称套利与增长黑客
 - **[评分: 8/10]** [注册了一个美国公司，可以提供 Claude Code 团队订阅席位。](https://www.v2ex.com/t/1247029) — 美国公司主体代持 Claude 团队席位，按月转售给国内开发者（门槛: 中）
@@ -102,8 +97,13 @@
 - **[评分: 8/10]** [Famulor](https://www.producthunt.com/products/famulor-telephony-ai) — 给本地商家搭AI电话+WhatsApp跟进客服，按月收费（门槛: 中）
 - **[评分: 8/10]** [Communicate](https://www.producthunt.com/products/communicate) — 垂直行业AI客服代理，知识库+人工接管月费变现（门槛: 中）
 
+### 🏷️ B2B 高客单数据抓取与精准名单
+- **[评分: 8/10]** [I scraped billions of TikTok videos and profiles by reverse engineering the mobile API. Here's how it works + source code](https://www.reddit.com/r/SaaS/comments/1wxoasb/i_scraped_billions_of_tiktok_videos_and_profiles/) — 逆向 TikTok 接口，把爆款趋势与达人名单做成付费数据 API（门槛: 高）
+- **[评分: 8/10]** [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) — 零 API 费抓取社媒，一键交付海外精准潜客名单（门槛: 中）
+
 ### 🏷️ 跨境电商与出海独立站工具
 - **[评分: 8/10]** [Bootstrapping to €600k MRR and getting killed by Shopify: Checkout X](https://www.leteyski.com/bootstrapping-to-600k-mrr-and-getting-killed-by-shopify-the-story-of-checkout-x) — 独立站结账优化插件，€600k MRR 验证刚需（门槛: 高）
+- **[评分: 7/10]** [做了个 Nano Banana 图片生成站：从一句脑洞，到产品图、海报和社媒配图](https://www.v2ex.com/t/1247916) — AI 一键生成产品配图，按积分付费，解决素材寻找难题（门槛: 中）
 
 
 ---
