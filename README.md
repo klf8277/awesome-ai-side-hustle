@@ -38,6 +38,7 @@
 |---|---|---|---|---|---|---|
 | **⭐️ 9/10** | **New Record - $1,478 in ONE DAY! (Should I fundraise?)** | `垂直数字资产与全自动工作流模板` | 中 | 给初创公司做 GTM 工作流与邮件基建，单日营收破千刀 | [🔗 来源](https://www.reddit.com/r/SaaS/comments/1wz4ugu/new_record_1478_in_one_day_should_i_fundraise/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 9/10** | **I MADE $927 IN ONE DAY! with my SaaS as a solo founder** | `B2B 高客单数据抓取与精准名单` | 中 | 多域名邮箱矩阵冷邮件外呼，帮 B2B 批量获客 | [🔗 来源](https://www.reddit.com/r/SaaS/comments/1wxk3x2/i_made_927_in_one_day_with_my_saas_as_a_solo/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
+| **⭐️ 8/10** | **My first paying customer came 4 months after launch, from someone I never reached out to** | `七大高溢价赛道之一` | 低 | 通过自动付费的试用期吸引潜在客户，提高转化率。 | [🔗 来源](https://www.reddit.com/r/SaaS/comments/1x38okv/my_first_paying_customer_came_4_months_after/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 8/10** | **60+ paid users for my Mac app, all one-time payments. Now I&#x27;m wondering if I picked the wrong model** | `视频与动效代交付` | 低 | 开发Mac键盘音效应用，已获得60多位付费用户，市场潜力大。 | [🔗 来源](https://www.reddit.com/r/SaaS/comments/1x2qbst/60_paid_users_for_my_mac_app_all_onetime_payments/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 8/10** | **We spent €3,000 on UGC creators, got 500,000 views, and acquired ONE paying customer** | `视频与动效代交付` | 低 | UGC 营销需精准定位和吸引目标受众，否则高成本投入可能难以转化为有效收益。 | [🔗 来源](https://www.reddit.com/r/SaaS/comments/1x2f4zk/we_spent_3000_on_ugc_creators_got_500000_views/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 8/10** | **I hadn’t told a single person about my Mac app. Someone bought it anyway.** | `垂直数字资产与全自动工作流模板` | 低 | 零推广卖 $5 买断制 Mac 屏保小工具，陌生人自动下单 | [🔗 来源](https://www.reddit.com/r/SideProject/comments/1x29yym/i_hadnt_told_a_single_person_about_my_mac_app/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
@@ -45,7 +46,6 @@
 | **⭐️ 8/10** | **Is $966 dollars in revenue a week good for a SAAS?** | `垂直数字资产与全自动工作流模板` | 低 | 给零工司机做站点关闭提醒，订阅+捐赠周入近千刀 | [🔗 来源](https://www.reddit.com/r/SaaS/comments/1x213xi/is_966_dollars_in_revenue_a_week_good_for_a_saas/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 8/10** | ***** I WILL NOT PROMOTE *** How do you decide how much cash to keep in a solo app business versus reinvesting or paying yourself?** | `垂直数字资产与全自动工作流模板` | 中 | 单人应用年入20万美元，现金分配与广告预算管理工具缺口 | [🔗 来源](https://www.reddit.com/r/startups/comments/1x1wqmq/i_will_not_promote_how_do_you_decide_how_much/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 8/10** | **$1k revenue in 40 days** | `垂直数字资产与全自动工作流模板` | 中 | AI代理替中小商家全自动打理各平台营销 | [🔗 来源](https://www.reddit.com/r/SaaS/comments/1x1rx9z/1k_revenue_in_40_days/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
-| **⭐️ 8/10** | **Made my first $500 in less than 6 months with a desktop app I built solo** | `极窄场景的 Micro-AI 插件` | 低 | 屏幕共享隐私遮挡小工具，单人6个月赚544美元 | [🔗 来源](https://www.reddit.com/r/SaaS/comments/1x1jlux/made_my_first_500_in_less_than_6_months_with_a/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 
 ---
 
@@ -70,7 +70,6 @@
 - **[评分: 8/10]** [My 2 Year Journey to $10K MRR](https://www.bannerbear.com/journey-to-10k-mrr/) — API化图片视频自动生成工具，2年做到$10K MRR（门槛: 中）
 - **[评分: 8/10]** [I run multiple $10K MRR companies on a $20/month tech stack](https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack) — $20 月成本跑出 $10K MRR 的极简技术栈拆解变现（门槛: 中）
 - **[评分: 8/10]** [My solopreneur story](https://news.tonydinh.com/p/my-solopreneur-story-zero-to-45kmo) — 单人从 0 到月入 4.5 万美元的可复制变现路径拆解（门槛: 中）
-- **[评分: 8/10]** [Ask HN: How do I manage the profit of a successful website?](https://news.ycombinator.com/item?id=29779944) — 单人订阅站月入$45k，利润处置与税务优化是付费买点（门槛: 中）
 
 ### 🏷️ 极窄场景的 Micro-AI 插件
 - **[评分: 8/10]** [Made my first $500 in less than 6 months with a desktop app I built solo](https://www.reddit.com/r/SaaS/comments/1x1jlux/made_my_first_500_in_less_than_6_months_with_a/) — 屏幕共享隐私遮挡小工具，单人6个月赚544美元（门槛: 低）
@@ -99,6 +98,9 @@
 ### 🏷️ 视频与动效代交付
 - **[评分: 8/10]** [60+ paid users for my Mac app, all one-time payments. Now I'm wondering if I picked the wrong model](https://www.reddit.com/r/SaaS/comments/1x2qbst/60_paid_users_for_my_mac_app_all_onetime_payments/) — 开发Mac键盘音效应用，已获得60多位付费用户，市场潜力大。（门槛: 低）
 - **[评分: 8/10]** [We spent €3,000 on UGC creators, got 500,000 views, and acquired ONE paying customer](https://www.reddit.com/r/SaaS/comments/1x2f4zk/we_spent_3000_on_ugc_creators_got_500000_views/) — UGC 营销需精准定位和吸引目标受众，否则高成本投入可能难以转化为有效收益。（门槛: 低）
+
+### 🏷️ 七大高溢价赛道之一
+- **[评分: 8/10]** [My first paying customer came 4 months after launch, from someone I never reached out to](https://www.reddit.com/r/SaaS/comments/1x38okv/my_first_paying_customer_came_4_months_after/) — 通过自动付费的试用期吸引潜在客户，提高转化率。（门槛: 低）
 
 ### 🏷️ 跨境电商与出海独立站工具
 - **[评分: 8/10]** [What is everyone doing about fraud prevention with Shopify taking away order data?](https://www.reddit.com/r/shopify/comments/1wyjkcp/what_is_everyone_doing_about_fraud_prevention/) — Shopify 风控数据被砍，卖家急需第三方反欺诈补位工具（门槛: 中）
