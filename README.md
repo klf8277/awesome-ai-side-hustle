@@ -71,6 +71,7 @@
 - **[评分: 7/10]** [Show HN: Running EmbeddingGemma2 on the Browser](https://searchyourcollection.com/examples) — 在浏览器中嵌入图像搜索，满足用户对便捷图像搜索工具的需求。（门槛: 低）
 
 ### 🏷️ 非对称套利与窗口漏洞
+- **[评分: 7/10]** [gpt48team用了链接绑定是限时的吗](https://www.nodeseek.com/post-977568-1) — 利用限时优惠差异进行套利。（门槛: 低）
 - **[评分: 7/10]** [【溢价收】日本家宽SO-NET索尼NURO-VPS-Radonet](https://www.nodeseek.com/post-977534-1) — 利用官网缺货，从第三方渠道销售日本家宽VPS，实现溢价收入。（门槛: 低）
 - **[评分: 7/10]** [这是Claude解封了？](https://www.nodeseek.com/post-977494-1) — 利用平台政策变动进行短期套利。（门槛: 低）
 - **[评分: 7/10]** [Office 365 可以白嫖 AI](https://www.nodeseek.com/post-977421-1) — 利用官方免费AI资源进行套利。（门槛: 低）
@@ -78,18 +79,17 @@
 - **[评分: 7/10]** [[NQ+TQ测试 20261011] NovixLink LAX-BGP Lite 轻量版 (Cogent 伪家宽 38.69段 IP)](https://www.nodeseek.com/post-977303-1) — 利用网络服务差异进行套利，针对特定IP段提供定制化网络服务。（门槛: 低）
 - **[评分: 7/10]** [【车找人】 chatgpt team 80/月](https://www.nodeseek.com/post-977315-1) — 利用ChatGPT服务需求套利，提供定制化服务获取收入。（门槛: 低）
 
-### 🏷️ 视频与动效代交付
-- **[评分: 7/10]** [Show HN: Kindlefall a 3D ARPG in the browser, built with Three.js](https://kindlefall.com/play/) — 利用Three.js等技术为游戏开发者提供3D ARPG游戏构建服务（门槛: 低）
-- **[评分: 7/10]** [I made software that automatically cuts your videos in Premiere Pro without AI! (And it does a lot more!)](https://www.reddit.com/r/SaaS/comments/1x3ebzo/i_made_software_that_automatically_cuts_your/) — Premiere Pro 静音自动剪切付费插件（门槛: 中）
-- **[评分: 7/10]** [I built a 90 sec maths race against real people. Can you beat my score?](https://www.reddit.com/r/SideProject/comments/1x3bz77/i_built_a_90_sec_maths_race_against_real_people/) — 开发数学竞速游戏，吸引玩家付费参与。（门槛: 低）
-- **[评分: 7/10]** [[送码] 在线 PPT 生成和演示工具，支持现有 pptx 文件。可以 ppt 直播和协作](https://www.v2ex.com/t/1247909) — AI辅助在线PPT生成与协作工具，解决企业演示痛点。（门槛: 低）
-- **[评分: 7/10]** [做了个 AI 视频小工具：上传一张照片，让自己出现在 Bulin 47 的街头 freestyle 里](https://www.v2ex.com/t/1247875) — AI 助力个性化视频制作，无需剪辑技能。（门槛: 低）
-
 ### 🏷️ 跨境电商与出海独立站工具
 - **[评分: 8/10]** [Bootstrapping to €600k MRR and getting killed by Shopify: Checkout X](https://www.leteyski.com/bootstrapping-to-600k-mrr-and-getting-killed-by-shopify-the-story-of-checkout-x) — 独立站结账优化插件，€600k MRR 验证刚需（门槛: 高）
 - **[评分: 7/10]** [Show HN: SupplyVision – I made meta-search for independent fashion retailers](https://supplyvision.app/) — 为独立时尚零售商提供跨平台时尚交易搜索工具，简化采购流程。（门槛: 低）
 - **[评分: 7/10]** [I made a website builder that's really frèè](https://www.reddit.com/r/SideProject/comments/1x3dksw/i_made_a_website_builder_thats_really_frèè/) — 提供免费且功能丰富的网站构建器，吸引网站建设者付费使用。（门槛: 低）
 - **[评分: 7/10]** [做了个 Nano Banana 图片生成站：从一句脑洞，到产品图、海报和社媒配图](https://www.v2ex.com/t/1247916) — AI 一键生成产品配图，按积分付费，解决素材寻找难题（门槛: 中）
+
+### 🏷️ 视频与动效代交付
+- **[评分: 7/10]** [Show HN: Kindlefall a 3D ARPG in the browser, built with Three.js](https://kindlefall.com/play/) — 利用Three.js等技术为游戏开发者提供3D ARPG游戏构建服务（门槛: 低）
+- **[评分: 7/10]** [I made software that automatically cuts your videos in Premiere Pro without AI! (And it does a lot more!)](https://www.reddit.com/r/SaaS/comments/1x3ebzo/i_made_software_that_automatically_cuts_your/) — Premiere Pro 静音自动剪切付费插件（门槛: 中）
+- **[评分: 7/10]** [I built a 90 sec maths race against real people. Can you beat my score?](https://www.reddit.com/r/SideProject/comments/1x3bz77/i_built_a_90_sec_maths_race_against_real_people/) — 开发数学竞速游戏，吸引玩家付费参与。（门槛: 低）
+- **[评分: 7/10]** [[送码] 在线 PPT 生成和演示工具，支持现有 pptx 文件。可以 ppt 直播和协作](https://www.v2ex.com/t/1247909) — AI辅助在线PPT生成与协作工具，解决企业演示痛点。（门槛: 低）
 
 ### 🏷️ ⚡ 非对称套利与增长黑客
 - **[评分: 8/10]** [注册了一个美国公司，可以提供 Claude Code 团队订阅席位。](https://www.v2ex.com/t/1247029) — 美国公司主体代持 Claude 团队席位，按月转售给国内开发者（门槛: 中）
