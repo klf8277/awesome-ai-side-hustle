@@ -59,6 +59,9 @@
 - **[评分: 8/10]** [I run multiple $10K MRR companies on a $20/month tech stack](https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack) — $20 月成本跑出 $10K MRR 的极简技术栈拆解变现（门槛: 中）
 - **[评分: 8/10]** [My solopreneur story](https://news.tonydinh.com/p/my-solopreneur-story-zero-to-45kmo) — 单人从 0 到月入 4.5 万美元的可复制变现路径拆解（门槛: 中）
 - **[评分: 8/10]** [Show HN: After 2.5 years on my side project, it has hit £500/month revenue](https://news.ycombinator.com/item?id=25372464) — 音频私密分享SaaS，替代Bandcamp/SoundCloud的细分付费工具（门槛: 中）
+- **[评分: 7/10]** [Show HN: I made an AI free version of my directory of open-source alternatives](https://noai.openaltfinder.com/) — 为开源软件社区提供无AI辅助的工具目录，满足对AI辅助工具担忧的用户需求。（门槛: 低）
+- **[评分: 7/10]** [Show HN: ClueCDC – Open-Source UI for Managing Debezium and Kafka CDC Pipelines](https://github.com/cluedata/cluecdc) — 为数据工程师提供简化 CDC 管理的开放源代码工具。（门槛: 低）
+- **[评分: 7/10]** [Show HN: I made an AI free version of my directory of open-source alternatives](https://noai.openaltfinder.com/) — 为开源软件社区提供无AI辅助的工具目录，满足对AI辅助内容担忧的用户需求。（门槛: 低）
 - **[评分: 7/10]** [[开源自荐] Modu 默读：跨平台阅读器，支持扫描 PDF、离线 OCR 和综合查询](https://www.v2ex.com/t/1248136) — 开发结合阅读、查询、听书和AI功能的电子书阅读器，满足用户综合阅读需求。（门槛: 低）
 - **[评分: 7/10]** [命令行小工具： Claude Code / Codex / Cursor /OpenCode 多账号一键切换，支持看剩余额度（包括 Codex 重置机会）](https://www.v2ex.com/t/1248073) — 为 AI 工具用户提供多账号额度管理和自动切换工具，提升使用效率。（门槛: 低）
 - **[评分: 7/10]** [Show HN: Jruva – AI workspace for chat, documents and images](https://www.jruva.in) — 为企业提供集成的 AI 工作空间，提高沟通和文档处理效率。（门槛: 低）
@@ -72,13 +75,11 @@
 - **[评分: 7/10]** [不花一分钱 API，我给 OnlyOffice + WASM 浏览器文档编辑器加了个本地 AI 助手](https://www.v2ex.com/t/1248059) — 利用AI为文档编辑提供自然语言操作，提升用户体验和效率。（门槛: 低）
 
 ### 🏷️ 非对称套利与窗口漏洞
+- **[评分: 7/10]** [48team 埃及/瑞典22刀优惠码](https://www.nodeseek.com/post-978736-1) — 利用优惠码套利，获取用户信息。（门槛: 低）
+- **[评分: 7/10]** [Show HN: I built a banking demo with LavinMQ to test messaging failures](https://github.com/cloudamqp/lavinmq-demos/tree/main/nodejs-clients-demo) — 利用 LavinMQ 演示帮助银行测试消息失败，发现并解决潜在问题，实现非对称套利。（门槛: 低）
 - **[评分: 7/10]** [收Nobrand 新站（newnb）专线流量500G的🐔。必须月付款，带优惠码就行，不强求65折](https://www.nodeseek.com/post-978596-1) — 通过优惠码获取低价专线流量，实现套利。（门槛: 低）
 - **[评分: 7/10]** [求购一个带优惠权益的上海宽带套餐](https://www.nodeseek.com/post-978610-1) — 提供优惠宽带套餐，利用用户对优惠的需求进行套利（门槛: 低）
 - **[评分: 7/10]** [O\几个防降智小经验分享](https://www.nodeseek.com/post-978609-1) — 利用GPT6特性，开发防降智检测工具，满足用户对网页和手机版降智检测的需求。（门槛: 低）
-- **[评分: 7/10]** [困惑： API KEY 只能复制一次，这不“脱裤子 XX”吗？](https://www.v2ex.com/t/1247979) — 开发 API KEY 安全复制工具，解决大模型用户复制限制问题。（门槛: 低）
-- **[评分: 7/10]** [现在用虚拟机，还有个人智能体，都过不了推特新注册的人脸验证了。现在注册新推特，我就买一块多钱、10 月份注册的新推特号了。](https://www.nodeseek.com/post-978104-1) — 利用推特注册限制套利现有账号。（门槛: 低）
-- **[评分: 7/10]** [今天的淘宝似乎是有优惠](https://www.nodeseek.com/post-978114-1) — 利用淘宝店铺优惠进行套利（门槛: 低）
-- **[评分: 7/10]** [【深圳移动测试】绿云 vs AWS 新加坡节点 · 本机侧网络对比测试](https://www.nodeseek.com/post-978105-1) — 利用云服务节点性能差异进行套利。（门槛: 低）
 
 ### 🏷️ 视频与动效代交付
 - **[评分: 7/10]** [ExcaliClaw](https://www.producthunt.com/products/excaliclaw) — AI辅助手绘图表工具，满足初创企业需求（门槛: 低）
@@ -102,7 +103,6 @@
 
 ### 🏷️ 跨境电商与出海独立站工具
 - **[评分: 8/10]** [Bootstrapping to €600k MRR and getting killed by Shopify: Checkout X](https://www.leteyski.com/bootstrapping-to-600k-mrr-and-getting-killed-by-shopify-the-story-of-checkout-x) — 独立站结账优化插件，€600k MRR 验证刚需（门槛: 高）
-- **[评分: 7/10]** [基于 AIHOT 开源底座二开，我搭了一套出海信源降噪与 TG 点滴推送管道](https://www.v2ex.com/t/1248035) — 为出海开发者提供精准信息推送，降低信息过载。（门槛: 低）
 
 ### 🏷️ 七大高溢价赛道之一
 - **[评分: 7/10]** [如何 安全访问 adb ？](https://www.v2ex.com/t/1248087) — 开发安全ADB访问工具，保护手机数据安全。（门槛: 中）
