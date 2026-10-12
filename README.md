@@ -59,13 +59,15 @@
 - **[评分: 8/10]** [I run multiple $10K MRR companies on a $20/month tech stack](https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack) — $20 月成本跑出 $10K MRR 的极简技术栈拆解变现（门槛: 中）
 - **[评分: 8/10]** [My solopreneur story](https://news.tonydinh.com/p/my-solopreneur-story-zero-to-45kmo) — 单人从 0 到月入 4.5 万美元的可复制变现路径拆解（门槛: 中）
 - **[评分: 8/10]** [Show HN: After 2.5 years on my side project, it has hit £500/month revenue](https://news.ycombinator.com/item?id=25372464) — 音频私密分享SaaS，替代Bandcamp/SoundCloud的细分付费工具（门槛: 中）
+- **[评分: 7/10]** [Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents](https://news.ycombinator.com/item?id=50059096) — 提供低成本AI代理沙盒服务，满足市场对高效、经济解决方案的需求。（门槛: 低）
+- **[评分: 7/10]** [Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents](https://news.ycombinator.com/item?id=50059096) — 提供低成本AI代理沙盒服务，满足市场对高效、经济解决方案的需求。（门槛: 低）
 - **[评分: 7/10]** [Show HN: Enso Method – agent skills for building software for someone else](https://ensomethod.org/) — 为软件开发者提供基于AI的自动化工作流，提高开发效率。（门槛: 低）
 - **[评分: 7/10]** [Show HN: Atlas.nvim – Review prs and manage issues inside Neovim](https://github.com/emrearmagan/atlas.nvim) — 为软件开发者提供集成Neovim的代码审查和管理工具，解决多平台协作痛点。（门槛: 低）
 - **[评分: 7/10]** [ReadGZH：让 AI 直接读懂微信公众号文章（REST API + MCP，已开源）](https://www.v2ex.com/t/1248217) — 利用AI技术，为微信公众号用户提供文章内容抓取与清洗服务，解决AI读取限制。（门槛: 低）
-- **[评分: 7/10]** [Show HN: Ctxvitals – a vitals check for your AI agent stack (npx ctxvitals)](https://github.com/princejain756/ctxvitals) — 为AI代理栈开发者提供栈状态监控工具，解决工具缺口。（门槛: 低）
-- **[评分: 7/10]** [Show HN: Organ – Autonomous AI executives that build and operate businesses](https://organ.app/start) — 为企业提供自动化运营工具，解放人力资源，提高效率。（门槛: 高）
 
 ### 🏷️ 非对称套利与窗口漏洞
+- **[评分: 7/10]** [chatgpt里面的pro 思考强度有额度上限吗？](https://www.nodeseek.com/post-979580-1) — 利用ChatGPT Pro额度限制漏洞进行套利。（门槛: 低）
+- **[评分: 7/10]** [Show HN: Weekend hack – shoot away Cloudflare CAPTCHAs](https://github.com/blowhacker/clickyphus) — 利用 Cloudflare CAPTCHA 的不便，开发自动解决工具，吸引付费用户。（门槛: 低）
 - **[评分: 7/10]** [昨天晚上订阅的Claude pro现在还活着](https://www.nodeseek.com/post-979517-1) — 利用中国用户对本地化服务的需求，套利Claude pro的订阅服务。（门槛: 低）
 - **[评分: 7/10]** [【车找人】余2 gpt team 短期车 50](https://www.nodeseek.com/post-979533-1) — 利用短期车服务账号被封的风险，提供替代方案套利。（门槛: 低）
 - **[评分: 7/10]** [15r 收48team免一席位优惠码](https://www.nodeseek.com/post-979423-1) — 通过提供优惠码吸引注册，利用价格差异套利（门槛: 低）
@@ -76,33 +78,31 @@
 - **[评分: 7/10]** [Show HN: Fusebox – get emailed before an OpenAI API bill runs away](https://fusebox.sifatsrk.workers.dev/) — 为OpenAI API用户提供费用预警服务，避免意外高额费用。（门槛: 低）
 - **[评分: 7/10]** [【出】家人云 NoSLA 东京-26秋-S，剩余价值7折出 原价无折扣](https://www.nodeseek.com/post-979186-1) — 利用个人云服务套餐折扣套利。（门槛: 低）
 - **[评分: 7/10]** [车找人 gpt pro x20 (差一人)](https://www.nodeseek.com/post-979055-1) — 跨境车找人服务，利用支付差异套利。（门槛: 低）
-- **[评分: 7/10]** [【claude帮开】两天没开张了](https://www.nodeseek.com/post-978931-1) — 利用平台规则漏洞，提供质保和溢价退回服务，吸引付费用户。（门槛: 低）
 
 ### 🏷️ 极窄场景的 Micro-AI 插件
 - **[评分: 8/10]** [Show HN: Halo – A Personal AI with On-Device Harness, Memory and Browser Agent](https://apps.apple.com/us/app/halo-personal-ai/id6783715054) — 端侧隐私 AI 助手，$49 终身买断，数据不出手机（门槛: 中）
 - **[评分: 8/10]** [Famulor](https://www.producthunt.com/products/famulor-telephony-ai) — 给本地商家搭AI电话+WhatsApp跟进客服，按月收费（门槛: 中）
 - **[评分: 8/10]** [Communicate](https://www.producthunt.com/products/communicate) — 垂直行业AI客服代理，知识库+人工接管月费变现（门槛: 中）
-- **[评分: 7/10]** [Show HN: I built Airlock, to sandbox your AI agent and know what it's doing](https://airlock.sorrel.systems) — 为 AI 工具提供安全沙箱，保护本地系统和数据。（门槛: 低）
+- **[评分: 7/10]** [Show HN: IHMT – Infinite Hierarchical Memory Tree for AI Agents](https://github.com/gonzaroman/IHMT-MEMORY) — 为 AI 代理开发者提供高度定制的内存树管理工具（门槛: 高）
 
 ### 🏷️ 跨境电商与出海独立站工具
 - **[评分: 8/10]** [Bootstrapping to €600k MRR and getting killed by Shopify: Checkout X](https://www.leteyski.com/bootstrapping-to-600k-mrr-and-getting-killed-by-shopify-the-story-of-checkout-x) — 独立站结账优化插件，€600k MRR 验证刚需（门槛: 高）
+- **[评分: 7/10]** [Push attribution for commits in limited public preview](https://github.blog/changelog/2026-10-12-push-attribution-public-preview) — 开发工具帮助 GitHub 用户追踪提交者身份。（门槛: 低）
 - **[评分: 7/10]** [Show HN: Cenntre – a creator-first platform for publishing and monetization](https://www.cenntre.com) — 为内容创作者提供发布和盈利平台，解决内容发布和盈利难题。（门槛: 低）
 - **[评分: 7/10]** [用 Codex Vibe Coding 做了个非托管 USDT/USDC 收款工具，欢迎试用](https://www.v2ex.com/t/1248204) — 提供非托管加密货币收款工具，解决跨境电商收款难题。（门槛: 低）
-- **[评分: 7/10]** [Show HN: Orisift, an API that screens signup phone, email, IP and domain](https://orisift.com) — 为跨境电商卖家提供注册信息筛选 API，降低欺诈风险。（门槛: 低）
 
 ### 🏷️ ⚡ 非对称套利与增长黑客
 - **[评分: 8/10]** [注册了一个美国公司，可以提供 Claude Code 团队订阅席位。](https://www.v2ex.com/t/1247029) — 美国公司主体代持 Claude 团队席位，按月转售给国内开发者（门槛: 中）
 - **[评分: 8/10]** [🦙 Claude AI 创业公司计划 — 12个月 Pro Team + $1,000 API Credits](https://www.nodeseek.com/post-969760-1) — 白嫖Claude官方12个月会员+千刀API额度，最高撬10万（门槛: 低）
 - **[评分: 8/10]** [[Token Unlimited 中转站] Azure 官 key 渠道，满血 GPT 模型，最后两天限时优惠，留言赠 $3（新老同享）](https://www.v2ex.com/t/1246636) — 0.4 折囤 GPT 官 key 额度，回帖再白拿 $3（门槛: 中）
 
-### 🏷️ 视频与动效代交付
-- **[评分: 7/10]** [用 Claude Opus 5.5 做了个动效视频工具，哪里不满意只改哪里，不用整条重新生成](https://www.v2ex.com/t/1248246) — AI 动效视频工具，快速修改，提高视频制作效率。（门槛: 低）
-- **[评分: 7/10]** [Show HN: Tellcut – motion videos written as code by Claude, edited by chat](https://tellcut.app/studio) — 通过代码和聊天工具快速制作动效视频，满足初创企业需求（门槛: 低）
-- **[评分: 7/10]** [How Meta designed Muse: an AI agent people actually want to talk to | Alex Cornell (Design Director)](https://www.lennysnewsletter.com/p/how-meta-designed-muse-an-ai-agent) — 开发AI交互工具满足不同用户需求，如Muse，用于个人和企业客户。（门槛: 中）
-
 ### 🏷️ B2B 高客单数据抓取与精准名单
 - **[评分: 8/10]** [I scraped billions of TikTok videos and profiles by reverse engineering the mobile API. Here's how it works + source code](https://www.reddit.com/r/SaaS/comments/1wxoasb/i_scraped_billions_of_tiktok_videos_and_profiles/) — 逆向 TikTok 接口，把爆款趋势与达人名单做成付费数据 API（门槛: 高）
 - **[评分: 8/10]** [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) — 零 API 费抓取社媒，一键交付海外精准潜客名单（门槛: 中）
+
+### 🏷️ 视频与动效代交付
+- **[评分: 7/10]** [用 Claude Opus 5.5 做了个动效视频工具，哪里不满意只改哪里，不用整条重新生成](https://www.v2ex.com/t/1248246) — AI 动效视频工具，快速修改，提高视频制作效率。（门槛: 低）
+- **[评分: 7/10]** [Show HN: Tellcut – motion videos written as code by Claude, edited by chat](https://tellcut.app/studio) — 通过代码和聊天工具快速制作动效视频，满足初创企业需求（门槛: 低）
 
 ### 🏷️ 7. 非对称套利与增长黑客
 - **[评分: 7/10]** [Show HN: Vigil – Open-source AI pentesting and code audits](https://github.com/VigilOSS/Vigil) — 利用开源AI工具满足网络安全团队的渗透测试和代码审计需求。（门槛: 中）
