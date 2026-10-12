@@ -59,6 +59,7 @@
 - **[评分: 8/10]** [I run multiple $10K MRR companies on a $20/month tech stack](https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack) — $20 月成本跑出 $10K MRR 的极简技术栈拆解变现（门槛: 中）
 - **[评分: 8/10]** [My solopreneur story](https://news.tonydinh.com/p/my-solopreneur-story-zero-to-45kmo) — 单人从 0 到月入 4.5 万美元的可复制变现路径拆解（门槛: 中）
 - **[评分: 8/10]** [Show HN: After 2.5 years on my side project, it has hit £500/month revenue](https://news.ycombinator.com/item?id=25372464) — 音频私密分享SaaS，替代Bandcamp/SoundCloud的细分付费工具（门槛: 中）
+- **[评分: 7/10]** [ReadGZH：让 AI 直接读懂微信公众号文章（REST API + MCP，已开源）](https://www.v2ex.com/t/1248217) — 利用AI技术，为微信公众号用户提供文章内容抓取与清洗服务，解决AI读取限制。（门槛: 低）
 - **[评分: 7/10]** [Show HN: Ctxvitals – a vitals check for your AI agent stack (npx ctxvitals)](https://github.com/princejain756/ctxvitals) — 为AI代理栈开发者提供栈状态监控工具，解决工具缺口。（门槛: 低）
 - **[评分: 7/10]** [Show HN: Organ – Autonomous AI executives that build and operate businesses](https://organ.app/start) — 为企业提供自动化运营工具，解放人力资源，提高效率。（门槛: 高）
 - **[评分: 7/10]** [open-webui/open-webui](https://github.com/open-webui/open-webui) — 提供支持多种 AI API 的用户友好界面，满足自动化工具需求。（门槛: 低）
@@ -68,7 +69,6 @@
 - **[评分: 7/10]** [Show HN: Awesome-CV as an Astro theme, YAML in, website and PDF out](https://astro-awesome-cv.sek4.com/) — 提供便捷的LaTeX-free简历制作工具，满足专业简历需求。（门槛: 低）
 - **[评分: 7/10]** [在线简历生成器：支持多模板、AI 优化和 PDF 导出](https://www.v2ex.com/t/1248172) — 提供便捷的在线简历生成工具，解决简历制作难题。（门槛: 低）
 - **[评分: 7/10]** [分享一个开源小工具 CAdapt](https://www.v2ex.com/t/1248175) — 为 Linux 开发者提供简化 glibc 和内核模块兼容性的工具（门槛: 低）
-- **[评分: 7/10]** [Show HN: DBJoy – An open-source AI-first PostgreSQL client for macOS](https://github.com/agustind/dbjoy) — 为Mac用户提供AI增强的PostgreSQL客户端，解决数据库管理难题。（门槛: 低）
 
 ### 🏷️ 极窄场景的 Micro-AI 插件
 - **[评分: 8/10]** [Show HN: Halo – A Personal AI with On-Device Harness, Memory and Browser Agent](https://apps.apple.com/us/app/halo-personal-ai/id6783715054) — 端侧隐私 AI 助手，$49 终身买断，数据不出手机（门槛: 中）
@@ -77,17 +77,18 @@
 - **[评分: 7/10]** [Show HN: I built Airlock, to sandbox your AI agent and know what it's doing](https://airlock.sorrel.systems) — 为 AI 工具提供安全沙箱，保护本地系统和数据。（门槛: 低）
 - **[评分: 7/10]** [Show HN: I built Airlock, to sandbox your AI agent and know what it's doing](https://airlock.sorrel.systems) — 为 AI 工具提供安全沙箱，保护本地系统和数据。（门槛: 低）
 
+### 🏷️ 非对称套利与窗口漏洞
+- **[评分: 7/10]** [【出】家人云 NoSLA 东京-26秋-S，剩余价值7折出 原价无折扣](https://www.nodeseek.com/post-979186-1) — 利用个人云服务套餐折扣套利。（门槛: 低）
+- **[评分: 7/10]** [车找人 gpt pro x20 (差一人)](https://www.nodeseek.com/post-979055-1) — 跨境车找人服务，利用支付差异套利。（门槛: 低）
+- **[评分: 7/10]** [【claude帮开】两天没开张了](https://www.nodeseek.com/post-978931-1) — 利用平台规则漏洞，提供质保和溢价退回服务，吸引付费用户。（门槛: 低）
+- **[评分: 7/10]** [有人要opencode go额度吗，还剩十天，额度剩百分之46](https://www.nodeseek.com/post-978940-1) — 利用即将过期的API额度进行套利，为开发者提供过期额度购买服务。（门槛: 低）
+- **[评分: 7/10]** [好像被alibabacloud套路了。。。](https://www.nodeseek.com/post-978948-1) — 利用代金券过期漏洞，为 Alibaba Cloud 用户提供代金券管理工具。（门槛: 低）
+
 ### 🏷️ 跨境电商与出海独立站工具
 - **[评分: 8/10]** [Bootstrapping to €600k MRR and getting killed by Shopify: Checkout X](https://www.leteyski.com/bootstrapping-to-600k-mrr-and-getting-killed-by-shopify-the-story-of-checkout-x) — 独立站结账优化插件，€600k MRR 验证刚需（门槛: 高）
 - **[评分: 7/10]** [用 Codex Vibe Coding 做了个非托管 USDT/USDC 收款工具，欢迎试用](https://www.v2ex.com/t/1248204) — 提供非托管加密货币收款工具，解决跨境电商收款难题。（门槛: 低）
 - **[评分: 7/10]** [Show HN: Orisift, an API that screens signup phone, email, IP and domain](https://orisift.com) — 为跨境电商卖家提供注册信息筛选 API，降低欺诈风险。（门槛: 低）
 - **[评分: 7/10]** [Show HN: A calendar of every Chinese holiday your supplier will cite as a delay](https://afterchinesenewyear.pages.dev/) — 为跨境电商团队提供基于中国节假日的交货日期预测工具，减少交货延迟风险。（门槛: 低）
-
-### 🏷️ 非对称套利与窗口漏洞
-- **[评分: 7/10]** [车找人 gpt pro x20 (差一人)](https://www.nodeseek.com/post-979055-1) — 跨境车找人服务，利用支付差异套利。（门槛: 低）
-- **[评分: 7/10]** [【claude帮开】两天没开张了](https://www.nodeseek.com/post-978931-1) — 利用平台规则漏洞，提供质保和溢价退回服务，吸引付费用户。（门槛: 低）
-- **[评分: 7/10]** [有人要opencode go额度吗，还剩十天，额度剩百分之46](https://www.nodeseek.com/post-978940-1) — 利用即将过期的API额度进行套利，为开发者提供过期额度购买服务。（门槛: 低）
-- **[评分: 7/10]** [好像被alibabacloud套路了。。。](https://www.nodeseek.com/post-978948-1) — 利用代金券过期漏洞，为 Alibaba Cloud 用户提供代金券管理工具。（门槛: 低）
 
 ### 🏷️ ⚡ 非对称套利与增长黑客
 - **[评分: 8/10]** [注册了一个美国公司，可以提供 Claude Code 团队订阅席位。](https://www.v2ex.com/t/1247029) — 美国公司主体代持 Claude 团队席位，按月转售给国内开发者（门槛: 中）
@@ -105,7 +106,6 @@
 
 ### 🏷️ 国学文化数字化与情绪消费
 - **[评分: 7/10]** [I built something that tries to understand you from 5 things you love](https://www.reddit.com/r/SideProject/comments/1x3wl0r/i_built_something_that_tries_to_understand_you/) — 通过分析用户喜好，提供个性化自我认知服务。（门槛: 低）
-- **[评分: 7/10]** [十年前业余做的诗词 App，今年业余时间和 AI 一起从零重写了一遍](https://www.v2ex.com/t/1248168) — 结合国学元素和AI的诗词App，提供独特的文化体验和付费增值服务。（门槛: 低）
 
 
 ---
