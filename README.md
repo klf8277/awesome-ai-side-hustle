@@ -69,9 +69,10 @@
 - **[评分: 7/10]** [Show HN: Folio – my portfolio inside Raycast (read-only, open source)](https://github.com/ShayanAbedi/folio) — 为设计师和开发者提供集成到Raycast的作品集展示工具（门槛: 低）
 - **[评分: 7/10]** [I accidentally built the most beautiful journaling app I've ever seen.](https://www.reddit.com/r/SideProject/comments/1x49oxu/i_accidentally_built_the_most_beautiful/) — 开发以人为中心的记忆整理应用，解决传统日记的痛点。（门槛: 低）
 - **[评分: 7/10]** [I built a free website for reading 41,000 classic books in the browser](https://www.reddit.com/r/SideProject/comments/1x48elg/i_built_a_free_website_for_reading_41000_classic/) — 利用公共领域经典书籍构建免费在线阅读平台，通过广告盈利。（门槛: 低）
-- **[评分: 7/10]** [KiwiDesk - we came a long way ever since the release. Thanks to the community!](https://www.reddit.com/r/SideProject/comments/1x49tc2/kiwidesk_we_came_a_long_way_ever_since_the/) — 为macOS用户开发免费窗口布局管理器，解决配置复杂性问题。（门槛: 低）
 
 ### 🏷️ 非对称套利与窗口漏洞
+- **[评分: 7/10]** [saily现在可以注册实体卡了，刚弄了一个查了显示cell Phone](https://www.nodeseek.com/post-979675-1) — 利用saily平台注册实体卡，通过GCP优惠码降低成本进行套利。（门槛: 低）
+- **[评分: 7/10]** [emby 出什么大漏洞都跟我没关系了，自研闭源核心了](https://www.nodeseek.com/post-979674-1) — 利用 Emby 的安全漏洞，提供自研闭源核心的安全解决方案。（门槛: 低）
 - **[评分: 7/10]** [好爽，最近 codex sol 超长上下文价格减半，我直接开五路 512k 上下文，全程不需要压缩，看着项目各个模块以不可思议的速度完成，最后 claude 润色收尾](https://www.nodeseek.com/post-979661-1) — 利用 Codex Sol 价格窗口，通过增加处理能力加速项目开发，实现个人效率提升和成本节约。（门槛: 低）
 - **[评分: 7/10]** [美国ATT真实家宽 车找人 39元/月起](https://www.nodeseek.com/post-979663-1) — 利用美国ATT低价宽带服务进行套利（门槛: 低）
 - **[评分: 7/10]** [最近emby出了个大漏洞](https://www.nodeseek.com/post-979666-1) — 提供针对emby服务器安全漏洞的解决方案，如安全插件或防护服务。（门槛: 低）
@@ -90,19 +91,18 @@
 - **[评分: 8/10]** [Famulor](https://www.producthunt.com/products/famulor-telephony-ai) — 给本地商家搭AI电话+WhatsApp跟进客服，按月收费（门槛: 中）
 - **[评分: 8/10]** [Communicate](https://www.producthunt.com/products/communicate) — 垂直行业AI客服代理，知识库+人工接管月费变现（门槛: 中）
 
-### 🏷️ 跨境电商与出海独立站工具
-- **[评分: 8/10]** [Bootstrapping to €600k MRR and getting killed by Shopify: Checkout X](https://www.leteyski.com/bootstrapping-to-600k-mrr-and-getting-killed-by-shopify-the-story-of-checkout-x) — 独立站结账优化插件，€600k MRR 验证刚需（门槛: 高）
-- **[评分: 7/10]** [DuperMail brings Gmail's keyboard shortcuts (and more) to Apple Mail](https://www.reddit.com/r/SideProject/comments/1x4cjm9/dupermail_brings_gmails_keyboard_shortcuts_and/) — 为 Apple Mail 用户提供 Gmail 风格的快捷键，提升邮件处理效率。（门槛: 低）
-- **[评分: 7/10]** [I built a link-in-bio page with booking built in, so clients schedule with you without leaving your page](https://www.reddit.com/r/SideProject/comments/1x47gcm/i_built_a_linkinbio_page_with_booking_built_in_so/) — 在生物页面上直接预约，减少跳转，提高客户转化率。（门槛: 低）
-
 ### 🏷️ 视频与动效代交付
+- **[评分: 7/10]** [Show HN: Skyloons pop the Balloons – Android arcade game built with Reactnative](https://play.google.com/store/apps/details?id=com.maniar.balloonpopquest&hl=en_US) — 利用 Reactnative 开发 Android 游戏实现快速变现（门槛: 低）
 - **[评分: 7/10]** [got tired of tool websites hitting you with paywalls and "sign up to download", so I built a 100% free, private alternative (Kitfyre)](https://www.reddit.com/r/SideProject/comments/1x4cahl/got_tired_of_tool_websites_hitting_you_with/) — 提供无需注册和上传敏感文件的在线工具，解决免费工具网站的痛点。（门槛: 低）
 - **[评分: 7/10]** [Show HN: Portable Guided Reviews you can send as HTML](https://guides.show/) — 为初创企业提供高效的HTML演示动效制作工具。（门槛: 低）
-- **[评分: 7/10]** [I built a free Windows app that combines Wi-Fi, Ethernet, and USB tethering.](https://www.reddit.com/r/SideProject/comments/1x467hi/i_built_a_free_windows_app_that_combines_wifi/) — 开发多路径网络应用，解决Windows网络连接限制，提升用户网络速度。（门槛: 低）
 
 ### 🏷️ B2B 高客单数据抓取与精准名单
 - **[评分: 8/10]** [I scraped billions of TikTok videos and profiles by reverse engineering the mobile API. Here's how it works + source code](https://www.reddit.com/r/SaaS/comments/1wxoasb/i_scraped_billions_of_tiktok_videos_and_profiles/) — 逆向 TikTok 接口，把爆款趋势与达人名单做成付费数据 API（门槛: 高）
 - **[评分: 8/10]** [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) — 零 API 费抓取社媒，一键交付海外精准潜客名单（门槛: 中）
+
+### 🏷️ 跨境电商与出海独立站工具
+- **[评分: 8/10]** [Bootstrapping to €600k MRR and getting killed by Shopify: Checkout X](https://www.leteyski.com/bootstrapping-to-600k-mrr-and-getting-killed-by-shopify-the-story-of-checkout-x) — 独立站结账优化插件，€600k MRR 验证刚需（门槛: 高）
+- **[评分: 7/10]** [DuperMail brings Gmail's keyboard shortcuts (and more) to Apple Mail](https://www.reddit.com/r/SideProject/comments/1x4cjm9/dupermail_brings_gmails_keyboard_shortcuts_and/) — 为 Apple Mail 用户提供 Gmail 风格的快捷键，提升邮件处理效率。（门槛: 低）
 
 ### 🏷️ 非对称套利与增长黑客
 - **[评分: 7/10]** [Show HN: BellRun: An Agentic Day Trading Game](https://bellrun.com/menu/how-to-play) — 利用股票市场非对称信息差的游戏平台，吸引个人投资者实现套利。（门槛: 低）
