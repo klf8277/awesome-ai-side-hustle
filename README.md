@@ -59,6 +59,8 @@
 - **[评分: 8/10]** [I run multiple $10K MRR companies on a $20/month tech stack](https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack) — $20 月成本跑出 $10K MRR 的极简技术栈拆解变现（门槛: 中）
 - **[评分: 8/10]** [My solopreneur story](https://news.tonydinh.com/p/my-solopreneur-story-zero-to-45kmo) — 单人从 0 到月入 4.5 万美元的可复制变现路径拆解（门槛: 中）
 - **[评分: 8/10]** [Show HN: After 2.5 years on my side project, it has hit £500/month revenue](https://news.ycombinator.com/item?id=25372464) — 音频私密分享SaaS，替代Bandcamp/SoundCloud的细分付费工具（门槛: 中）
+- **[评分: 7/10]** [[开源] 做了一个找 AI 项目、看论文和追踪动态的网站，也能通过 MCP 给 Agent 用](https://www.v2ex.com/t/1248026) — 为AI项目开发者提供一站式信息搜索和追踪平台，解决信息分散难题。（门槛: 低）
+- **[评分: 7/10]** [Show HN: Skills Hub, a desktop app for managing AI agent skills](https://github.com/qufei1993/skills-hub) — AI 技能管理工具，解决技能配置与优化的痛点（门槛: 低）
 - **[评分: 7/10]** [Show HN: Seal one sentence into a 3D star-sea,permanently anchored on Arweave](https://memlife.me) — 永久保存网络内容，满足内容创作者的需求。（门槛: 低）
 - **[评分: 7/10]** [做了个网站，看看独立开发者的产品实际都用什么工具搭的](https://www.v2ex.com/t/1247980) — 为开发者提供实际产品使用工具信息，解决选型难题。（门槛: 低）
 - **[评分: 7/10]** [做运维 / 自建服务的时候，半夜经常靠邮件或 Slack 刷消息，手机上不够醒目，就做了个 iOS App： Hookpager。](https://www.v2ex.com/t/1247935) — 为运维人员提供付费的即时通知解决方案，解决半夜接收重要通知的痛点。（门槛: 低）
@@ -66,16 +68,14 @@
 - **[评分: 7/10]** [📣 #发现频道 【开发者自荐】收工-MyWorkPilot，每个任务都](https://meta.appinn.net/t/topic/93337) — 为任务管理提供个性化文件夹解决方案，满足特定用户需求。（门槛: 低）
 - **[评分: 7/10]** [A hub that controls all your coding agents in one place](https://news.ycombinator.com/item?id=50047701) — 为软件开发者提供集中管理多个编码代理的工具，提高工作效率。（门槛: 低）
 - **[评分: 7/10]** [Show HN: A calendar tracker for OpenAI's 28-day Codex reset challenge](https://resetalerts.com/codex-28-day-challenge) — 为特定用户群体提供定制化的挑战跟踪工具，解决痛点并获取用户反馈。（门槛: 低）
-- **[评分: 7/10]** ["Natural deploy" build your own self hosted orchestration framework](https://news.ycombinator.com/item?id=50045948) — 为NAT后节点提供自动化部署和管理的工具，解决软件开发者的痛点。（门槛: 低）
-- **[评分: 7/10]** [Show HN: Vizipedia – free open-source visualizations Wikipedia your agents code](https://shapelessai.com/vizipedia) — 免费开源的数据可视化工具，满足数据可视化需求。（门槛: 低）
 
 ### 🏷️ 非对称套利与窗口漏洞
+- **[评分: 7/10]** [被 Claude 钓鱼执法了，这套路我服](https://www.v2ex.com/t/1247985) — 利用 Claude 避免敏感词，保护账号安全。（门槛: 低）
 - **[评分: 7/10]** [阿里云百炼新推出 jev 类的模型 api 限时免费， decision-model-preview](https://www.v2ex.com/t/1247975) — 利用阿里云免费模型API，搭建AI模型价格监控网站，吸引付费用户。（门槛: 低）
 - **[评分: 7/10]** [医院现在都这么火爆了](https://www.nodeseek.com/post-977881-1) — 利用医院挂号和专家号的高定价策略进行套利（门槛: 低）
 - **[评分: 7/10]** [【咨询】请问各位大佬，目前有没有低价的grok充值渠道](https://www.nodeseek.com/post-977877-1) — 提供低价grok充值渠道，满足图片生成需求。（门槛: 低）
 - **[评分: 7/10]** [大家会在手机上留claude app吗](https://www.nodeseek.com/post-977580-1) — 针对Claude app在手机上体验不佳的问题，开发解决方案。（门槛: 低）
 - **[评分: 7/10]** [gpt48team用了链接绑定是限时的吗](https://www.nodeseek.com/post-977568-1) — 利用限时优惠差异进行套利。（门槛: 低）
-- **[评分: 7/10]** [【溢价收】日本家宽SO-NET索尼NURO-VPS-Radonet](https://www.nodeseek.com/post-977534-1) — 利用官网缺货，从第三方渠道销售日本家宽VPS，实现溢价收入。（门槛: 低）
 
 ### 🏷️ 视频与动效代交付
 - **[评分: 7/10]** [[UU889-Drama]AI 短剧自动化生产本地平台，已更新多个本地 API 接入](https://www.v2ex.com/t/1247974) — AI赋能视频制作，自动化短剧生产平台，降低制作成本，提高效率。（门槛: 低）
