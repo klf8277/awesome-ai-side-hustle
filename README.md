@@ -83,7 +83,6 @@
 - **[评分: 7/10]** [【溢价收】日本家宽SO-NET索尼NURO-VPS-Radonet](https://www.nodeseek.com/post-977534-1) — 利用官网缺货，从第三方渠道销售日本家宽VPS，实现溢价收入。（门槛: 低）
 - **[评分: 7/10]** [这是Claude解封了？](https://www.nodeseek.com/post-977494-1) — 利用平台政策变动进行短期套利。（门槛: 低）
 - **[评分: 7/10]** [Office 365 可以白嫖 AI](https://www.nodeseek.com/post-977421-1) — 利用官方免费AI资源进行套利。（门槛: 低）
-- **[评分: 7/10]** [【抽奖】美国家宽Aaitr Att+Topimage 100元两份奖品，短剧公司可试用seedance2.5模型](https://www.nodeseek.com/post-977427-1) — 利用被骗经历吸引短剧公司试用模型，实现流量套利。（门槛: 低）
 
 ### 🏷️ 跨境电商与出海独立站工具
 - **[评分: 8/10]** [Bootstrapping to €600k MRR and getting killed by Shopify: Checkout X](https://www.leteyski.com/bootstrapping-to-600k-mrr-and-getting-killed-by-shopify-the-story-of-checkout-x) — 独立站结账优化插件，€600k MRR 验证刚需（门槛: 高）
@@ -104,6 +103,9 @@
 ### 🏷️ B2B 高客单数据抓取与精准名单
 - **[评分: 8/10]** [I scraped billions of TikTok videos and profiles by reverse engineering the mobile API. Here's how it works + source code](https://www.reddit.com/r/SaaS/comments/1wxoasb/i_scraped_billions_of_tiktok_videos_and_profiles/) — 逆向 TikTok 接口，把爆款趋势与达人名单做成付费数据 API（门槛: 高）
 - **[评分: 8/10]** [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) — 零 API 费抓取社媒，一键交付海外精准潜客名单（门槛: 中）
+
+### 🏷️ 非对称套利与增长黑客
+- **[评分: 7/10]** [周末不休， 6.1sol 不降智稳的一批，倍率 0.19，十几二十块爽蹬一天，不降智能力拉满综合吊打 6astra，周末人少速度特爽，用中转站的佬可以来切来体验一下不降智的 6.1sol，回复送体验额度。](https://www.v2ex.com/t/1247791) — 0.19倍率中转站送体验额度，算力破价套利通道（门槛: 低）
 
 
 ---
