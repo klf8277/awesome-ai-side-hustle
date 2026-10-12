@@ -59,33 +59,28 @@
 - **[评分: 8/10]** [I run multiple $10K MRR companies on a $20/month tech stack](https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack) — $20 月成本跑出 $10K MRR 的极简技术栈拆解变现（门槛: 中）
 - **[评分: 8/10]** [My solopreneur story](https://news.tonydinh.com/p/my-solopreneur-story-zero-to-45kmo) — 单人从 0 到月入 4.5 万美元的可复制变现路径拆解（门槛: 中）
 - **[评分: 8/10]** [Show HN: After 2.5 years on my side project, it has hit £500/month revenue](https://news.ycombinator.com/item?id=25372464) — 音频私密分享SaaS，替代Bandcamp/SoundCloud的细分付费工具（门槛: 中）
+- **[评分: 7/10]** [Show HN: Awesome-CV as an Astro theme, YAML in, website and PDF out](https://astro-awesome-cv.sek4.com/) — 提供便捷的LaTeX-free简历制作工具，满足专业简历需求。（门槛: 低）
+- **[评分: 7/10]** [在线简历生成器：支持多模板、AI 优化和 PDF 导出](https://www.v2ex.com/t/1248172) — 提供便捷的在线简历生成工具，解决简历制作难题。（门槛: 低）
+- **[评分: 7/10]** [分享一个开源小工具 CAdapt](https://www.v2ex.com/t/1248175) — 为 Linux 开发者提供简化 glibc 和内核模块兼容性的工具（门槛: 低）
+- **[评分: 7/10]** [Show HN: DBJoy – An open-source AI-first PostgreSQL client for macOS](https://github.com/agustind/dbjoy) — 为Mac用户提供AI增强的PostgreSQL客户端，解决数据库管理难题。（门槛: 低）
+- **[评分: 7/10]** [Show HN: Awesome-CV as an Astro theme, YAML in, website and PDF out](https://astro-awesome-cv.sek4.com/) — 提供基于 YAML 的简历生成工具，满足特定设计需求。（门槛: 低）
+- **[评分: 7/10]** [Show HN: EpochGo – Local-first multi-agent AutoML on Ollama ($0 API costs)](https://github.com/AryanDinakaran/EpochGo) — 提供本地优先的 AutoML 工具，满足数据科学家对自动化机器学习解决方案的需求。（门槛: 中）
 - **[评分: 7/10]** [Show HN: I made an AI free version of my directory of open-source alternatives](https://noai.openaltfinder.com/) — 为开源软件社区提供无AI辅助的工具目录，满足对AI辅助工具担忧的用户需求。（门槛: 低）
 - **[评分: 7/10]** [Show HN: ClueCDC – Open-Source UI for Managing Debezium and Kafka CDC Pipelines](https://github.com/cluedata/cluecdc) — 为数据工程师提供简化 CDC 管理的开放源代码工具。（门槛: 低）
 - **[评分: 7/10]** [Show HN: I made an AI free version of my directory of open-source alternatives](https://noai.openaltfinder.com/) — 为开源软件社区提供无AI辅助的工具目录，满足对AI辅助内容担忧的用户需求。（门槛: 低）
 - **[评分: 7/10]** [[开源自荐] Modu 默读：跨平台阅读器，支持扫描 PDF、离线 OCR 和综合查询](https://www.v2ex.com/t/1248136) — 开发结合阅读、查询、听书和AI功能的电子书阅读器，满足用户综合阅读需求。（门槛: 低）
 - **[评分: 7/10]** [命令行小工具： Claude Code / Codex / Cursor /OpenCode 多账号一键切换，支持看剩余额度（包括 Codex 重置机会）](https://www.v2ex.com/t/1248073) — 为 AI 工具用户提供多账号额度管理和自动切换工具，提升使用效率。（门槛: 低）
 - **[评分: 7/10]** [Show HN: Jruva – AI workspace for chat, documents and images](https://www.jruva.in) — 为企业提供集成的 AI 工作空间，提高沟通和文档处理效率。（门槛: 低）
-- **[评分: 7/10]** [Show HN: An OpenAI-compatible API that coding agents sign up for themselves](https://scaledthought.com/go/org-hn) — 为AI编程代理提供自动化工具，满足开发者需求（门槛: 低）
-- **[评分: 7/10]** [Scrape Anything by Context.dev](https://www.producthunt.com/products/context-dev) — 一键将网站数据转化为清洗后的数据，解决数据抓取难题。（门槛: 低）
-- **[评分: 7/10]** [guilds.run](https://www.producthunt.com/products/guilds-run) — 为开源社区提供Grok Bot的替代方案，满足工具缺口需求。（门槛: 低）
-- **[评分: 7/10]** [Styx - I lost track of which coding agent was waiting on me, so I made one window for all of them](https://www.reddit.com/r/SideProject/comments/1x3ubgo/styx_i_lost_track_of_which_coding_agent_was/) — 为多项目开发者提供统一的代理管理窗口，提高工作效率。（门槛: 低）
-- **[评分: 7/10]** [I built a free offline app to transcribe, translate and dub videos - no account, no limits](https://www.reddit.com/r/SideProject/comments/1x3v9t0/i_built_a_free_offline_app_to_transcribe/) — 提供离线视频处理工具，满足隐私和成本敏感用户的需求。（门槛: 低）
-- **[评分: 7/10]** [📣 #发现频道 【开源自荐】屏译：开源 Android 屏幕实时翻译工](https://meta.appinn.net/t/topic/93384) — 为特定场景提供实时翻译工具，满足小众市场需求。（门槛: 低）
-- **[评分: 7/10]** [创建了一份自动化的发现频道日报，现在... n8n 这种工具，也是AI](https://t.me/appinnfeed/18362) — 利用AI自动化日报创建，满足内容创作者自动化需求。（门槛: 低）
-- **[评分: 7/10]** [不花一分钱 API，我给 OnlyOffice + WASM 浏览器文档编辑器加了个本地 AI 助手](https://www.v2ex.com/t/1248059) — 利用AI为文档编辑提供自然语言操作，提升用户体验和效率。（门槛: 低）
 
 ### 🏷️ 非对称套利与窗口漏洞
+- **[评分: 7/10]** [黑五](https://www.nodeseek.com/post-978841-1) — 利用黑五促销预测特价商品，从中套利。（门槛: 低）
+- **[评分: 7/10]** [有claude team 25刀的车吗](https://www.nodeseek.com/post-978834-1) — 利用价格差异进行Claude Team服务的套利。（门槛: 低）
+- **[评分: 7/10]** [【出】溢价200 出 Ciallo HK 9950x Premium 6折](https://www.nodeseek.com/post-978826-1) — 利用折扣价购买产品，再以正常市场价出售，实现套利。（门槛: 低）
 - **[评分: 7/10]** [48team 埃及/瑞典22刀优惠码](https://www.nodeseek.com/post-978736-1) — 利用优惠码套利，获取用户信息。（门槛: 低）
 - **[评分: 7/10]** [Show HN: I built a banking demo with LavinMQ to test messaging failures](https://github.com/cloudamqp/lavinmq-demos/tree/main/nodejs-clients-demo) — 利用 LavinMQ 演示帮助银行测试消息失败，发现并解决潜在问题，实现非对称套利。（门槛: 低）
 - **[评分: 7/10]** [收Nobrand 新站（newnb）专线流量500G的🐔。必须月付款，带优惠码就行，不强求65折](https://www.nodeseek.com/post-978596-1) — 通过优惠码获取低价专线流量，实现套利。（门槛: 低）
 - **[评分: 7/10]** [求购一个带优惠权益的上海宽带套餐](https://www.nodeseek.com/post-978610-1) — 提供优惠宽带套餐，利用用户对优惠的需求进行套利（门槛: 低）
 - **[评分: 7/10]** [O\几个防降智小经验分享](https://www.nodeseek.com/post-978609-1) — 利用GPT6特性，开发防降智检测工具，满足用户对网页和手机版降智检测的需求。（门槛: 低）
-
-### 🏷️ 视频与动效代交付
-- **[评分: 7/10]** [ExcaliClaw](https://www.producthunt.com/products/excaliclaw) — AI辅助手绘图表工具，满足初创企业需求（门槛: 低）
-- **[评分: 7/10]** [I made an encyclopedia for drum patterns!](https://www.reddit.com/r/SideProject/comments/1x3wieo/i_made_an_encyclopedia_for_drum_patterns/) — 为音乐制作人提供鼓点模式查找工具，实现快速创作。（门槛: 低）
-- **[评分: 7/10]** [Levende - I made a free iPhone app that makes kids' drawings walk and dance on the kitchen table](https://www.reddit.com/r/SideProject/comments/1x3v8g3/levende_i_made_a_free_iphone_app_that_makes_kids/) — 利用AI技术将儿童绘画动画化，创造免费应用程序吸引付费支持者（门槛: 低）
-- **[评分: 7/10]** [I built a website that draws photos stroke by stroke instead of instantly generating an image. Would love some feedback!](https://www.reddit.com/r/SideProject/comments/1x3vyiv/i_built_a_website_that_draws_photos_stroke_by/) — 创造独特的艺术创作过程可视化工具，满足用户对艺术创作过程的兴趣。（门槛: 低）
 
 ### 🏷️ ⚡ 非对称套利与增长黑客
 - **[评分: 8/10]** [注册了一个美国公司，可以提供 Claude Code 团队订阅席位。](https://www.v2ex.com/t/1247029) — 美国公司主体代持 Claude 团队席位，按月转售给国内开发者（门槛: 中）
@@ -101,8 +96,15 @@
 - **[评分: 8/10]** [I scraped billions of TikTok videos and profiles by reverse engineering the mobile API. Here's how it works + source code](https://www.reddit.com/r/SaaS/comments/1wxoasb/i_scraped_billions_of_tiktok_videos_and_profiles/) — 逆向 TikTok 接口，把爆款趋势与达人名单做成付费数据 API（门槛: 高）
 - **[评分: 8/10]** [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) — 零 API 费抓取社媒，一键交付海外精准潜客名单（门槛: 中）
 
+### 🏷️ 国学文化数字化与情绪消费
+- **[评分: 7/10]** [十年前业余做的诗词 App，今年业余时间和 AI 一起从零重写了一遍](https://www.v2ex.com/t/1248168) — 结合国学元素和AI的诗词App，提供独特的文化体验和付费增值服务。（门槛: 低）
+- **[评分: 7/10]** [#days 💦 今日寒露 寒露，是二十四节气中的第十七个节气](https://t.me/NewlearnerChannel/15996) — 开发寒露节气数字化产品，满足国学文化需求。（门槛: 低）
+
 ### 🏷️ 跨境电商与出海独立站工具
 - **[评分: 8/10]** [Bootstrapping to €600k MRR and getting killed by Shopify: Checkout X](https://www.leteyski.com/bootstrapping-to-600k-mrr-and-getting-killed-by-shopify-the-story-of-checkout-x) — 独立站结账优化插件，€600k MRR 验证刚需（门槛: 高）
+
+### 🏷️ 视频与动效代交付
+- **[评分: 7/10]** [Runnock：把你的 MacBook 刘海变成开发者的状态岛](https://www.v2ex.com/t/1248184) — 为开发者提供多编码 Agent 会话监控与管理工具，解决多任务处理中的感知问题。（门槛: 中）
 
 ### 🏷️ 七大高溢价赛道之一
 - **[评分: 7/10]** [如何 安全访问 adb ？](https://www.v2ex.com/t/1248087) — 开发安全ADB访问工具，保护手机数据安全。（门槛: 中）
