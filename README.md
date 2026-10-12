@@ -59,6 +59,8 @@
 - **[评分: 8/10]** [I run multiple $10K MRR companies on a $20/month tech stack](https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack) — $20 月成本跑出 $10K MRR 的极简技术栈拆解变现（门槛: 中）
 - **[评分: 8/10]** [My solopreneur story](https://news.tonydinh.com/p/my-solopreneur-story-zero-to-45kmo) — 单人从 0 到月入 4.5 万美元的可复制变现路径拆解（门槛: 中）
 - **[评分: 8/10]** [Show HN: After 2.5 years on my side project, it has hit £500/month revenue](https://news.ycombinator.com/item?id=25372464) — 音频私密分享SaaS，替代Bandcamp/SoundCloud的细分付费工具（门槛: 中）
+- **[评分: 7/10]** [Show HN: Seal one sentence into a 3D star-sea,permanently anchored on Arweave](https://memlife.me) — 永久保存网络内容，满足内容创作者的需求。（门槛: 低）
+- **[评分: 7/10]** [做了个网站，看看独立开发者的产品实际都用什么工具搭的](https://www.v2ex.com/t/1247980) — 为开发者提供实际产品使用工具信息，解决选型难题。（门槛: 低）
 - **[评分: 7/10]** [做运维 / 自建服务的时候，半夜经常靠邮件或 Slack 刷消息，手机上不够醒目，就做了个 iOS App： Hookpager。](https://www.v2ex.com/t/1247935) — 为运维人员提供付费的即时通知解决方案，解决半夜接收重要通知的痛点。（门槛: 低）
 - **[评分: 7/10]** [I got so tired of rewriting my CV for every job that I built a tool to do the tailoring](https://www.reddit.com/r/SideProject/comments/1x3ol2l/i_got_so_tired_of_rewriting_my_cv_for_every_job/) — 自动化简历生成工具，解决求职者重复劳动问题（门槛: 低）
 - **[评分: 7/10]** [📣 #发现频道 【开发者自荐】收工-MyWorkPilot，每个任务都](https://meta.appinn.net/t/topic/93337) — 为任务管理提供个性化文件夹解决方案，满足特定用户需求。（门槛: 低）
@@ -66,29 +68,22 @@
 - **[评分: 7/10]** [Show HN: A calendar tracker for OpenAI's 28-day Codex reset challenge](https://resetalerts.com/codex-28-day-challenge) — 为特定用户群体提供定制化的挑战跟踪工具，解决痛点并获取用户反馈。（门槛: 低）
 - **[评分: 7/10]** ["Natural deploy" build your own self hosted orchestration framework](https://news.ycombinator.com/item?id=50045948) — 为NAT后节点提供自动化部署和管理的工具，解决软件开发者的痛点。（门槛: 低）
 - **[评分: 7/10]** [Show HN: Vizipedia – free open-source visualizations Wikipedia your agents code](https://shapelessai.com/vizipedia) — 免费开源的数据可视化工具，满足数据可视化需求。（门槛: 低）
-- **[评分: 7/10]** [I’m selling SeoLoupe, my SEO audit SaaS I built as a solo founder](https://www.reddit.com/r/SaaS/comments/1x3d6xy/im_selling_seoloupe_my_seo_audit_saas_i_built_as/) — 低价收购已有收入的SEO审计SaaS，快速获客（门槛: 中）
-- **[评分: 7/10]** [Show HN: OpenCode server and TUI in a browser tab (Chrome desktop)](https://kkrausse.github.io/browser-agent-toolkit/) — 在浏览器中运行OpenCode服务器和TUI，提升开发效率。（门槛: 低）
-- **[评分: 7/10]** [[开源]刷了三天 AI 短剧，我一怒之下做了个全网最癫的不烧心 skill](https://www.v2ex.com/t/1247906) — AI 文学生成器，解决文案创作难题。（门槛: 低）
+
+### 🏷️ 非对称套利与窗口漏洞
+- **[评分: 7/10]** [阿里云百炼新推出 jev 类的模型 api 限时免费， decision-model-preview](https://www.v2ex.com/t/1247975) — 利用阿里云免费模型API，搭建AI模型价格监控网站，吸引付费用户。（门槛: 低）
+- **[评分: 7/10]** [医院现在都这么火爆了](https://www.nodeseek.com/post-977881-1) — 利用医院挂号和专家号的高定价策略进行套利（门槛: 低）
+- **[评分: 7/10]** [【咨询】请问各位大佬，目前有没有低价的grok充值渠道](https://www.nodeseek.com/post-977877-1) — 提供低价grok充值渠道，满足图片生成需求。（门槛: 低）
+- **[评分: 7/10]** [大家会在手机上留claude app吗](https://www.nodeseek.com/post-977580-1) — 针对Claude app在手机上体验不佳的问题，开发解决方案。（门槛: 低）
+- **[评分: 7/10]** [gpt48team用了链接绑定是限时的吗](https://www.nodeseek.com/post-977568-1) — 利用限时优惠差异进行套利。（门槛: 低）
+- **[评分: 7/10]** [【溢价收】日本家宽SO-NET索尼NURO-VPS-Radonet](https://www.nodeseek.com/post-977534-1) — 利用官网缺货，从第三方渠道销售日本家宽VPS，实现溢价收入。（门槛: 低）
 
 ### 🏷️ 视频与动效代交付
+- **[评分: 7/10]** [[UU889-Drama]AI 短剧自动化生产本地平台，已更新多个本地 API 接入](https://www.v2ex.com/t/1247974) — AI赋能视频制作，自动化短剧生产平台，降低制作成本，提高效率。（门槛: 低）
+- **[评分: 7/10]** [Show HN: Foretype: type on remote machines at local speed](https://github.com/itsfabioroma/foretype) — 解决远程服务器打字延迟，提升远程编码体验。（门槛: 低）
 - **[评分: 7/10]** [Show HN: Moodi – A tiny 3D character for your app's loading states](https://www.getmoodi.dev) — 为 App 加载状态提供有趣且互动的 3D 动画，提升用户体验。（门槛: 低）
 - **[评分: 7/10]** [made a thing to help freelancers find clients on reddit and facebook](https://www.reddit.com/r/SideProject/comments/1x3i1jd/made_a_thing_to_help_freelancers_find_clients_on/) — 为自由职业者提供自动化客户发现工具，节省寻找客户的时间。（门槛: 低）
 - **[评分: 7/10]** [Sealwire: let Claude Code, Codex and Cursor work together while you chill on the beach like a seal 🦭](https://www.reddit.com/r/SideProject/comments/1x3jsxw/sealwire_let_claude_code_codex_and_cursor_work/) — 一键整合多AI编码助手，免去手动切换的痛点（门槛: 低）
 - **[评分: 7/10]** [Show HN: Kindlefall a 3D ARPG in the browser, built with Three.js](https://kindlefall.com/play/) — 利用Three.js等技术为游戏开发者提供3D ARPG游戏构建服务（门槛: 低）
-- **[评分: 7/10]** [I made software that automatically cuts your videos in Premiere Pro without AI! (And it does a lot more!)](https://www.reddit.com/r/SaaS/comments/1x3ebzo/i_made_software_that_automatically_cuts_your/) — Premiere Pro 静音自动剪切付费插件（门槛: 中）
-- **[评分: 7/10]** [I built a 90 sec maths race against real people. Can you beat my score?](https://www.reddit.com/r/SideProject/comments/1x3bz77/i_built_a_90_sec_maths_race_against_real_people/) — 开发数学竞速游戏，吸引玩家付费参与。（门槛: 低）
-
-### 🏷️ 跨境电商与出海独立站工具
-- **[评分: 8/10]** [Bootstrapping to €600k MRR and getting killed by Shopify: Checkout X](https://www.leteyski.com/bootstrapping-to-600k-mrr-and-getting-killed-by-shopify-the-story-of-checkout-x) — 独立站结账优化插件，€600k MRR 验证刚需（门槛: 高）
-- **[评分: 7/10]** [Show HN: SupplyVision – I made meta-search for independent fashion retailers](https://supplyvision.app/) — 为独立时尚零售商提供跨平台时尚交易搜索工具，简化采购流程。（门槛: 低）
-- **[评分: 7/10]** [I made a website builder that's really frèè](https://www.reddit.com/r/SideProject/comments/1x3dksw/i_made_a_website_builder_thats_really_frèè/) — 提供免费且功能丰富的网站构建器，吸引网站建设者付费使用。（门槛: 低）
-- **[评分: 7/10]** [做了个 Nano Banana 图片生成站：从一句脑洞，到产品图、海报和社媒配图](https://www.v2ex.com/t/1247916) — AI 一键生成产品配图，按积分付费，解决素材寻找难题（门槛: 中）
-
-### 🏷️ 非对称套利与窗口漏洞
-- **[评分: 7/10]** [大家会在手机上留claude app吗](https://www.nodeseek.com/post-977580-1) — 针对Claude app在手机上体验不佳的问题，开发解决方案。（门槛: 低）
-- **[评分: 7/10]** [gpt48team用了链接绑定是限时的吗](https://www.nodeseek.com/post-977568-1) — 利用限时优惠差异进行套利。（门槛: 低）
-- **[评分: 7/10]** [【溢价收】日本家宽SO-NET索尼NURO-VPS-Radonet](https://www.nodeseek.com/post-977534-1) — 利用官网缺货，从第三方渠道销售日本家宽VPS，实现溢价收入。（门槛: 低）
-- **[评分: 7/10]** [这是Claude解封了？](https://www.nodeseek.com/post-977494-1) — 利用平台政策变动进行短期套利。（门槛: 低）
 
 ### 🏷️ ⚡ 非对称套利与增长黑客
 - **[评分: 8/10]** [注册了一个美国公司，可以提供 Claude Code 团队订阅席位。](https://www.v2ex.com/t/1247029) — 美国公司主体代持 Claude 团队席位，按月转售给国内开发者（门槛: 中）
@@ -99,6 +94,11 @@
 - **[评分: 8/10]** [Show HN: Halo – A Personal AI with On-Device Harness, Memory and Browser Agent](https://apps.apple.com/us/app/halo-personal-ai/id6783715054) — 端侧隐私 AI 助手，$49 终身买断，数据不出手机（门槛: 中）
 - **[评分: 8/10]** [Famulor](https://www.producthunt.com/products/famulor-telephony-ai) — 给本地商家搭AI电话+WhatsApp跟进客服，按月收费（门槛: 中）
 - **[评分: 8/10]** [Communicate](https://www.producthunt.com/products/communicate) — 垂直行业AI客服代理，知识库+人工接管月费变现（门槛: 中）
+
+### 🏷️ 跨境电商与出海独立站工具
+- **[评分: 8/10]** [Bootstrapping to €600k MRR and getting killed by Shopify: Checkout X](https://www.leteyski.com/bootstrapping-to-600k-mrr-and-getting-killed-by-shopify-the-story-of-checkout-x) — 独立站结账优化插件，€600k MRR 验证刚需（门槛: 高）
+- **[评分: 7/10]** [Show HN: Foretype: type on remote machines at local speed](https://github.com/itsfabioroma/foretype) — 解决远程服务器打字延迟，提升远程编码体验。（门槛: 低）
+- **[评分: 7/10]** [Show HN: SupplyVision – I made meta-search for independent fashion retailers](https://supplyvision.app/) — 为独立时尚零售商提供跨平台时尚交易搜索工具，简化采购流程。（门槛: 低）
 
 ### 🏷️ B2B 高客单数据抓取与精准名单
 - **[评分: 8/10]** [I scraped billions of TikTok videos and profiles by reverse engineering the mobile API. Here's how it works + source code](https://www.reddit.com/r/SaaS/comments/1wxoasb/i_scraped_billions_of_tiktok_videos_and_profiles/) — 逆向 TikTok 接口，把爆款趋势与达人名单做成付费数据 API（门槛: 高）
