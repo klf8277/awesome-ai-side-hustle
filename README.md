@@ -59,28 +59,32 @@
 - **[评分: 8/10]** [I run multiple $10K MRR companies on a $20/month tech stack](https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack) — $20 月成本跑出 $10K MRR 的极简技术栈拆解变现（门槛: 中）
 - **[评分: 8/10]** [My solopreneur story](https://news.tonydinh.com/p/my-solopreneur-story-zero-to-45kmo) — 单人从 0 到月入 4.5 万美元的可复制变现路径拆解（门槛: 中）
 - **[评分: 8/10]** [Show HN: After 2.5 years on my side project, it has hit £500/month revenue](https://news.ycombinator.com/item?id=25372464) — 音频私密分享SaaS，替代Bandcamp/SoundCloud的细分付费工具（门槛: 中）
+- **[评分: 7/10]** [[开源自荐] Modu 默读：跨平台阅读器，支持扫描 PDF、离线 OCR 和综合查询](https://www.v2ex.com/t/1248136) — 开发结合阅读、查询、听书和AI功能的电子书阅读器，满足用户综合阅读需求。（门槛: 低）
+- **[评分: 7/10]** [命令行小工具： Claude Code / Codex / Cursor /OpenCode 多账号一键切换，支持看剩余额度（包括 Codex 重置机会）](https://www.v2ex.com/t/1248073) — 为 AI 工具用户提供多账号额度管理和自动切换工具，提升使用效率。（门槛: 低）
+- **[评分: 7/10]** [Show HN: Jruva – AI workspace for chat, documents and images](https://www.jruva.in) — 为企业提供集成的 AI 工作空间，提高沟通和文档处理效率。（门槛: 低）
+- **[评分: 7/10]** [Show HN: An OpenAI-compatible API that coding agents sign up for themselves](https://scaledthought.com/go/org-hn) — 为AI编程代理提供自动化工具，满足开发者需求（门槛: 低）
+- **[评分: 7/10]** [Scrape Anything by Context.dev](https://www.producthunt.com/products/context-dev) — 一键将网站数据转化为清洗后的数据，解决数据抓取难题。（门槛: 低）
+- **[评分: 7/10]** [guilds.run](https://www.producthunt.com/products/guilds-run) — 为开源社区提供Grok Bot的替代方案，满足工具缺口需求。（门槛: 低）
+- **[评分: 7/10]** [Styx - I lost track of which coding agent was waiting on me, so I made one window for all of them](https://www.reddit.com/r/SideProject/comments/1x3ubgo/styx_i_lost_track_of_which_coding_agent_was/) — 为多项目开发者提供统一的代理管理窗口，提高工作效率。（门槛: 低）
+- **[评分: 7/10]** [I built a free offline app to transcribe, translate and dub videos - no account, no limits](https://www.reddit.com/r/SideProject/comments/1x3v9t0/i_built_a_free_offline_app_to_transcribe/) — 提供离线视频处理工具，满足隐私和成本敏感用户的需求。（门槛: 低）
+- **[评分: 7/10]** [📣 #发现频道 【开源自荐】屏译：开源 Android 屏幕实时翻译工](https://meta.appinn.net/t/topic/93384) — 为特定场景提供实时翻译工具，满足小众市场需求。（门槛: 低）
+- **[评分: 7/10]** [创建了一份自动化的发现频道日报，现在... n8n 这种工具，也是AI](https://t.me/appinnfeed/18362) — 利用AI自动化日报创建，满足内容创作者自动化需求。（门槛: 低）
 - **[评分: 7/10]** [不花一分钱 API，我给 OnlyOffice + WASM 浏览器文档编辑器加了个本地 AI 助手](https://www.v2ex.com/t/1248059) — 利用AI为文档编辑提供自然语言操作，提升用户体验和效率。（门槛: 低）
-- **[评分: 7/10]** [I continued OpenOwl as Open Eyes (Move Weight) — my take on the takeover](https://www.reddit.com/r/SideProject/comments/1x3t267/i_continued_openowl_as_open_eyes_move_weight_my/) — 为 AI 辅助工具提供桌面操作和控制功能，解决开发者痛点。（门槛: 低）
-- **[评分: 7/10]** [I built a free emoji browser with 1,900+ emojis you can copy as text or code snippets](https://www.reddit.com/r/SideProject/comments/1x3st3g/i_built_a_free_emoji_browser_with_1900_emojis_you/) — 为设计师和开发者提供便捷的emoji搜索和复制工具，解决设计中的痛点。（门槛: 低）
-- **[评分: 7/10]** [[开源] 做了一个找 AI 项目、看论文和追踪动态的网站，也能通过 MCP 给 Agent 用](https://www.v2ex.com/t/1248026) — 为AI项目开发者提供一站式信息搜索和追踪平台，解决信息分散难题。（门槛: 低）
-- **[评分: 7/10]** [Show HN: Skills Hub, a desktop app for managing AI agent skills](https://github.com/qufei1993/skills-hub) — AI 技能管理工具，解决技能配置与优化的痛点（门槛: 低）
-- **[评分: 7/10]** [Show HN: Seal one sentence into a 3D star-sea,permanently anchored on Arweave](https://memlife.me) — 永久保存网络内容，满足内容创作者的需求。（门槛: 低）
-- **[评分: 7/10]** [做了个网站，看看独立开发者的产品实际都用什么工具搭的](https://www.v2ex.com/t/1247980) — 为开发者提供实际产品使用工具信息，解决选型难题。（门槛: 低）
-- **[评分: 7/10]** [做运维 / 自建服务的时候，半夜经常靠邮件或 Slack 刷消息，手机上不够醒目，就做了个 iOS App： Hookpager。](https://www.v2ex.com/t/1247935) — 为运维人员提供付费的即时通知解决方案，解决半夜接收重要通知的痛点。（门槛: 低）
-- **[评分: 7/10]** [I got so tired of rewriting my CV for every job that I built a tool to do the tailoring](https://www.reddit.com/r/SideProject/comments/1x3ol2l/i_got_so_tired_of_rewriting_my_cv_for_every_job/) — 自动化简历生成工具，解决求职者重复劳动问题（门槛: 低）
-- **[评分: 7/10]** [📣 #发现频道 【开发者自荐】收工-MyWorkPilot，每个任务都](https://meta.appinn.net/t/topic/93337) — 为任务管理提供个性化文件夹解决方案，满足特定用户需求。（门槛: 低）
 
 ### 🏷️ 非对称套利与窗口漏洞
+- **[评分: 7/10]** [收Nobrand 新站（newnb）专线流量500G的🐔。必须月付款，带优惠码就行，不强求65折](https://www.nodeseek.com/post-978596-1) — 通过优惠码获取低价专线流量，实现套利。（门槛: 低）
+- **[评分: 7/10]** [求购一个带优惠权益的上海宽带套餐](https://www.nodeseek.com/post-978610-1) — 提供优惠宽带套餐，利用用户对优惠的需求进行套利（门槛: 低）
+- **[评分: 7/10]** [O\几个防降智小经验分享](https://www.nodeseek.com/post-978609-1) — 利用GPT6特性，开发防降智检测工具，满足用户对网页和手机版降智检测的需求。（门槛: 低）
 - **[评分: 7/10]** [困惑： API KEY 只能复制一次，这不“脱裤子 XX”吗？](https://www.v2ex.com/t/1247979) — 开发 API KEY 安全复制工具，解决大模型用户复制限制问题。（门槛: 低）
 - **[评分: 7/10]** [现在用虚拟机，还有个人智能体，都过不了推特新注册的人脸验证了。现在注册新推特，我就买一块多钱、10 月份注册的新推特号了。](https://www.nodeseek.com/post-978104-1) — 利用推特注册限制套利现有账号。（门槛: 低）
 - **[评分: 7/10]** [今天的淘宝似乎是有优惠](https://www.nodeseek.com/post-978114-1) — 利用淘宝店铺优惠进行套利（门槛: 低）
 - **[评分: 7/10]** [【深圳移动测试】绿云 vs AWS 新加坡节点 · 本机侧网络对比测试](https://www.nodeseek.com/post-978105-1) — 利用云服务节点性能差异进行套利。（门槛: 低）
-- **[评分: 7/10]** [有没有能订阅Claude和Codex的卡台呢](https://www.nodeseek.com/post-978109-1) — 提供无需KYC的订阅卡台，满足特定用户需求（门槛: 低）
-- **[评分: 7/10]** [有个疑问，gpt的额度消耗限制，是不是和ip质量有关。](https://www.nodeseek.com/post-978117-1) — 提供IP优化工具，帮助GPT用户避免额度限制。（门槛: 低）
-- **[评分: 7/10]** [被 Claude 钓鱼执法了，这套路我服](https://www.v2ex.com/t/1247985) — 利用 Claude 避免敏感词，保护账号安全。（门槛: 低）
-- **[评分: 7/10]** [阿里云百炼新推出 jev 类的模型 api 限时免费， decision-model-preview](https://www.v2ex.com/t/1247975) — 利用阿里云免费模型API，搭建AI模型价格监控网站，吸引付费用户。（门槛: 低）
-- **[评分: 7/10]** [医院现在都这么火爆了](https://www.nodeseek.com/post-977881-1) — 利用医院挂号和专家号的高定价策略进行套利（门槛: 低）
-- **[评分: 7/10]** [【咨询】请问各位大佬，目前有没有低价的grok充值渠道](https://www.nodeseek.com/post-977877-1) — 提供低价grok充值渠道，满足图片生成需求。（门槛: 低）
+
+### 🏷️ 视频与动效代交付
+- **[评分: 7/10]** [ExcaliClaw](https://www.producthunt.com/products/excaliclaw) — AI辅助手绘图表工具，满足初创企业需求（门槛: 低）
+- **[评分: 7/10]** [I made an encyclopedia for drum patterns!](https://www.reddit.com/r/SideProject/comments/1x3wieo/i_made_an_encyclopedia_for_drum_patterns/) — 为音乐制作人提供鼓点模式查找工具，实现快速创作。（门槛: 低）
+- **[评分: 7/10]** [Levende - I made a free iPhone app that makes kids' drawings walk and dance on the kitchen table](https://www.reddit.com/r/SideProject/comments/1x3v8g3/levende_i_made_a_free_iphone_app_that_makes_kids/) — 利用AI技术将儿童绘画动画化，创造免费应用程序吸引付费支持者（门槛: 低）
+- **[评分: 7/10]** [I built a website that draws photos stroke by stroke instead of instantly generating an image. Would love some feedback!](https://www.reddit.com/r/SideProject/comments/1x3vyiv/i_built_a_website_that_draws_photos_stroke_by/) — 创造独特的艺术创作过程可视化工具，满足用户对艺术创作过程的兴趣。（门槛: 低）
 
 ### 🏷️ ⚡ 非对称套利与增长黑客
 - **[评分: 8/10]** [注册了一个美国公司，可以提供 Claude Code 团队订阅席位。](https://www.v2ex.com/t/1247029) — 美国公司主体代持 Claude 团队席位，按月转售给国内开发者（门槛: 中）
@@ -92,18 +96,16 @@
 - **[评分: 8/10]** [Famulor](https://www.producthunt.com/products/famulor-telephony-ai) — 给本地商家搭AI电话+WhatsApp跟进客服，按月收费（门槛: 中）
 - **[评分: 8/10]** [Communicate](https://www.producthunt.com/products/communicate) — 垂直行业AI客服代理，知识库+人工接管月费变现（门槛: 中）
 
-### 🏷️ 跨境电商与出海独立站工具
-- **[评分: 8/10]** [Bootstrapping to €600k MRR and getting killed by Shopify: Checkout X](https://www.leteyski.com/bootstrapping-to-600k-mrr-and-getting-killed-by-shopify-the-story-of-checkout-x) — 独立站结账优化插件，€600k MRR 验证刚需（门槛: 高）
-- **[评分: 7/10]** [基于 AIHOT 开源底座二开，我搭了一套出海信源降噪与 TG 点滴推送管道](https://www.v2ex.com/t/1248035) — 为出海开发者提供精准信息推送，降低信息过载。（门槛: 低）
-- **[评分: 7/10]** [Show HN: Foretype: type on remote machines at local speed](https://github.com/itsfabioroma/foretype) — 解决远程服务器打字延迟，提升远程编码体验。（门槛: 低）
-
 ### 🏷️ B2B 高客单数据抓取与精准名单
 - **[评分: 8/10]** [I scraped billions of TikTok videos and profiles by reverse engineering the mobile API. Here's how it works + source code](https://www.reddit.com/r/SaaS/comments/1wxoasb/i_scraped_billions_of_tiktok_videos_and_profiles/) — 逆向 TikTok 接口，把爆款趋势与达人名单做成付费数据 API（门槛: 高）
 - **[评分: 8/10]** [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) — 零 API 费抓取社媒，一键交付海外精准潜客名单（门槛: 中）
 
-### 🏷️ 视频与动效代交付
-- **[评分: 7/10]** [[UU889-Drama]AI 短剧自动化生产本地平台，已更新多个本地 API 接入](https://www.v2ex.com/t/1247974) — AI赋能视频制作，自动化短剧生产平台，降低制作成本，提高效率。（门槛: 低）
-- **[评分: 7/10]** [Show HN: Foretype: type on remote machines at local speed](https://github.com/itsfabioroma/foretype) — 解决远程服务器打字延迟，提升远程编码体验。（门槛: 低）
+### 🏷️ 跨境电商与出海独立站工具
+- **[评分: 8/10]** [Bootstrapping to €600k MRR and getting killed by Shopify: Checkout X](https://www.leteyski.com/bootstrapping-to-600k-mrr-and-getting-killed-by-shopify-the-story-of-checkout-x) — 独立站结账优化插件，€600k MRR 验证刚需（门槛: 高）
+- **[评分: 7/10]** [基于 AIHOT 开源底座二开，我搭了一套出海信源降噪与 TG 点滴推送管道](https://www.v2ex.com/t/1248035) — 为出海开发者提供精准信息推送，降低信息过载。（门槛: 低）
+
+### 🏷️ 七大高溢价赛道之一
+- **[评分: 7/10]** [如何 安全访问 adb ？](https://www.v2ex.com/t/1248087) — 开发安全ADB访问工具，保护手机数据安全。（门槛: 中）
 
 
 ---
