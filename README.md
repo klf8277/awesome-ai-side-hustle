@@ -59,6 +59,7 @@
 - **[评分: 8/10]** [I run multiple $10K MRR companies on a $20/month tech stack](https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack) — $20 月成本跑出 $10K MRR 的极简技术栈拆解变现（门槛: 中）
 - **[评分: 8/10]** [My solopreneur story](https://news.tonydinh.com/p/my-solopreneur-story-zero-to-45kmo) — 单人从 0 到月入 4.5 万美元的可复制变现路径拆解（门槛: 中）
 - **[评分: 8/10]** [Show HN: After 2.5 years on my side project, it has hit £500/month revenue](https://news.ycombinator.com/item?id=25372464) — 音频私密分享SaaS，替代Bandcamp/SoundCloud的细分付费工具（门槛: 中）
+- **[评分: 7/10]** [不花一分钱 API，我给 OnlyOffice + WASM 浏览器文档编辑器加了个本地 AI 助手](https://www.v2ex.com/t/1248059) — 利用AI为文档编辑提供自然语言操作，提升用户体验和效率。（门槛: 低）
 - **[评分: 7/10]** [I continued OpenOwl as Open Eyes (Move Weight) — my take on the takeover](https://www.reddit.com/r/SideProject/comments/1x3t267/i_continued_openowl_as_open_eyes_move_weight_my/) — 为 AI 辅助工具提供桌面操作和控制功能，解决开发者痛点。（门槛: 低）
 - **[评分: 7/10]** [I built a free emoji browser with 1,900+ emojis you can copy as text or code snippets](https://www.reddit.com/r/SideProject/comments/1x3st3g/i_built_a_free_emoji_browser_with_1900_emojis_you/) — 为设计师和开发者提供便捷的emoji搜索和复制工具，解决设计中的痛点。（门槛: 低）
 - **[评分: 7/10]** [[开源] 做了一个找 AI 项目、看论文和追踪动态的网站，也能通过 MCP 给 Agent 用](https://www.v2ex.com/t/1248026) — 为AI项目开发者提供一站式信息搜索和追踪平台，解决信息分散难题。（门槛: 低）
@@ -103,9 +104,6 @@
 ### 🏷️ 视频与动效代交付
 - **[评分: 7/10]** [[UU889-Drama]AI 短剧自动化生产本地平台，已更新多个本地 API 接入](https://www.v2ex.com/t/1247974) — AI赋能视频制作，自动化短剧生产平台，降低制作成本，提高效率。（门槛: 低）
 - **[评分: 7/10]** [Show HN: Foretype: type on remote machines at local speed](https://github.com/itsfabioroma/foretype) — 解决远程服务器打字延迟，提升远程编码体验。（门槛: 低）
-
-### 🏷️ 非对称套利与增长黑客
-- **[评分: 7/10]** [周末不休， 6.1sol 不降智稳的一批，倍率 0.19，十几二十块爽蹬一天，不降智能力拉满综合吊打 6astra，周末人少速度特爽，用中转站的佬可以来切来体验一下不降智的 6.1sol，回复送体验额度。](https://www.v2ex.com/t/1247791) — 0.19倍率中转站送体验额度，算力破价套利通道（门槛: 低）
 
 
 ---
