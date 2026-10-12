@@ -59,11 +59,15 @@
 - **[评分: 8/10]** [I run multiple $10K MRR companies on a $20/month tech stack](https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack) — $20 月成本跑出 $10K MRR 的极简技术栈拆解变现（门槛: 中）
 - **[评分: 8/10]** [My solopreneur story](https://news.tonydinh.com/p/my-solopreneur-story-zero-to-45kmo) — 单人从 0 到月入 4.5 万美元的可复制变现路径拆解（门槛: 中）
 - **[评分: 8/10]** [Show HN: After 2.5 years on my side project, it has hit £500/month revenue](https://news.ycombinator.com/item?id=25372464) — 音频私密分享SaaS，替代Bandcamp/SoundCloud的细分付费工具（门槛: 中）
+- **[评分: 7/10]** [LeBoard: quality metrics for LeRobot datasets](https://www.leboard.xyz/) — 为机器人数据科学家提供数据质量评估工具，解决数据质量问题。（门槛: 低）
+- **[评分: 7/10]** [Show HN: Folio – my portfolio inside Raycast (read-only, open source)](https://github.com/ShayanAbedi/folio) — 为设计师和开发者提供集成到Raycast的作品集展示工具（门槛: 低）
+- **[评分: 7/10]** [I accidentally built the most beautiful journaling app I've ever seen.](https://www.reddit.com/r/SideProject/comments/1x49oxu/i_accidentally_built_the_most_beautiful/) — 开发以人为中心的记忆整理应用，解决传统日记的痛点。（门槛: 低）
+- **[评分: 7/10]** [I built a free website for reading 41,000 classic books in the browser](https://www.reddit.com/r/SideProject/comments/1x48elg/i_built_a_free_website_for_reading_41000_classic/) — 利用公共领域经典书籍构建免费在线阅读平台，通过广告盈利。（门槛: 低）
+- **[评分: 7/10]** [KiwiDesk - we came a long way ever since the release. Thanks to the community!](https://www.reddit.com/r/SideProject/comments/1x49tc2/kiwidesk_we_came_a_long_way_ever_since_the/) — 为macOS用户开发免费窗口布局管理器，解决配置复杂性问题。（门槛: 低）
+- **[评分: 7/10]** [Wrapped Up - Gift Wish Lists & Secret Santa Exchanges](https://www.reddit.com/r/SideProject/comments/1x48i1d/wrapped_up_gift_wish_lists_secret_santa_exchanges/) — 通过保护礼物惊喜，简化礼物清单协调流程，实现付费订阅模式。（门槛: 低）
 - **[评分: 7/10]** [Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents](https://news.ycombinator.com/item?id=50059096) — 提供低成本AI代理沙盒服务，满足市场对高效、经济解决方案的需求。（门槛: 低）
 - **[评分: 7/10]** [Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents](https://news.ycombinator.com/item?id=50059096) — 提供低成本AI代理沙盒服务，满足市场对高效、经济解决方案的需求。（门槛: 低）
 - **[评分: 7/10]** [Show HN: Enso Method – agent skills for building software for someone else](https://ensomethod.org/) — 为软件开发者提供基于AI的自动化工作流，提高开发效率。（门槛: 低）
-- **[评分: 7/10]** [Show HN: Atlas.nvim – Review prs and manage issues inside Neovim](https://github.com/emrearmagan/atlas.nvim) — 为软件开发者提供集成Neovim的代码审查和管理工具，解决多平台协作痛点。（门槛: 低）
-- **[评分: 7/10]** [ReadGZH：让 AI 直接读懂微信公众号文章（REST API + MCP，已开源）](https://www.v2ex.com/t/1248217) — 利用AI技术，为微信公众号用户提供文章内容抓取与清洗服务，解决AI读取限制。（门槛: 低）
 
 ### 🏷️ 非对称套利与窗口漏洞
 - **[评分: 7/10]** [chatgpt里面的pro 思考强度有额度上限吗？](https://www.nodeseek.com/post-979580-1) — 利用ChatGPT Pro额度限制漏洞进行套利。（门槛: 低）
@@ -72,12 +76,13 @@
 - **[评分: 7/10]** [【车找人】余2 gpt team 短期车 50](https://www.nodeseek.com/post-979533-1) — 利用短期车服务账号被封的风险，提供替代方案套利。（门槛: 低）
 - **[评分: 7/10]** [15r 收48team免一席位优惠码](https://www.nodeseek.com/post-979423-1) — 通过提供优惠码吸引注册，利用价格差异套利（门槛: 低）
 - **[评分: 7/10]** [送一堆 Starryblu 优惠卷](https://www.nodeseek.com/post-979440-1) — 利用Starryblu优惠卷进行市场测试和套利（门槛: 低）
-- **[评分: 7/10]** [k12-chatgpt的codex现在需要接码嘛](https://www.nodeseek.com/post-979437-1) — 利用k12子号额度限制套利（门槛: 低）
-- **[评分: 7/10]** [体验的codex还三天到期，白嫖了 17 亿 token](https://www.nodeseek.com/post-979421-1) — 利用平台规则漏洞，大量获取免费资源进行套利。（门槛: 低）
-- **[评分: 7/10]** [【求购】明盘360/月 收grok heavy 送的 cursor ultra](https://www.nodeseek.com/post-979431-1) — 利用平台服务差价套利，提供类似服务赚取利润。（门槛: 低）
-- **[评分: 7/10]** [Show HN: Fusebox – get emailed before an OpenAI API bill runs away](https://fusebox.sifatsrk.workers.dev/) — 为OpenAI API用户提供费用预警服务，避免意外高额费用。（门槛: 低）
-- **[评分: 7/10]** [【出】家人云 NoSLA 东京-26秋-S，剩余价值7折出 原价无折扣](https://www.nodeseek.com/post-979186-1) — 利用个人云服务套餐折扣套利。（门槛: 低）
-- **[评分: 7/10]** [车找人 gpt pro x20 (差一人)](https://www.nodeseek.com/post-979055-1) — 跨境车找人服务，利用支付差异套利。（门槛: 低）
+
+### 🏷️ 视频与动效代交付
+- **[评分: 7/10]** [I built a free Windows app that combines Wi-Fi, Ethernet, and USB tethering.](https://www.reddit.com/r/SideProject/comments/1x467hi/i_built_a_free_windows_app_that_combines_wifi/) — 开发多路径网络应用，解决Windows网络连接限制，提升用户网络速度。（门槛: 低）
+- **[评分: 7/10]** [Our demo videos went stale every sprint, so I built an open source tool that re-records them](https://www.reddit.com/r/SaaS/comments/1x4a4af/our_demo_videos_went_stale_every_sprint_so_i/) — 为 SaaS 公司提供自动化演示视频制作工具，解决频繁更新的痛点。（门槛: 低）
+- **[评分: 7/10]** [How I got my first 100 weekly active users as a solo developer](https://www.reddit.com/r/SideProject/comments/1x476p4/how_i_got_my_first_100_weekly_active_users_as_a/) — 利用用户发现和推广工具帮助开发者增加 Chrome 扩展的用户量（门槛: 低）
+- **[评分: 7/10]** [用 Claude Opus 5.5 做了个动效视频工具，哪里不满意只改哪里，不用整条重新生成](https://www.v2ex.com/t/1248246) — AI 动效视频工具，快速修改，提高视频制作效率。（门槛: 低）
+- **[评分: 7/10]** [Show HN: Tellcut – motion videos written as code by Claude, edited by chat](https://tellcut.app/studio) — 通过代码和聊天工具快速制作动效视频，满足初创企业需求（门槛: 低）
 
 ### 🏷️ 极窄场景的 Micro-AI 插件
 - **[评分: 8/10]** [Show HN: Halo – A Personal AI with On-Device Harness, Memory and Browser Agent](https://apps.apple.com/us/app/halo-personal-ai/id6783715054) — 端侧隐私 AI 助手，$49 终身买断，数据不出手机（门槛: 中）
@@ -87,9 +92,9 @@
 
 ### 🏷️ 跨境电商与出海独立站工具
 - **[评分: 8/10]** [Bootstrapping to €600k MRR and getting killed by Shopify: Checkout X](https://www.leteyski.com/bootstrapping-to-600k-mrr-and-getting-killed-by-shopify-the-story-of-checkout-x) — 独立站结账优化插件，€600k MRR 验证刚需（门槛: 高）
+- **[评分: 7/10]** [I built a link-in-bio page with booking built in, so clients schedule with you without leaving your page](https://www.reddit.com/r/SideProject/comments/1x47gcm/i_built_a_linkinbio_page_with_booking_built_in_so/) — 在生物页面上直接预约，减少跳转，提高客户转化率。（门槛: 低）
 - **[评分: 7/10]** [Push attribution for commits in limited public preview](https://github.blog/changelog/2026-10-12-push-attribution-public-preview) — 开发工具帮助 GitHub 用户追踪提交者身份。（门槛: 低）
 - **[评分: 7/10]** [Show HN: Cenntre – a creator-first platform for publishing and monetization](https://www.cenntre.com) — 为内容创作者提供发布和盈利平台，解决内容发布和盈利难题。（门槛: 低）
-- **[评分: 7/10]** [用 Codex Vibe Coding 做了个非托管 USDT/USDC 收款工具，欢迎试用](https://www.v2ex.com/t/1248204) — 提供非托管加密货币收款工具，解决跨境电商收款难题。（门槛: 低）
 
 ### 🏷️ ⚡ 非对称套利与增长黑客
 - **[评分: 8/10]** [注册了一个美国公司，可以提供 Claude Code 团队订阅席位。](https://www.v2ex.com/t/1247029) — 美国公司主体代持 Claude 团队席位，按月转售给国内开发者（门槛: 中）
@@ -99,13 +104,6 @@
 ### 🏷️ B2B 高客单数据抓取与精准名单
 - **[评分: 8/10]** [I scraped billions of TikTok videos and profiles by reverse engineering the mobile API. Here's how it works + source code](https://www.reddit.com/r/SaaS/comments/1wxoasb/i_scraped_billions_of_tiktok_videos_and_profiles/) — 逆向 TikTok 接口，把爆款趋势与达人名单做成付费数据 API（门槛: 高）
 - **[评分: 8/10]** [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) — 零 API 费抓取社媒，一键交付海外精准潜客名单（门槛: 中）
-
-### 🏷️ 视频与动效代交付
-- **[评分: 7/10]** [用 Claude Opus 5.5 做了个动效视频工具，哪里不满意只改哪里，不用整条重新生成](https://www.v2ex.com/t/1248246) — AI 动效视频工具，快速修改，提高视频制作效率。（门槛: 低）
-- **[评分: 7/10]** [Show HN: Tellcut – motion videos written as code by Claude, edited by chat](https://tellcut.app/studio) — 通过代码和聊天工具快速制作动效视频，满足初创企业需求（门槛: 低）
-
-### 🏷️ 7. 非对称套利与增长黑客
-- **[评分: 7/10]** [Show HN: Vigil – Open-source AI pentesting and code audits](https://github.com/VigilOSS/Vigil) — 利用开源AI工具满足网络安全团队的渗透测试和代码审计需求。（门槛: 中）
 
 
 ---
