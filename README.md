@@ -59,27 +59,32 @@
 - **[评分: 8/10]** [I run multiple $10K MRR companies on a $20/month tech stack](https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack) — $20 月成本跑出 $10K MRR 的极简技术栈拆解变现（门槛: 中）
 - **[评分: 8/10]** [My solopreneur story](https://news.tonydinh.com/p/my-solopreneur-story-zero-to-45kmo) — 单人从 0 到月入 4.5 万美元的可复制变现路径拆解（门槛: 中）
 - **[评分: 8/10]** [Show HN: After 2.5 years on my side project, it has hit £500/month revenue](https://news.ycombinator.com/item?id=25372464) — 音频私密分享SaaS，替代Bandcamp/SoundCloud的细分付费工具（门槛: 中）
+- **[评分: 7/10]** [Xiryn](https://www.producthunt.com/products/xiryn) — 提供个人电脑上的开源个人代理，满足自动化工作流程需求。（门槛: 中）
+- **[评分: 7/10]** [OpenWhispr for iOS](https://www.producthunt.com/products/openwispr-open-source-ai-speech-to-text) — 为 iOS 应用开发者提供设备端语音到文本转录工具。（门槛: 低）
+- **[评分: 7/10]** [Upsolve Row-Level Security](https://www.producthunt.com/products/upsolve-ai) — 为企业提供AI代理数据权限控制解决方案。（门槛: 中）
+- **[评分: 7/10]** [CLI Manager](https://www.producthunt.com/products/cli-manager) — 自动化 CLI 管理工具，提升开发者工作效率。（门槛: 低）
+- **[评分: 7/10]** [What size PSU does your build need? 206-part catalog, 1.4x headroom math, 0 uploads, runs in your browser :)](https://www.reddit.com/r/SideProject/comments/1x4q84x/what_size_psu_does_your_build_need_206part/) — 为硬件构建者提供精确的PSU计算工具。（门槛: 低）
+- **[评分: 7/10]** [I wanted to rethink how we travel, so I built ROVIN - a travel app for planning, discovering, and connecting.](https://www.reddit.com/r/SideProject/comments/1x4q9do/i_wanted_to_rethink_how_we_travel_so_i_built/) — 为旅行者提供一站式旅行规划和社交平台。（门槛: 低）
+- **[评分: 7/10]** [Solo dev, small niche SaaS: mileage logging that mostly happens without the user](https://www.reddit.com/r/SaaS/comments/1x4ovn3/solo_dev_small_niche_saas_mileage_logging_that/) — 无需安装应用，自动记录里程，简化税务流程。（门槛: 低）
 - **[评分: 7/10]** [Show HN: Pluto – open-source second-brain for work](https://github.com/metagrover/pluto) — 利用AI自动构建工作记忆和跟进工具，提高工作效率。（门槛: 中）
 - **[评分: 7/10]** [Show HN: Planning software for startup teams](https://weeklywe.com) — 为初创团队提供专注于规划的工具。（门槛: 低）
-- **[评分: 7/10]** [[RedTeamRFP] - Adversarial audit that red-teams your RFP response before you submit](https://www.reddit.com/r/SideProject/comments/1x4iqnb/redteamrfp_adversarial_audit_that_redteams_your/) — 为联邦合同承包商提供提案合规性检查工具，避免技术错误。（门槛: 低）
-- **[评分: 7/10]** [Show HN: PickyCal – Filter upcoming and future events into your calendar](https://pickycal.com/) — 为用户提供定制化日历事件筛选工具。（门槛: 低）
-- **[评分: 7/10]** [AI中转站求推荐](https://www.nodeseek.com/post-979670-1) — 为AI中转站用户推荐解决方案，解决工具缺口。（门槛: 低）
-- **[评分: 7/10]** [Show HN: Vibecheck – merge gate that checks you understand your AI-written code](https://github.com/bhurghundii/vibecheck.dev) — 通过AI检查开发者对AI编写代码的理解程度，解决团队协作中的代码理解问题。（门槛: 低）
+
+### 🏷️ 视频与动效代交付
+- **[评分: 7/10]** [Remocn Studio](https://www.producthunt.com/products/remocn-studio) — 为初创企业提供无需After Effects的演示动效制作工具。（门槛: 低）
+- **[评分: 7/10]** [The Drive AI](https://www.producthunt.com/products/the-drive-ai-2) — 利用AI自动化处理文件，提升工作效率。（门槛: 低）
+- **[评分: 7/10]** [Takes for Mac](https://www.producthunt.com/products/takes-for-mac) — 提供高效的视频编辑工具，满足视频制作人员的需求。（门槛: 低）
+- **[评分: 7/10]** [Loom wouldn't let me download my own video without paying, so I built my own (free, open source)](https://www.reddit.com/r/SideProject/comments/1x4q7ia/loom_wouldnt_let_me_download_my_own_video_without/) — 为视频制作人员提供无限制下载功能的视频录制工具。（门槛: 低）
+- **[评分: 7/10]** [Show HN: Search for AI agents with usefulness score built in](https://github.com/Ayobamiu/usefulness-search) — 为 AI-agents 提供更精准和及时的信息搜索工具。（门槛: 中）
+- **[评分: 7/10]** [Show HN: Malleable video editor that adapts to your workflow](https://github.com/iterative-computer/powermove) — AI赋能的视频编辑工具，满足个性化需求。（门槛: 低）
+- **[评分: 7/10]** [📣 #发现频道 被 80 个标签页逼疯后，我做了三款纯本地的 Edge](https://meta.appinn.net/t/topic/93428) — 开发本地运行的Edge浏览器插件，解决多标签页管理和数据提取问题。（门槛: 低）
 
 ### 🏷️ 跨境电商与出海独立站工具
 - **[评分: 8/10]** [Show HN: Proofsource. Find where AI leaves you out. And Fix it](https://proofsource.co/) — 利用AI分析AI引擎，帮助品牌提升在线可见性。（门槛: 中）
 - **[评分: 8/10]** [Bootstrapping to €600k MRR and getting killed by Shopify: Checkout X](https://www.leteyski.com/bootstrapping-to-600k-mrr-and-getting-killed-by-shopify-the-story-of-checkout-x) — 独立站结账优化插件，€600k MRR 验证刚需（门槛: 高）
+- **[评分: 7/10]** [PostNitro for Agents](https://www.producthunt.com/products/postnitro) — 利用AI自动化社交媒体内容设计，解决跨境电商团队内容发布难题。（门槛: 低）
+- **[评分: 7/10]** [MentionBird is now live on Product Hunt! 🚀](https://www.reddit.com/r/SideProject/comments/1x4qb2h/mentionbird_is_now_live_on_product_hunt/) — 提升品牌在AI搜索平台的可见性（门槛: 低）
 - **[评分: 7/10]** [Show HN: NameDaemon, free .com domain tools built on the daily zone file](https://namedaemon.com/) — 提供免费域名工具，解决域名注册商日常操作痛点。（门槛: 低）
 - **[评分: 7/10]** [[codex 插件分享] 让 codex 更快、更省 token 的理解项目](https://www.v2ex.com/t/1248285) — 为智能编码工具提供项目代码管理插件，减少token浪费。（门槛: 低）
-- **[评分: 7/10]** [做了个域名综合检测功能，输入域名一键诊断并给出评分，来试试你的网站能得多少分](https://www.nodeseek.com/post-979830-1) — 提供一键网站综合检测工具，帮助网站所有者提升网站安全性和可用性。（门槛: 低）
-- **[评分: 7/10]** [I built 12 free browser tools for app developers (icons, screenshots, privacy policy…). Nothing gets uploaded](https://www.reddit.com/r/SideProject/comments/1x4i10u/i_built_12_free_browser_tools_for_app_developers/) — 为 App 开发者提供一站式应用商店上架工具。（门槛: 低）
-- **[评分: 7/10]** [hidane - a Firestore emulator without Java, tested against the official one](https://www.reddit.com/r/SideProject/comments/1x4jp00/hidane_a_firestore_emulator_without_java_tested/) — 提供更高效、轻量级的 Firestore 模拟器，解决测试效率问题。（门槛: 低）
-
-### 🏷️ 视频与动效代交付
-- **[评分: 7/10]** [Show HN: Search for AI agents with usefulness score built in](https://github.com/Ayobamiu/usefulness-search) — 为 AI-agents 提供更精准和及时的信息搜索工具。（门槛: 中）
-- **[评分: 7/10]** [Show HN: Malleable video editor that adapts to your workflow](https://github.com/iterative-computer/powermove) — AI赋能的视频编辑工具，满足个性化需求。（门槛: 低）
-- **[评分: 7/10]** [📣 #发现频道 被 80 个标签页逼疯后，我做了三款纯本地的 Edge](https://meta.appinn.net/t/topic/93428) — 开发本地运行的Edge浏览器插件，解决多标签页管理和数据提取问题。（门槛: 低）
-- **[评分: 7/10]** [Show HN: Skyloons pop the Balloons – Android arcade game built with Reactnative](https://play.google.com/store/apps/details?id=com.maniar.balloonpopquest&hl=en_US) — 利用 Reactnative 开发 Android 游戏实现快速变现（门槛: 低）
 
 ### 🏷️ 极窄场景的 Micro-AI 插件
 - **[评分: 8/10]** [Show HN: Halo – A Personal AI with On-Device Harness, Memory and Browser Agent](https://apps.apple.com/us/app/halo-personal-ai/id6783715054) — 端侧隐私 AI 助手，$49 终身买断，数据不出手机（门槛: 中）
@@ -87,14 +92,9 @@
 - **[评分: 8/10]** [Communicate](https://www.producthunt.com/products/communicate) — 垂直行业AI客服代理，知识库+人工接管月费变现（门槛: 中）
 
 ### 🏷️ 七大高溢价赛道之一
+- **[评分: 7/10]** [我测试出 Jev 的一个实用方向：给 AI Agent 做事实质检，进一步用在 RAG 核查](https://www.v2ex.com/t/1248392) — 利用AI进行事实核查，提高数据准确性。（门槛: 低）
+- **[评分: 7/10]** [OpenCode 2.0](https://www.producthunt.com/products/opencode) — 开源AI编码代理，提升开发者编程效率。（门槛: 中）
 - **[评分: 7/10]** [分享一个 Gemini 3.8 一天免费 Token 开发的 3D 编辑器](https://www.v2ex.com/t/1248352) — 利用 Gemini 免费额度开发 3D 编辑器，吸引付费用户（门槛: 低）
-- **[评分: 7/10]** [拨雾 FogAway —— 会回放的足迹日记｜送码](https://www.v2ex.com/t/1248281) — iPhone 用户付费的足迹日记应用。（门槛: 低）
-- **[评分: 7/10]** [claude 桌面端根据任务难度拆分发送任务给 codex 执行，并且完成后审核](https://www.v2ex.com/t/1248291) — 为开发者提供 Codex 和 Claude 桌面端之间的任务协作工具。（门槛: 低）
-
-### 🏷️ 非对称套利与窗口漏洞
-- **[评分: 7/10]** [saily现在可以注册实体卡了，刚弄了一个查了显示cell Phone](https://www.nodeseek.com/post-979675-1) — 利用saily平台注册实体卡，通过GCP优惠码降低成本进行套利。（门槛: 低）
-- **[评分: 7/10]** [好爽，最近 codex sol 超长上下文价格减半，我直接开五路 512k 上下文，全程不需要压缩，看着项目各个模块以不可思议的速度完成，最后 claude 润色收尾](https://www.nodeseek.com/post-979661-1) — 利用 Codex Sol 价格窗口，通过增加处理能力加速项目开发，实现个人效率提升和成本节约。（门槛: 低）
-- **[评分: 7/10]** [最近emby出了个大漏洞](https://www.nodeseek.com/post-979666-1) — 提供针对emby服务器安全漏洞的解决方案，如安全插件或防护服务。（门槛: 低）
 
 ### 🏷️ ⚡ 非对称套利与增长黑客
 - **[评分: 8/10]** [注册了一个美国公司，可以提供 Claude Code 团队订阅席位。](https://www.v2ex.com/t/1247029) — 美国公司主体代持 Claude 团队席位，按月转售给国内开发者（门槛: 中）
