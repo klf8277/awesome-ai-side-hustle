@@ -73,7 +73,6 @@
 - **[评分: 7/10]** [做了个域名综合检测功能，输入域名一键诊断并给出评分，来试试你的网站能得多少分](https://www.nodeseek.com/post-979830-1) — 提供一键网站综合检测工具，帮助网站所有者提升网站安全性和可用性。（门槛: 低）
 - **[评分: 7/10]** [I built 12 free browser tools for app developers (icons, screenshots, privacy policy…). Nothing gets uploaded](https://www.reddit.com/r/SideProject/comments/1x4i10u/i_built_12_free_browser_tools_for_app_developers/) — 为 App 开发者提供一站式应用商店上架工具。（门槛: 低）
 - **[评分: 7/10]** [hidane - a Firestore emulator without Java, tested against the official one](https://www.reddit.com/r/SideProject/comments/1x4jp00/hidane_a_firestore_emulator_without_java_tested/) — 提供更高效、轻量级的 Firestore 模拟器，解决测试效率问题。（门槛: 低）
-- **[评分: 7/10]** [DuperMail brings Gmail's keyboard shortcuts (and more) to Apple Mail](https://www.reddit.com/r/SideProject/comments/1x4cjm9/dupermail_brings_gmails_keyboard_shortcuts_and/) — 为 Apple Mail 用户提供 Gmail 风格的快捷键，提升邮件处理效率。（门槛: 低）
 
 ### 🏷️ 视频与动效代交付
 - **[评分: 7/10]** [Show HN: Search for AI agents with usefulness score built in](https://github.com/Ayobamiu/usefulness-search) — 为 AI-agents 提供更精准和及时的信息搜索工具。（门槛: 中）
@@ -87,6 +86,11 @@
 - **[评分: 8/10]** [Famulor](https://www.producthunt.com/products/famulor-telephony-ai) — 给本地商家搭AI电话+WhatsApp跟进客服，按月收费（门槛: 中）
 - **[评分: 8/10]** [Communicate](https://www.producthunt.com/products/communicate) — 垂直行业AI客服代理，知识库+人工接管月费变现（门槛: 中）
 
+### 🏷️ 七大高溢价赛道之一
+- **[评分: 7/10]** [分享一个 Gemini 3.8 一天免费 Token 开发的 3D 编辑器](https://www.v2ex.com/t/1248352) — 利用 Gemini 免费额度开发 3D 编辑器，吸引付费用户（门槛: 低）
+- **[评分: 7/10]** [拨雾 FogAway —— 会回放的足迹日记｜送码](https://www.v2ex.com/t/1248281) — iPhone 用户付费的足迹日记应用。（门槛: 低）
+- **[评分: 7/10]** [claude 桌面端根据任务难度拆分发送任务给 codex 执行，并且完成后审核](https://www.v2ex.com/t/1248291) — 为开发者提供 Codex 和 Claude 桌面端之间的任务协作工具。（门槛: 低）
+
 ### 🏷️ 非对称套利与窗口漏洞
 - **[评分: 7/10]** [saily现在可以注册实体卡了，刚弄了一个查了显示cell Phone](https://www.nodeseek.com/post-979675-1) — 利用saily平台注册实体卡，通过GCP优惠码降低成本进行套利。（门槛: 低）
 - **[评分: 7/10]** [好爽，最近 codex sol 超长上下文价格减半，我直接开五路 512k 上下文，全程不需要压缩，看着项目各个模块以不可思议的速度完成，最后 claude 润色收尾](https://www.nodeseek.com/post-979661-1) — 利用 Codex Sol 价格窗口，通过增加处理能力加速项目开发，实现个人效率提升和成本节约。（门槛: 低）
@@ -99,10 +103,6 @@
 ### 🏷️ B2B 高客单数据抓取与精准名单
 - **[评分: 8/10]** [I scraped billions of TikTok videos and profiles by reverse engineering the mobile API. Here's how it works + source code](https://www.reddit.com/r/SaaS/comments/1wxoasb/i_scraped_billions_of_tiktok_videos_and_profiles/) — 逆向 TikTok 接口，把爆款趋势与达人名单做成付费数据 API（门槛: 高）
 - **[评分: 8/10]** [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) — 零 API 费抓取社媒，一键交付海外精准潜客名单（门槛: 中）
-
-### 🏷️ 七大高溢价赛道之一
-- **[评分: 7/10]** [拨雾 FogAway —— 会回放的足迹日记｜送码](https://www.v2ex.com/t/1248281) — iPhone 用户付费的足迹日记应用。（门槛: 低）
-- **[评分: 7/10]** [claude 桌面端根据任务难度拆分发送任务给 codex 执行，并且完成后审核](https://www.v2ex.com/t/1248291) — 为开发者提供 Codex 和 Claude 桌面端之间的任务协作工具。（门槛: 低）
 
 
 ---
