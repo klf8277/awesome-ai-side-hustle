@@ -36,6 +36,7 @@
 
 | 评分 | 标杆项目 / 原型 | 赛道 | 门槛 | 商业研判与一句话逻辑 | 原始链接 | 完整研报 |
 |---|---|---|---|---|---|---|
+| **⭐️ 8/10** | **Show HN: Proofsource. Find where AI leaves you out. And Fix it** | `跨境电商与出海独立站工具` | 中 | 利用AI分析AI引擎，帮助品牌提升在线可见性。 | [🔗 来源](https://proofsource.co/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 8/10** | **注册了一个美国公司，可以提供 Claude Code 团队订阅席位。** | `⚡ 非对称套利与增长黑客` | 中 | 美国公司主体代持 Claude 团队席位，按月转售给国内开发者 | [🔗 来源](https://www.v2ex.com/t/1247029) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 8/10** | **🦙 Claude AI 创业公司计划 — 12个月 Pro Team + $1,000 API Credits** | `⚡ 非对称套利与增长黑客` | 低 | 白嫖Claude官方12个月会员+千刀API额度，最高撬10万 | [🔗 来源](https://www.nodeseek.com/post-969760-1) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 8/10** | **How we reached $6250 monthly recurring revenue in 77 days from launch** | `垂直数字资产与全自动工作流模板` | 中 | 帮团队把help@、jobs@等公共邮箱变成共享收件箱，按月订阅收费 | [🔗 来源](https://news.ycombinator.com/item?id=22364941) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
@@ -45,7 +46,6 @@
 | **⭐️ 8/10** | **6 months in and $1k MRR: my biggest mistakes so far** | `垂直数字资产与全自动工作流模板` | 中 | 个人财务SaaS半年做到$1k MRR的复盘 | [🔗 来源](https://lunchbag.ca/lunch-money-mistakes/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 8/10** | **My 2 Year Journey to $10K MRR** | `垂直数字资产与全自动工作流模板` | 中 | API化图片视频自动生成工具，2年做到$10K MRR | [🔗 来源](https://www.bannerbear.com/journey-to-10k-mrr/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 8/10** | **I run multiple $10K MRR companies on a $20/month tech stack** | `垂直数字资产与全自动工作流模板` | 中 | $20 月成本跑出 $10K MRR 的极简技术栈拆解变现 | [🔗 来源](https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
-| **⭐️ 8/10** | **My solopreneur story** | `垂直数字资产与全自动工作流模板` | 中 | 单人从 0 到月入 4.5 万美元的可复制变现路径拆解 | [🔗 来源](https://news.tonydinh.com/p/my-solopreneur-story-zero-to-45kmo) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 
 ---
 
@@ -59,16 +59,17 @@
 - **[评分: 8/10]** [I run multiple $10K MRR companies on a $20/month tech stack](https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack) — $20 月成本跑出 $10K MRR 的极简技术栈拆解变现（门槛: 中）
 - **[评分: 8/10]** [My solopreneur story](https://news.tonydinh.com/p/my-solopreneur-story-zero-to-45kmo) — 单人从 0 到月入 4.5 万美元的可复制变现路径拆解（门槛: 中）
 - **[评分: 8/10]** [Show HN: After 2.5 years on my side project, it has hit £500/month revenue](https://news.ycombinator.com/item?id=25372464) — 音频私密分享SaaS，替代Bandcamp/SoundCloud的细分付费工具（门槛: 中）
+- **[评分: 7/10]** [Show HN: Pluto – open-source second-brain for work](https://github.com/metagrover/pluto) — 利用AI自动构建工作记忆和跟进工具，提高工作效率。（门槛: 中）
 - **[评分: 7/10]** [Show HN: Planning software for startup teams](https://weeklywe.com) — 为初创团队提供专注于规划的工具。（门槛: 低）
 - **[评分: 7/10]** [[RedTeamRFP] - Adversarial audit that red-teams your RFP response before you submit](https://www.reddit.com/r/SideProject/comments/1x4iqnb/redteamrfp_adversarial_audit_that_redteams_your/) — 为联邦合同承包商提供提案合规性检查工具，避免技术错误。（门槛: 低）
 - **[评分: 7/10]** [Show HN: PickyCal – Filter upcoming and future events into your calendar](https://pickycal.com/) — 为用户提供定制化日历事件筛选工具。（门槛: 低）
 - **[评分: 7/10]** [AI中转站求推荐](https://www.nodeseek.com/post-979670-1) — 为AI中转站用户推荐解决方案，解决工具缺口。（门槛: 低）
 - **[评分: 7/10]** [Show HN: Vibecheck – merge gate that checks you understand your AI-written code](https://github.com/bhurghundii/vibecheck.dev) — 通过AI检查开发者对AI编写代码的理解程度，解决团队协作中的代码理解问题。（门槛: 低）
-- **[评分: 7/10]** [I'm building an open-source AI marketing platform](https://www.reddit.com/r/SaaS/comments/1x4d2dy/im_building_an_opensource_ai_marketing_platform/) — 开源AI营销平台，帮助企业发现市场增长机会。（门槛: 低）
-- **[评分: 7/10]** [I built a tool to take public-sector opportunities from the first signal to a proposal](https://www.reddit.com/r/SaaS/comments/1x4ec7r/i_built_a_tool_to_take_publicsector_opportunities/) — 帮助企业从招标信号到提案准备的一站式工具。（门槛: 中）
 
 ### 🏷️ 跨境电商与出海独立站工具
+- **[评分: 8/10]** [Show HN: Proofsource. Find where AI leaves you out. And Fix it](https://proofsource.co/) — 利用AI分析AI引擎，帮助品牌提升在线可见性。（门槛: 中）
 - **[评分: 8/10]** [Bootstrapping to €600k MRR and getting killed by Shopify: Checkout X](https://www.leteyski.com/bootstrapping-to-600k-mrr-and-getting-killed-by-shopify-the-story-of-checkout-x) — 独立站结账优化插件，€600k MRR 验证刚需（门槛: 高）
+- **[评分: 7/10]** [Show HN: NameDaemon, free .com domain tools built on the daily zone file](https://namedaemon.com/) — 提供免费域名工具，解决域名注册商日常操作痛点。（门槛: 低）
 - **[评分: 7/10]** [[codex 插件分享] 让 codex 更快、更省 token 的理解项目](https://www.v2ex.com/t/1248285) — 为智能编码工具提供项目代码管理插件，减少token浪费。（门槛: 低）
 - **[评分: 7/10]** [做了个域名综合检测功能，输入域名一键诊断并给出评分，来试试你的网站能得多少分](https://www.nodeseek.com/post-979830-1) — 提供一键网站综合检测工具，帮助网站所有者提升网站安全性和可用性。（门槛: 低）
 - **[评分: 7/10]** [I built 12 free browser tools for app developers (icons, screenshots, privacy policy…). Nothing gets uploaded](https://www.reddit.com/r/SideProject/comments/1x4i10u/i_built_12_free_browser_tools_for_app_developers/) — 为 App 开发者提供一站式应用商店上架工具。（门槛: 低）
@@ -79,7 +80,6 @@
 - **[评分: 7/10]** [Show HN: Malleable video editor that adapts to your workflow](https://github.com/iterative-computer/powermove) — AI赋能的视频编辑工具，满足个性化需求。（门槛: 低）
 - **[评分: 7/10]** [📣 #发现频道 被 80 个标签页逼疯后，我做了三款纯本地的 Edge](https://meta.appinn.net/t/topic/93428) — 开发本地运行的Edge浏览器插件，解决多标签页管理和数据提取问题。（门槛: 低）
 - **[评分: 7/10]** [Show HN: Skyloons pop the Balloons – Android arcade game built with Reactnative](https://play.google.com/store/apps/details?id=com.maniar.balloonpopquest&hl=en_US) — 利用 Reactnative 开发 Android 游戏实现快速变现（门槛: 低）
-- **[评分: 7/10]** [got tired of tool websites hitting you with paywalls and "sign up to download", so I built a 100% free, private alternative (Kitfyre)](https://www.reddit.com/r/SideProject/comments/1x4cahl/got_tired_of_tool_websites_hitting_you_with/) — 提供无需注册和上传敏感文件的在线工具，解决免费工具网站的痛点。（门槛: 低）
 
 ### 🏷️ 极窄场景的 Micro-AI 插件
 - **[评分: 8/10]** [Show HN: Halo – A Personal AI with On-Device Harness, Memory and Browser Agent](https://apps.apple.com/us/app/halo-personal-ai/id6783715054) — 端侧隐私 AI 助手，$49 终身买断，数据不出手机（门槛: 中）
