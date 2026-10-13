@@ -59,6 +59,9 @@
 - **[评分: 8/10]** [I run multiple $10K MRR companies on a $20/month tech stack](https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack) — $20 月成本跑出 $10K MRR 的极简技术栈拆解变现（门槛: 中）
 - **[评分: 8/10]** [My solopreneur story](https://news.tonydinh.com/p/my-solopreneur-story-zero-to-45kmo) — 单人从 0 到月入 4.5 万美元的可复制变现路径拆解（门槛: 中）
 - **[评分: 8/10]** [Show HN: After 2.5 years on my side project, it has hit £500/month revenue](https://news.ycombinator.com/item?id=25372464) — 音频私密分享SaaS，替代Bandcamp/SoundCloud的细分付费工具（门槛: 中）
+- **[评分: 7/10]** [NanaAI 网站更新了](https://www.v2ex.com/t/1248473) — 利用AI打造个性化图像网站，解决用户特定需求。（门槛: 低）
+- **[评分: 7/10]** [Show HN: shadowclone, skills learned from your coding agent corrections](https://github.com/theonly1me/shadowclone) — 为多工具和多模型开发者提供自动化技能迁移工具。（门槛: 低）
+- **[评分: 7/10]** [I built an open-source alternative to LM Studio and Ollama. It's now public, and I'd love to build it with others](https://www.reddit.com/r/SideProject/comments/1x4r9mo/i_built_an_opensource_alternative_to_lm_studio/) — 为开发者提供一站式AI模型管理工具。（门槛: 低）
 - **[评分: 7/10]** [Show HN: Seekter – an open-source job-search agent that runs in Claude Code](https://github.com/selfishprimate/seekter) — 为招聘团队提供基于AI的职位搜索代理工具。（门槛: 低）
 - **[评分: 7/10]** [Xiryn](https://www.producthunt.com/products/xiryn) — 提供个人电脑上的开源个人代理，满足自动化工作流程需求。（门槛: 中）
 - **[评分: 7/10]** [OpenWhispr for iOS](https://www.producthunt.com/products/openwispr-open-source-ai-speech-to-text) — 为 iOS 应用开发者提供设备端语音到文本转录工具。（门槛: 低）
@@ -67,28 +70,25 @@
 - **[评分: 7/10]** [What size PSU does your build need? 206-part catalog, 1.4x headroom math, 0 uploads, runs in your browser :)](https://www.reddit.com/r/SideProject/comments/1x4q84x/what_size_psu_does_your_build_need_206part/) — 为硬件构建者提供精确的PSU计算工具。（门槛: 低）
 - **[评分: 7/10]** [I wanted to rethink how we travel, so I built ROVIN - a travel app for planning, discovering, and connecting.](https://www.reddit.com/r/SideProject/comments/1x4q9do/i_wanted_to_rethink_how_we_travel_so_i_built/) — 为旅行者提供一站式旅行规划和社交平台。（门槛: 低）
 - **[评分: 7/10]** [Solo dev, small niche SaaS: mileage logging that mostly happens without the user](https://www.reddit.com/r/SaaS/comments/1x4ovn3/solo_dev_small_niche_saas_mileage_logging_that/) — 无需安装应用，自动记录里程，简化税务流程。（门槛: 低）
-- **[评分: 7/10]** [Show HN: Pluto – open-source second-brain for work](https://github.com/metagrover/pluto) — 利用AI自动构建工作记忆和跟进工具，提高工作效率。（门槛: 中）
+
+### 🏷️ 视频与动效代交付
+- **[评分: 7/10]** [Show HN: Ret – An inbox and canvas for your Codex and Claude Code agents](https://getret.app/) — 为开发者提供便捷的AI代理管理工具。（门槛: 低）
+- **[评分: 7/10]** [Built a Jean Phil AI (jeanphilai.cc): 1 selfie → blond bowl cut + curled moustache deadpan short (Oui Madame.)](https://www.v2ex.com/t/1248408) — 利用 AI 制作 Jean Phil 风格视频，满足粉丝和创作者的需求。（门槛: 低）
+- **[评分: 7/10]** [Remocn Studio](https://www.producthunt.com/products/remocn-studio) — 为初创企业提供无需After Effects的演示动效制作工具。（门槛: 低）
+- **[评分: 7/10]** [The Drive AI](https://www.producthunt.com/products/the-drive-ai-2) — 利用AI自动化处理文件，提升工作效率。（门槛: 低）
+- **[评分: 7/10]** [Takes for Mac](https://www.producthunt.com/products/takes-for-mac) — 提供高效的视频编辑工具，满足视频制作人员的需求。（门槛: 低）
 
 ### 🏷️ 跨境电商与出海独立站工具
 - **[评分: 8/10]** [Show HN: Proofsource. Find where AI leaves you out. And Fix it](https://proofsource.co/) — 利用AI分析AI引擎，帮助品牌提升在线可见性。（门槛: 中）
 - **[评分: 8/10]** [Bootstrapping to €600k MRR and getting killed by Shopify: Checkout X](https://www.leteyski.com/bootstrapping-to-600k-mrr-and-getting-killed-by-shopify-the-story-of-checkout-x) — 独立站结账优化插件，€600k MRR 验证刚需（门槛: 高）
 - **[评分: 7/10]** [PostNitro for Agents](https://www.producthunt.com/products/postnitro) — 利用AI自动化社交媒体内容设计，解决跨境电商团队内容发布难题。（门槛: 低）
 - **[评分: 7/10]** [MentionBird is now live on Product Hunt! 🚀](https://www.reddit.com/r/SideProject/comments/1x4qb2h/mentionbird_is_now_live_on_product_hunt/) — 提升品牌在AI搜索平台的可见性（门槛: 低）
-- **[评分: 7/10]** [Show HN: NameDaemon, free .com domain tools built on the daily zone file](https://namedaemon.com/) — 提供免费域名工具，解决域名注册商日常操作痛点。（门槛: 低）
 
 ### 🏷️ 七大高溢价赛道之一
 - **[评分: 7/10]** [thefuckplus 命令错误纠正插件](https://www.v2ex.com/t/1248446) — 利用AI技术提升命令行错误纠正工具的准确性和智能化。（门槛: 低）
 - **[评分: 7/10]** [Show HN: A skill to make Claude Code use Reference Points](https://github.com/SamHasler/skills/blob/main/plugins/reference-points/skills/reference-points/README.md) — 为 AI 开发者提供 Claude Code 的参考点技能插件，提升代码性能。（门槛: 低）
 - **[评分: 7/10]** [我测试出 Jev 的一个实用方向：给 AI Agent 做事实质检，进一步用在 RAG 核查](https://www.v2ex.com/t/1248392) — 利用AI进行事实核查，提高数据准确性。（门槛: 低）
 - **[评分: 7/10]** [OpenCode 2.0](https://www.producthunt.com/products/opencode) — 开源AI编码代理，提升开发者编程效率。（门槛: 中）
-- **[评分: 7/10]** [分享一个 Gemini 3.8 一天免费 Token 开发的 3D 编辑器](https://www.v2ex.com/t/1248352) — 利用 Gemini 免费额度开发 3D 编辑器，吸引付费用户（门槛: 低）
-
-### 🏷️ 视频与动效代交付
-- **[评分: 7/10]** [Built a Jean Phil AI (jeanphilai.cc): 1 selfie → blond bowl cut + curled moustache deadpan short (Oui Madame.)](https://www.v2ex.com/t/1248408) — 利用 AI 制作 Jean Phil 风格视频，满足粉丝和创作者的需求。（门槛: 低）
-- **[评分: 7/10]** [Remocn Studio](https://www.producthunt.com/products/remocn-studio) — 为初创企业提供无需After Effects的演示动效制作工具。（门槛: 低）
-- **[评分: 7/10]** [The Drive AI](https://www.producthunt.com/products/the-drive-ai-2) — 利用AI自动化处理文件，提升工作效率。（门槛: 低）
-- **[评分: 7/10]** [Takes for Mac](https://www.producthunt.com/products/takes-for-mac) — 提供高效的视频编辑工具，满足视频制作人员的需求。（门槛: 低）
-- **[评分: 7/10]** [Loom wouldn't let me download my own video without paying, so I built my own (free, open source)](https://www.reddit.com/r/SideProject/comments/1x4q7ia/loom_wouldnt_let_me_download_my_own_video_without/) — 为视频制作人员提供无限制下载功能的视频录制工具。（门槛: 低）
 
 ### 🏷️ 极窄场景的 Micro-AI 插件
 - **[评分: 8/10]** [Show HN: Halo – A Personal AI with On-Device Harness, Memory and Browser Agent](https://apps.apple.com/us/app/halo-personal-ai/id6783715054) — 端侧隐私 AI 助手，$49 终身买断，数据不出手机（门槛: 中）
