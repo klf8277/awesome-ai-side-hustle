@@ -59,6 +59,8 @@
 - **[评分: 8/10]** [I run multiple $10K MRR companies on a $20/month tech stack](https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack) — $20 月成本跑出 $10K MRR 的极简技术栈拆解变现（门槛: 中）
 - **[评分: 8/10]** [My solopreneur story](https://news.tonydinh.com/p/my-solopreneur-story-zero-to-45kmo) — 单人从 0 到月入 4.5 万美元的可复制变现路径拆解（门槛: 中）
 - **[评分: 8/10]** [Show HN: After 2.5 years on my side project, it has hit £500/month revenue](https://news.ycombinator.com/item?id=25372464) — 音频私密分享SaaS，替代Bandcamp/SoundCloud的细分付费工具（门槛: 中）
+- **[评分: 7/10]** [Show HN: Oxynote – Self-hosted wiki with live Prometheus/SQL charts and reviews](https://github.com/oxynote/oxynote) — 为企业内部团队提供集成的自托管知识库和实时监控解决方案。（门槛: 中）
+- **[评分: 7/10]** [Show HN: Deep Recall – portable memory you own for Claude, ChatGPT and agents](https://getdeeprecall.com/) — 为人工智能模型用户提供可携带的记忆解决方案。（门槛: 中）
 - **[评分: 7/10]** [NanaAI 网站更新了](https://www.v2ex.com/t/1248473) — 利用AI打造个性化图像网站，解决用户特定需求。（门槛: 低）
 - **[评分: 7/10]** [Show HN: shadowclone, skills learned from your coding agent corrections](https://github.com/theonly1me/shadowclone) — 为多工具和多模型开发者提供自动化技能迁移工具。（门槛: 低）
 - **[评分: 7/10]** [I built an open-source alternative to LM Studio and Ollama. It's now public, and I'd love to build it with others](https://www.reddit.com/r/SideProject/comments/1x4r9mo/i_built_an_opensource_alternative_to_lm_studio/) — 为开发者提供一站式AI模型管理工具。（门槛: 低）
@@ -66,7 +68,6 @@
 - **[评分: 7/10]** [Xiryn](https://www.producthunt.com/products/xiryn) — 提供个人电脑上的开源个人代理，满足自动化工作流程需求。（门槛: 中）
 - **[评分: 7/10]** [OpenWhispr for iOS](https://www.producthunt.com/products/openwispr-open-source-ai-speech-to-text) — 为 iOS 应用开发者提供设备端语音到文本转录工具。（门槛: 低）
 - **[评分: 7/10]** [Upsolve Row-Level Security](https://www.producthunt.com/products/upsolve-ai) — 为企业提供AI代理数据权限控制解决方案。（门槛: 中）
-- **[评分: 7/10]** [CLI Manager](https://www.producthunt.com/products/cli-manager) — 自动化 CLI 管理工具，提升开发者工作效率。（门槛: 低）
 
 ### 🏷️ 视频与动效代交付
 - **[评分: 7/10]** [Show HN: Autograph – a music notation editor you can drive with Claude over MCP](https://autographmusic.com) — 为音乐家提供基于AI的音乐创作编辑工具。（门槛: 中）
@@ -75,13 +76,13 @@
 - **[评分: 7/10]** [Built a Jean Phil AI (jeanphilai.cc): 1 selfie → blond bowl cut + curled moustache deadpan short (Oui Madame.)](https://www.v2ex.com/t/1248408) — 利用 AI 制作 Jean Phil 风格视频，满足粉丝和创作者的需求。（门槛: 低）
 - **[评分: 7/10]** [Remocn Studio](https://www.producthunt.com/products/remocn-studio) — 为初创企业提供无需After Effects的演示动效制作工具。（门槛: 低）
 - **[评分: 7/10]** [The Drive AI](https://www.producthunt.com/products/the-drive-ai-2) — 利用AI自动化处理文件，提升工作效率。（门槛: 低）
-- **[评分: 7/10]** [Takes for Mac](https://www.producthunt.com/products/takes-for-mac) — 提供高效的视频编辑工具，满足视频制作人员的需求。（门槛: 低）
 
-### 🏷️ 跨境电商与出海独立站工具
-- **[评分: 8/10]** [Show HN: Proofsource. Find where AI leaves you out. And Fix it](https://proofsource.co/) — 利用AI分析AI引擎，帮助品牌提升在线可见性。（门槛: 中）
-- **[评分: 8/10]** [Bootstrapping to €600k MRR and getting killed by Shopify: Checkout X](https://www.leteyski.com/bootstrapping-to-600k-mrr-and-getting-killed-by-shopify-the-story-of-checkout-x) — 独立站结账优化插件，€600k MRR 验证刚需（门槛: 高）
-- **[评分: 7/10]** [PostNitro for Agents](https://www.producthunt.com/products/postnitro) — 利用AI自动化社交媒体内容设计，解决跨境电商团队内容发布难题。（门槛: 低）
-- **[评分: 7/10]** [MentionBird is now live on Product Hunt! 🚀](https://www.reddit.com/r/SideProject/comments/1x4qb2h/mentionbird_is_now_live_on_product_hunt/) — 提升品牌在AI搜索平台的可见性（门槛: 低）
+### 🏷️ 七大高溢价赛道之一
+- **[评分: 7/10]** [Show HN: Spotatui, a Spotify TUI/GUI without web API rate limits](https://github.com/LargeModGames/spotatui) — 为Spotify用户提供无API限制的本地播放解决方案。（门槛: 低）
+- **[评分: 7/10]** [thefuckplus 命令错误纠正插件](https://www.v2ex.com/t/1248446) — 利用AI技术提升命令行错误纠正工具的准确性和智能化。（门槛: 低）
+- **[评分: 7/10]** [Show HN: A skill to make Claude Code use Reference Points](https://github.com/SamHasler/skills/blob/main/plugins/reference-points/skills/reference-points/README.md) — 为 AI 开发者提供 Claude Code 的参考点技能插件，提升代码性能。（门槛: 低）
+- **[评分: 7/10]** [我测试出 Jev 的一个实用方向：给 AI Agent 做事实质检，进一步用在 RAG 核查](https://www.v2ex.com/t/1248392) — 利用AI进行事实核查，提高数据准确性。（门槛: 低）
+- **[评分: 7/10]** [OpenCode 2.0](https://www.producthunt.com/products/opencode) — 开源AI编码代理，提升开发者编程效率。（门槛: 中）
 
 ### 🏷️ 极窄场景的 Micro-AI 插件
 - **[评分: 8/10]** [Show HN: Halo – A Personal AI with On-Device Harness, Memory and Browser Agent](https://apps.apple.com/us/app/halo-personal-ai/id6783715054) — 端侧隐私 AI 助手，$49 终身买断，数据不出手机（门槛: 中）
@@ -89,11 +90,9 @@
 - **[评分: 8/10]** [Communicate](https://www.producthunt.com/products/communicate) — 垂直行业AI客服代理，知识库+人工接管月费变现（门槛: 中）
 - **[评分: 7/10]** [Show HN: Laya guard – a local check before your coding agent runs a command](https://github.com/scs0209/laya-guard) — 为开发者提供本地安全检查工具，防止命令执行风险。（门槛: 低）
 
-### 🏷️ 七大高溢价赛道之一
-- **[评分: 7/10]** [thefuckplus 命令错误纠正插件](https://www.v2ex.com/t/1248446) — 利用AI技术提升命令行错误纠正工具的准确性和智能化。（门槛: 低）
-- **[评分: 7/10]** [Show HN: A skill to make Claude Code use Reference Points](https://github.com/SamHasler/skills/blob/main/plugins/reference-points/skills/reference-points/README.md) — 为 AI 开发者提供 Claude Code 的参考点技能插件，提升代码性能。（门槛: 低）
-- **[评分: 7/10]** [我测试出 Jev 的一个实用方向：给 AI Agent 做事实质检，进一步用在 RAG 核查](https://www.v2ex.com/t/1248392) — 利用AI进行事实核查，提高数据准确性。（门槛: 低）
-- **[评分: 7/10]** [OpenCode 2.0](https://www.producthunt.com/products/opencode) — 开源AI编码代理，提升开发者编程效率。（门槛: 中）
+### 🏷️ 跨境电商与出海独立站工具
+- **[评分: 8/10]** [Show HN: Proofsource. Find where AI leaves you out. And Fix it](https://proofsource.co/) — 利用AI分析AI引擎，帮助品牌提升在线可见性。（门槛: 中）
+- **[评分: 8/10]** [Bootstrapping to €600k MRR and getting killed by Shopify: Checkout X](https://www.leteyski.com/bootstrapping-to-600k-mrr-and-getting-killed-by-shopify-the-story-of-checkout-x) — 独立站结账优化插件，€600k MRR 验证刚需（门槛: 高）
 
 ### 🏷️ ⚡ 非对称套利与增长黑客
 - **[评分: 8/10]** [注册了一个美国公司，可以提供 Claude Code 团队订阅席位。](https://www.v2ex.com/t/1247029) — 美国公司主体代持 Claude 团队席位，按月转售给国内开发者（门槛: 中）
@@ -102,6 +101,9 @@
 ### 🏷️ B2B 高客单数据抓取与精准名单
 - **[评分: 8/10]** [I scraped billions of TikTok videos and profiles by reverse engineering the mobile API. Here's how it works + source code](https://www.reddit.com/r/SaaS/comments/1wxoasb/i_scraped_billions_of_tiktok_videos_and_profiles/) — 逆向 TikTok 接口，把爆款趋势与达人名单做成付费数据 API（门槛: 高）
 - **[评分: 8/10]** [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) — 零 API 费抓取社媒，一键交付海外精准潜客名单（门槛: 中）
+
+### 🏷️ 国学文化数字化与情绪消费
+- **[评分: 7/10]** [Show HN: Forkcast, a meal planner and tracker with focus on weekly planning](https://check-forkcast.tizzy.dev/) — 为健身和减肥用户提供个性化的饮食计划和跟踪工具。（门槛: 低）
 
 ### 🏷️ 非对称套利与窗口漏洞
 - **[评分: 7/10]** [做了个 Tibo 大神的 Codex 额度刷新雷达](https://www.v2ex.com/t/1248414) — 利用 Codex 额度刷新的窗口期，为开发者提供实时监控工具。（门槛: 低）
