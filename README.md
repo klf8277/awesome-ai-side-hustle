@@ -32,7 +32,7 @@
 ---
 
 ## 🔥 今日精选高潜力商机 (Top Featured)
-*最后更新：2026-10-13 ｜ 数据源自全球技术雷达自动研判*
+*最后更新：2026-10-14 ｜ 数据源自全球技术雷达自动研判*
 
 | 评分 | 标杆项目 / 原型 | 赛道 | 门槛 | 商业研判与一句话逻辑 | 原始链接 | 完整研报 |
 |---|---|---|---|---|---|---|
@@ -59,6 +59,10 @@
 - **[评分: 8/10]** [I run multiple $10K MRR companies on a $20/month tech stack](https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack) — $20 月成本跑出 $10K MRR 的极简技术栈拆解变现（门槛: 中）
 - **[评分: 8/10]** [My solopreneur story](https://news.tonydinh.com/p/my-solopreneur-story-zero-to-45kmo) — 单人从 0 到月入 4.5 万美元的可复制变现路径拆解（门槛: 中）
 - **[评分: 8/10]** [Show HN: After 2.5 years on my side project, it has hit £500/month revenue](https://news.ycombinator.com/item?id=25372464) — 音频私密分享SaaS，替代Bandcamp/SoundCloud的细分付费工具（门槛: 中）
+- **[评分: 7/10]** [[开源] PicMake：纯前端的 GPT Image 2.5 生图工作台， Key 和图片只存在你的浏览器里](https://www.v2ex.com/t/1248533) — 开发满足特定需求的生图工具，解决官方API和现有工具的不足。（门槛: 低）
+- **[评分: 7/10]** [Show HN: Podway – your self-hosted apps, run by an AI admin](https://podway.io) — 为企业提供基于AI的自托管应用自动化管理解决方案。（门槛: 中）
+- **[评分: 7/10]** [Show HN: I track all 121k Skool communities to find community creator leads](https://www.skoolstats.com/) — 为社区所有者和代理商提供社区排名和潜在客户名单追踪工具。（门槛: 中）
+- **[评分: 7/10]** [Show HN: A 3D Configurator for Macropads](https://npad.ngrok.dev) — 为 Macropad 提供定制 3D 配置工具，解决展示和销售问题。（门槛: 低）
 - **[评分: 7/10]** [[送码]从好用到爽用， Mu3ic 重磅更新，现已支持 Navidrome/Jellyfin/Emby](https://www.v2ex.com/t/1248530) — 为音乐爱好者提供跨平台音乐播放解决方案。（门槛: 低）
 - **[评分: 7/10]** [Show HN: OpenMCX – An open source mission critical communications stack](https://openmcx.com) — 为MCX网络标准化提供开源测试和研究工具。（门槛: 高）
 - **[评分: 7/10]** [Show HN: Mana – family organizer with an AI assistant](https://ourmana.app/) — 为家庭用户提供一站式家庭管理解决方案。（门槛: 中）
@@ -67,23 +71,19 @@
 - **[评分: 7/10]** [Show HN: Taskman – each ticket's Claude Code session, issue and PR in one TUI](https://github.com/sanagnos/taskman) — 为软件开发团队提供集成代码会话、问题报告和Pull Request的TUI工具，提升工作效率。（门槛: 中）
 - **[评分: 7/10]** [Show HN: Oxynote – Self-hosted wiki with live Prometheus/SQL charts and reviews](https://github.com/oxynote/oxynote) — 为企业内部团队提供集成的自托管知识库和实时监控解决方案。（门槛: 中）
 - **[评分: 7/10]** [Show HN: Deep Recall – portable memory you own for Claude, ChatGPT and agents](https://getdeeprecall.com/) — 为人工智能模型用户提供可携带的记忆解决方案。（门槛: 中）
-- **[评分: 7/10]** [NanaAI 网站更新了](https://www.v2ex.com/t/1248473) — 利用AI打造个性化图像网站，解决用户特定需求。（门槛: 低）
-- **[评分: 7/10]** [Show HN: shadowclone, skills learned from your coding agent corrections](https://github.com/theonly1me/shadowclone) — 为多工具和多模型开发者提供自动化技能迁移工具。（门槛: 低）
+
+### 🏷️ 极窄场景的 Micro-AI 插件
+- **[评分: 8/10]** [Show HN: Halo – A Personal AI with On-Device Harness, Memory and Browser Agent](https://apps.apple.com/us/app/halo-personal-ai/id6783715054) — 端侧隐私 AI 助手，$49 终身买断，数据不出手机（门槛: 中）
+- **[评分: 8/10]** [Famulor](https://www.producthunt.com/products/famulor-telephony-ai) — 给本地商家搭AI电话+WhatsApp跟进客服，按月收费（门槛: 中）
+- **[评分: 8/10]** [Communicate](https://www.producthunt.com/products/communicate) — 垂直行业AI客服代理，知识库+人工接管月费变现（门槛: 中）
+- **[评分: 7/10]** [Show HN: Surprisal – a language identifier in ~250 lines of C. No ML,no training](https://github.com/ahhyoushh/zip-surprisal) — 开发无需机器学习的文本/语言识别工具，满足特定场景下的需求。（门槛: 低）
+- **[评分: 7/10]** [Show HN: MemorySync – Memory for AI Agents](https://memorysync.io/try) — 为AI代理提供记忆功能，解决跨对话记忆问题。（门槛: 低）
 
 ### 🏷️ 视频与动效代交付
 - **[评分: 7/10]** [Finally built the local STT app I've been wanting for years](https://www.reddit.com/r/SideProject/comments/1x4teib/finally_built_the_local_stt_app_ive_been_wanting/) — 为开发者提供本地语音转文本应用解决方案。（门槛: 低）
 - **[评分: 7/10]** [I built NodeSeq, a music sequencer that runs in the browser](https://www.reddit.com/r/SideProject/comments/1x4v8e7/i_built_nodeseq_a_music_sequencer_that_runs_in/) — 在线音乐制作工具，无需安装，满足音乐制作人需求。（门槛: 低）
 - **[评分: 7/10]** [I built Anima - turn any biology idea into an interactive scientific visualization](https://www.reddit.com/r/SideProject/comments/1x4v330/i_built_anima_turn_any_biology_idea_into_an/) — 利用AI生成交互式科学可视化工具，满足生物科研和教育需求。（门槛: 低）
 - **[评分: 7/10]** [Show HN: Autograph – a music notation editor you can drive with Claude over MCP](https://autographmusic.com) — 为音乐家提供基于AI的音乐创作编辑工具。（门槛: 中）
-- **[评分: 7/10]** [Show HN: 4B VLM trained on 600k questions to query images in one pass](https://github.com/aditmag/dragonfly) — 通过一次图像分析回答多个问题，提供概率评分。（门槛: 低）
-- **[评分: 7/10]** [Show HN: Ret – An inbox and canvas for your Codex and Claude Code agents](https://getret.app/) — 为开发者提供便捷的AI代理管理工具。（门槛: 低）
-
-### 🏷️ 极窄场景的 Micro-AI 插件
-- **[评分: 8/10]** [Show HN: Halo – A Personal AI with On-Device Harness, Memory and Browser Agent](https://apps.apple.com/us/app/halo-personal-ai/id6783715054) — 端侧隐私 AI 助手，$49 终身买断，数据不出手机（门槛: 中）
-- **[评分: 8/10]** [Famulor](https://www.producthunt.com/products/famulor-telephony-ai) — 给本地商家搭AI电话+WhatsApp跟进客服，按月收费（门槛: 中）
-- **[评分: 8/10]** [Communicate](https://www.producthunt.com/products/communicate) — 垂直行业AI客服代理，知识库+人工接管月费变现（门槛: 中）
-- **[评分: 7/10]** [Show HN: MemorySync – Memory for AI Agents](https://memorysync.io/try) — 为AI代理提供记忆功能，解决跨对话记忆问题。（门槛: 低）
-- **[评分: 7/10]** [Show HN: Laya guard – a local check before your coding agent runs a command](https://github.com/scs0209/laya-guard) — 为开发者提供本地安全检查工具，防止命令执行风险。（门槛: 低）
 
 ### 🏷️ 跨境电商与出海独立站工具
 - **[评分: 8/10]** [Show HN: Proofsource. Find where AI leaves you out. And Fix it](https://proofsource.co/) — 利用AI分析AI引擎，帮助品牌提升在线可见性。（门槛: 中）
