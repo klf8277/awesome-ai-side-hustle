@@ -77,6 +77,7 @@
 - **[评分: 8/10]** [Launch HN: Consus (YC F24) – LLM gateway for companies handling sensitive data](https://news.ycombinator.com/item?id=50073471) — 为航空航天和国防公司提供符合ITAR和FedRAMP标准的AI服务。（门槛: 高）
 - **[评分: 8/10]** [Show HN: Proofsource. Find where AI leaves you out. And Fix it](https://proofsource.co/) — 利用AI分析AI引擎，帮助品牌提升在线可见性。（门槛: 中）
 - **[评分: 8/10]** [Bootstrapping to €600k MRR and getting killed by Shopify: Checkout X](https://www.leteyski.com/bootstrapping-to-600k-mrr-and-getting-killed-by-shopify-the-story-of-checkout-x) — 独立站结账优化插件，€600k MRR 验证刚需（门槛: 高）
+- **[评分: 7/10]** [Show HN: Pippin – macOS High-Performance Screen Sharing Client for Linux](https://github.com/jonesy827/pippin) — 为 macOS 用户在 Linux 系统上提供高性能屏幕共享解决方案。（门槛: 低）
 - **[评分: 7/10]** [AWS Weekly Roundup: Prime Day 2026 by the numbers, Claude Haiku 5.5, Amazon Nova 2.5 Sonic, and more](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-prime-day-2026-by-the-numbers-claude-haiku-5-5-amazon-nova-2-5-sonic-and-more-october-13-2026/) — 利用亚马逊Prime Day数据，开发高性能缓存工具满足电商需求。（门槛: 中）
 - **[评分: 7/10]** [Show HN: Rollport – Copy new iPhone photos to a folder over USB](https://github.com/artificiadrian/rollport) — 为iPhone用户提供简单易用的照片导入工具。（门槛: 低）
 
@@ -87,11 +88,10 @@
 - **[评分: 7/10]** [Show HN: Surprisal – a language identifier in ~250 lines of C. No ML,no training](https://github.com/ahhyoushh/zip-surprisal) — 开发无需机器学习的文本/语言识别工具，满足特定场景下的需求。（门槛: 低）
 - **[评分: 7/10]** [Show HN: MemorySync – Memory for AI Agents](https://memorysync.io/try) — 为AI代理提供记忆功能，解决跨对话记忆问题。（门槛: 低）
 
-### 🏷️ 视频与动效代交付
-- **[评分: 7/10]** [I made a Chrome extension that keeps YouTube Studio's Audio Library playing in background tabs](https://www.reddit.com/r/SideProject/comments/1x4ym35/i_made_a_chrome_extension_that_keeps_youtube/) — 为YouTube用户提供后台播放音乐的Chrome扩展程序。（门槛: 低）
-- **[评分: 7/10]** [Finally built the local STT app I've been wanting for years](https://www.reddit.com/r/SideProject/comments/1x4teib/finally_built_the_local_stt_app_ive_been_wanting/) — 为开发者提供本地语音转文本应用解决方案。（门槛: 低）
-- **[评分: 7/10]** [I built NodeSeq, a music sequencer that runs in the browser](https://www.reddit.com/r/SideProject/comments/1x4v8e7/i_built_nodeseq_a_music_sequencer_that_runs_in/) — 在线音乐制作工具，无需安装，满足音乐制作人需求。（门槛: 低）
-- **[评分: 7/10]** [I built Anima - turn any biology idea into an interactive scientific visualization](https://www.reddit.com/r/SideProject/comments/1x4v330/i_built_anima_turn_any_biology_idea_into_an/) — 利用AI生成交互式科学可视化工具，满足生物科研和教育需求。（门槛: 低）
+### 🏷️ 七大高溢价赛道之一
+- **[评分: 7/10]** [Show HN: Hev is a Jev-compatible API, answered by humans](https://usehev.com) — 利用陌生人智慧提供决策支持的API服务。（门槛: 低）
+- **[评分: 7/10]** [Show HN: Hatswap – one Claude Code account per client, switch mid-chat](https://github.com/orvi2014/hatswap) — 为 ChatGPT 用户提供账户切换工具，提升聊天体验。（门槛: 低）
+- **[评分: 7/10]** [How to tell if a startup has a moat](https://www.lennysnewsletter.com/p/how-to-tell-if-a-startup-has-a-moat) — 为创业者提供评估公司持久性的框架或工具，帮助他们在选择加入公司时做出更明智的决策。（门槛: 高）
 
 ### 🏷️ ⚡ 非对称套利与增长黑客
 - **[评分: 8/10]** [注册了一个美国公司，可以提供 Claude Code 团队订阅席位。](https://www.v2ex.com/t/1247029) — 美国公司主体代持 Claude 团队席位，按月转售给国内开发者（门槛: 中）
@@ -101,8 +101,8 @@
 - **[评分: 8/10]** [I scraped billions of TikTok videos and profiles by reverse engineering the mobile API. Here's how it works + source code](https://www.reddit.com/r/SaaS/comments/1wxoasb/i_scraped_billions_of_tiktok_videos_and_profiles/) — 逆向 TikTok 接口，把爆款趋势与达人名单做成付费数据 API（门槛: 高）
 - **[评分: 8/10]** [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) — 零 API 费抓取社媒，一键交付海外精准潜客名单（门槛: 中）
 
-### 🏷️ 七大高溢价赛道之一
-- **[评分: 7/10]** [How to tell if a startup has a moat](https://www.lennysnewsletter.com/p/how-to-tell-if-a-startup-has-a-moat) — 为创业者提供评估公司持久性的框架或工具，帮助他们在选择加入公司时做出更明智的决策。（门槛: 高）
+### 🏷️ 视频与动效代交付
+- **[评分: 7/10]** [I made a Chrome extension that keeps YouTube Studio's Audio Library playing in background tabs](https://www.reddit.com/r/SideProject/comments/1x4ym35/i_made_a_chrome_extension_that_keeps_youtube/) — 为YouTube用户提供后台播放音乐的Chrome扩展程序。（门槛: 低）
 
 
 ---
