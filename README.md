@@ -59,6 +59,9 @@
 - **[评分: 8/10]** [I run multiple $10K MRR companies on a $20/month tech stack](https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack) — $20 月成本跑出 $10K MRR 的极简技术栈拆解变现（门槛: 中）
 - **[评分: 8/10]** [My solopreneur story](https://news.tonydinh.com/p/my-solopreneur-story-zero-to-45kmo) — 单人从 0 到月入 4.5 万美元的可复制变现路径拆解（门槛: 中）
 - **[评分: 8/10]** [Show HN: After 2.5 years on my side project, it has hit £500/month revenue](https://news.ycombinator.com/item?id=25372464) — 音频私密分享SaaS，替代Bandcamp/SoundCloud的细分付费工具（门槛: 中）
+- **[评分: 7/10]** [Show HN: Rhythm – a skimmable TUI for your GitHub repos](https://github.com/problemsdev/rhythm) — 为 GitHub 用户开发一款可帮助跟踪仓库动态的 TUI 工具。（门槛: 低）
+- **[评分: 7/10]** [Show HN: Parsimony – an open-source benchmark for how much code AI models add](https://parsimony.lasu.dev/) — 为 AI 模型开发者提供减少代码冗余的基准测试工具。（门槛: 低）
+- **[评分: 7/10]** [Show HN: Hatoba, an open-source SSH client with an AI assistant and E2EE sync](https://github.com/scarletkc/Hatoba) — 为开发者提供集AI辅助和端到端加密的SSH客户端。（门槛: 中）
 - **[评分: 7/10]** [Show HN: pg_vectorsearch: Scalable Open-Source Vector Search in PostgreSQL](https://github.com/timescale/pg_vectorsearch) — 为 PostgreSQL 提供高效的向量搜索解决方案，满足企业对大数据搜索的需求。（门槛: 中）
 - **[评分: 7/10]** [WeatherFast - A fast weather app](https://www.reddit.com/r/SideProject/comments/1x4zj23/weatherfast_a_fast_weather_app/) — 开发一个无广告、UI优化的天气应用，满足用户对天气信息快速获取的需求。（门槛: 低）
 - **[评分: 7/10]** [I built an open-source security checker for AI-coded apps. Looking for early testers and contributors.](https://www.reddit.com/r/SideProject/comments/1x4ylbz/i_built_an_opensource_security_checker_for/) — 为AI构建的应用提供安全检查工具，帮助开发者避免API密钥泄露。（门槛: 低）
@@ -69,29 +72,25 @@
 - **[评分: 7/10]** [[送码]从好用到爽用， Mu3ic 重磅更新，现已支持 Navidrome/Jellyfin/Emby](https://www.v2ex.com/t/1248530) — 为音乐爱好者提供跨平台音乐播放解决方案。（门槛: 低）
 - **[评分: 7/10]** [Show HN: OpenMCX – An open source mission critical communications stack](https://openmcx.com) — 为MCX网络标准化提供开源测试和研究工具。（门槛: 高）
 - **[评分: 7/10]** [Show HN: Mana – family organizer with an AI assistant](https://ourmana.app/) — 为家庭用户提供一站式家庭管理解决方案。（门槛: 中）
-- **[评分: 7/10]** [Show HN: Stream live open data in two commands](https://docs.hypermass.io/docs/cli/) — 提供无需注册的实时数据流订阅工具，简化数据获取。（门槛: 低）
-- **[评分: 7/10]** [Show HN: VM Explorer – Self-hosted Linux web UI (free for standalone nodes)](https://vm-explorer.com/) — 提供免费的自托管 Linux 服务器管理界面，解决管理员管理难题。（门槛: 低）
-- **[评分: 7/10]** [Show HN: Taskman – each ticket's Claude Code session, issue and PR in one TUI](https://github.com/sanagnos/taskman) — 为软件开发团队提供集成代码会话、问题报告和Pull Request的TUI工具，提升工作效率。（门槛: 中）
 
 ### 🏷️ 跨境电商与出海独立站工具
 - **[评分: 8/10]** [Launch HN: Consus (YC F24) – LLM gateway for companies handling sensitive data](https://news.ycombinator.com/item?id=50073471) — 为航空航天和国防公司提供符合ITAR和FedRAMP标准的AI服务。（门槛: 高）
 - **[评分: 8/10]** [Show HN: Proofsource. Find where AI leaves you out. And Fix it](https://proofsource.co/) — 利用AI分析AI引擎，帮助品牌提升在线可见性。（门槛: 中）
 - **[评分: 8/10]** [Bootstrapping to €600k MRR and getting killed by Shopify: Checkout X](https://www.leteyski.com/bootstrapping-to-600k-mrr-and-getting-killed-by-shopify-the-story-of-checkout-x) — 独立站结账优化插件，€600k MRR 验证刚需（门槛: 高）
+- **[评分: 7/10]** [Show HN: Can a solo founder compete in the crowded Chrome extension market?](https://chromewebstore.google.com/detail/thrivez-go-â-earn-rewards/fodndcoojiniehbochnniejfdfnclgfg) — 开发 Chrome 扩展程序满足特定用户需求。（门槛: 低）
 - **[评分: 7/10]** [Show HN: Pippin – macOS High-Performance Screen Sharing Client for Linux](https://github.com/jonesy827/pippin) — 为 macOS 用户在 Linux 系统上提供高性能屏幕共享解决方案。（门槛: 低）
 - **[评分: 7/10]** [AWS Weekly Roundup: Prime Day 2026 by the numbers, Claude Haiku 5.5, Amazon Nova 2.5 Sonic, and more](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-prime-day-2026-by-the-numbers-claude-haiku-5-5-amazon-nova-2-5-sonic-and-more-october-13-2026/) — 利用亚马逊Prime Day数据，开发高性能缓存工具满足电商需求。（门槛: 中）
-- **[评分: 7/10]** [Show HN: Rollport – Copy new iPhone photos to a folder over USB](https://github.com/artificiadrian/rollport) — 为iPhone用户提供简单易用的照片导入工具。（门槛: 低）
 
 ### 🏷️ 极窄场景的 Micro-AI 插件
 - **[评分: 8/10]** [Show HN: Halo – A Personal AI with On-Device Harness, Memory and Browser Agent](https://apps.apple.com/us/app/halo-personal-ai/id6783715054) — 端侧隐私 AI 助手，$49 终身买断，数据不出手机（门槛: 中）
 - **[评分: 8/10]** [Famulor](https://www.producthunt.com/products/famulor-telephony-ai) — 给本地商家搭AI电话+WhatsApp跟进客服，按月收费（门槛: 中）
 - **[评分: 8/10]** [Communicate](https://www.producthunt.com/products/communicate) — 垂直行业AI客服代理，知识库+人工接管月费变现（门槛: 中）
 - **[评分: 7/10]** [Show HN: Surprisal – a language identifier in ~250 lines of C. No ML,no training](https://github.com/ahhyoushh/zip-surprisal) — 开发无需机器学习的文本/语言识别工具，满足特定场景下的需求。（门槛: 低）
-- **[评分: 7/10]** [Show HN: MemorySync – Memory for AI Agents](https://memorysync.io/try) — 为AI代理提供记忆功能，解决跨对话记忆问题。（门槛: 低）
 
 ### 🏷️ 七大高溢价赛道之一
+- **[评分: 7/10]** [Gemini 4 Argon in GitHub Copilot](https://github.blog/changelog/2026-10-13-gemini-4-argon-in-github-copilot) — 利用AI模型提供复杂编码和推理任务工具。（门槛: 高）
 - **[评分: 7/10]** [Show HN: Hev is a Jev-compatible API, answered by humans](https://usehev.com) — 利用陌生人智慧提供决策支持的API服务。（门槛: 低）
 - **[评分: 7/10]** [Show HN: Hatswap – one Claude Code account per client, switch mid-chat](https://github.com/orvi2014/hatswap) — 为 ChatGPT 用户提供账户切换工具，提升聊天体验。（门槛: 低）
-- **[评分: 7/10]** [How to tell if a startup has a moat](https://www.lennysnewsletter.com/p/how-to-tell-if-a-startup-has-a-moat) — 为创业者提供评估公司持久性的框架或工具，帮助他们在选择加入公司时做出更明智的决策。（门槛: 高）
 
 ### 🏷️ ⚡ 非对称套利与增长黑客
 - **[评分: 8/10]** [注册了一个美国公司，可以提供 Claude Code 团队订阅席位。](https://www.v2ex.com/t/1247029) — 美国公司主体代持 Claude 团队席位，按月转售给国内开发者（门槛: 中）
@@ -102,6 +101,7 @@
 - **[评分: 8/10]** [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) — 零 API 费抓取社媒，一键交付海外精准潜客名单（门槛: 中）
 
 ### 🏷️ 视频与动效代交付
+- **[评分: 7/10]** [Build a SaaS for android devs and people who dont have an android device](https://www.reddit.com/r/SaaS/comments/1x55ybv/build_a_saas_for_android_devs_and_people_who_dont/) — 为 Android 开发者和无设备用户打造快速测试 APK 的 SaaS。（门槛: 低）
 - **[评分: 7/10]** [I made a Chrome extension that keeps YouTube Studio's Audio Library playing in background tabs](https://www.reddit.com/r/SideProject/comments/1x4ym35/i_made_a_chrome_extension_that_keeps_youtube/) — 为YouTube用户提供后台播放音乐的Chrome扩展程序。（门槛: 低）
 
 
