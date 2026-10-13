@@ -67,9 +67,9 @@
 - **[评分: 7/10]** [OpenWhispr for iOS](https://www.producthunt.com/products/openwispr-open-source-ai-speech-to-text) — 为 iOS 应用开发者提供设备端语音到文本转录工具。（门槛: 低）
 - **[评分: 7/10]** [Upsolve Row-Level Security](https://www.producthunt.com/products/upsolve-ai) — 为企业提供AI代理数据权限控制解决方案。（门槛: 中）
 - **[评分: 7/10]** [CLI Manager](https://www.producthunt.com/products/cli-manager) — 自动化 CLI 管理工具，提升开发者工作效率。（门槛: 低）
-- **[评分: 7/10]** [What size PSU does your build need? 206-part catalog, 1.4x headroom math, 0 uploads, runs in your browser :)](https://www.reddit.com/r/SideProject/comments/1x4q84x/what_size_psu_does_your_build_need_206part/) — 为硬件构建者提供精确的PSU计算工具。（门槛: 低）
 
 ### 🏷️ 视频与动效代交付
+- **[评分: 7/10]** [Show HN: Autograph – a music notation editor you can drive with Claude over MCP](https://autographmusic.com) — 为音乐家提供基于AI的音乐创作编辑工具。（门槛: 中）
 - **[评分: 7/10]** [Show HN: 4B VLM trained on 600k questions to query images in one pass](https://github.com/aditmag/dragonfly) — 通过一次图像分析回答多个问题，提供概率评分。（门槛: 低）
 - **[评分: 7/10]** [Show HN: Ret – An inbox and canvas for your Codex and Claude Code agents](https://getret.app/) — 为开发者提供便捷的AI代理管理工具。（门槛: 低）
 - **[评分: 7/10]** [Built a Jean Phil AI (jeanphilai.cc): 1 selfie → blond bowl cut + curled moustache deadpan short (Oui Madame.)](https://www.v2ex.com/t/1248408) — 利用 AI 制作 Jean Phil 风格视频，满足粉丝和创作者的需求。（门槛: 低）
