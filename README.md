@@ -59,6 +59,7 @@
 - **[评分: 8/10]** [I run multiple $10K MRR companies on a $20/month tech stack](https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack) — $20 月成本跑出 $10K MRR 的极简技术栈拆解变现（门槛: 中）
 - **[评分: 8/10]** [My solopreneur story](https://news.tonydinh.com/p/my-solopreneur-story-zero-to-45kmo) — 单人从 0 到月入 4.5 万美元的可复制变现路径拆解（门槛: 中）
 - **[评分: 8/10]** [Show HN: After 2.5 years on my side project, it has hit £500/month revenue](https://news.ycombinator.com/item?id=25372464) — 音频私密分享SaaS，替代Bandcamp/SoundCloud的细分付费工具（门槛: 中）
+- **[评分: 7/10]** [Show HN: PickyCal – Filter upcoming and future events into your calendar](https://pickycal.com/) — 为用户提供定制化日历事件筛选工具。（门槛: 低）
 - **[评分: 7/10]** [AI中转站求推荐](https://www.nodeseek.com/post-979670-1) — 为AI中转站用户推荐解决方案，解决工具缺口。（门槛: 低）
 - **[评分: 7/10]** [Show HN: Vibecheck – merge gate that checks you understand your AI-written code](https://github.com/bhurghundii/vibecheck.dev) — 通过AI检查开发者对AI编写代码的理解程度，解决团队协作中的代码理解问题。（门槛: 低）
 - **[评分: 7/10]** [I'm building an open-source AI marketing platform](https://www.reddit.com/r/SaaS/comments/1x4d2dy/im_building_an_opensource_ai_marketing_platform/) — 开源AI营销平台，帮助企业发现市场增长机会。（门槛: 低）
@@ -68,7 +69,6 @@
 - **[评分: 7/10]** [LeBoard: quality metrics for LeRobot datasets](https://www.leboard.xyz/) — 为机器人数据科学家提供数据质量评估工具，解决数据质量问题。（门槛: 低）
 - **[评分: 7/10]** [Show HN: Folio – my portfolio inside Raycast (read-only, open source)](https://github.com/ShayanAbedi/folio) — 为设计师和开发者提供集成到Raycast的作品集展示工具（门槛: 低）
 - **[评分: 7/10]** [I accidentally built the most beautiful journaling app I've ever seen.](https://www.reddit.com/r/SideProject/comments/1x49oxu/i_accidentally_built_the_most_beautiful/) — 开发以人为中心的记忆整理应用，解决传统日记的痛点。（门槛: 低）
-- **[评分: 7/10]** [I built a free website for reading 41,000 classic books in the browser](https://www.reddit.com/r/SideProject/comments/1x48elg/i_built_a_free_website_for_reading_41000_classic/) — 利用公共领域经典书籍构建免费在线阅读平台，通过广告盈利。（门槛: 低）
 
 ### 🏷️ 非对称套利与窗口漏洞
 - **[评分: 7/10]** [saily现在可以注册实体卡了，刚弄了一个查了显示cell Phone](https://www.nodeseek.com/post-979675-1) — 利用saily平台注册实体卡，通过GCP优惠码降低成本进行套利。（门槛: 低）
