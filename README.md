@@ -59,6 +59,7 @@
 - **[评分: 8/10]** [I run multiple $10K MRR companies on a $20/month tech stack](https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack) — $20 月成本跑出 $10K MRR 的极简技术栈拆解变现（门槛: 中）
 - **[评分: 8/10]** [My solopreneur story](https://news.tonydinh.com/p/my-solopreneur-story-zero-to-45kmo) — 单人从 0 到月入 4.5 万美元的可复制变现路径拆解（门槛: 中）
 - **[评分: 8/10]** [Show HN: After 2.5 years on my side project, it has hit £500/month revenue](https://news.ycombinator.com/item?id=25372464) — 音频私密分享SaaS，替代Bandcamp/SoundCloud的细分付费工具（门槛: 中）
+- **[评分: 7/10]** [Show HN: Open-source Mac menu bar app for Claude, Codex and Cursor](https://agentmuster.app/) — 为 Mac 用户打造便捷的 AI 工具菜单栏应用（门槛: 低）
 - **[评分: 7/10]** [Show HN: Rhythm – a skimmable TUI for your GitHub repos](https://github.com/problemsdev/rhythm) — 为 GitHub 用户开发一款可帮助跟踪仓库动态的 TUI 工具。（门槛: 低）
 - **[评分: 7/10]** [Show HN: Parsimony – an open-source benchmark for how much code AI models add](https://parsimony.lasu.dev/) — 为 AI 模型开发者提供减少代码冗余的基准测试工具。（门槛: 低）
 - **[评分: 7/10]** [Show HN: Hatoba, an open-source SSH client with an AI assistant and E2EE sync](https://github.com/scarletkc/Hatoba) — 为开发者提供集AI辅助和端到端加密的SSH客户端。（门槛: 中）
@@ -71,7 +72,6 @@
 - **[评分: 7/10]** [Show HN: A 3D Configurator for Macropads](https://npad.ngrok.dev) — 为 Macropad 提供定制 3D 配置工具，解决展示和销售问题。（门槛: 低）
 - **[评分: 7/10]** [[送码]从好用到爽用， Mu3ic 重磅更新，现已支持 Navidrome/Jellyfin/Emby](https://www.v2ex.com/t/1248530) — 为音乐爱好者提供跨平台音乐播放解决方案。（门槛: 低）
 - **[评分: 7/10]** [Show HN: OpenMCX – An open source mission critical communications stack](https://openmcx.com) — 为MCX网络标准化提供开源测试和研究工具。（门槛: 高）
-- **[评分: 7/10]** [Show HN: Mana – family organizer with an AI assistant](https://ourmana.app/) — 为家庭用户提供一站式家庭管理解决方案。（门槛: 中）
 
 ### 🏷️ 跨境电商与出海独立站工具
 - **[评分: 8/10]** [Launch HN: Consus (YC F24) – LLM gateway for companies handling sensitive data](https://news.ycombinator.com/item?id=50073471) — 为航空航天和国防公司提供符合ITAR和FedRAMP标准的AI服务。（门槛: 高）
