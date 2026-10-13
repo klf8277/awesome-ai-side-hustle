@@ -36,6 +36,7 @@
 
 | 评分 | 标杆项目 / 原型 | 赛道 | 门槛 | 商业研判与一句话逻辑 | 原始链接 | 完整研报 |
 |---|---|---|---|---|---|---|
+| **⭐️ 8/10** | **Launch HN: Consus (YC F24) – LLM gateway for companies handling sensitive data** | `跨境电商与出海独立站工具` | 高 | 为航空航天和国防公司提供符合ITAR和FedRAMP标准的AI服务。 | [🔗 来源](https://news.ycombinator.com/item?id=50073471) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 8/10** | **Show HN: Proofsource. Find where AI leaves you out. And Fix it** | `跨境电商与出海独立站工具` | 中 | 利用AI分析AI引擎，帮助品牌提升在线可见性。 | [🔗 来源](https://proofsource.co/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 8/10** | **注册了一个美国公司，可以提供 Claude Code 团队订阅席位。** | `⚡ 非对称套利与增长黑客` | 中 | 美国公司主体代持 Claude 团队席位，按月转售给国内开发者 | [🔗 来源](https://www.v2ex.com/t/1247029) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 8/10** | **🦙 Claude AI 创业公司计划 — 12个月 Pro Team + $1,000 API Credits** | `⚡ 非对称套利与增长黑客` | 低 | 白嫖Claude官方12个月会员+千刀API额度，最高撬10万 | [🔗 来源](https://www.nodeseek.com/post-969760-1) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
@@ -45,7 +46,6 @@
 | **⭐️ 8/10** | **Simple Analytics hits $4k MRR and shares its numbers** | `垂直数字资产与全自动工作流模板` | 中 | 隐私优先轻量网站分析，$4k MRR可复制 | [🔗 来源](https://simpleanalytics.com/open) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 8/10** | **6 months in and $1k MRR: my biggest mistakes so far** | `垂直数字资产与全自动工作流模板` | 中 | 个人财务SaaS半年做到$1k MRR的复盘 | [🔗 来源](https://lunchbag.ca/lunch-money-mistakes/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 8/10** | **My 2 Year Journey to $10K MRR** | `垂直数字资产与全自动工作流模板` | 中 | API化图片视频自动生成工具，2年做到$10K MRR | [🔗 来源](https://www.bannerbear.com/journey-to-10k-mrr/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
-| **⭐️ 8/10** | **I run multiple $10K MRR companies on a $20/month tech stack** | `垂直数字资产与全自动工作流模板` | 中 | $20 月成本跑出 $10K MRR 的极简技术栈拆解变现 | [🔗 来源](https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 
 ---
 
@@ -59,6 +59,9 @@
 - **[评分: 8/10]** [I run multiple $10K MRR companies on a $20/month tech stack](https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack) — $20 月成本跑出 $10K MRR 的极简技术栈拆解变现（门槛: 中）
 - **[评分: 8/10]** [My solopreneur story](https://news.tonydinh.com/p/my-solopreneur-story-zero-to-45kmo) — 单人从 0 到月入 4.5 万美元的可复制变现路径拆解（门槛: 中）
 - **[评分: 8/10]** [Show HN: After 2.5 years on my side project, it has hit £500/month revenue](https://news.ycombinator.com/item?id=25372464) — 音频私密分享SaaS，替代Bandcamp/SoundCloud的细分付费工具（门槛: 中）
+- **[评分: 7/10]** [Show HN: pg_vectorsearch: Scalable Open-Source Vector Search in PostgreSQL](https://github.com/timescale/pg_vectorsearch) — 为 PostgreSQL 提供高效的向量搜索解决方案，满足企业对大数据搜索的需求。（门槛: 中）
+- **[评分: 7/10]** [WeatherFast - A fast weather app](https://www.reddit.com/r/SideProject/comments/1x4zj23/weatherfast_a_fast_weather_app/) — 开发一个无广告、UI优化的天气应用，满足用户对天气信息快速获取的需求。（门槛: 低）
+- **[评分: 7/10]** [I built an open-source security checker for AI-coded apps. Looking for early testers and contributors.](https://www.reddit.com/r/SideProject/comments/1x4ylbz/i_built_an_opensource_security_checker_for/) — 为AI构建的应用提供安全检查工具，帮助开发者避免API密钥泄露。（门槛: 低）
 - **[评分: 7/10]** [[开源] PicMake：纯前端的 GPT Image 2.5 生图工作台， Key 和图片只存在你的浏览器里](https://www.v2ex.com/t/1248533) — 开发满足特定需求的生图工具，解决官方API和现有工具的不足。（门槛: 低）
 - **[评分: 7/10]** [Show HN: Podway – your self-hosted apps, run by an AI admin](https://podway.io) — 为企业提供基于AI的自托管应用自动化管理解决方案。（门槛: 中）
 - **[评分: 7/10]** [Show HN: I track all 121k Skool communities to find community creator leads](https://www.skoolstats.com/) — 为社区所有者和代理商提供社区排名和潜在客户名单追踪工具。（门槛: 中）
@@ -69,8 +72,13 @@
 - **[评分: 7/10]** [Show HN: Stream live open data in two commands](https://docs.hypermass.io/docs/cli/) — 提供无需注册的实时数据流订阅工具，简化数据获取。（门槛: 低）
 - **[评分: 7/10]** [Show HN: VM Explorer – Self-hosted Linux web UI (free for standalone nodes)](https://vm-explorer.com/) — 提供免费的自托管 Linux 服务器管理界面，解决管理员管理难题。（门槛: 低）
 - **[评分: 7/10]** [Show HN: Taskman – each ticket's Claude Code session, issue and PR in one TUI](https://github.com/sanagnos/taskman) — 为软件开发团队提供集成代码会话、问题报告和Pull Request的TUI工具，提升工作效率。（门槛: 中）
-- **[评分: 7/10]** [Show HN: Oxynote – Self-hosted wiki with live Prometheus/SQL charts and reviews](https://github.com/oxynote/oxynote) — 为企业内部团队提供集成的自托管知识库和实时监控解决方案。（门槛: 中）
-- **[评分: 7/10]** [Show HN: Deep Recall – portable memory you own for Claude, ChatGPT and agents](https://getdeeprecall.com/) — 为人工智能模型用户提供可携带的记忆解决方案。（门槛: 中）
+
+### 🏷️ 跨境电商与出海独立站工具
+- **[评分: 8/10]** [Launch HN: Consus (YC F24) – LLM gateway for companies handling sensitive data](https://news.ycombinator.com/item?id=50073471) — 为航空航天和国防公司提供符合ITAR和FedRAMP标准的AI服务。（门槛: 高）
+- **[评分: 8/10]** [Show HN: Proofsource. Find where AI leaves you out. And Fix it](https://proofsource.co/) — 利用AI分析AI引擎，帮助品牌提升在线可见性。（门槛: 中）
+- **[评分: 8/10]** [Bootstrapping to €600k MRR and getting killed by Shopify: Checkout X](https://www.leteyski.com/bootstrapping-to-600k-mrr-and-getting-killed-by-shopify-the-story-of-checkout-x) — 独立站结账优化插件，€600k MRR 验证刚需（门槛: 高）
+- **[评分: 7/10]** [AWS Weekly Roundup: Prime Day 2026 by the numbers, Claude Haiku 5.5, Amazon Nova 2.5 Sonic, and more](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-prime-day-2026-by-the-numbers-claude-haiku-5-5-amazon-nova-2-5-sonic-and-more-october-13-2026/) — 利用亚马逊Prime Day数据，开发高性能缓存工具满足电商需求。（门槛: 中）
+- **[评分: 7/10]** [Show HN: Rollport – Copy new iPhone photos to a folder over USB](https://github.com/artificiadrian/rollport) — 为iPhone用户提供简单易用的照片导入工具。（门槛: 低）
 
 ### 🏷️ 极窄场景的 Micro-AI 插件
 - **[评分: 8/10]** [Show HN: Halo – A Personal AI with On-Device Harness, Memory and Browser Agent](https://apps.apple.com/us/app/halo-personal-ai/id6783715054) — 端侧隐私 AI 助手，$49 终身买断，数据不出手机（门槛: 中）
@@ -80,15 +88,10 @@
 - **[评分: 7/10]** [Show HN: MemorySync – Memory for AI Agents](https://memorysync.io/try) — 为AI代理提供记忆功能，解决跨对话记忆问题。（门槛: 低）
 
 ### 🏷️ 视频与动效代交付
+- **[评分: 7/10]** [I made a Chrome extension that keeps YouTube Studio's Audio Library playing in background tabs](https://www.reddit.com/r/SideProject/comments/1x4ym35/i_made_a_chrome_extension_that_keeps_youtube/) — 为YouTube用户提供后台播放音乐的Chrome扩展程序。（门槛: 低）
 - **[评分: 7/10]** [Finally built the local STT app I've been wanting for years](https://www.reddit.com/r/SideProject/comments/1x4teib/finally_built_the_local_stt_app_ive_been_wanting/) — 为开发者提供本地语音转文本应用解决方案。（门槛: 低）
 - **[评分: 7/10]** [I built NodeSeq, a music sequencer that runs in the browser](https://www.reddit.com/r/SideProject/comments/1x4v8e7/i_built_nodeseq_a_music_sequencer_that_runs_in/) — 在线音乐制作工具，无需安装，满足音乐制作人需求。（门槛: 低）
 - **[评分: 7/10]** [I built Anima - turn any biology idea into an interactive scientific visualization](https://www.reddit.com/r/SideProject/comments/1x4v330/i_built_anima_turn_any_biology_idea_into_an/) — 利用AI生成交互式科学可视化工具，满足生物科研和教育需求。（门槛: 低）
-- **[评分: 7/10]** [Show HN: Autograph – a music notation editor you can drive with Claude over MCP](https://autographmusic.com) — 为音乐家提供基于AI的音乐创作编辑工具。（门槛: 中）
-
-### 🏷️ 跨境电商与出海独立站工具
-- **[评分: 8/10]** [Show HN: Proofsource. Find where AI leaves you out. And Fix it](https://proofsource.co/) — 利用AI分析AI引擎，帮助品牌提升在线可见性。（门槛: 中）
-- **[评分: 8/10]** [Bootstrapping to €600k MRR and getting killed by Shopify: Checkout X](https://www.leteyski.com/bootstrapping-to-600k-mrr-and-getting-killed-by-shopify-the-story-of-checkout-x) — 独立站结账优化插件，€600k MRR 验证刚需（门槛: 高）
-- **[评分: 7/10]** [Show HN: Rollport – Copy new iPhone photos to a folder over USB](https://github.com/artificiadrian/rollport) — 为iPhone用户提供简单易用的照片导入工具。（门槛: 低）
 
 ### 🏷️ ⚡ 非对称套利与增长黑客
 - **[评分: 8/10]** [注册了一个美国公司，可以提供 Claude Code 团队订阅席位。](https://www.v2ex.com/t/1247029) — 美国公司主体代持 Claude 团队席位，按月转售给国内开发者（门槛: 中）
@@ -100,11 +103,6 @@
 
 ### 🏷️ 七大高溢价赛道之一
 - **[评分: 7/10]** [How to tell if a startup has a moat](https://www.lennysnewsletter.com/p/how-to-tell-if-a-startup-has-a-moat) — 为创业者提供评估公司持久性的框架或工具，帮助他们在选择加入公司时做出更明智的决策。（门槛: 高）
-- **[评分: 7/10]** [Show HN: Spotatui, a Spotify TUI/GUI without web API rate limits](https://github.com/LargeModGames/spotatui) — 为Spotify用户提供无API限制的本地播放解决方案。（门槛: 低）
-
-### 🏷️ 国学文化数字化与情绪消费
-- **[评分: 7/10]** [📣 #发现频道 时光助手：不是又一个时间管理工具，而是陪你走完「规划→](https://meta.appinn.net/t/topic/93472) — 提供个性化时间管理闭环工具，满足用户对时间管理的全面需求。（门槛: 低）
-- **[评分: 7/10]** [Show HN: Forkcast, a meal planner and tracker with focus on weekly planning](https://check-forkcast.tizzy.dev/) — 为健身和减肥用户提供个性化的饮食计划和跟踪工具。（门槛: 低）
 
 
 ---
