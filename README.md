@@ -70,13 +70,13 @@
 - **[评分: 7/10]** [Show HN: Planning software for startup teams](https://weeklywe.com) — 为初创团队提供专注于规划的工具。（门槛: 低）
 
 ### 🏷️ 视频与动效代交付
+- **[评分: 7/10]** [Built a Jean Phil AI (jeanphilai.cc): 1 selfie → blond bowl cut + curled moustache deadpan short (Oui Madame.)](https://www.v2ex.com/t/1248408) — 利用 AI 制作 Jean Phil 风格视频，满足粉丝和创作者的需求。（门槛: 低）
 - **[评分: 7/10]** [Remocn Studio](https://www.producthunt.com/products/remocn-studio) — 为初创企业提供无需After Effects的演示动效制作工具。（门槛: 低）
 - **[评分: 7/10]** [The Drive AI](https://www.producthunt.com/products/the-drive-ai-2) — 利用AI自动化处理文件，提升工作效率。（门槛: 低）
 - **[评分: 7/10]** [Takes for Mac](https://www.producthunt.com/products/takes-for-mac) — 提供高效的视频编辑工具，满足视频制作人员的需求。（门槛: 低）
 - **[评分: 7/10]** [Loom wouldn't let me download my own video without paying, so I built my own (free, open source)](https://www.reddit.com/r/SideProject/comments/1x4q7ia/loom_wouldnt_let_me_download_my_own_video_without/) — 为视频制作人员提供无限制下载功能的视频录制工具。（门槛: 低）
 - **[评分: 7/10]** [Show HN: Search for AI agents with usefulness score built in](https://github.com/Ayobamiu/usefulness-search) — 为 AI-agents 提供更精准和及时的信息搜索工具。（门槛: 中）
 - **[评分: 7/10]** [Show HN: Malleable video editor that adapts to your workflow](https://github.com/iterative-computer/powermove) — AI赋能的视频编辑工具，满足个性化需求。（门槛: 低）
-- **[评分: 7/10]** [📣 #发现频道 被 80 个标签页逼疯后，我做了三款纯本地的 Edge](https://meta.appinn.net/t/topic/93428) — 开发本地运行的Edge浏览器插件，解决多标签页管理和数据提取问题。（门槛: 低）
 
 ### 🏷️ 跨境电商与出海独立站工具
 - **[评分: 8/10]** [Show HN: Proofsource. Find where AI leaves you out. And Fix it](https://proofsource.co/) — 利用AI分析AI引擎，帮助品牌提升在线可见性。（门槛: 中）
@@ -84,7 +84,6 @@
 - **[评分: 7/10]** [PostNitro for Agents](https://www.producthunt.com/products/postnitro) — 利用AI自动化社交媒体内容设计，解决跨境电商团队内容发布难题。（门槛: 低）
 - **[评分: 7/10]** [MentionBird is now live on Product Hunt! 🚀](https://www.reddit.com/r/SideProject/comments/1x4qb2h/mentionbird_is_now_live_on_product_hunt/) — 提升品牌在AI搜索平台的可见性（门槛: 低）
 - **[评分: 7/10]** [Show HN: NameDaemon, free .com domain tools built on the daily zone file](https://namedaemon.com/) — 提供免费域名工具，解决域名注册商日常操作痛点。（门槛: 低）
-- **[评分: 7/10]** [[codex 插件分享] 让 codex 更快、更省 token 的理解项目](https://www.v2ex.com/t/1248285) — 为智能编码工具提供项目代码管理插件，减少token浪费。（门槛: 低）
 
 ### 🏷️ 极窄场景的 Micro-AI 插件
 - **[评分: 8/10]** [Show HN: Halo – A Personal AI with On-Device Harness, Memory and Browser Agent](https://apps.apple.com/us/app/halo-personal-ai/id6783715054) — 端侧隐私 AI 助手，$49 终身买断，数据不出手机（门槛: 中）
@@ -103,6 +102,9 @@
 ### 🏷️ B2B 高客单数据抓取与精准名单
 - **[评分: 8/10]** [I scraped billions of TikTok videos and profiles by reverse engineering the mobile API. Here's how it works + source code](https://www.reddit.com/r/SaaS/comments/1wxoasb/i_scraped_billions_of_tiktok_videos_and_profiles/) — 逆向 TikTok 接口，把爆款趋势与达人名单做成付费数据 API（门槛: 高）
 - **[评分: 8/10]** [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) — 零 API 费抓取社媒，一键交付海外精准潜客名单（门槛: 中）
+
+### 🏷️ 非对称套利与窗口漏洞
+- **[评分: 7/10]** [做了个 Tibo 大神的 Codex 额度刷新雷达](https://www.v2ex.com/t/1248414) — 利用 Codex 额度刷新的窗口期，为开发者提供实时监控工具。（门槛: 低）
 
 
 ---
