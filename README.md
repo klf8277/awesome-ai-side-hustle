@@ -68,10 +68,9 @@
 - **[评分: 7/10]** [Upsolve Row-Level Security](https://www.producthunt.com/products/upsolve-ai) — 为企业提供AI代理数据权限控制解决方案。（门槛: 中）
 - **[评分: 7/10]** [CLI Manager](https://www.producthunt.com/products/cli-manager) — 自动化 CLI 管理工具，提升开发者工作效率。（门槛: 低）
 - **[评分: 7/10]** [What size PSU does your build need? 206-part catalog, 1.4x headroom math, 0 uploads, runs in your browser :)](https://www.reddit.com/r/SideProject/comments/1x4q84x/what_size_psu_does_your_build_need_206part/) — 为硬件构建者提供精确的PSU计算工具。（门槛: 低）
-- **[评分: 7/10]** [I wanted to rethink how we travel, so I built ROVIN - a travel app for planning, discovering, and connecting.](https://www.reddit.com/r/SideProject/comments/1x4q9do/i_wanted_to_rethink_how_we_travel_so_i_built/) — 为旅行者提供一站式旅行规划和社交平台。（门槛: 低）
-- **[评分: 7/10]** [Solo dev, small niche SaaS: mileage logging that mostly happens without the user](https://www.reddit.com/r/SaaS/comments/1x4ovn3/solo_dev_small_niche_saas_mileage_logging_that/) — 无需安装应用，自动记录里程，简化税务流程。（门槛: 低）
 
 ### 🏷️ 视频与动效代交付
+- **[评分: 7/10]** [Show HN: 4B VLM trained on 600k questions to query images in one pass](https://github.com/aditmag/dragonfly) — 通过一次图像分析回答多个问题，提供概率评分。（门槛: 低）
 - **[评分: 7/10]** [Show HN: Ret – An inbox and canvas for your Codex and Claude Code agents](https://getret.app/) — 为开发者提供便捷的AI代理管理工具。（门槛: 低）
 - **[评分: 7/10]** [Built a Jean Phil AI (jeanphilai.cc): 1 selfie → blond bowl cut + curled moustache deadpan short (Oui Madame.)](https://www.v2ex.com/t/1248408) — 利用 AI 制作 Jean Phil 风格视频，满足粉丝和创作者的需求。（门槛: 低）
 - **[评分: 7/10]** [Remocn Studio](https://www.producthunt.com/products/remocn-studio) — 为初创企业提供无需After Effects的演示动效制作工具。（门槛: 低）
@@ -84,16 +83,17 @@
 - **[评分: 7/10]** [PostNitro for Agents](https://www.producthunt.com/products/postnitro) — 利用AI自动化社交媒体内容设计，解决跨境电商团队内容发布难题。（门槛: 低）
 - **[评分: 7/10]** [MentionBird is now live on Product Hunt! 🚀](https://www.reddit.com/r/SideProject/comments/1x4qb2h/mentionbird_is_now_live_on_product_hunt/) — 提升品牌在AI搜索平台的可见性（门槛: 低）
 
+### 🏷️ 极窄场景的 Micro-AI 插件
+- **[评分: 8/10]** [Show HN: Halo – A Personal AI with On-Device Harness, Memory and Browser Agent](https://apps.apple.com/us/app/halo-personal-ai/id6783715054) — 端侧隐私 AI 助手，$49 终身买断，数据不出手机（门槛: 中）
+- **[评分: 8/10]** [Famulor](https://www.producthunt.com/products/famulor-telephony-ai) — 给本地商家搭AI电话+WhatsApp跟进客服，按月收费（门槛: 中）
+- **[评分: 8/10]** [Communicate](https://www.producthunt.com/products/communicate) — 垂直行业AI客服代理，知识库+人工接管月费变现（门槛: 中）
+- **[评分: 7/10]** [Show HN: Laya guard – a local check before your coding agent runs a command](https://github.com/scs0209/laya-guard) — 为开发者提供本地安全检查工具，防止命令执行风险。（门槛: 低）
+
 ### 🏷️ 七大高溢价赛道之一
 - **[评分: 7/10]** [thefuckplus 命令错误纠正插件](https://www.v2ex.com/t/1248446) — 利用AI技术提升命令行错误纠正工具的准确性和智能化。（门槛: 低）
 - **[评分: 7/10]** [Show HN: A skill to make Claude Code use Reference Points](https://github.com/SamHasler/skills/blob/main/plugins/reference-points/skills/reference-points/README.md) — 为 AI 开发者提供 Claude Code 的参考点技能插件，提升代码性能。（门槛: 低）
 - **[评分: 7/10]** [我测试出 Jev 的一个实用方向：给 AI Agent 做事实质检，进一步用在 RAG 核查](https://www.v2ex.com/t/1248392) — 利用AI进行事实核查，提高数据准确性。（门槛: 低）
 - **[评分: 7/10]** [OpenCode 2.0](https://www.producthunt.com/products/opencode) — 开源AI编码代理，提升开发者编程效率。（门槛: 中）
-
-### 🏷️ 极窄场景的 Micro-AI 插件
-- **[评分: 8/10]** [Show HN: Halo – A Personal AI with On-Device Harness, Memory and Browser Agent](https://apps.apple.com/us/app/halo-personal-ai/id6783715054) — 端侧隐私 AI 助手，$49 终身买断，数据不出手机（门槛: 中）
-- **[评分: 8/10]** [Famulor](https://www.producthunt.com/products/famulor-telephony-ai) — 给本地商家搭AI电话+WhatsApp跟进客服，按月收费（门槛: 中）
-- **[评分: 8/10]** [Communicate](https://www.producthunt.com/products/communicate) — 垂直行业AI客服代理，知识库+人工接管月费变现（门槛: 中）
 
 ### 🏷️ ⚡ 非对称套利与增长黑客
 - **[评分: 8/10]** [注册了一个美国公司，可以提供 Claude Code 团队订阅席位。](https://www.v2ex.com/t/1247029) — 美国公司主体代持 Claude 团队席位，按月转售给国内开发者（门槛: 中）
