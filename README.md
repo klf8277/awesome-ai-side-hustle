@@ -59,6 +59,9 @@
 - **[评分: 8/10]** [I run multiple $10K MRR companies on a $20/month tech stack](https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack) — $20 月成本跑出 $10K MRR 的极简技术栈拆解变现（门槛: 中）
 - **[评分: 8/10]** [My solopreneur story](https://news.tonydinh.com/p/my-solopreneur-story-zero-to-45kmo) — 单人从 0 到月入 4.5 万美元的可复制变现路径拆解（门槛: 中）
 - **[评分: 8/10]** [Show HN: After 2.5 years on my side project, it has hit £500/month revenue](https://news.ycombinator.com/item?id=25372464) — 音频私密分享SaaS，替代Bandcamp/SoundCloud的细分付费工具（门槛: 中）
+- **[评分: 7/10]** [[送码]从好用到爽用， Mu3ic 重磅更新，现已支持 Navidrome/Jellyfin/Emby](https://www.v2ex.com/t/1248530) — 为音乐爱好者提供跨平台音乐播放解决方案。（门槛: 低）
+- **[评分: 7/10]** [Show HN: OpenMCX – An open source mission critical communications stack](https://openmcx.com) — 为MCX网络标准化提供开源测试和研究工具。（门槛: 高）
+- **[评分: 7/10]** [Show HN: Mana – family organizer with an AI assistant](https://ourmana.app/) — 为家庭用户提供一站式家庭管理解决方案。（门槛: 中）
 - **[评分: 7/10]** [Show HN: Stream live open data in two commands](https://docs.hypermass.io/docs/cli/) — 提供无需注册的实时数据流订阅工具，简化数据获取。（门槛: 低）
 - **[评分: 7/10]** [Show HN: VM Explorer – Self-hosted Linux web UI (free for standalone nodes)](https://vm-explorer.com/) — 提供免费的自托管 Linux 服务器管理界面，解决管理员管理难题。（门槛: 低）
 - **[评分: 7/10]** [Show HN: Taskman – each ticket's Claude Code session, issue and PR in one TUI](https://github.com/sanagnos/taskman) — 为软件开发团队提供集成代码会话、问题报告和Pull Request的TUI工具，提升工作效率。（门槛: 中）
@@ -66,7 +69,6 @@
 - **[评分: 7/10]** [Show HN: Deep Recall – portable memory you own for Claude, ChatGPT and agents](https://getdeeprecall.com/) — 为人工智能模型用户提供可携带的记忆解决方案。（门槛: 中）
 - **[评分: 7/10]** [NanaAI 网站更新了](https://www.v2ex.com/t/1248473) — 利用AI打造个性化图像网站，解决用户特定需求。（门槛: 低）
 - **[评分: 7/10]** [Show HN: shadowclone, skills learned from your coding agent corrections](https://github.com/theonly1me/shadowclone) — 为多工具和多模型开发者提供自动化技能迁移工具。（门槛: 低）
-- **[评分: 7/10]** [I built an open-source alternative to LM Studio and Ollama. It's now public, and I'd love to build it with others](https://www.reddit.com/r/SideProject/comments/1x4r9mo/i_built_an_opensource_alternative_to_lm_studio/) — 为开发者提供一站式AI模型管理工具。（门槛: 低）
 
 ### 🏷️ 视频与动效代交付
 - **[评分: 7/10]** [Finally built the local STT app I've been wanting for years](https://www.reddit.com/r/SideProject/comments/1x4teib/finally_built_the_local_stt_app_ive_been_wanting/) — 为开发者提供本地语音转文本应用解决方案。（门槛: 低）
@@ -83,12 +85,6 @@
 - **[评分: 7/10]** [Show HN: MemorySync – Memory for AI Agents](https://memorysync.io/try) — 为AI代理提供记忆功能，解决跨对话记忆问题。（门槛: 低）
 - **[评分: 7/10]** [Show HN: Laya guard – a local check before your coding agent runs a command](https://github.com/scs0209/laya-guard) — 为开发者提供本地安全检查工具，防止命令执行风险。（门槛: 低）
 
-### 🏷️ 七大高溢价赛道之一
-- **[评分: 7/10]** [How to tell if a startup has a moat](https://www.lennysnewsletter.com/p/how-to-tell-if-a-startup-has-a-moat) — 为创业者提供评估公司持久性的框架或工具，帮助他们在选择加入公司时做出更明智的决策。（门槛: 高）
-- **[评分: 7/10]** [Show HN: Spotatui, a Spotify TUI/GUI without web API rate limits](https://github.com/LargeModGames/spotatui) — 为Spotify用户提供无API限制的本地播放解决方案。（门槛: 低）
-- **[评分: 7/10]** [thefuckplus 命令错误纠正插件](https://www.v2ex.com/t/1248446) — 利用AI技术提升命令行错误纠正工具的准确性和智能化。（门槛: 低）
-- **[评分: 7/10]** [Show HN: A skill to make Claude Code use Reference Points](https://github.com/SamHasler/skills/blob/main/plugins/reference-points/skills/reference-points/README.md) — 为 AI 开发者提供 Claude Code 的参考点技能插件，提升代码性能。（门槛: 低）
-
 ### 🏷️ 跨境电商与出海独立站工具
 - **[评分: 8/10]** [Show HN: Proofsource. Find where AI leaves you out. And Fix it](https://proofsource.co/) — 利用AI分析AI引擎，帮助品牌提升在线可见性。（门槛: 中）
 - **[评分: 8/10]** [Bootstrapping to €600k MRR and getting killed by Shopify: Checkout X](https://www.leteyski.com/bootstrapping-to-600k-mrr-and-getting-killed-by-shopify-the-story-of-checkout-x) — 独立站结账优化插件，€600k MRR 验证刚需（门槛: 高）
@@ -101,6 +97,10 @@
 ### 🏷️ B2B 高客单数据抓取与精准名单
 - **[评分: 8/10]** [I scraped billions of TikTok videos and profiles by reverse engineering the mobile API. Here's how it works + source code](https://www.reddit.com/r/SaaS/comments/1wxoasb/i_scraped_billions_of_tiktok_videos_and_profiles/) — 逆向 TikTok 接口，把爆款趋势与达人名单做成付费数据 API（门槛: 高）
 - **[评分: 8/10]** [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) — 零 API 费抓取社媒，一键交付海外精准潜客名单（门槛: 中）
+
+### 🏷️ 七大高溢价赛道之一
+- **[评分: 7/10]** [How to tell if a startup has a moat](https://www.lennysnewsletter.com/p/how-to-tell-if-a-startup-has-a-moat) — 为创业者提供评估公司持久性的框架或工具，帮助他们在选择加入公司时做出更明智的决策。（门槛: 高）
+- **[评分: 7/10]** [Show HN: Spotatui, a Spotify TUI/GUI without web API rate limits](https://github.com/LargeModGames/spotatui) — 为Spotify用户提供无API限制的本地播放解决方案。（门槛: 低）
 
 ### 🏷️ 国学文化数字化与情绪消费
 - **[评分: 7/10]** [📣 #发现频道 时光助手：不是又一个时间管理工具，而是陪你走完「规划→](https://meta.appinn.net/t/topic/93472) — 提供个性化时间管理闭环工具，满足用户对时间管理的全面需求。（门槛: 低）
