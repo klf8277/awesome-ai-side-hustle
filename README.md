@@ -68,21 +68,19 @@
 - **[评分: 7/10]** [I built tincan: let your coding agent talk to your teammate's coding agent, peer to peer (free, open source)](https://www.reddit.com/r/SideProject/comments/1x4dci1/i_built_tincan_let_your_coding_agent_talk_to_your/) — 为软件开发团队提供无需服务器和账户的 peer-to-peer 编码代理沟通工具。（门槛: 低）
 - **[评分: 7/10]** [Show HN: Ramet – Persistent, forkable workspaces for AI agents](https://github.com/shenli/ramet) — 为 AI 代理提供持久工作空间，满足自动化工作流需求。（门槛: 中）
 
+### 🏷️ 跨境电商与出海独立站工具
+- **[评分: 8/10]** [Bootstrapping to €600k MRR and getting killed by Shopify: Checkout X](https://www.leteyski.com/bootstrapping-to-600k-mrr-and-getting-killed-by-shopify-the-story-of-checkout-x) — 独立站结账优化插件，€600k MRR 验证刚需（门槛: 高）
+- **[评分: 7/10]** [[codex 插件分享] 让 codex 更快、更省 token 的理解项目](https://www.v2ex.com/t/1248285) — 为智能编码工具提供项目代码管理插件，减少token浪费。（门槛: 低）
+- **[评分: 7/10]** [做了个域名综合检测功能，输入域名一键诊断并给出评分，来试试你的网站能得多少分](https://www.nodeseek.com/post-979830-1) — 提供一键网站综合检测工具，帮助网站所有者提升网站安全性和可用性。（门槛: 低）
+- **[评分: 7/10]** [I built 12 free browser tools for app developers (icons, screenshots, privacy policy…). Nothing gets uploaded](https://www.reddit.com/r/SideProject/comments/1x4i10u/i_built_12_free_browser_tools_for_app_developers/) — 为 App 开发者提供一站式应用商店上架工具。（门槛: 低）
+- **[评分: 7/10]** [hidane - a Firestore emulator without Java, tested against the official one](https://www.reddit.com/r/SideProject/comments/1x4jp00/hidane_a_firestore_emulator_without_java_tested/) — 提供更高效、轻量级的 Firestore 模拟器，解决测试效率问题。（门槛: 低）
+- **[评分: 7/10]** [DuperMail brings Gmail's keyboard shortcuts (and more) to Apple Mail](https://www.reddit.com/r/SideProject/comments/1x4cjm9/dupermail_brings_gmails_keyboard_shortcuts_and/) — 为 Apple Mail 用户提供 Gmail 风格的快捷键，提升邮件处理效率。（门槛: 低）
+
 ### 🏷️ 非对称套利与窗口漏洞
 - **[评分: 7/10]** [saily现在可以注册实体卡了，刚弄了一个查了显示cell Phone](https://www.nodeseek.com/post-979675-1) — 利用saily平台注册实体卡，通过GCP优惠码降低成本进行套利。（门槛: 低）
 - **[评分: 7/10]** [好爽，最近 codex sol 超长上下文价格减半，我直接开五路 512k 上下文，全程不需要压缩，看着项目各个模块以不可思议的速度完成，最后 claude 润色收尾](https://www.nodeseek.com/post-979661-1) — 利用 Codex Sol 价格窗口，通过增加处理能力加速项目开发，实现个人效率提升和成本节约。（门槛: 低）
 - **[评分: 7/10]** [最近emby出了个大漏洞](https://www.nodeseek.com/post-979666-1) — 提供针对emby服务器安全漏洞的解决方案，如安全插件或防护服务。（门槛: 低）
 - **[评分: 7/10]** [只要一到凌晨，codex和claude额度消耗明显变快啊](https://www.nodeseek.com/post-979657-1) — 利用AI平台额度高峰时段套利（门槛: 低）
-- **[评分: 7/10]** [把反重力反代出来了，给Hermes用好爽啊](https://www.nodeseek.com/post-979653-1) — 利用反重力模型套利Hermes服务，窗口期存在。（门槛: 低）
-- **[评分: 7/10]** [升级到 pro 后，gpt 6.1 sol 的输出快了很多](https://www.nodeseek.com/post-979654-1) — 提供比现有AI工具更快的输出速度，吸引付费用户（门槛: 低）
-- **[评分: 7/10]** [Claude原来比GPT便宜](https://www.nodeseek.com/post-979644-1) — 利用Claude价格优势进行套利。（门槛: 低）
-
-### 🏷️ 跨境电商与出海独立站工具
-- **[评分: 8/10]** [Bootstrapping to €600k MRR and getting killed by Shopify: Checkout X](https://www.leteyski.com/bootstrapping-to-600k-mrr-and-getting-killed-by-shopify-the-story-of-checkout-x) — 独立站结账优化插件，€600k MRR 验证刚需（门槛: 高）
-- **[评分: 7/10]** [做了个域名综合检测功能，输入域名一键诊断并给出评分，来试试你的网站能得多少分](https://www.nodeseek.com/post-979830-1) — 提供一键网站综合检测工具，帮助网站所有者提升网站安全性和可用性。（门槛: 低）
-- **[评分: 7/10]** [I built 12 free browser tools for app developers (icons, screenshots, privacy policy…). Nothing gets uploaded](https://www.reddit.com/r/SideProject/comments/1x4i10u/i_built_12_free_browser_tools_for_app_developers/) — 为 App 开发者提供一站式应用商店上架工具。（门槛: 低）
-- **[评分: 7/10]** [hidane - a Firestore emulator without Java, tested against the official one](https://www.reddit.com/r/SideProject/comments/1x4jp00/hidane_a_firestore_emulator_without_java_tested/) — 提供更高效、轻量级的 Firestore 模拟器，解决测试效率问题。（门槛: 低）
-- **[评分: 7/10]** [DuperMail brings Gmail's keyboard shortcuts (and more) to Apple Mail](https://www.reddit.com/r/SideProject/comments/1x4cjm9/dupermail_brings_gmails_keyboard_shortcuts_and/) — 为 Apple Mail 用户提供 Gmail 风格的快捷键，提升邮件处理效率。（门槛: 低）
 
 ### 🏷️ 极窄场景的 Micro-AI 插件
 - **[评分: 8/10]** [Show HN: Halo – A Personal AI with On-Device Harness, Memory and Browser Agent](https://apps.apple.com/us/app/halo-personal-ai/id6783715054) — 端侧隐私 AI 助手，$49 终身买断，数据不出手机（门槛: 中）
@@ -96,6 +94,10 @@
 ### 🏷️ B2B 高客单数据抓取与精准名单
 - **[评分: 8/10]** [I scraped billions of TikTok videos and profiles by reverse engineering the mobile API. Here's how it works + source code](https://www.reddit.com/r/SaaS/comments/1wxoasb/i_scraped_billions_of_tiktok_videos_and_profiles/) — 逆向 TikTok 接口，把爆款趋势与达人名单做成付费数据 API（门槛: 高）
 - **[评分: 8/10]** [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) — 零 API 费抓取社媒，一键交付海外精准潜客名单（门槛: 中）
+
+### 🏷️ 七大高溢价赛道之一
+- **[评分: 7/10]** [拨雾 FogAway —— 会回放的足迹日记｜送码](https://www.v2ex.com/t/1248281) — iPhone 用户付费的足迹日记应用。（门槛: 低）
+- **[评分: 7/10]** [claude 桌面端根据任务难度拆分发送任务给 codex 执行，并且完成后审核](https://www.v2ex.com/t/1248291) — 为开发者提供 Codex 和 Claude 桌面端之间的任务协作工具。（门槛: 低）
 
 ### 🏷️ 视频与动效代交付
 - **[评分: 7/10]** [Show HN: Skyloons pop the Balloons – Android arcade game built with Reactnative](https://play.google.com/store/apps/details?id=com.maniar.balloonpopquest&hl=en_US) — 利用 Reactnative 开发 Android 游戏实现快速变现（门槛: 低）
