@@ -36,6 +36,7 @@
 
 | 评分 | 标杆项目 / 原型 | 赛道 | 门槛 | 商业研判与一句话逻辑 | 原始链接 | 完整研报 |
 |---|---|---|---|---|---|---|
+| **⭐️ 8/10** | **I just hit $100K with my SaaS as a 22-year-old solo founder. Started with $100** | `B2B 高客单数据抓取与精准名单` | 中 | AI抓取清洗B2B线索，卖精准获客名单与触达工作流 | [🔗 来源](https://www.reddit.com/r/SaaS/comments/1x5vy9i/i_just_hit_100k_with_my_saas_as_a_22yearold_solo/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 8/10** | **I built a family location app that doesn&#x27;t keep history — today it got an Apple Watch app** | `极窄场景的 Micro-AI 插件` | 中 | 隐私家庭定位月订阅 | [🔗 来源](https://www.reddit.com/r/SideProject/comments/1x5q9kf/i_built_a_family_location_app_that_doesnt_keep/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 8/10** | **Launch HN: Consus (YC F24) – LLM gateway for companies handling sensitive data** | `跨境电商与出海独立站工具` | 高 | 为航空航天和国防公司提供符合ITAR和FedRAMP标准的AI服务。 | [🔗 来源](https://news.ycombinator.com/item?id=50073471) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 8/10** | **Show HN: Proofsource. Find where AI leaves you out. And Fix it** | `跨境电商与出海独立站工具` | 中 | 利用AI分析AI引擎，帮助品牌提升在线可见性。 | [🔗 来源](https://proofsource.co/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
@@ -45,7 +46,6 @@
 | **⭐️ 8/10** | **Show HN: Halo – A Personal AI with On-Device Harness, Memory and Browser Agent** | `极窄场景的 Micro-AI 插件` | 中 | 端侧隐私 AI 助手，$49 终身买断，数据不出手机 | [🔗 来源](https://apps.apple.com/us/app/halo-personal-ai/id6783715054) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 8/10** | **I scraped billions of TikTok videos and profiles by reverse engineering the mobile API. Here&#x27;s how it works + source code** | `B2B 高客单数据抓取与精准名单` | 高 | 逆向 TikTok 接口，把爆款趋势与达人名单做成付费数据 API | [🔗 来源](https://www.reddit.com/r/SaaS/comments/1wxoasb/i_scraped_billions_of_tiktok_videos_and_profiles/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 8/10** | **Simple Analytics hits $4k MRR and shares its numbers** | `垂直数字资产与全自动工作流模板` | 中 | 隐私优先轻量网站分析，$4k MRR可复制 | [🔗 来源](https://simpleanalytics.com/open) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
-| **⭐️ 8/10** | **6 months in and $1k MRR: my biggest mistakes so far** | `垂直数字资产与全自动工作流模板` | 中 | 个人财务SaaS半年做到$1k MRR的复盘 | [🔗 来源](https://lunchbag.ca/lunch-money-mistakes/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 
 ---
 
@@ -69,13 +69,6 @@
 - **[评分: 7/10]** [开发日志：为了把窗口送回「原来的桌面」，我把 macOS 的私有接口翻了一遍](https://www.v2ex.com/t/1248769) — 开发跨桌面窗口管理工具，解决桌面布局恢复难题。（门槛: 高）
 - **[评分: 7/10]** [Show HN: A guided 3D Leonardo da Vinci museum, built in code](https://museumofages.org/w/vinci) — 利用技术创建垂直领域数字博物馆，满足教育和文化机构的展示需求。（门槛: 低）
 
-### 🏷️ 跨境电商与出海独立站工具
-- **[评分: 8/10]** [Launch HN: Consus (YC F24) – LLM gateway for companies handling sensitive data](https://news.ycombinator.com/item?id=50073471) — 为航空航天和国防公司提供符合ITAR和FedRAMP标准的AI服务。（门槛: 高）
-- **[评分: 8/10]** [Show HN: Proofsource. Find where AI leaves you out. And Fix it](https://proofsource.co/) — 利用AI分析AI引擎，帮助品牌提升在线可见性。（门槛: 中）
-- **[评分: 8/10]** [Bootstrapping to €600k MRR and getting killed by Shopify: Checkout X](https://www.leteyski.com/bootstrapping-to-600k-mrr-and-getting-killed-by-shopify-the-story-of-checkout-x) — 独立站结账优化插件，€600k MRR 验证刚需（门槛: 高）
-- **[评分: 7/10]** [I made a simple web tool to help with the EU AI Act image labeling rules](https://www.reddit.com/r/SideProject/comments/1x5kwgu/i_made_a_simple_web_tool_to_help_with_the_eu_ai/) — 为欧盟AI法案合规提供简单易用的图像标记工具。（门槛: 低）
-- **[评分: 7/10]** [SlashDocs by Razorpay](https://www.producthunt.com/products/razorpay) — 提供自托管HTML讨论协作层，解决电子商务和客服团队工具缺口。（门槛: 低）
-
 ### 🏷️ 七大高溢价赛道之一
 - **[评分: 7/10]** [Epherem](https://www.producthunt.com/products/epherem) — 为 AI 应用开发者提供安全漏洞检测工具（门槛: 中）
 - **[评分: 7/10]** [I built a tool that roasts cliché portfolio projects and predicts the trap questions interviewers will ask](https://www.reddit.com/r/SideProject/comments/1x5m7m2/i_built_a_tool_that_roasts_cliché_portfolio/) — 通过分析项目，预测面试中可能遇到的技术问题。（门槛: 低）
@@ -89,21 +82,28 @@
 - **[评分: 8/10]** [Famulor](https://www.producthunt.com/products/famulor-telephony-ai) — 给本地商家搭AI电话+WhatsApp跟进客服，按月收费（门槛: 中）
 - **[评分: 8/10]** [Communicate](https://www.producthunt.com/products/communicate) — 垂直行业AI客服代理，知识库+人工接管月费变现（门槛: 中）
 
+### 🏷️ 跨境电商与出海独立站工具
+- **[评分: 8/10]** [Launch HN: Consus (YC F24) – LLM gateway for companies handling sensitive data](https://news.ycombinator.com/item?id=50073471) — 为航空航天和国防公司提供符合ITAR和FedRAMP标准的AI服务。（门槛: 高）
+- **[评分: 8/10]** [Show HN: Proofsource. Find where AI leaves you out. And Fix it](https://proofsource.co/) — 利用AI分析AI引擎，帮助品牌提升在线可见性。（门槛: 中）
+- **[评分: 8/10]** [Bootstrapping to €600k MRR and getting killed by Shopify: Checkout X](https://www.leteyski.com/bootstrapping-to-600k-mrr-and-getting-killed-by-shopify-the-story-of-checkout-x) — 独立站结账优化插件，€600k MRR 验证刚需（门槛: 高）
+- **[评分: 7/10]** [I made a simple web tool to help with the EU AI Act image labeling rules](https://www.reddit.com/r/SideProject/comments/1x5kwgu/i_made_a_simple_web_tool_to_help_with_the_eu_ai/) — 为欧盟AI法案合规提供简单易用的图像标记工具。（门槛: 低）
+
+### 🏷️ B2B 高客单数据抓取与精准名单
+- **[评分: 8/10]** [I just hit $100K with my SaaS as a 22-year-old solo founder. Started with $100](https://www.reddit.com/r/SaaS/comments/1x5vy9i/i_just_hit_100k_with_my_saas_as_a_22yearold_solo/) — AI抓取清洗B2B线索，卖精准获客名单与触达工作流（门槛: 中）
+- **[评分: 8/10]** [I scraped billions of TikTok videos and profiles by reverse engineering the mobile API. Here's how it works + source code](https://www.reddit.com/r/SaaS/comments/1wxoasb/i_scraped_billions_of_tiktok_videos_and_profiles/) — 逆向 TikTok 接口，把爆款趋势与达人名单做成付费数据 API（门槛: 高）
+- **[评分: 8/10]** [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) — 零 API 费抓取社媒，一键交付海外精准潜客名单（门槛: 中）
+
 ### 🏷️ 视频与动效代交付
 - **[评分: 7/10]** [做了一个 Ghostty fork，优化 SSH 远程开发和 Agent CLI 工作流](https://www.v2ex.com/t/1248766) — 为开发者提供更便捷的 SSH 和 Agent 工作流工具。（门槛: 低）
 - **[评分: 7/10]** [发现一个浏览器端的 AI 视频去物工具](https://www.v2ex.com/t/1248784) — AI视频去物工具，解决视频编辑去杂需求。（门槛: 低）
 - **[评分: 7/10]** [h3price ai：基于 Nano Banana 2.1 的 AI 图像生成与编辑工具](https://www.v2ex.com/t/1248763) — AI 图像生成与编辑工具，降低图像制作门槛。（门槛: 低）
-- **[评分: 7/10]** [SupoClip](https://www.producthunt.com/products/supoclip) — 利用 AI 技术简化长视频剪辑，满足社交媒体内容创作者的需求。（门槛: 低）
 
 ### 🏷️ ⚡ 非对称套利与增长黑客
 - **[评分: 8/10]** [注册了一个美国公司，可以提供 Claude Code 团队订阅席位。](https://www.v2ex.com/t/1247029) — 美国公司主体代持 Claude 团队席位，按月转售给国内开发者（门槛: 中）
 - **[评分: 8/10]** [🦙 Claude AI 创业公司计划 — 12个月 Pro Team + $1,000 API Credits](https://www.nodeseek.com/post-969760-1) — 白嫖Claude官方12个月会员+千刀API额度，最高撬10万（门槛: 低）
 
-### 🏷️ B2B 高客单数据抓取与精准名单
-- **[评分: 8/10]** [I scraped billions of TikTok videos and profiles by reverse engineering the mobile API. Here's how it works + source code](https://www.reddit.com/r/SaaS/comments/1wxoasb/i_scraped_billions_of_tiktok_videos_and_profiles/) — 逆向 TikTok 接口，把爆款趋势与达人名单做成付费数据 API（门槛: 高）
-- **[评分: 8/10]** [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) — 零 API 费抓取社媒，一键交付海外精准潜客名单（门槛: 中）
-
 ### 🏷️ 国学文化数字化与情绪消费
+- **[评分: 7/10]** [I made Abvy: a beautiful drinking and BAC tracker](https://www.reddit.com/r/SideProject/comments/1x5zbfp/i_made_abvy_a_beautiful_drinking_and_bac_tracker/) — 做饮酒BAC预测与记录订阅工具（门槛: 中）
 - **[评分: 7/10]** [Orbora](https://www.producthunt.com/products/orbora) — 提供个性化引导音频，满足国学文化数字化和情绪消费需求（门槛: 低）
 
 
