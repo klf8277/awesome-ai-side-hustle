@@ -36,6 +36,7 @@
 
 | 评分 | 标杆项目 / 原型 | 赛道 | 门槛 | 商业研判与一句话逻辑 | 原始链接 | 完整研报 |
 |---|---|---|---|---|---|---|
+| **⭐️ 8/10** | **I built a family location app that doesn&#x27;t keep history — today it got an Apple Watch app** | `极窄场景的 Micro-AI 插件` | 中 | 隐私家庭定位月订阅 | [🔗 来源](https://www.reddit.com/r/SideProject/comments/1x5q9kf/i_built_a_family_location_app_that_doesnt_keep/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 8/10** | **Launch HN: Consus (YC F24) – LLM gateway for companies handling sensitive data** | `跨境电商与出海独立站工具` | 高 | 为航空航天和国防公司提供符合ITAR和FedRAMP标准的AI服务。 | [🔗 来源](https://news.ycombinator.com/item?id=50073471) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 8/10** | **Show HN: Proofsource. Find where AI leaves you out. And Fix it** | `跨境电商与出海独立站工具` | 中 | 利用AI分析AI引擎，帮助品牌提升在线可见性。 | [🔗 来源](https://proofsource.co/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 8/10** | **注册了一个美国公司，可以提供 Claude Code 团队订阅席位。** | `⚡ 非对称套利与增长黑客` | 中 | 美国公司主体代持 Claude 团队席位，按月转售给国内开发者 | [🔗 来源](https://www.v2ex.com/t/1247029) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
@@ -45,7 +46,6 @@
 | **⭐️ 8/10** | **I scraped billions of TikTok videos and profiles by reverse engineering the mobile API. Here&#x27;s how it works + source code** | `B2B 高客单数据抓取与精准名单` | 高 | 逆向 TikTok 接口，把爆款趋势与达人名单做成付费数据 API | [🔗 来源](https://www.reddit.com/r/SaaS/comments/1wxoasb/i_scraped_billions_of_tiktok_videos_and_profiles/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 8/10** | **Simple Analytics hits $4k MRR and shares its numbers** | `垂直数字资产与全自动工作流模板` | 中 | 隐私优先轻量网站分析，$4k MRR可复制 | [🔗 来源](https://simpleanalytics.com/open) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 | **⭐️ 8/10** | **6 months in and $1k MRR: my biggest mistakes so far** | `垂直数字资产与全自动工作流模板` | 中 | 个人财务SaaS半年做到$1k MRR的复盘 | [🔗 来源](https://lunchbag.ca/lunch-money-mistakes/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
-| **⭐️ 8/10** | **My 2 Year Journey to $10K MRR** | `垂直数字资产与全自动工作流模板` | 中 | API化图片视频自动生成工具，2年做到$10K MRR | [🔗 来源](https://www.bannerbear.com/journey-to-10k-mrr/) | [🛰️ 雷达报告](https://hub.apiops.cloud/zh/radar/) |
 
 ---
 
@@ -68,7 +68,6 @@
 - **[评分: 7/10]** [I made receipt scanning ~5× faster in my open-source expense-sharing app](https://www.reddit.com/r/SideProject/comments/1x5mhqv/i_made_receipt_scanning_5_faster_in_my_opensource/) — 通过优化收据扫描速度，提升开源费用共享应用的用户体验。（门槛: 低）
 - **[评分: 7/10]** [开发日志：为了把窗口送回「原来的桌面」，我把 macOS 的私有接口翻了一遍](https://www.v2ex.com/t/1248769) — 开发跨桌面窗口管理工具，解决桌面布局恢复难题。（门槛: 高）
 - **[评分: 7/10]** [Show HN: A guided 3D Leonardo da Vinci museum, built in code](https://museumofages.org/w/vinci) — 利用技术创建垂直领域数字博物馆，满足教育和文化机构的展示需求。（门槛: 低）
-- **[评分: 7/10]** [Make0 Brain](https://www.producthunt.com/products/make0-brain) — 为 AI 代理提供跨平台数据存储解决方案。（门槛: 中）
 
 ### 🏷️ 跨境电商与出海独立站工具
 - **[评分: 8/10]** [Launch HN: Consus (YC F24) – LLM gateway for companies handling sensitive data](https://news.ycombinator.com/item?id=50073471) — 为航空航天和国防公司提供符合ITAR和FedRAMP标准的AI服务。（门槛: 高）
@@ -84,16 +83,17 @@
 - **[评分: 7/10]** [Show HN: Agent Identity – Identity and communication infrastructure for AI agent](https://www.agent-identity.dev/) — 为 AI 代理提供身份和通信基础设施。（门槛: 高）
 - **[评分: 7/10]** [Etchv](https://www.producthunt.com/products/etchv) — 提供图像、PDF和视频不可见水印API，满足版权保护和追踪需求。（门槛: 中）
 
+### 🏷️ 极窄场景的 Micro-AI 插件
+- **[评分: 8/10]** [I built a family location app that doesn't keep history — today it got an Apple Watch app](https://www.reddit.com/r/SideProject/comments/1x5q9kf/i_built_a_family_location_app_that_doesnt_keep/) — 隐私家庭定位月订阅（门槛: 中）
+- **[评分: 8/10]** [Show HN: Halo – A Personal AI with On-Device Harness, Memory and Browser Agent](https://apps.apple.com/us/app/halo-personal-ai/id6783715054) — 端侧隐私 AI 助手，$49 终身买断，数据不出手机（门槛: 中）
+- **[评分: 8/10]** [Famulor](https://www.producthunt.com/products/famulor-telephony-ai) — 给本地商家搭AI电话+WhatsApp跟进客服，按月收费（门槛: 中）
+- **[评分: 8/10]** [Communicate](https://www.producthunt.com/products/communicate) — 垂直行业AI客服代理，知识库+人工接管月费变现（门槛: 中）
+
 ### 🏷️ 视频与动效代交付
 - **[评分: 7/10]** [做了一个 Ghostty fork，优化 SSH 远程开发和 Agent CLI 工作流](https://www.v2ex.com/t/1248766) — 为开发者提供更便捷的 SSH 和 Agent 工作流工具。（门槛: 低）
 - **[评分: 7/10]** [发现一个浏览器端的 AI 视频去物工具](https://www.v2ex.com/t/1248784) — AI视频去物工具，解决视频编辑去杂需求。（门槛: 低）
 - **[评分: 7/10]** [h3price ai：基于 Nano Banana 2.1 的 AI 图像生成与编辑工具](https://www.v2ex.com/t/1248763) — AI 图像生成与编辑工具，降低图像制作门槛。（门槛: 低）
 - **[评分: 7/10]** [SupoClip](https://www.producthunt.com/products/supoclip) — 利用 AI 技术简化长视频剪辑，满足社交媒体内容创作者的需求。（门槛: 低）
-
-### 🏷️ 极窄场景的 Micro-AI 插件
-- **[评分: 8/10]** [Show HN: Halo – A Personal AI with On-Device Harness, Memory and Browser Agent](https://apps.apple.com/us/app/halo-personal-ai/id6783715054) — 端侧隐私 AI 助手，$49 终身买断，数据不出手机（门槛: 中）
-- **[评分: 8/10]** [Famulor](https://www.producthunt.com/products/famulor-telephony-ai) — 给本地商家搭AI电话+WhatsApp跟进客服，按月收费（门槛: 中）
-- **[评分: 8/10]** [Communicate](https://www.producthunt.com/products/communicate) — 垂直行业AI客服代理，知识库+人工接管月费变现（门槛: 中）
 
 ### 🏷️ ⚡ 非对称套利与增长黑客
 - **[评分: 8/10]** [注册了一个美国公司，可以提供 Claude Code 团队订阅席位。](https://www.v2ex.com/t/1247029) — 美国公司主体代持 Claude 团队席位，按月转售给国内开发者（门槛: 中）
