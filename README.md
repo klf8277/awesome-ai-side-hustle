@@ -59,6 +59,8 @@
 - **[评分: 8/10]** [I run multiple $10K MRR companies on a $20/month tech stack](https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack) — $20 月成本跑出 $10K MRR 的极简技术栈拆解变现（门槛: 中）
 - **[评分: 8/10]** [My solopreneur story](https://news.tonydinh.com/p/my-solopreneur-story-zero-to-45kmo) — 单人从 0 到月入 4.5 万美元的可复制变现路径拆解（门槛: 中）
 - **[评分: 8/10]** [Show HN: After 2.5 years on my side project, it has hit £500/month revenue](https://news.ycombinator.com/item?id=25372464) — 音频私密分享SaaS，替代Bandcamp/SoundCloud的细分付费工具（门槛: 中）
+- **[评分: 7/10]** [Make0 Brain](https://www.producthunt.com/products/make0-brain) — 为 AI 代理提供跨平台数据存储解决方案。（门槛: 中）
+- **[评分: 7/10]** [Hindsight 1.0 + Memlake](https://www.producthunt.com/products/vectorize) — 为AI代理提供开源记忆库，提升AI学习效率。（门槛: 中）
 - **[评分: 7/10]** [体检年年做，去年尿酸多少却想不起来，于是写了个 App「指标本」](https://www.v2ex.com/t/1248689) — 为个人用户提供便捷的体检指标管理工具。（门槛: 低）
 - **[评分: 7/10]** [[开源 iOS App] TokenPulse：查看 78 个 AI 服务的套餐额度与余额，接收 Codex 重置预告](https://www.v2ex.com/t/1248696) — 为AI服务用户提供一站式管理平台，解决多服务切换和管理难题。（门槛: 低）
 - **[评分: 7/10]** [vibe coding 折腾了个开源的 NAS 工具 OpenLucky，做 DDNS、反代和证书管理](https://www.v2ex.com/t/1248671) — 为NAS用户提供开源DDNS、反代和证书管理工具。（门槛: 低）
@@ -67,13 +69,11 @@
 - **[评分: 7/10]** [We built an AI agent that works inside a website's real user session](https://www.reddit.com/r/SideProject/comments/1x5gg5z/we_built_an_ai_agent_that_works_inside_a_websites/) — 为企业网站定制AI代理，提高工作流程自动化。（门槛: 中）
 - **[评分: 7/10]** [📣 #发现频道 【开发者自荐】Moment：在 Mac 上整理多账户资](https://meta.appinn.net/t/topic/93509) — 为个人投资者提供多账户资产整理工具，简化投资管理。（门槛: 低）
 - **[评分: 7/10]** [用 MyGO 重构一切，这次带来全新的 Quosparr，原生状态栏 AI 额度用量监控桌面端](https://www.v2ex.com/t/1248565) — 为开发者提供跨平台原生应用监控工具。（门槛: 中）
-- **[评分: 7/10]** [I built a free daily AI news digest (web, iOS, Android, Slack bot) and a Claude Code routine runs the newsroom](https://www.reddit.com/r/SideProject/comments/1x5c0u7/i_built_a_free_daily_ai_news_digest_web_ios/) — 提供免费 AI 新闻摘要服务，满足特定用户需求。（门槛: 低）
-- **[评分: 7/10]** [Show HN: Fresh cleanup and reset a project after coding agent prs](https://github.com/Obedience-Corp/fresh) — 为开发者提供自动化代码清理和项目重置工具。（门槛: 低）
-- **[评分: 7/10]** [Carry-On: 换 AI 订阅，不丢记忆。](https://www.v2ex.com/t/1248559) — 提供跨平台 AI 记忆迁移工具，解决用户痛点。（门槛: 低）
-- **[评分: 7/10]** [Show HN: Sugabots – Group chats where your team and AI agents work together](https://sugabots.ai/) — 为企业内部团队提供AI协同的共享聊天工具，提高工作效率。（门槛: 中）
-- **[评分: 7/10]** [1month in and these are the web numbers alongside 3.5k+ npm downloads](https://www.reddit.com/r/SaaS/comments/1x59sgn/1month_in_and_these_are_the_web_numbers_alongside/) — 为 Claude Code + Codex 用户开发优化工具，降低使用成本。（门槛: 低）
 
 ### 🏷️ 视频与动效代交付
+- **[评分: 7/10]** [SupoClip](https://www.producthunt.com/products/supoclip) — 利用 AI 技术简化长视频剪辑，满足社交媒体内容创作者的需求。（门槛: 低）
+- **[评分: 7/10]** [I made a Chrome extension to control video speed from the keyboard](https://www.reddit.com/r/SideProject/comments/1x5i86m/i_made_a_chrome_extension_to_control_video_speed/) — 为视频观看者提供便捷的视频速度控制扩展程序。（门槛: 低）
+- **[评分: 7/10]** [I built Kevick to help vibe coders examine their apps before launch](https://www.reddit.com/r/SaaS/comments/1x5k9iu/i_built_kevick_to_help_vibe_coders_examine_their/) — 为开发者提供应用程序发布准备检查工具。（门槛: 低）
 - **[评分: 7/10]** [I produced a free Adobe Animate alternative](https://www.reddit.com/r/SideProject/comments/1x5etw8/i_produced_a_free_adobe_animate_alternative/) — 提供免费 Adobe Animate 替代品，吸引付费用户。（门槛: 低）
 - **[评分: 7/10]** [I built a tool because my colleagues were getting sick of reviewing all my PRs](https://www.reddit.com/r/SideProject/comments/1x5fzj7/i_built_a_tool_because_my_colleagues_were_getting/) — 为开发团队提供自动化代码审查工具，提高审查效率。（门槛: 低）
 - **[评分: 7/10]** [Built the easiest way to convert any link/pdf/document into an explainer video](https://www.reddit.com/r/SideProject/comments/1x5e47i/built_the_easiest_way_to_convert_any/) — 将文档/链接一键转换为解释性视频，助力内容创作者。（门槛: 低）
@@ -85,8 +85,8 @@
 - **[评分: 8/10]** [Launch HN: Consus (YC F24) – LLM gateway for companies handling sensitive data](https://news.ycombinator.com/item?id=50073471) — 为航空航天和国防公司提供符合ITAR和FedRAMP标准的AI服务。（门槛: 高）
 - **[评分: 8/10]** [Show HN: Proofsource. Find where AI leaves you out. And Fix it](https://proofsource.co/) — 利用AI分析AI引擎，帮助品牌提升在线可见性。（门槛: 中）
 - **[评分: 8/10]** [Bootstrapping to €600k MRR and getting killed by Shopify: Checkout X](https://www.leteyski.com/bootstrapping-to-600k-mrr-and-getting-killed-by-shopify-the-story-of-checkout-x) — 独立站结账优化插件，€600k MRR 验证刚需（门槛: 高）
+- **[评分: 7/10]** [SlashDocs by Razorpay](https://www.producthunt.com/products/razorpay) — 提供自托管HTML讨论协作层，解决电子商务和客服团队工具缺口。（门槛: 低）
 - **[评分: 7/10]** [Show HN: GenClass, A 10 MB in-browser model that catches bugs that never throw](https://www.npmjs.com/package/@genclass/runtime) — 为AI生成电商代码提供实时bug检测工具。（门槛: 低）
-- **[评分: 7/10]** [深度云海完成千万级天使轮融资，前百度搜索团队创办｜36氪首发](https://36kr.com/p/4023041152585603?f=rss) — 为企业提供GEO RaaS系统和DeepWork桌面端产品，助力AI营销。（门槛: 中）
 
 ### 🏷️ 极窄场景的 Micro-AI 插件
 - **[评分: 8/10]** [Show HN: Halo – A Personal AI with On-Device Harness, Memory and Browser Agent](https://apps.apple.com/us/app/halo-personal-ai/id6783715054) — 端侧隐私 AI 助手，$49 终身买断，数据不出手机（门槛: 中）
