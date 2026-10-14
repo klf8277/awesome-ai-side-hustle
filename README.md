@@ -59,6 +59,10 @@
 - **[评分: 8/10]** [I run multiple $10K MRR companies on a $20/month tech stack](https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack) — $20 月成本跑出 $10K MRR 的极简技术栈拆解变现（门槛: 中）
 - **[评分: 8/10]** [My solopreneur story](https://news.tonydinh.com/p/my-solopreneur-story-zero-to-45kmo) — 单人从 0 到月入 4.5 万美元的可复制变现路径拆解（门槛: 中）
 - **[评分: 8/10]** [Show HN: After 2.5 years on my side project, it has hit £500/month revenue](https://news.ycombinator.com/item?id=25372464) — 音频私密分享SaaS，替代Bandcamp/SoundCloud的细分付费工具（门槛: 中）
+- **[评分: 7/10]** [vibe coding 折腾了个开源的 NAS 工具 OpenLucky，做 DDNS、反代和证书管理](https://www.v2ex.com/t/1248671) — 为NAS用户提供开源DDNS、反代和证书管理工具。（门槛: 低）
+- **[评分: 7/10]** [I built a browser-game directory with controls and source notes up front](https://www.reddit.com/r/SideProject/comments/1x5fjnh/i_built_a_browsergame_directory_with_controls_and/) — 为游戏创作者提供游戏控制和设备信息目录，帮助吸引玩家。（门槛: 低）
+- **[评分: 7/10]** [I streamed a 141 GB AI model through a 48 GB MacBook so I could train my own small models](https://www.reddit.com/r/SideProject/comments/1x5f3iu/i_streamed_a_141_gb_ai_model_through_a_48_gb/) — 为个人用户提供在本地机器上训练小型AI模型的服务。（门槛: 低）
+- **[评分: 7/10]** [We built an AI agent that works inside a website's real user session](https://www.reddit.com/r/SideProject/comments/1x5gg5z/we_built_an_ai_agent_that_works_inside_a_websites/) — 为企业网站定制AI代理，提高工作流程自动化。（门槛: 中）
 - **[评分: 7/10]** [📣 #发现频道 【开发者自荐】Moment：在 Mac 上整理多账户资](https://meta.appinn.net/t/topic/93509) — 为个人投资者提供多账户资产整理工具，简化投资管理。（门槛: 低）
 - **[评分: 7/10]** [用 MyGO 重构一切，这次带来全新的 Quosparr，原生状态栏 AI 额度用量监控桌面端](https://www.v2ex.com/t/1248565) — 为开发者提供跨平台原生应用监控工具。（门槛: 中）
 - **[评分: 7/10]** [I built a free daily AI news digest (web, iOS, Android, Slack bot) and a Claude Code routine runs the newsroom](https://www.reddit.com/r/SideProject/comments/1x5c0u7/i_built_a_free_daily_ai_news_digest_web_ios/) — 提供免费 AI 新闻摘要服务，满足特定用户需求。（门槛: 低）
@@ -68,8 +72,14 @@
 - **[评分: 7/10]** [1month in and these are the web numbers alongside 3.5k+ npm downloads](https://www.reddit.com/r/SaaS/comments/1x59sgn/1month_in_and_these_are_the_web_numbers_alongside/) — 为 Claude Code + Codex 用户开发优化工具，降低使用成本。（门槛: 低）
 - **[评分: 7/10]** [Show HN: Open-source Mac menu bar app for Claude, Codex and Cursor](https://agentmuster.app/) — 为 Mac 用户打造便捷的 AI 工具菜单栏应用（门槛: 低）
 - **[评分: 7/10]** [Show HN: Rhythm – a skimmable TUI for your GitHub repos](https://github.com/problemsdev/rhythm) — 为 GitHub 用户开发一款可帮助跟踪仓库动态的 TUI 工具。（门槛: 低）
-- **[评分: 7/10]** [Show HN: Parsimony – an open-source benchmark for how much code AI models add](https://parsimony.lasu.dev/) — 为 AI 模型开发者提供减少代码冗余的基准测试工具。（门槛: 低）
-- **[评分: 7/10]** [Show HN: Hatoba, an open-source SSH client with an AI assistant and E2EE sync](https://github.com/scarletkc/Hatoba) — 为开发者提供集AI辅助和端到端加密的SSH客户端。（门槛: 中）
+
+### 🏷️ 视频与动效代交付
+- **[评分: 7/10]** [I produced a free Adobe Animate alternative](https://www.reddit.com/r/SideProject/comments/1x5etw8/i_produced_a_free_adobe_animate_alternative/) — 提供免费 Adobe Animate 替代品，吸引付费用户。（门槛: 低）
+- **[评分: 7/10]** [I built a tool because my colleagues were getting sick of reviewing all my PRs](https://www.reddit.com/r/SideProject/comments/1x5fzj7/i_built_a_tool_because_my_colleagues_were_getting/) — 为开发团队提供自动化代码审查工具，提高审查效率。（门槛: 低）
+- **[评分: 7/10]** [Built the easiest way to convert any link/pdf/document into an explainer video](https://www.reddit.com/r/SideProject/comments/1x5e47i/built_the_easiest_way_to_convert_any/) — 将文档/链接一键转换为解释性视频，助力内容创作者。（门槛: 低）
+- **[评分: 7/10]** [Cliptate：我用 Swift + MLX 写了一个 macOS 原生离线语音输入与语音工作流工具，彻底告别云端延迟和隐私焦虑](https://www.v2ex.com/t/1248651) — 提供本地AI驱动的Mac语音输入工具，解决云端延迟和隐私问题。（门槛: 低）
+- **[评分: 7/10]** [Perfect-er Freehand](https://news.ycombinator.com/item?id=50082231) — 改进现有路径绘制库，满足设计师和开发者的工具需求。（门槛: 低）
+- **[评分: 7/10]** [Show HN: Evaluate and improve your agent steering](https://news.ycombinator.com/item?id=50081857) — 为 AI 开发者提供评估和改进 AI 编码代理的工具。（门槛: 低）
 
 ### 🏷️ 跨境电商与出海独立站工具
 - **[评分: 8/10]** [Launch HN: Consus (YC F24) – LLM gateway for companies handling sensitive data](https://news.ycombinator.com/item?id=50073471) — 为航空航天和国防公司提供符合ITAR和FedRAMP标准的AI服务。（门槛: 高）
@@ -77,19 +87,6 @@
 - **[评分: 8/10]** [Bootstrapping to €600k MRR and getting killed by Shopify: Checkout X](https://www.leteyski.com/bootstrapping-to-600k-mrr-and-getting-killed-by-shopify-the-story-of-checkout-x) — 独立站结账优化插件，€600k MRR 验证刚需（门槛: 高）
 - **[评分: 7/10]** [Show HN: GenClass, A 10 MB in-browser model that catches bugs that never throw](https://www.npmjs.com/package/@genclass/runtime) — 为AI生成电商代码提供实时bug检测工具。（门槛: 低）
 - **[评分: 7/10]** [深度云海完成千万级天使轮融资，前百度搜索团队创办｜36氪首发](https://36kr.com/p/4023041152585603?f=rss) — 为企业提供GEO RaaS系统和DeepWork桌面端产品，助力AI营销。（门槛: 中）
-- **[评分: 7/10]** [Show HN: Can a solo founder compete in the crowded Chrome extension market?](https://chromewebstore.google.com/detail/thrivez-go-â-earn-rewards/fodndcoojiniehbochnniejfdfnclgfg) — 开发 Chrome 扩展程序满足特定用户需求。（门槛: 低）
-
-### 🏷️ 视频与动效代交付
-- **[评分: 7/10]** [Cliptate：我用 Swift + MLX 写了一个 macOS 原生离线语音输入与语音工作流工具，彻底告别云端延迟和隐私焦虑](https://www.v2ex.com/t/1248651) — 提供本地AI驱动的Mac语音输入工具，解决云端延迟和隐私问题。（门槛: 低）
-- **[评分: 7/10]** [Perfect-er Freehand](https://news.ycombinator.com/item?id=50082231) — 改进现有路径绘制库，满足设计师和开发者的工具需求。（门槛: 低）
-- **[评分: 7/10]** [Show HN: Evaluate and improve your agent steering](https://news.ycombinator.com/item?id=50081857) — 为 AI 开发者提供评估和改进 AI 编码代理的工具。（门槛: 低）
-- **[评分: 7/10]** [Build a SaaS for android devs and people who dont have an android device](https://www.reddit.com/r/SaaS/comments/1x55ybv/build_a_saas_for_android_devs_and_people_who_dont/) — 为 Android 开发者和无设备用户打造快速测试 APK 的 SaaS。（门槛: 低）
-
-### 🏷️ 七大高溢价赛道之一
-- **[评分: 7/10]** [🚀 How Did a $200 Customer Turn Into $3.5M ARR?](https://trends.vc/how-did-a-200-customer-turn-into-3-5m-arr/) — 通过高客单价SaaS产品实现快速增长。（门槛: 中）
-- **[评分: 7/10]** [Gemini 4 Argon in GitHub Copilot](https://github.blog/changelog/2026-10-13-gemini-4-argon-in-github-copilot) — 利用AI模型提供复杂编码和推理任务工具。（门槛: 高）
-- **[评分: 7/10]** [Show HN: Hev is a Jev-compatible API, answered by humans](https://usehev.com) — 利用陌生人智慧提供决策支持的API服务。（门槛: 低）
-- **[评分: 7/10]** [Show HN: Hatswap – one Claude Code account per client, switch mid-chat](https://github.com/orvi2014/hatswap) — 为 ChatGPT 用户提供账户切换工具，提升聊天体验。（门槛: 低）
 
 ### 🏷️ 极窄场景的 Micro-AI 插件
 - **[评分: 8/10]** [Show HN: Halo – A Personal AI with On-Device Harness, Memory and Browser Agent](https://apps.apple.com/us/app/halo-personal-ai/id6783715054) — 端侧隐私 AI 助手，$49 终身买断，数据不出手机（门槛: 中）
@@ -103,6 +100,9 @@
 ### 🏷️ B2B 高客单数据抓取与精准名单
 - **[评分: 8/10]** [I scraped billions of TikTok videos and profiles by reverse engineering the mobile API. Here's how it works + source code](https://www.reddit.com/r/SaaS/comments/1wxoasb/i_scraped_billions_of_tiktok_videos_and_profiles/) — 逆向 TikTok 接口，把爆款趋势与达人名单做成付费数据 API（门槛: 高）
 - **[评分: 8/10]** [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) — 零 API 费抓取社媒，一键交付海外精准潜客名单（门槛: 中）
+
+### 🏷️ 七大高溢价赛道之一
+- **[评分: 7/10]** [🚀 How Did a $200 Customer Turn Into $3.5M ARR?](https://trends.vc/how-did-a-200-customer-turn-into-3-5m-arr/) — 通过高客单价SaaS产品实现快速增长。（门槛: 中）
 
 
 ---
