@@ -59,41 +59,41 @@
 - **[评分: 8/10]** [I run multiple $10K MRR companies on a $20/month tech stack](https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack) — $20 月成本跑出 $10K MRR 的极简技术栈拆解变现（门槛: 中）
 - **[评分: 8/10]** [My solopreneur story](https://news.tonydinh.com/p/my-solopreneur-story-zero-to-45kmo) — 单人从 0 到月入 4.5 万美元的可复制变现路径拆解（门槛: 中）
 - **[评分: 8/10]** [Show HN: After 2.5 years on my side project, it has hit £500/month revenue](https://news.ycombinator.com/item?id=25372464) — 音频私密分享SaaS，替代Bandcamp/SoundCloud的细分付费工具（门槛: 中）
+- **[评分: 7/10]** [做了一个开源的多 AI Agent 任务管理工具 StateDock，支持 MCP、Docker 自部署](https://www.v2ex.com/t/1248798) — 为多AI Agent开发提供任务管理解决方案。（门槛: 低）
+- **[评分: 7/10]** [[开源] Agent HUD：把 Claude Code / Codex 等 17 个 agent 的额度和批准请求放在 Mac 刘海或屏幕边上](https://www.v2ex.com/t/1248801) — 为Mac用户提供多agent额度管理和状态监控工具。（门槛: 低）
+- **[评分: 7/10]** [Show HN: Decision Models in a Game](https://news.ycombinator.com/item?id=50085535) — 开发比较 OpenAI 模型成本和延迟的工具，满足用户对决策模型的需求。（门槛: 中）
+- **[评分: 7/10]** [Show HN: What are vector embeddings? An interactive guide](https://isaacus.com/blog/what-are-vector-embeddings) — 开发交互式向量嵌入指南，满足机器学习工程师的教育需求。（门槛: 中）
+- **[评分: 7/10]** [Show HN: AI investment agreement review for startup founders](https://www.orchardagentic.cloud/#browse/funding-review) — 为初创公司创始人提供投资协议审查工具，降低投资风险。（门槛: 低）
+- **[评分: 7/10]** [Acyclic](https://www.producthunt.com/products/acyclic) — 为企业提供快速自动化工作流程的解决方案。（门槛: 中）
+- **[评分: 7/10]** [I made receipt scanning ~5× faster in my open-source expense-sharing app](https://www.reddit.com/r/SideProject/comments/1x5mhqv/i_made_receipt_scanning_5_faster_in_my_opensource/) — 通过优化收据扫描速度，提升开源费用共享应用的用户体验。（门槛: 低）
 - **[评分: 7/10]** [开发日志：为了把窗口送回「原来的桌面」，我把 macOS 的私有接口翻了一遍](https://www.v2ex.com/t/1248769) — 开发跨桌面窗口管理工具，解决桌面布局恢复难题。（门槛: 高）
 - **[评分: 7/10]** [Show HN: A guided 3D Leonardo da Vinci museum, built in code](https://museumofages.org/w/vinci) — 利用技术创建垂直领域数字博物馆，满足教育和文化机构的展示需求。（门槛: 低）
 - **[评分: 7/10]** [Make0 Brain](https://www.producthunt.com/products/make0-brain) — 为 AI 代理提供跨平台数据存储解决方案。（门槛: 中）
-- **[评分: 7/10]** [Hindsight 1.0 + Memlake](https://www.producthunt.com/products/vectorize) — 为AI代理提供开源记忆库，提升AI学习效率。（门槛: 中）
-- **[评分: 7/10]** [体检年年做，去年尿酸多少却想不起来，于是写了个 App「指标本」](https://www.v2ex.com/t/1248689) — 为个人用户提供便捷的体检指标管理工具。（门槛: 低）
-- **[评分: 7/10]** [[开源 iOS App] TokenPulse：查看 78 个 AI 服务的套餐额度与余额，接收 Codex 重置预告](https://www.v2ex.com/t/1248696) — 为AI服务用户提供一站式管理平台，解决多服务切换和管理难题。（门槛: 低）
-- **[评分: 7/10]** [vibe coding 折腾了个开源的 NAS 工具 OpenLucky，做 DDNS、反代和证书管理](https://www.v2ex.com/t/1248671) — 为NAS用户提供开源DDNS、反代和证书管理工具。（门槛: 低）
-- **[评分: 7/10]** [I built a browser-game directory with controls and source notes up front](https://www.reddit.com/r/SideProject/comments/1x5fjnh/i_built_a_browsergame_directory_with_controls_and/) — 为游戏创作者提供游戏控制和设备信息目录，帮助吸引玩家。（门槛: 低）
+
+### 🏷️ 跨境电商与出海独立站工具
+- **[评分: 8/10]** [Launch HN: Consus (YC F24) – LLM gateway for companies handling sensitive data](https://news.ycombinator.com/item?id=50073471) — 为航空航天和国防公司提供符合ITAR和FedRAMP标准的AI服务。（门槛: 高）
+- **[评分: 8/10]** [Show HN: Proofsource. Find where AI leaves you out. And Fix it](https://proofsource.co/) — 利用AI分析AI引擎，帮助品牌提升在线可见性。（门槛: 中）
+- **[评分: 8/10]** [Bootstrapping to €600k MRR and getting killed by Shopify: Checkout X](https://www.leteyski.com/bootstrapping-to-600k-mrr-and-getting-killed-by-shopify-the-story-of-checkout-x) — 独立站结账优化插件，€600k MRR 验证刚需（门槛: 高）
+- **[评分: 7/10]** [I made a simple web tool to help with the EU AI Act image labeling rules](https://www.reddit.com/r/SideProject/comments/1x5kwgu/i_made_a_simple_web_tool_to_help_with_the_eu_ai/) — 为欧盟AI法案合规提供简单易用的图像标记工具。（门槛: 低）
+- **[评分: 7/10]** [SlashDocs by Razorpay](https://www.producthunt.com/products/razorpay) — 提供自托管HTML讨论协作层，解决电子商务和客服团队工具缺口。（门槛: 低）
+
+### 🏷️ 七大高溢价赛道之一
+- **[评分: 7/10]** [Epherem](https://www.producthunt.com/products/epherem) — 为 AI 应用开发者提供安全漏洞检测工具（门槛: 中）
+- **[评分: 7/10]** [I built a tool that roasts cliché portfolio projects and predicts the trap questions interviewers will ask](https://www.reddit.com/r/SideProject/comments/1x5m7m2/i_built_a_tool_that_roasts_cliché_portfolio/) — 通过分析项目，预测面试中可能遇到的技术问题。（门槛: 低）
+- **[评分: 7/10]** [做了个开源插件：一次提问，同时问 ChatGPT / Claude / DeepSeek / 豆包 等 12 个 AI，并排看回答](https://www.v2ex.com/t/1248772) — 多AI工具并排对比，提高开发者效率。（门槛: 低）
+- **[评分: 7/10]** [Show HN: Agent Identity – Identity and communication infrastructure for AI agent](https://www.agent-identity.dev/) — 为 AI 代理提供身份和通信基础设施。（门槛: 高）
+- **[评分: 7/10]** [Etchv](https://www.producthunt.com/products/etchv) — 提供图像、PDF和视频不可见水印API，满足版权保护和追踪需求。（门槛: 中）
 
 ### 🏷️ 视频与动效代交付
 - **[评分: 7/10]** [做了一个 Ghostty fork，优化 SSH 远程开发和 Agent CLI 工作流](https://www.v2ex.com/t/1248766) — 为开发者提供更便捷的 SSH 和 Agent 工作流工具。（门槛: 低）
 - **[评分: 7/10]** [发现一个浏览器端的 AI 视频去物工具](https://www.v2ex.com/t/1248784) — AI视频去物工具，解决视频编辑去杂需求。（门槛: 低）
 - **[评分: 7/10]** [h3price ai：基于 Nano Banana 2.1 的 AI 图像生成与编辑工具](https://www.v2ex.com/t/1248763) — AI 图像生成与编辑工具，降低图像制作门槛。（门槛: 低）
 - **[评分: 7/10]** [SupoClip](https://www.producthunt.com/products/supoclip) — 利用 AI 技术简化长视频剪辑，满足社交媒体内容创作者的需求。（门槛: 低）
-- **[评分: 7/10]** [I made a Chrome extension to control video speed from the keyboard](https://www.reddit.com/r/SideProject/comments/1x5i86m/i_made_a_chrome_extension_to_control_video_speed/) — 为视频观看者提供便捷的视频速度控制扩展程序。（门槛: 低）
-- **[评分: 7/10]** [I built Kevick to help vibe coders examine their apps before launch](https://www.reddit.com/r/SaaS/comments/1x5k9iu/i_built_kevick_to_help_vibe_coders_examine_their/) — 为开发者提供应用程序发布准备检查工具。（门槛: 低）
-- **[评分: 7/10]** [I produced a free Adobe Animate alternative](https://www.reddit.com/r/SideProject/comments/1x5etw8/i_produced_a_free_adobe_animate_alternative/) — 提供免费 Adobe Animate 替代品，吸引付费用户。（门槛: 低）
-- **[评分: 7/10]** [I built a tool because my colleagues were getting sick of reviewing all my PRs](https://www.reddit.com/r/SideProject/comments/1x5fzj7/i_built_a_tool_because_my_colleagues_were_getting/) — 为开发团队提供自动化代码审查工具，提高审查效率。（门槛: 低）
-- **[评分: 7/10]** [Built the easiest way to convert any link/pdf/document into an explainer video](https://www.reddit.com/r/SideProject/comments/1x5e47i/built_the_easiest_way_to_convert_any/) — 将文档/链接一键转换为解释性视频，助力内容创作者。（门槛: 低）
-
-### 🏷️ 跨境电商与出海独立站工具
-- **[评分: 8/10]** [Launch HN: Consus (YC F24) – LLM gateway for companies handling sensitive data](https://news.ycombinator.com/item?id=50073471) — 为航空航天和国防公司提供符合ITAR和FedRAMP标准的AI服务。（门槛: 高）
-- **[评分: 8/10]** [Show HN: Proofsource. Find where AI leaves you out. And Fix it](https://proofsource.co/) — 利用AI分析AI引擎，帮助品牌提升在线可见性。（门槛: 中）
-- **[评分: 8/10]** [Bootstrapping to €600k MRR and getting killed by Shopify: Checkout X](https://www.leteyski.com/bootstrapping-to-600k-mrr-and-getting-killed-by-shopify-the-story-of-checkout-x) — 独立站结账优化插件，€600k MRR 验证刚需（门槛: 高）
-- **[评分: 7/10]** [SlashDocs by Razorpay](https://www.producthunt.com/products/razorpay) — 提供自托管HTML讨论协作层，解决电子商务和客服团队工具缺口。（门槛: 低）
 
 ### 🏷️ 极窄场景的 Micro-AI 插件
 - **[评分: 8/10]** [Show HN: Halo – A Personal AI with On-Device Harness, Memory and Browser Agent](https://apps.apple.com/us/app/halo-personal-ai/id6783715054) — 端侧隐私 AI 助手，$49 终身买断，数据不出手机（门槛: 中）
 - **[评分: 8/10]** [Famulor](https://www.producthunt.com/products/famulor-telephony-ai) — 给本地商家搭AI电话+WhatsApp跟进客服，按月收费（门槛: 中）
 - **[评分: 8/10]** [Communicate](https://www.producthunt.com/products/communicate) — 垂直行业AI客服代理，知识库+人工接管月费变现（门槛: 中）
-
-### 🏷️ 七大高溢价赛道之一
-- **[评分: 7/10]** [做了个开源插件：一次提问，同时问 ChatGPT / Claude / DeepSeek / 豆包 等 12 个 AI，并排看回答](https://www.v2ex.com/t/1248772) — 多AI工具并排对比，提高开发者效率。（门槛: 低）
-- **[评分: 7/10]** [Show HN: Agent Identity – Identity and communication infrastructure for AI agent](https://www.agent-identity.dev/) — 为 AI 代理提供身份和通信基础设施。（门槛: 高）
-- **[评分: 7/10]** [Etchv](https://www.producthunt.com/products/etchv) — 提供图像、PDF和视频不可见水印API，满足版权保护和追踪需求。（门槛: 中）
 
 ### 🏷️ ⚡ 非对称套利与增长黑客
 - **[评分: 8/10]** [注册了一个美国公司，可以提供 Claude Code 团队订阅席位。](https://www.v2ex.com/t/1247029) — 美国公司主体代持 Claude 团队席位，按月转售给国内开发者（门槛: 中）
