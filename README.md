@@ -69,18 +69,13 @@
 - **[评分: 7/10]** [开发日志：为了把窗口送回「原来的桌面」，我把 macOS 的私有接口翻了一遍](https://www.v2ex.com/t/1248769) — 开发跨桌面窗口管理工具，解决桌面布局恢复难题。（门槛: 高）
 - **[评分: 7/10]** [Show HN: A guided 3D Leonardo da Vinci museum, built in code](https://museumofages.org/w/vinci) — 利用技术创建垂直领域数字博物馆，满足教育和文化机构的展示需求。（门槛: 低）
 
-### 🏷️ 七大高溢价赛道之一
-- **[评分: 7/10]** [Epherem](https://www.producthunt.com/products/epherem) — 为 AI 应用开发者提供安全漏洞检测工具（门槛: 中）
-- **[评分: 7/10]** [I built a tool that roasts cliché portfolio projects and predicts the trap questions interviewers will ask](https://www.reddit.com/r/SideProject/comments/1x5m7m2/i_built_a_tool_that_roasts_cliché_portfolio/) — 通过分析项目，预测面试中可能遇到的技术问题。（门槛: 低）
-- **[评分: 7/10]** [做了个开源插件：一次提问，同时问 ChatGPT / Claude / DeepSeek / 豆包 等 12 个 AI，并排看回答](https://www.v2ex.com/t/1248772) — 多AI工具并排对比，提高开发者效率。（门槛: 低）
-- **[评分: 7/10]** [Show HN: Agent Identity – Identity and communication infrastructure for AI agent](https://www.agent-identity.dev/) — 为 AI 代理提供身份和通信基础设施。（门槛: 高）
-- **[评分: 7/10]** [Etchv](https://www.producthunt.com/products/etchv) — 提供图像、PDF和视频不可见水印API，满足版权保护和追踪需求。（门槛: 中）
-
 ### 🏷️ 极窄场景的 Micro-AI 插件
 - **[评分: 8/10]** [I built a family location app that doesn't keep history — today it got an Apple Watch app](https://www.reddit.com/r/SideProject/comments/1x5q9kf/i_built_a_family_location_app_that_doesnt_keep/) — 隐私家庭定位月订阅（门槛: 中）
 - **[评分: 8/10]** [Show HN: Halo – A Personal AI with On-Device Harness, Memory and Browser Agent](https://apps.apple.com/us/app/halo-personal-ai/id6783715054) — 端侧隐私 AI 助手，$49 终身买断，数据不出手机（门槛: 中）
 - **[评分: 8/10]** [Famulor](https://www.producthunt.com/products/famulor-telephony-ai) — 给本地商家搭AI电话+WhatsApp跟进客服，按月收费（门槛: 中）
 - **[评分: 8/10]** [Communicate](https://www.producthunt.com/products/communicate) — 垂直行业AI客服代理，知识库+人工接管月费变现（门槛: 中）
+- **[评分: 7/10]** [I built a French consumer-rights tool to help people challenge sellers without paying upfront](https://www.reddit.com/r/SideProject/comments/1x62sg3/i_built_a_french_consumerrights_tool_to_help/) — AI生成法国消费者维权投诉并卖正式函件（门槛: 中）
+- **[评分: 7/10]** [I launched my first paid Chrome extension: copy text from any image, privately, for a one-time price](https://www.reddit.com/r/SideProject/comments/1x62me6/i_launched_my_first_paid_chrome_extension_copy/) — 隐私离线图片 OCR 插件，一次性买断低客单变现（门槛: 中）
 
 ### 🏷️ 跨境电商与出海独立站工具
 - **[评分: 8/10]** [Launch HN: Consus (YC F24) – LLM gateway for companies handling sensitive data](https://news.ycombinator.com/item?id=50073471) — 为航空航天和国防公司提供符合ITAR和FedRAMP标准的AI服务。（门槛: 高）
@@ -92,6 +87,11 @@
 - **[评分: 8/10]** [I just hit $100K with my SaaS as a 22-year-old solo founder. Started with $100](https://www.reddit.com/r/SaaS/comments/1x5vy9i/i_just_hit_100k_with_my_saas_as_a_22yearold_solo/) — AI抓取清洗B2B线索，卖精准获客名单与触达工作流（门槛: 中）
 - **[评分: 8/10]** [I scraped billions of TikTok videos and profiles by reverse engineering the mobile API. Here's how it works + source code](https://www.reddit.com/r/SaaS/comments/1wxoasb/i_scraped_billions_of_tiktok_videos_and_profiles/) — 逆向 TikTok 接口，把爆款趋势与达人名单做成付费数据 API（门槛: 高）
 - **[评分: 8/10]** [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) — 零 API 费抓取社媒，一键交付海外精准潜客名单（门槛: 中）
+
+### 🏷️ 七大高溢价赛道之一
+- **[评分: 7/10]** [Epherem](https://www.producthunt.com/products/epherem) — 为 AI 应用开发者提供安全漏洞检测工具（门槛: 中）
+- **[评分: 7/10]** [I built a tool that roasts cliché portfolio projects and predicts the trap questions interviewers will ask](https://www.reddit.com/r/SideProject/comments/1x5m7m2/i_built_a_tool_that_roasts_cliché_portfolio/) — 通过分析项目，预测面试中可能遇到的技术问题。（门槛: 低）
+- **[评分: 7/10]** [做了个开源插件：一次提问，同时问 ChatGPT / Claude / DeepSeek / 豆包 等 12 个 AI，并排看回答](https://www.v2ex.com/t/1248772) — 多AI工具并排对比，提高开发者效率。（门槛: 低）
 
 ### 🏷️ 视频与动效代交付
 - **[评分: 7/10]** [做了一个 Ghostty fork，优化 SSH 远程开发和 Agent CLI 工作流](https://www.v2ex.com/t/1248766) — 为开发者提供更便捷的 SSH 和 Agent 工作流工具。（门槛: 低）
