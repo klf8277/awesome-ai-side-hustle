@@ -59,6 +59,7 @@
 - **[评分: 8/10]** [I run multiple $10K MRR companies on a $20/month tech stack](https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack) — $20 月成本跑出 $10K MRR 的极简技术栈拆解变现（门槛: 中）
 - **[评分: 8/10]** [My solopreneur story](https://news.tonydinh.com/p/my-solopreneur-story-zero-to-45kmo) — 单人从 0 到月入 4.5 万美元的可复制变现路径拆解（门槛: 中）
 - **[评分: 8/10]** [Show HN: After 2.5 years on my side project, it has hit £500/month revenue](https://news.ycombinator.com/item?id=25372464) — 音频私密分享SaaS，替代Bandcamp/SoundCloud的细分付费工具（门槛: 中）
+- **[评分: 7/10]** [Carry-On: 换 AI 订阅，不丢记忆。](https://www.v2ex.com/t/1248559) — 提供跨平台 AI 记忆迁移工具，解决用户痛点。（门槛: 低）
 - **[评分: 7/10]** [Show HN: Sugabots – Group chats where your team and AI agents work together](https://sugabots.ai/) — 为企业内部团队提供AI协同的共享聊天工具，提高工作效率。（门槛: 中）
 - **[评分: 7/10]** [1month in and these are the web numbers alongside 3.5k+ npm downloads](https://www.reddit.com/r/SaaS/comments/1x59sgn/1month_in_and_these_are_the_web_numbers_alongside/) — 为 Claude Code + Codex 用户开发优化工具，降低使用成本。（门槛: 低）
 - **[评分: 7/10]** [Show HN: Open-source Mac menu bar app for Claude, Codex and Cursor](https://agentmuster.app/) — 为 Mac 用户打造便捷的 AI 工具菜单栏应用（门槛: 低）
@@ -71,7 +72,6 @@
 - **[评分: 7/10]** [[开源] PicMake：纯前端的 GPT Image 2.5 生图工作台， Key 和图片只存在你的浏览器里](https://www.v2ex.com/t/1248533) — 开发满足特定需求的生图工具，解决官方API和现有工具的不足。（门槛: 低）
 - **[评分: 7/10]** [Show HN: Podway – your self-hosted apps, run by an AI admin](https://podway.io) — 为企业提供基于AI的自托管应用自动化管理解决方案。（门槛: 中）
 - **[评分: 7/10]** [Show HN: I track all 121k Skool communities to find community creator leads](https://www.skoolstats.com/) — 为社区所有者和代理商提供社区排名和潜在客户名单追踪工具。（门槛: 中）
-- **[评分: 7/10]** [Show HN: A 3D Configurator for Macropads](https://npad.ngrok.dev) — 为 Macropad 提供定制 3D 配置工具，解决展示和销售问题。（门槛: 低）
 
 ### 🏷️ 跨境电商与出海独立站工具
 - **[评分: 8/10]** [Launch HN: Consus (YC F24) – LLM gateway for companies handling sensitive data](https://news.ycombinator.com/item?id=50073471) — 为航空航天和国防公司提供符合ITAR和FedRAMP标准的AI服务。（门槛: 高）
