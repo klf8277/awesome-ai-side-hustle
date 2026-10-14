@@ -59,6 +59,8 @@
 - **[评分: 8/10]** [I run multiple $10K MRR companies on a $20/month tech stack](https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack) — $20 月成本跑出 $10K MRR 的极简技术栈拆解变现（门槛: 中）
 - **[评分: 8/10]** [My solopreneur story](https://news.tonydinh.com/p/my-solopreneur-story-zero-to-45kmo) — 单人从 0 到月入 4.5 万美元的可复制变现路径拆解（门槛: 中）
 - **[评分: 8/10]** [Show HN: After 2.5 years on my side project, it has hit £500/month revenue](https://news.ycombinator.com/item?id=25372464) — 音频私密分享SaaS，替代Bandcamp/SoundCloud的细分付费工具（门槛: 中）
+- **[评分: 7/10]** [用 MyGO 重构一切，这次带来全新的 Quosparr，原生状态栏 AI 额度用量监控桌面端](https://www.v2ex.com/t/1248565) — 为开发者提供跨平台原生应用监控工具。（门槛: 中）
+- **[评分: 7/10]** [I built a free daily AI news digest (web, iOS, Android, Slack bot) and a Claude Code routine runs the newsroom](https://www.reddit.com/r/SideProject/comments/1x5c0u7/i_built_a_free_daily_ai_news_digest_web_ios/) — 提供免费 AI 新闻摘要服务，满足特定用户需求。（门槛: 低）
 - **[评分: 7/10]** [Show HN: Fresh cleanup and reset a project after coding agent prs](https://github.com/Obedience-Corp/fresh) — 为开发者提供自动化代码清理和项目重置工具。（门槛: 低）
 - **[评分: 7/10]** [Carry-On: 换 AI 订阅，不丢记忆。](https://www.v2ex.com/t/1248559) — 提供跨平台 AI 记忆迁移工具，解决用户痛点。（门槛: 低）
 - **[评分: 7/10]** [Show HN: Sugabots – Group chats where your team and AI agents work together](https://sugabots.ai/) — 为企业内部团队提供AI协同的共享聊天工具，提高工作效率。（门槛: 中）
@@ -70,13 +72,12 @@
 - **[评分: 7/10]** [Show HN: pg_vectorsearch: Scalable Open-Source Vector Search in PostgreSQL](https://github.com/timescale/pg_vectorsearch) — 为 PostgreSQL 提供高效的向量搜索解决方案，满足企业对大数据搜索的需求。（门槛: 中）
 - **[评分: 7/10]** [WeatherFast - A fast weather app](https://www.reddit.com/r/SideProject/comments/1x4zj23/weatherfast_a_fast_weather_app/) — 开发一个无广告、UI优化的天气应用，满足用户对天气信息快速获取的需求。（门槛: 低）
 - **[评分: 7/10]** [I built an open-source security checker for AI-coded apps. Looking for early testers and contributors.](https://www.reddit.com/r/SideProject/comments/1x4ylbz/i_built_an_opensource_security_checker_for/) — 为AI构建的应用提供安全检查工具，帮助开发者避免API密钥泄露。（门槛: 低）
-- **[评分: 7/10]** [[开源] PicMake：纯前端的 GPT Image 2.5 生图工作台， Key 和图片只存在你的浏览器里](https://www.v2ex.com/t/1248533) — 开发满足特定需求的生图工具，解决官方API和现有工具的不足。（门槛: 低）
-- **[评分: 7/10]** [Show HN: Podway – your self-hosted apps, run by an AI admin](https://podway.io) — 为企业提供基于AI的自托管应用自动化管理解决方案。（门槛: 中）
 
 ### 🏷️ 跨境电商与出海独立站工具
 - **[评分: 8/10]** [Launch HN: Consus (YC F24) – LLM gateway for companies handling sensitive data](https://news.ycombinator.com/item?id=50073471) — 为航空航天和国防公司提供符合ITAR和FedRAMP标准的AI服务。（门槛: 高）
 - **[评分: 8/10]** [Show HN: Proofsource. Find where AI leaves you out. And Fix it](https://proofsource.co/) — 利用AI分析AI引擎，帮助品牌提升在线可见性。（门槛: 中）
 - **[评分: 8/10]** [Bootstrapping to €600k MRR and getting killed by Shopify: Checkout X](https://www.leteyski.com/bootstrapping-to-600k-mrr-and-getting-killed-by-shopify-the-story-of-checkout-x) — 独立站结账优化插件，€600k MRR 验证刚需（门槛: 高）
+- **[评分: 7/10]** [深度云海完成千万级天使轮融资，前百度搜索团队创办｜36氪首发](https://36kr.com/p/4023041152585603?f=rss) — 为企业提供GEO RaaS系统和DeepWork桌面端产品，助力AI营销。（门槛: 中）
 - **[评分: 7/10]** [Show HN: Can a solo founder compete in the crowded Chrome extension market?](https://chromewebstore.google.com/detail/thrivez-go-â-earn-rewards/fodndcoojiniehbochnniejfdfnclgfg) — 开发 Chrome 扩展程序满足特定用户需求。（门槛: 低）
 - **[评分: 7/10]** [Show HN: Pippin – macOS High-Performance Screen Sharing Client for Linux](https://github.com/jonesy827/pippin) — 为 macOS 用户在 Linux 系统上提供高性能屏幕共享解决方案。（门槛: 低）
 - **[评分: 7/10]** [AWS Weekly Roundup: Prime Day 2026 by the numbers, Claude Haiku 5.5, Amazon Nova 2.5 Sonic, and more](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-prime-day-2026-by-the-numbers-claude-haiku-5-5-amazon-nova-2-5-sonic-and-more-october-13-2026/) — 利用亚马逊Prime Day数据，开发高性能缓存工具满足电商需求。（门槛: 中）
@@ -85,7 +86,6 @@
 - **[评分: 8/10]** [Show HN: Halo – A Personal AI with On-Device Harness, Memory and Browser Agent](https://apps.apple.com/us/app/halo-personal-ai/id6783715054) — 端侧隐私 AI 助手，$49 终身买断，数据不出手机（门槛: 中）
 - **[评分: 8/10]** [Famulor](https://www.producthunt.com/products/famulor-telephony-ai) — 给本地商家搭AI电话+WhatsApp跟进客服，按月收费（门槛: 中）
 - **[评分: 8/10]** [Communicate](https://www.producthunt.com/products/communicate) — 垂直行业AI客服代理，知识库+人工接管月费变现（门槛: 中）
-- **[评分: 7/10]** [Show HN: Surprisal – a language identifier in ~250 lines of C. No ML,no training](https://github.com/ahhyoushh/zip-surprisal) — 开发无需机器学习的文本/语言识别工具，满足特定场景下的需求。（门槛: 低）
 
 ### 🏷️ 七大高溢价赛道之一
 - **[评分: 7/10]** [Gemini 4 Argon in GitHub Copilot](https://github.blog/changelog/2026-10-13-gemini-4-argon-in-github-copilot) — 利用AI模型提供复杂编码和推理任务工具。（门槛: 高）
