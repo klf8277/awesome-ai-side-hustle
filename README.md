@@ -68,9 +68,9 @@
 - **[评分: 7/10]** [I streamed a 141 GB AI model through a 48 GB MacBook so I could train my own small models](https://www.reddit.com/r/SideProject/comments/1x5f3iu/i_streamed_a_141_gb_ai_model_through_a_48_gb/) — 为个人用户提供在本地机器上训练小型AI模型的服务。（门槛: 低）
 - **[评分: 7/10]** [We built an AI agent that works inside a website's real user session](https://www.reddit.com/r/SideProject/comments/1x5gg5z/we_built_an_ai_agent_that_works_inside_a_websites/) — 为企业网站定制AI代理，提高工作流程自动化。（门槛: 中）
 - **[评分: 7/10]** [📣 #发现频道 【开发者自荐】Moment：在 Mac 上整理多账户资](https://meta.appinn.net/t/topic/93509) — 为个人投资者提供多账户资产整理工具，简化投资管理。（门槛: 低）
-- **[评分: 7/10]** [用 MyGO 重构一切，这次带来全新的 Quosparr，原生状态栏 AI 额度用量监控桌面端](https://www.v2ex.com/t/1248565) — 为开发者提供跨平台原生应用监控工具。（门槛: 中）
 
 ### 🏷️ 视频与动效代交付
+- **[评分: 7/10]** [h3price ai：基于 Nano Banana 2.1 的 AI 图像生成与编辑工具](https://www.v2ex.com/t/1248763) — AI 图像生成与编辑工具，降低图像制作门槛。（门槛: 低）
 - **[评分: 7/10]** [SupoClip](https://www.producthunt.com/products/supoclip) — 利用 AI 技术简化长视频剪辑，满足社交媒体内容创作者的需求。（门槛: 低）
 - **[评分: 7/10]** [I made a Chrome extension to control video speed from the keyboard](https://www.reddit.com/r/SideProject/comments/1x5i86m/i_made_a_chrome_extension_to_control_video_speed/) — 为视频观看者提供便捷的视频速度控制扩展程序。（门槛: 低）
 - **[评分: 7/10]** [I built Kevick to help vibe coders examine their apps before launch](https://www.reddit.com/r/SaaS/comments/1x5k9iu/i_built_kevick_to_help_vibe_coders_examine_their/) — 为开发者提供应用程序发布准备检查工具。（门槛: 低）
@@ -86,7 +86,6 @@
 - **[评分: 8/10]** [Show HN: Proofsource. Find where AI leaves you out. And Fix it](https://proofsource.co/) — 利用AI分析AI引擎，帮助品牌提升在线可见性。（门槛: 中）
 - **[评分: 8/10]** [Bootstrapping to €600k MRR and getting killed by Shopify: Checkout X](https://www.leteyski.com/bootstrapping-to-600k-mrr-and-getting-killed-by-shopify-the-story-of-checkout-x) — 独立站结账优化插件，€600k MRR 验证刚需（门槛: 高）
 - **[评分: 7/10]** [SlashDocs by Razorpay](https://www.producthunt.com/products/razorpay) — 提供自托管HTML讨论协作层，解决电子商务和客服团队工具缺口。（门槛: 低）
-- **[评分: 7/10]** [Show HN: GenClass, A 10 MB in-browser model that catches bugs that never throw](https://www.npmjs.com/package/@genclass/runtime) — 为AI生成电商代码提供实时bug检测工具。（门槛: 低）
 
 ### 🏷️ 极窄场景的 Micro-AI 插件
 - **[评分: 8/10]** [Show HN: Halo – A Personal AI with On-Device Harness, Memory and Browser Agent](https://apps.apple.com/us/app/halo-personal-ai/id6783715054) — 端侧隐私 AI 助手，$49 终身买断，数据不出手机（门槛: 中）
@@ -102,7 +101,8 @@
 - **[评分: 8/10]** [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) — 零 API 费抓取社媒，一键交付海外精准潜客名单（门槛: 中）
 
 ### 🏷️ 七大高溢价赛道之一
-- **[评分: 7/10]** [🚀 How Did a $200 Customer Turn Into $3.5M ARR?](https://trends.vc/how-did-a-200-customer-turn-into-3-5m-arr/) — 通过高客单价SaaS产品实现快速增长。（门槛: 中）
+- **[评分: 7/10]** [Show HN: Agent Identity – Identity and communication infrastructure for AI agent](https://www.agent-identity.dev/) — 为 AI 代理提供身份和通信基础设施。（门槛: 高）
+- **[评分: 7/10]** [Etchv](https://www.producthunt.com/products/etchv) — 提供图像、PDF和视频不可见水印API，满足版权保护和追踪需求。（门槛: 中）
 
 
 ---
