@@ -59,17 +59,18 @@
 - **[评分: 8/10]** [I run multiple $10K MRR companies on a $20/month tech stack](https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack) — $20 月成本跑出 $10K MRR 的极简技术栈拆解变现（门槛: 中）
 - **[评分: 8/10]** [My solopreneur story](https://news.tonydinh.com/p/my-solopreneur-story-zero-to-45kmo) — 单人从 0 到月入 4.5 万美元的可复制变现路径拆解（门槛: 中）
 - **[评分: 8/10]** [Show HN: After 2.5 years on my side project, it has hit £500/month revenue](https://news.ycombinator.com/item?id=25372464) — 音频私密分享SaaS，替代Bandcamp/SoundCloud的细分付费工具（门槛: 中）
+- **[评分: 7/10]** [开发日志：为了把窗口送回「原来的桌面」，我把 macOS 的私有接口翻了一遍](https://www.v2ex.com/t/1248769) — 开发跨桌面窗口管理工具，解决桌面布局恢复难题。（门槛: 高）
+- **[评分: 7/10]** [Show HN: A guided 3D Leonardo da Vinci museum, built in code](https://museumofages.org/w/vinci) — 利用技术创建垂直领域数字博物馆，满足教育和文化机构的展示需求。（门槛: 低）
 - **[评分: 7/10]** [Make0 Brain](https://www.producthunt.com/products/make0-brain) — 为 AI 代理提供跨平台数据存储解决方案。（门槛: 中）
 - **[评分: 7/10]** [Hindsight 1.0 + Memlake](https://www.producthunt.com/products/vectorize) — 为AI代理提供开源记忆库，提升AI学习效率。（门槛: 中）
 - **[评分: 7/10]** [体检年年做，去年尿酸多少却想不起来，于是写了个 App「指标本」](https://www.v2ex.com/t/1248689) — 为个人用户提供便捷的体检指标管理工具。（门槛: 低）
 - **[评分: 7/10]** [[开源 iOS App] TokenPulse：查看 78 个 AI 服务的套餐额度与余额，接收 Codex 重置预告](https://www.v2ex.com/t/1248696) — 为AI服务用户提供一站式管理平台，解决多服务切换和管理难题。（门槛: 低）
 - **[评分: 7/10]** [vibe coding 折腾了个开源的 NAS 工具 OpenLucky，做 DDNS、反代和证书管理](https://www.v2ex.com/t/1248671) — 为NAS用户提供开源DDNS、反代和证书管理工具。（门槛: 低）
 - **[评分: 7/10]** [I built a browser-game directory with controls and source notes up front](https://www.reddit.com/r/SideProject/comments/1x5fjnh/i_built_a_browsergame_directory_with_controls_and/) — 为游戏创作者提供游戏控制和设备信息目录，帮助吸引玩家。（门槛: 低）
-- **[评分: 7/10]** [I streamed a 141 GB AI model through a 48 GB MacBook so I could train my own small models](https://www.reddit.com/r/SideProject/comments/1x5f3iu/i_streamed_a_141_gb_ai_model_through_a_48_gb/) — 为个人用户提供在本地机器上训练小型AI模型的服务。（门槛: 低）
-- **[评分: 7/10]** [We built an AI agent that works inside a website's real user session](https://www.reddit.com/r/SideProject/comments/1x5gg5z/we_built_an_ai_agent_that_works_inside_a_websites/) — 为企业网站定制AI代理，提高工作流程自动化。（门槛: 中）
-- **[评分: 7/10]** [📣 #发现频道 【开发者自荐】Moment：在 Mac 上整理多账户资](https://meta.appinn.net/t/topic/93509) — 为个人投资者提供多账户资产整理工具，简化投资管理。（门槛: 低）
 
 ### 🏷️ 视频与动效代交付
+- **[评分: 7/10]** [做了一个 Ghostty fork，优化 SSH 远程开发和 Agent CLI 工作流](https://www.v2ex.com/t/1248766) — 为开发者提供更便捷的 SSH 和 Agent 工作流工具。（门槛: 低）
+- **[评分: 7/10]** [发现一个浏览器端的 AI 视频去物工具](https://www.v2ex.com/t/1248784) — AI视频去物工具，解决视频编辑去杂需求。（门槛: 低）
 - **[评分: 7/10]** [h3price ai：基于 Nano Banana 2.1 的 AI 图像生成与编辑工具](https://www.v2ex.com/t/1248763) — AI 图像生成与编辑工具，降低图像制作门槛。（门槛: 低）
 - **[评分: 7/10]** [SupoClip](https://www.producthunt.com/products/supoclip) — 利用 AI 技术简化长视频剪辑，满足社交媒体内容创作者的需求。（门槛: 低）
 - **[评分: 7/10]** [I made a Chrome extension to control video speed from the keyboard](https://www.reddit.com/r/SideProject/comments/1x5i86m/i_made_a_chrome_extension_to_control_video_speed/) — 为视频观看者提供便捷的视频速度控制扩展程序。（门槛: 低）
@@ -77,9 +78,6 @@
 - **[评分: 7/10]** [I produced a free Adobe Animate alternative](https://www.reddit.com/r/SideProject/comments/1x5etw8/i_produced_a_free_adobe_animate_alternative/) — 提供免费 Adobe Animate 替代品，吸引付费用户。（门槛: 低）
 - **[评分: 7/10]** [I built a tool because my colleagues were getting sick of reviewing all my PRs](https://www.reddit.com/r/SideProject/comments/1x5fzj7/i_built_a_tool_because_my_colleagues_were_getting/) — 为开发团队提供自动化代码审查工具，提高审查效率。（门槛: 低）
 - **[评分: 7/10]** [Built the easiest way to convert any link/pdf/document into an explainer video](https://www.reddit.com/r/SideProject/comments/1x5e47i/built_the_easiest_way_to_convert_any/) — 将文档/链接一键转换为解释性视频，助力内容创作者。（门槛: 低）
-- **[评分: 7/10]** [Cliptate：我用 Swift + MLX 写了一个 macOS 原生离线语音输入与语音工作流工具，彻底告别云端延迟和隐私焦虑](https://www.v2ex.com/t/1248651) — 提供本地AI驱动的Mac语音输入工具，解决云端延迟和隐私问题。（门槛: 低）
-- **[评分: 7/10]** [Perfect-er Freehand](https://news.ycombinator.com/item?id=50082231) — 改进现有路径绘制库，满足设计师和开发者的工具需求。（门槛: 低）
-- **[评分: 7/10]** [Show HN: Evaluate and improve your agent steering](https://news.ycombinator.com/item?id=50081857) — 为 AI 开发者提供评估和改进 AI 编码代理的工具。（门槛: 低）
 
 ### 🏷️ 跨境电商与出海独立站工具
 - **[评分: 8/10]** [Launch HN: Consus (YC F24) – LLM gateway for companies handling sensitive data](https://news.ycombinator.com/item?id=50073471) — 为航空航天和国防公司提供符合ITAR和FedRAMP标准的AI服务。（门槛: 高）
@@ -92,6 +90,11 @@
 - **[评分: 8/10]** [Famulor](https://www.producthunt.com/products/famulor-telephony-ai) — 给本地商家搭AI电话+WhatsApp跟进客服，按月收费（门槛: 中）
 - **[评分: 8/10]** [Communicate](https://www.producthunt.com/products/communicate) — 垂直行业AI客服代理，知识库+人工接管月费变现（门槛: 中）
 
+### 🏷️ 七大高溢价赛道之一
+- **[评分: 7/10]** [做了个开源插件：一次提问，同时问 ChatGPT / Claude / DeepSeek / 豆包 等 12 个 AI，并排看回答](https://www.v2ex.com/t/1248772) — 多AI工具并排对比，提高开发者效率。（门槛: 低）
+- **[评分: 7/10]** [Show HN: Agent Identity – Identity and communication infrastructure for AI agent](https://www.agent-identity.dev/) — 为 AI 代理提供身份和通信基础设施。（门槛: 高）
+- **[评分: 7/10]** [Etchv](https://www.producthunt.com/products/etchv) — 提供图像、PDF和视频不可见水印API，满足版权保护和追踪需求。（门槛: 中）
+
 ### 🏷️ ⚡ 非对称套利与增长黑客
 - **[评分: 8/10]** [注册了一个美国公司，可以提供 Claude Code 团队订阅席位。](https://www.v2ex.com/t/1247029) — 美国公司主体代持 Claude 团队席位，按月转售给国内开发者（门槛: 中）
 - **[评分: 8/10]** [🦙 Claude AI 创业公司计划 — 12个月 Pro Team + $1,000 API Credits](https://www.nodeseek.com/post-969760-1) — 白嫖Claude官方12个月会员+千刀API额度，最高撬10万（门槛: 低）
@@ -100,9 +103,8 @@
 - **[评分: 8/10]** [I scraped billions of TikTok videos and profiles by reverse engineering the mobile API. Here's how it works + source code](https://www.reddit.com/r/SaaS/comments/1wxoasb/i_scraped_billions_of_tiktok_videos_and_profiles/) — 逆向 TikTok 接口，把爆款趋势与达人名单做成付费数据 API（门槛: 高）
 - **[评分: 8/10]** [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) — 零 API 费抓取社媒，一键交付海外精准潜客名单（门槛: 中）
 
-### 🏷️ 七大高溢价赛道之一
-- **[评分: 7/10]** [Show HN: Agent Identity – Identity and communication infrastructure for AI agent](https://www.agent-identity.dev/) — 为 AI 代理提供身份和通信基础设施。（门槛: 高）
-- **[评分: 7/10]** [Etchv](https://www.producthunt.com/products/etchv) — 提供图像、PDF和视频不可见水印API，满足版权保护和追踪需求。（门槛: 中）
+### 🏷️ 国学文化数字化与情绪消费
+- **[评分: 7/10]** [Orbora](https://www.producthunt.com/products/orbora) — 提供个性化引导音频，满足国学文化数字化和情绪消费需求（门槛: 低）
 
 
 ---
