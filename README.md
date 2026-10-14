@@ -70,27 +70,27 @@
 - **[评分: 7/10]** [Show HN: Parsimony – an open-source benchmark for how much code AI models add](https://parsimony.lasu.dev/) — 为 AI 模型开发者提供减少代码冗余的基准测试工具。（门槛: 低）
 - **[评分: 7/10]** [Show HN: Hatoba, an open-source SSH client with an AI assistant and E2EE sync](https://github.com/scarletkc/Hatoba) — 为开发者提供集AI辅助和端到端加密的SSH客户端。（门槛: 中）
 - **[评分: 7/10]** [Show HN: pg_vectorsearch: Scalable Open-Source Vector Search in PostgreSQL](https://github.com/timescale/pg_vectorsearch) — 为 PostgreSQL 提供高效的向量搜索解决方案，满足企业对大数据搜索的需求。（门槛: 中）
-- **[评分: 7/10]** [WeatherFast - A fast weather app](https://www.reddit.com/r/SideProject/comments/1x4zj23/weatherfast_a_fast_weather_app/) — 开发一个无广告、UI优化的天气应用，满足用户对天气信息快速获取的需求。（门槛: 低）
-- **[评分: 7/10]** [I built an open-source security checker for AI-coded apps. Looking for early testers and contributors.](https://www.reddit.com/r/SideProject/comments/1x4ylbz/i_built_an_opensource_security_checker_for/) — 为AI构建的应用提供安全检查工具，帮助开发者避免API密钥泄露。（门槛: 低）
 
 ### 🏷️ 跨境电商与出海独立站工具
 - **[评分: 8/10]** [Launch HN: Consus (YC F24) – LLM gateway for companies handling sensitive data](https://news.ycombinator.com/item?id=50073471) — 为航空航天和国防公司提供符合ITAR和FedRAMP标准的AI服务。（门槛: 高）
 - **[评分: 8/10]** [Show HN: Proofsource. Find where AI leaves you out. And Fix it](https://proofsource.co/) — 利用AI分析AI引擎，帮助品牌提升在线可见性。（门槛: 中）
 - **[评分: 8/10]** [Bootstrapping to €600k MRR and getting killed by Shopify: Checkout X](https://www.leteyski.com/bootstrapping-to-600k-mrr-and-getting-killed-by-shopify-the-story-of-checkout-x) — 独立站结账优化插件，€600k MRR 验证刚需（门槛: 高）
+- **[评分: 7/10]** [Show HN: GenClas, A 10 MB in-browser model that catches bugs that never throw](https://www.npmjs.com/package/@genclass/runtime) — 为AI生成电商代码提供实时bug检测工具。（门槛: 低）
 - **[评分: 7/10]** [深度云海完成千万级天使轮融资，前百度搜索团队创办｜36氪首发](https://36kr.com/p/4023041152585603?f=rss) — 为企业提供GEO RaaS系统和DeepWork桌面端产品，助力AI营销。（门槛: 中）
 - **[评分: 7/10]** [Show HN: Can a solo founder compete in the crowded Chrome extension market?](https://chromewebstore.google.com/detail/thrivez-go-â-earn-rewards/fodndcoojiniehbochnniejfdfnclgfg) — 开发 Chrome 扩展程序满足特定用户需求。（门槛: 低）
 - **[评分: 7/10]** [Show HN: Pippin – macOS High-Performance Screen Sharing Client for Linux](https://github.com/jonesy827/pippin) — 为 macOS 用户在 Linux 系统上提供高性能屏幕共享解决方案。（门槛: 低）
 - **[评分: 7/10]** [AWS Weekly Roundup: Prime Day 2026 by the numbers, Claude Haiku 5.5, Amazon Nova 2.5 Sonic, and more](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-prime-day-2026-by-the-numbers-claude-haiku-5-5-amazon-nova-2-5-sonic-and-more-october-13-2026/) — 利用亚马逊Prime Day数据，开发高性能缓存工具满足电商需求。（门槛: 中）
 
+### 🏷️ 七大高溢价赛道之一
+- **[评分: 7/10]** [🚀 How Did a $200 Customer Turn Into $3.5M ARR?](https://trends.vc/how-did-a-200-customer-turn-into-3-5m-arr/) — 通过高客单价SaaS产品实现快速增长。（门槛: 中）
+- **[评分: 7/10]** [Gemini 4 Argon in GitHub Copilot](https://github.blog/changelog/2026-10-13-gemini-4-argon-in-github-copilot) — 利用AI模型提供复杂编码和推理任务工具。（门槛: 高）
+- **[评分: 7/10]** [Show HN: Hev is a Jev-compatible API, answered by humans](https://usehev.com) — 利用陌生人智慧提供决策支持的API服务。（门槛: 低）
+- **[评分: 7/10]** [Show HN: Hatswap – one Claude Code account per client, switch mid-chat](https://github.com/orvi2014/hatswap) — 为 ChatGPT 用户提供账户切换工具，提升聊天体验。（门槛: 低）
+
 ### 🏷️ 极窄场景的 Micro-AI 插件
 - **[评分: 8/10]** [Show HN: Halo – A Personal AI with On-Device Harness, Memory and Browser Agent](https://apps.apple.com/us/app/halo-personal-ai/id6783715054) — 端侧隐私 AI 助手，$49 终身买断，数据不出手机（门槛: 中）
 - **[评分: 8/10]** [Famulor](https://www.producthunt.com/products/famulor-telephony-ai) — 给本地商家搭AI电话+WhatsApp跟进客服，按月收费（门槛: 中）
 - **[评分: 8/10]** [Communicate](https://www.producthunt.com/products/communicate) — 垂直行业AI客服代理，知识库+人工接管月费变现（门槛: 中）
-
-### 🏷️ 七大高溢价赛道之一
-- **[评分: 7/10]** [Gemini 4 Argon in GitHub Copilot](https://github.blog/changelog/2026-10-13-gemini-4-argon-in-github-copilot) — 利用AI模型提供复杂编码和推理任务工具。（门槛: 高）
-- **[评分: 7/10]** [Show HN: Hev is a Jev-compatible API, answered by humans](https://usehev.com) — 利用陌生人智慧提供决策支持的API服务。（门槛: 低）
-- **[评分: 7/10]** [Show HN: Hatswap – one Claude Code account per client, switch mid-chat](https://github.com/orvi2014/hatswap) — 为 ChatGPT 用户提供账户切换工具，提升聊天体验。（门槛: 低）
 
 ### 🏷️ ⚡ 非对称套利与增长黑客
 - **[评分: 8/10]** [注册了一个美国公司，可以提供 Claude Code 团队订阅席位。](https://www.v2ex.com/t/1247029) — 美国公司主体代持 Claude 团队席位，按月转售给国内开发者（门槛: 中）
@@ -101,8 +101,8 @@
 - **[评分: 8/10]** [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) — 零 API 费抓取社媒，一键交付海外精准潜客名单（门槛: 中）
 
 ### 🏷️ 视频与动效代交付
+- **[评分: 7/10]** [Show HN: Evaluate and improve your agent steering](https://news.ycombinator.com/item?id=50081857) — 为 AI 开发者提供评估和改进 AI 编码代理的工具。（门槛: 低）
 - **[评分: 7/10]** [Build a SaaS for android devs and people who dont have an android device](https://www.reddit.com/r/SaaS/comments/1x55ybv/build_a_saas_for_android_devs_and_people_who_dont/) — 为 Android 开发者和无设备用户打造快速测试 APK 的 SaaS。（门槛: 低）
-- **[评分: 7/10]** [I made a Chrome extension that keeps YouTube Studio's Audio Library playing in background tabs](https://www.reddit.com/r/SideProject/comments/1x4ym35/i_made_a_chrome_extension_that_keeps_youtube/) — 为YouTube用户提供后台播放音乐的Chrome扩展程序。（门槛: 低）
 
 
 ---
