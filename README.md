@@ -73,6 +73,7 @@
 - **[评分: 8/10]** [Show HN: Halo – A Personal AI with On-Device Harness, Memory and Browser Agent](https://apps.apple.com/us/app/halo-personal-ai/id6783715054) — 端侧隐私 AI 助手，$49 终身买断，数据不出手机（门槛: 中）
 - **[评分: 8/10]** [Famulor](https://www.producthunt.com/products/famulor-telephony-ai) — 给本地商家搭AI电话+WhatsApp跟进客服，按月收费（门槛: 中）
 - **[评分: 8/10]** [Communicate](https://www.producthunt.com/products/communicate) — 垂直行业AI客服代理，知识库+人工接管月费变现（门槛: 中）
+- **[评分: 7/10]** [Show HN: Forwarder.cc – Static-site forms sent to your inbox, pay per message](https://forwarder.cc) — 静态站表单按条转发，卖轻量后端（门槛: 低）
 - **[评分: 7/10]** [I built a fast, keyboard-first Mac+webapp for issue tracking](https://www.reddit.com/r/SideProject/comments/1x6r7vd/i_built_a_fast_keyboardfirst_macwebapp_for_issue/) — GitHub issue 键盘客户端与代理工作流订阅（门槛: 中）
 - **[评分: 7/10]** [I built a client portal for graphic designers because briefs kept arriving in pieces](https://www.reddit.com/r/SideProject/comments/1x6klcq/i_built_a_client_portal_for_graphic_designers/) — 设计师客户门户，AI整理零散brief并留痕审批（门槛: 低）
 - **[评分: 7/10]** [fidelius, a mac app that keeps api keys in your iCloud keychain, away from coding agents](https://www.reddit.com/r/SideProject/comments/1x6i3pa/fidelius_a_mac_app_that_keeps_api_keys_in_your/) — AI编程密钥防泄露 Mac CLI 工具（门槛: 中）
@@ -99,12 +100,11 @@
 - **[评分: 7/10]** [Epherem](https://www.producthunt.com/products/epherem) — 为 AI 应用开发者提供安全漏洞检测工具（门槛: 中）
 - **[评分: 7/10]** [I built a tool that roasts cliché portfolio projects and predicts the trap questions interviewers will ask](https://www.reddit.com/r/SideProject/comments/1x5m7m2/i_built_a_tool_that_roasts_cliché_portfolio/) — 通过分析项目，预测面试中可能遇到的技术问题。（门槛: 低）
 
-### 🏷️ 视频与动效代交付
-- **[评分: 7/10]** [做了一个 Ghostty fork，优化 SSH 远程开发和 Agent CLI 工作流](https://www.v2ex.com/t/1248766) — 为开发者提供更便捷的 SSH 和 Agent 工作流工具。（门槛: 低）
-- **[评分: 7/10]** [发现一个浏览器端的 AI 视频去物工具](https://www.v2ex.com/t/1248784) — AI视频去物工具，解决视频编辑去杂需求。（门槛: 低）
-
 ### 🏷️ 国学文化数字化与情绪消费
 - **[评分: 7/10]** [I made Abvy: a beautiful drinking and BAC tracker](https://www.reddit.com/r/SideProject/comments/1x5zbfp/i_made_abvy_a_beautiful_drinking_and_bac_tracker/) — 做饮酒BAC预测与记录订阅工具（门槛: 中）
+
+### 🏷️ 视频与动效代交付
+- **[评分: 7/10]** [做了一个 Ghostty fork，优化 SSH 远程开发和 Agent CLI 工作流](https://www.v2ex.com/t/1248766) — 为开发者提供更便捷的 SSH 和 Agent 工作流工具。（门槛: 低）
 
 
 ---
