@@ -32,7 +32,7 @@
 ---
 
 ## 🔥 今日精选高潜力商机 (Top Featured)
-*最后更新：2026-10-15 ｜ 数据源自全球技术雷达自动研判*
+*最后更新：2026-10-16 ｜ 数据源自全球技术雷达自动研判*
 
 | 评分 | 标杆项目 / 原型 | 赛道 | 门槛 | 商业研判与一句话逻辑 | 原始链接 | 完整研报 |
 |---|---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 - **[评分: 8/10]** [Show HN: Halo – A Personal AI with On-Device Harness, Memory and Browser Agent](https://apps.apple.com/us/app/halo-personal-ai/id6783715054) — 端侧隐私 AI 助手，$49 终身买断，数据不出手机（门槛: 中）
 - **[评分: 8/10]** [Famulor](https://www.producthunt.com/products/famulor-telephony-ai) — 给本地商家搭AI电话+WhatsApp跟进客服，按月收费（门槛: 中）
 - **[评分: 8/10]** [Communicate](https://www.producthunt.com/products/communicate) — 垂直行业AI客服代理，知识库+人工接管月费变现（门槛: 中）
+- **[评分: 7/10]** [I built a fast, keyboard-first Mac+webapp for issue tracking](https://www.reddit.com/r/SideProject/comments/1x6r7vd/i_built_a_fast_keyboardfirst_macwebapp_for_issue/) — GitHub issue 键盘客户端与代理工作流订阅（门槛: 中）
 - **[评分: 7/10]** [I built a client portal for graphic designers because briefs kept arriving in pieces](https://www.reddit.com/r/SideProject/comments/1x6klcq/i_built_a_client_portal_for_graphic_designers/) — 设计师客户门户，AI整理零散brief并留痕审批（门槛: 低）
 - **[评分: 7/10]** [fidelius, a mac app that keeps api keys in your iCloud keychain, away from coding agents](https://www.reddit.com/r/SideProject/comments/1x6i3pa/fidelius_a_mac_app_that_keeps_api_keys_in_your/) — AI编程密钥防泄露 Mac CLI 工具（门槛: 中）
 - **[评分: 7/10]** [做了一个图片擦除物体和去背景的免费在线工具和 API](https://www.v2ex.com/t/1248875) — 去背景API停服窗口，用免费额度导流变现。（门槛: 中）
@@ -90,14 +91,13 @@
 - **[评分: 8/10]** [I scraped billions of TikTok videos and profiles by reverse engineering the mobile API. Here's how it works + source code](https://www.reddit.com/r/SaaS/comments/1wxoasb/i_scraped_billions_of_tiktok_videos_and_profiles/) — 逆向 TikTok 接口，把爆款趋势与达人名单做成付费数据 API（门槛: 高）
 - **[评分: 8/10]** [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) — 零 API 费抓取社媒，一键交付海外精准潜客名单（门槛: 中）
 
-### 🏷️ 七大高溢价赛道之一
-- **[评分: 7/10]** [Epherem](https://www.producthunt.com/products/epherem) — 为 AI 应用开发者提供安全漏洞检测工具（门槛: 中）
-- **[评分: 7/10]** [I built a tool that roasts cliché portfolio projects and predicts the trap questions interviewers will ask](https://www.reddit.com/r/SideProject/comments/1x5m7m2/i_built_a_tool_that_roasts_cliché_portfolio/) — 通过分析项目，预测面试中可能遇到的技术问题。（门槛: 低）
-- **[评分: 7/10]** [做了个开源插件：一次提问，同时问 ChatGPT / Claude / DeepSeek / 豆包 等 12 个 AI，并排看回答](https://www.v2ex.com/t/1248772) — 多AI工具并排对比，提高开发者效率。（门槛: 低）
-
 ### 🏷️ ⚡ 非对称套利与增长黑客
 - **[评分: 8/10]** [注册了一个美国公司，可以提供 Claude Code 团队订阅席位。](https://www.v2ex.com/t/1247029) — 美国公司主体代持 Claude 团队席位，按月转售给国内开发者（门槛: 中）
 - **[评分: 8/10]** [🦙 Claude AI 创业公司计划 — 12个月 Pro Team + $1,000 API Credits](https://www.nodeseek.com/post-969760-1) — 白嫖Claude官方12个月会员+千刀API额度，最高撬10万（门槛: 低）
+
+### 🏷️ 七大高溢价赛道之一
+- **[评分: 7/10]** [Epherem](https://www.producthunt.com/products/epherem) — 为 AI 应用开发者提供安全漏洞检测工具（门槛: 中）
+- **[评分: 7/10]** [I built a tool that roasts cliché portfolio projects and predicts the trap questions interviewers will ask](https://www.reddit.com/r/SideProject/comments/1x5m7m2/i_built_a_tool_that_roasts_cliché_portfolio/) — 通过分析项目，预测面试中可能遇到的技术问题。（门槛: 低）
 
 ### 🏷️ 视频与动效代交付
 - **[评分: 7/10]** [做了一个 Ghostty fork，优化 SSH 远程开发和 Agent CLI 工作流](https://www.v2ex.com/t/1248766) — 为开发者提供更便捷的 SSH 和 Agent 工作流工具。（门槛: 低）
