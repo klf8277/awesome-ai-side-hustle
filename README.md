@@ -66,13 +66,13 @@
 - **[评分: 7/10]** [Show HN: AI investment agreement review for startup founders](https://www.orchardagentic.cloud/#browse/funding-review) — 为初创公司创始人提供投资协议审查工具，降低投资风险。（门槛: 低）
 - **[评分: 7/10]** [Acyclic](https://www.producthunt.com/products/acyclic) — 为企业提供快速自动化工作流程的解决方案。（门槛: 中）
 - **[评分: 7/10]** [I made receipt scanning ~5× faster in my open-source expense-sharing app](https://www.reddit.com/r/SideProject/comments/1x5mhqv/i_made_receipt_scanning_5_faster_in_my_opensource/) — 通过优化收据扫描速度，提升开源费用共享应用的用户体验。（门槛: 低）
-- **[评分: 7/10]** [开发日志：为了把窗口送回「原来的桌面」，我把 macOS 的私有接口翻了一遍](https://www.v2ex.com/t/1248769) — 开发跨桌面窗口管理工具，解决桌面布局恢复难题。（门槛: 高）
 
 ### 🏷️ 极窄场景的 Micro-AI 插件
 - **[评分: 8/10]** [I built a family location app that doesn't keep history — today it got an Apple Watch app](https://www.reddit.com/r/SideProject/comments/1x5q9kf/i_built_a_family_location_app_that_doesnt_keep/) — 隐私家庭定位月订阅（门槛: 中）
 - **[评分: 8/10]** [Show HN: Halo – A Personal AI with On-Device Harness, Memory and Browser Agent](https://apps.apple.com/us/app/halo-personal-ai/id6783715054) — 端侧隐私 AI 助手，$49 终身买断，数据不出手机（门槛: 中）
 - **[评分: 8/10]** [Famulor](https://www.producthunt.com/products/famulor-telephony-ai) — 给本地商家搭AI电话+WhatsApp跟进客服，按月收费（门槛: 中）
 - **[评分: 8/10]** [Communicate](https://www.producthunt.com/products/communicate) — 垂直行业AI客服代理，知识库+人工接管月费变现（门槛: 中）
+- **[评分: 7/10]** [被切线路和给朋友远程配 Claude Code 折腾烦了，自己搓了个桌面小工具 Folkbench Switch](https://www.v2ex.com/t/1249363) — AI编码多线路切换容灾桌面工具（门槛: 中）
 - **[评分: 7/10]** [I got tired of losing research across AI chats and browser tabs, so I built this](https://www.reddit.com/r/SideProject/comments/1x72brw/i_got_tired_of_losing_research_across_ai_chats/) — AI研究资料自动整理成可核查简报（门槛: 低）
 - **[评分: 7/10]** [Show HN: Forwarder.cc – Static-site forms sent to your inbox, pay per message](https://forwarder.cc) — 静态站表单按条转发，卖轻量后端（门槛: 低）
 - **[评分: 7/10]** [I built a fast, keyboard-first Mac+webapp for issue tracking](https://www.reddit.com/r/SideProject/comments/1x6r7vd/i_built_a_fast_keyboardfirst_macwebapp_for_issue/) — GitHub issue 键盘客户端与代理工作流订阅（门槛: 中）
