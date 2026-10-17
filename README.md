@@ -60,7 +60,7 @@
 - **[评分: 8/10]** [My solopreneur story](https://news.tonydinh.com/p/my-solopreneur-story-zero-to-45kmo) — 单人从 0 到月入 4.5 万美元的可复制变现路径拆解（门槛: 中）
 - **[评分: 8/10]** [Show HN: After 2.5 years on my side project, it has hit £500/month revenue](https://news.ycombinator.com/item?id=25372464) — 音频私密分享SaaS，替代Bandcamp/SoundCloud的细分付费工具（门槛: 中）
 - **[评分: 7/10]** [Show HN: Halal Crypto Index – AAOIFI Shariah compliance screener for 800 coins](https://halalcryptoindex.com/) — 为清真合规加密货币提供财务比率和筛选服务（门槛: 中）
-- **[评分: 7/10]** [Show HN: InBox Wall](https://github.com/Annora998/inboxwall) — 为企业AI代理提供安全的邮件HTML清理服务。（门槛: 中）
+- **[评分: 7/10]** [Show HN: InBox Wall – A local-first, open-source email sanitizer for AI agents](https://github.com/Annora998/inboxwall) — 为企业AI代理提供安全的邮件HTML清理服务。（门槛: 中）
 - **[评分: 7/10]** [Show HN: Esp32sim – Run ESP32 firmware in the browser](https://github.com/mikroverk/esp32sim) — 为嵌入式开发者提供在线ESP32模拟器，简化软件开发和测试。（门槛: 低）
 - **[评分: 7/10]** [Show HN: I reverse engineered serum 2 and build an open source alternative](https://github.com/itsfabioroma/tessera) — 为设计师和开发者提供 Serum 2 的开源替代品。（门槛: 中）
 - **[评分: 7/10]** [I built a Windows tray app that keeps Claude Code working when I close the laptop](https://www.reddit.com/r/SideProject/comments/1x8g522/i_built_a_windows_tray_app_that_keeps_claude_code/) — 为特定应用程序开发保持笔记本电脑在关闭盖子时工作的免费开源工具。（门槛: 低）
@@ -76,7 +76,6 @@
 - **[评分: 7/10]** [Pinch - text it a bill, and an AI calls the company to ask for the loyalty rate](https://www.reddit.com/r/SideProject/comments/1x7z9tn/pinch_text_it_a_bill_and_an_ai_calls_the_company/) — 让 AI 打电话替你砍账单，谈回年付折扣（门槛: 中）
 - **[评分: 7/10]** [被切线路和给朋友远程配 Claude Code 折腾烦了，自己搓了个桌面小工具 Folkbench Switch](https://www.v2ex.com/t/1249363) — AI编码多线路切换容灾桌面工具（门槛: 中）
 - **[评分: 7/10]** [I got tired of losing research across AI chats and browser tabs, so I built this](https://www.reddit.com/r/SideProject/comments/1x72brw/i_got_tired_of_losing_research_across_ai_chats/) — AI研究资料自动整理成可核查简报（门槛: 低）
-- **[评分: 7/10]** [Show HN: Forwarder.cc – Static-site forms sent to your inbox, pay per message](https://forwarder.cc) — 静态站表单按条转发，卖轻量后端（门槛: 低）
 
 ### 🏷️ 跨境电商与出海独立站工具
 - **[评分: 8/10]** [Launch HN: Consus (YC F24) – LLM gateway for companies handling sensitive data](https://news.ycombinator.com/item?id=50073471) — 为航空航天和国防公司提供符合ITAR和FedRAMP标准的AI服务。（门槛: 高）
@@ -99,6 +98,9 @@
 ### 🏷️ ⚡ 非对称套利与增长黑客
 - **[评分: 8/10]** [注册了一个美国公司，可以提供 Claude Code 团队订阅席位。](https://www.v2ex.com/t/1247029) — 美国公司主体代持 Claude 团队席位，按月转售给国内开发者（门槛: 中）
 - **[评分: 8/10]** [🦙 Claude AI 创业公司计划 — 12个月 Pro Team + $1,000 API Credits](https://www.nodeseek.com/post-969760-1) — 白嫖Claude官方12个月会员+千刀API额度，最高撬10万（门槛: 低）
+
+### 🏷️ 国学文化数字化与情绪消费
+- **[评分: 7/10]** [Show HN: Task629 – Personal development tracking through task descriptions](https://github.com/sudo-bendg/task629) — 利用AI帮助个人高效追踪个人发展。（门槛: 低）
 
 ### 🏷️ 七大高溢价赛道之一
 - **[评分: 7/10]** [Show HN: I built an AI cycling coach](https://cuore.fit/) — 为忙碌骑行者提供个性化室内骑行训练计划。（门槛: 中）
