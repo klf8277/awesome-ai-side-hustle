@@ -59,6 +59,8 @@
 - **[评分: 8/10]** [I run multiple $10K MRR companies on a $20/month tech stack](https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack) — $20 月成本跑出 $10K MRR 的极简技术栈拆解变现（门槛: 中）
 - **[评分: 8/10]** [My solopreneur story](https://news.tonydinh.com/p/my-solopreneur-story-zero-to-45kmo) — 单人从 0 到月入 4.5 万美元的可复制变现路径拆解（门槛: 中）
 - **[评分: 8/10]** [Show HN: After 2.5 years on my side project, it has hit £500/month revenue](https://news.ycombinator.com/item?id=25372464) — 音频私密分享SaaS，替代Bandcamp/SoundCloud的细分付费工具（门槛: 中）
+- **[评分: 7/10]** [Show HN: Halal Crypto Index – AAOIFI Shariah compliance screener for 800 coins](https://halalcryptoindex.com/) — 为清真合规加密货币提供财务比率和筛选服务（门槛: 中）
+- **[评分: 7/10]** [Show HN: InBox Wall](https://github.com/Annora998/inboxwall) — 为企业AI代理提供安全的邮件HTML清理服务。（门槛: 中）
 - **[评分: 7/10]** [Show HN: Esp32sim – Run ESP32 firmware in the browser](https://github.com/mikroverk/esp32sim) — 为嵌入式开发者提供在线ESP32模拟器，简化软件开发和测试。（门槛: 低）
 - **[评分: 7/10]** [Show HN: I reverse engineered serum 2 and build an open source alternative](https://github.com/itsfabioroma/tessera) — 为设计师和开发者提供 Serum 2 的开源替代品。（门槛: 中）
 - **[评分: 7/10]** [I built a Windows tray app that keeps Claude Code working when I close the laptop](https://www.reddit.com/r/SideProject/comments/1x8g522/i_built_a_windows_tray_app_that_keeps_claude_code/) — 为特定应用程序开发保持笔记本电脑在关闭盖子时工作的免费开源工具。（门槛: 低）
@@ -75,8 +77,6 @@
 - **[评分: 7/10]** [被切线路和给朋友远程配 Claude Code 折腾烦了，自己搓了个桌面小工具 Folkbench Switch](https://www.v2ex.com/t/1249363) — AI编码多线路切换容灾桌面工具（门槛: 中）
 - **[评分: 7/10]** [I got tired of losing research across AI chats and browser tabs, so I built this](https://www.reddit.com/r/SideProject/comments/1x72brw/i_got_tired_of_losing_research_across_ai_chats/) — AI研究资料自动整理成可核查简报（门槛: 低）
 - **[评分: 7/10]** [Show HN: Forwarder.cc – Static-site forms sent to your inbox, pay per message](https://forwarder.cc) — 静态站表单按条转发，卖轻量后端（门槛: 低）
-- **[评分: 7/10]** [I built a fast, keyboard-first Mac+webapp for issue tracking](https://www.reddit.com/r/SideProject/comments/1x6r7vd/i_built_a_fast_keyboardfirst_macwebapp_for_issue/) — GitHub issue 键盘客户端与代理工作流订阅（门槛: 中）
-- **[评分: 7/10]** [I built a client portal for graphic designers because briefs kept arriving in pieces](https://www.reddit.com/r/SideProject/comments/1x6klcq/i_built_a_client_portal_for_graphic_designers/) — 设计师客户门户，AI整理零散brief并留痕审批（门槛: 低）
 
 ### 🏷️ 跨境电商与出海独立站工具
 - **[评分: 8/10]** [Launch HN: Consus (YC F24) – LLM gateway for companies handling sensitive data](https://news.ycombinator.com/item?id=50073471) — 为航空航天和国防公司提供符合ITAR和FedRAMP标准的AI服务。（门槛: 高）
