@@ -75,11 +75,11 @@
 - **[评分: 8/10]** [I run multiple $10K MRR companies on a $20/month tech stack](https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack) — $20 月成本跑出 $10K MRR 的极简技术栈拆解变现（门槛: 中）
 - **[评分: 8/10]** [My solopreneur story](https://news.tonydinh.com/p/my-solopreneur-story-zero-to-45kmo) — 单人从 0 到月入 4.5 万美元的可复制变现路径拆解（门槛: 中）
 - **[评分: 8/10]** [Show HN: After 2.5 years on my side project, it has hit £500/month revenue](https://news.ycombinator.com/item?id=25372464) — 音频私密分享SaaS，替代Bandcamp/SoundCloud的细分付费工具（门槛: 中）
+- **[评分: 7/10]** [Launched my Mac app on Product Hunt as a solo dev: #22 of the day, and licenses went from 39 to 54](https://www.reddit.com/r/SideProject/comments/1x88rlo/launched_my_mac_app_on_product_hunt_as_a_solo_dev/) — 开发Mac性能诊断应用，通过Product Hunt快速变现。（门槛: 低）
+- **[评分: 7/10]** [I built a web app that maps the shade where you want to put a solar panel or a garden bed](https://www.reddit.com/r/SideProject/comments/1x89znd/i_built_a_web_app_that_maps_the_shade_where_you/) — 利用AI技术为个人用户提供太阳能板和花园床阴影预测服务。（门槛: 低）
 - **[评分: 7/10]** [做了一个开源的多 AI Agent 任务管理工具 StateDock，支持 MCP、Docker 自部署](https://www.v2ex.com/t/1248798) — 为多AI Agent开发提供任务管理解决方案。（门槛: 低）
 - **[评分: 7/10]** [[开源] Agent HUD：把 Claude Code / Codex 等 17 个 agent 的额度和批准请求放在 Mac 刘海或屏幕边上](https://www.v2ex.com/t/1248801) — 为Mac用户提供多agent额度管理和状态监控工具。（门槛: 低）
 - **[评分: 7/10]** [Show HN: Decision Models in a Game](https://news.ycombinator.com/item?id=50085535) — 开发比较 OpenAI 模型成本和延迟的工具，满足用户对决策模型的需求。（门槛: 中）
-- **[评分: 7/10]** [Show HN: What are vector embeddings? An interactive guide](https://isaacus.com/blog/what-are-vector-embeddings) — 开发交互式向量嵌入指南，满足机器学习工程师的教育需求。（门槛: 中）
-- **[评分: 7/10]** [Show HN: AI investment agreement review for startup founders](https://www.orchardagentic.cloud/#browse/funding-review) — 为初创公司创始人提供投资协议审查工具，降低投资风险。（门槛: 低）
 
 ### 🏷️ B2B 高客单数据抓取与精准名单
 - **[评分: 8/10]** [I just hit $100K with my SaaS as a 22-year-old solo founder. Started with $100](https://www.reddit.com/r/SaaS/comments/1x5vy9i/i_just_hit_100k_with_my_saas_as_a_22yearold_solo/) — AI抓取清洗B2B线索，卖精准获客名单与触达工作流（门槛: 中）
@@ -91,22 +91,20 @@
 - **[评分: 8/10]** [Show HN: Proofsource. Find where AI leaves you out. And Fix it](https://proofsource.co/) — 利用AI分析AI引擎，帮助品牌提升在线可见性。（门槛: 中）
 - **[评分: 8/10]** [Bootstrapping to €600k MRR and getting killed by Shopify: Checkout X](https://www.leteyski.com/bootstrapping-to-600k-mrr-and-getting-killed-by-shopify-the-story-of-checkout-x) — 独立站结账优化插件，€600k MRR 验证刚需（门槛: 高）
 
+### 🏷️ 视频与动效代交付
+- **[评分: 7/10]** [I built a tool to make app store screenshots easier](https://www.reddit.com/r/SideProject/comments/1x88939/i_built_a_tool_to_make_app_store_screenshots/) — 为 App 开发者提供简化 App Store 屏幕截图制作的工具。（门槛: 低）
+- **[评分: 7/10]** [做了个 Flying Car AI，上传车的照片，生成 Roadster 同款空翻视频](https://www.v2ex.com/t/1249641) — 利用AI技术快速生成特技视频，满足个人和企业营销需求。（门槛: 低）
+- **[评分: 7/10]** [做了个 AI 汽车视频工具，上传照片就能让自己的车“起飞”](https://www.v2ex.com/t/1249650) — AI 生成汽车视频特效，操作简便。（门槛: 低）
+
 ### 🏷️ ⚡ 非对称套利与增长黑客
 - **[评分: 8/10]** [注册了一个美国公司，可以提供 Claude Code 团队订阅席位。](https://www.v2ex.com/t/1247029) — 美国公司主体代持 Claude 团队席位，按月转售给国内开发者（门槛: 中）
 - **[评分: 8/10]** [🦙 Claude AI 创业公司计划 — 12个月 Pro Team + $1,000 API Credits](https://www.nodeseek.com/post-969760-1) — 白嫖Claude官方12个月会员+千刀API额度，最高撬10万（门槛: 低）
-
-### 🏷️ 视频与动效代交付
-- **[评分: 7/10]** [做了个 Flying Car AI，上传车的照片，生成 Roadster 同款空翻视频](https://www.v2ex.com/t/1249641) — 利用AI技术快速生成特技视频，满足个人和企业营销需求。（门槛: 低）
-- **[评分: 7/10]** [做了个 AI 汽车视频工具，上传照片就能让自己的车“起飞”](https://www.v2ex.com/t/1249650) — AI 生成汽车视频特效，操作简便。（门槛: 低）
 
 ### 🏷️ 非对称套利与窗口漏洞
 - **[评分: 7/10]** [AIxAPI: V 站福利 AI 中转站 注册送$3 留 ID 送 $10 API 体验额度](https://www.v2ex.com/t/1249583) — 利用平台提供的免费或低成本的API额度进行套利。（门槛: 低）
 
 ### 🏷️ 国学文化数字化与情绪消费
 - **[评分: 7/10]** [I made Abvy: a beautiful drinking and BAC tracker](https://www.reddit.com/r/SideProject/comments/1x5zbfp/i_made_abvy_a_beautiful_drinking_and_bac_tracker/) — 做饮酒BAC预测与记录订阅工具（门槛: 中）
-
-### 🏷️ 七大高溢价赛道之一
-- **[评分: 7/10]** [Epherem](https://www.producthunt.com/products/epherem) — 为 AI 应用开发者提供安全漏洞检测工具（门槛: 中）
 
 
 ---
