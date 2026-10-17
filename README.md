@@ -77,12 +77,12 @@
 - **[评分: 7/10]** [Show HN: Forwarder.cc – Static-site forms sent to your inbox, pay per message](https://forwarder.cc) — 静态站表单按条转发，卖轻量后端（门槛: 低）
 - **[评分: 7/10]** [I built a fast, keyboard-first Mac+webapp for issue tracking](https://www.reddit.com/r/SideProject/comments/1x6r7vd/i_built_a_fast_keyboardfirst_macwebapp_for_issue/) — GitHub issue 键盘客户端与代理工作流订阅（门槛: 中）
 - **[评分: 7/10]** [I built a client portal for graphic designers because briefs kept arriving in pieces](https://www.reddit.com/r/SideProject/comments/1x6klcq/i_built_a_client_portal_for_graphic_designers/) — 设计师客户门户，AI整理零散brief并留痕审批（门槛: 低）
-- **[评分: 7/10]** [fidelius, a mac app that keeps api keys in your iCloud keychain, away from coding agents](https://www.reddit.com/r/SideProject/comments/1x6i3pa/fidelius_a_mac_app_that_keeps_api_keys_in_your/) — AI编程密钥防泄露 Mac CLI 工具（门槛: 中）
 
 ### 🏷️ 跨境电商与出海独立站工具
 - **[评分: 8/10]** [Launch HN: Consus (YC F24) – LLM gateway for companies handling sensitive data](https://news.ycombinator.com/item?id=50073471) — 为航空航天和国防公司提供符合ITAR和FedRAMP标准的AI服务。（门槛: 高）
 - **[评分: 8/10]** [Show HN: Proofsource. Find where AI leaves you out. And Fix it](https://proofsource.co/) — 利用AI分析AI引擎，帮助品牌提升在线可见性。（门槛: 中）
 - **[评分: 8/10]** [Bootstrapping to €600k MRR and getting killed by Shopify: Checkout X](https://www.leteyski.com/bootstrapping-to-600k-mrr-and-getting-killed-by-shopify-the-story-of-checkout-x) — 独立站结账优化插件，€600k MRR 验证刚需（门槛: 高）
+- **[评分: 7/10]** [Show HN: ThemesFor.app – a static website builder that doesn't hide the HTML](https://themesfor.app/) — 为熟悉HTML/CSS的开发者提供可视化网站构建工具。（门槛: 低）
 - **[评分: 7/10]** [I'm a designer, not a developer, and I built a browser where the AI runs on your own PC instead of the cloud](https://www.reddit.com/r/SideProject/comments/1x8g5qr/im_a_designer_not_a_developer_and_i_built_a/) — 提供简单易用的本地AI解决方案，满足用户对隐私和易用性的需求。（门槛: 低）
 
 ### 🏷️ 视频与动效代交付
