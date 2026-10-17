@@ -80,23 +80,27 @@
 - **[评分: 7/10]** [Show HN: Decision Models in a Game](https://news.ycombinator.com/item?id=50085535) — 开发比较 OpenAI 模型成本和延迟的工具，满足用户对决策模型的需求。（门槛: 中）
 - **[评分: 7/10]** [Show HN: What are vector embeddings? An interactive guide](https://isaacus.com/blog/what-are-vector-embeddings) — 开发交互式向量嵌入指南，满足机器学习工程师的教育需求。（门槛: 中）
 - **[评分: 7/10]** [Show HN: AI investment agreement review for startup founders](https://www.orchardagentic.cloud/#browse/funding-review) — 为初创公司创始人提供投资协议审查工具，降低投资风险。（门槛: 低）
-- **[评分: 7/10]** [Acyclic](https://www.producthunt.com/products/acyclic) — 为企业提供快速自动化工作流程的解决方案。（门槛: 中）
-- **[评分: 7/10]** [I made receipt scanning ~5× faster in my open-source expense-sharing app](https://www.reddit.com/r/SideProject/comments/1x5mhqv/i_made_receipt_scanning_5_faster_in_my_opensource/) — 通过优化收据扫描速度，提升开源费用共享应用的用户体验。（门槛: 低）
-
-### 🏷️ 跨境电商与出海独立站工具
-- **[评分: 8/10]** [Launch HN: Consus (YC F24) – LLM gateway for companies handling sensitive data](https://news.ycombinator.com/item?id=50073471) — 为航空航天和国防公司提供符合ITAR和FedRAMP标准的AI服务。（门槛: 高）
-- **[评分: 8/10]** [Show HN: Proofsource. Find where AI leaves you out. And Fix it](https://proofsource.co/) — 利用AI分析AI引擎，帮助品牌提升在线可见性。（门槛: 中）
-- **[评分: 8/10]** [Bootstrapping to €600k MRR and getting killed by Shopify: Checkout X](https://www.leteyski.com/bootstrapping-to-600k-mrr-and-getting-killed-by-shopify-the-story-of-checkout-x) — 独立站结账优化插件，€600k MRR 验证刚需（门槛: 高）
-- **[评分: 7/10]** [I made a simple web tool to help with the EU AI Act image labeling rules](https://www.reddit.com/r/SideProject/comments/1x5kwgu/i_made_a_simple_web_tool_to_help_with_the_eu_ai/) — 为欧盟AI法案合规提供简单易用的图像标记工具。（门槛: 低）
 
 ### 🏷️ B2B 高客单数据抓取与精准名单
 - **[评分: 8/10]** [I just hit $100K with my SaaS as a 22-year-old solo founder. Started with $100](https://www.reddit.com/r/SaaS/comments/1x5vy9i/i_just_hit_100k_with_my_saas_as_a_22yearold_solo/) — AI抓取清洗B2B线索，卖精准获客名单与触达工作流（门槛: 中）
 - **[评分: 8/10]** [I scraped billions of TikTok videos and profiles by reverse engineering the mobile API. Here's how it works + source code](https://www.reddit.com/r/SaaS/comments/1wxoasb/i_scraped_billions_of_tiktok_videos_and_profiles/) — 逆向 TikTok 接口，把爆款趋势与达人名单做成付费数据 API（门槛: 高）
 - **[评分: 8/10]** [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) — 零 API 费抓取社媒，一键交付海外精准潜客名单（门槛: 中）
 
+### 🏷️ 跨境电商与出海独立站工具
+- **[评分: 8/10]** [Launch HN: Consus (YC F24) – LLM gateway for companies handling sensitive data](https://news.ycombinator.com/item?id=50073471) — 为航空航天和国防公司提供符合ITAR和FedRAMP标准的AI服务。（门槛: 高）
+- **[评分: 8/10]** [Show HN: Proofsource. Find where AI leaves you out. And Fix it](https://proofsource.co/) — 利用AI分析AI引擎，帮助品牌提升在线可见性。（门槛: 中）
+- **[评分: 8/10]** [Bootstrapping to €600k MRR and getting killed by Shopify: Checkout X](https://www.leteyski.com/bootstrapping-to-600k-mrr-and-getting-killed-by-shopify-the-story-of-checkout-x) — 独立站结账优化插件，€600k MRR 验证刚需（门槛: 高）
+
 ### 🏷️ ⚡ 非对称套利与增长黑客
 - **[评分: 8/10]** [注册了一个美国公司，可以提供 Claude Code 团队订阅席位。](https://www.v2ex.com/t/1247029) — 美国公司主体代持 Claude 团队席位，按月转售给国内开发者（门槛: 中）
 - **[评分: 8/10]** [🦙 Claude AI 创业公司计划 — 12个月 Pro Team + $1,000 API Credits](https://www.nodeseek.com/post-969760-1) — 白嫖Claude官方12个月会员+千刀API额度，最高撬10万（门槛: 低）
+
+### 🏷️ 视频与动效代交付
+- **[评分: 7/10]** [做了个 Flying Car AI，上传车的照片，生成 Roadster 同款空翻视频](https://www.v2ex.com/t/1249641) — 利用AI技术快速生成特技视频，满足个人和企业营销需求。（门槛: 低）
+- **[评分: 7/10]** [做了个 AI 汽车视频工具，上传照片就能让自己的车“起飞”](https://www.v2ex.com/t/1249650) — AI 生成汽车视频特效，操作简便。（门槛: 低）
+
+### 🏷️ 非对称套利与窗口漏洞
+- **[评分: 7/10]** [AIxAPI: V 站福利 AI 中转站 注册送$3 留 ID 送 $10 API 体验额度](https://www.v2ex.com/t/1249583) — 利用平台提供的免费或低成本的API额度进行套利。（门槛: 低）
 
 ### 🏷️ 国学文化数字化与情绪消费
 - **[评分: 7/10]** [I made Abvy: a beautiful drinking and BAC tracker](https://www.reddit.com/r/SideProject/comments/1x5zbfp/i_made_abvy_a_beautiful_drinking_and_bac_tracker/) — 做饮酒BAC预测与记录订阅工具（门槛: 中）
