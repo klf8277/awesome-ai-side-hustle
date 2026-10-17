@@ -75,7 +75,6 @@
 - **[评分: 8/10]** [Communicate](https://www.producthunt.com/products/communicate) — 垂直行业AI客服代理，知识库+人工接管月费变现（门槛: 中）
 - **[评分: 7/10]** [Pinch - text it a bill, and an AI calls the company to ask for the loyalty rate](https://www.reddit.com/r/SideProject/comments/1x7z9tn/pinch_text_it_a_bill_and_an_ai_calls_the_company/) — 让 AI 打电话替你砍账单，谈回年付折扣（门槛: 中）
 - **[评分: 7/10]** [被切线路和给朋友远程配 Claude Code 折腾烦了，自己搓了个桌面小工具 Folkbench Switch](https://www.v2ex.com/t/1249363) — AI编码多线路切换容灾桌面工具（门槛: 中）
-- **[评分: 7/10]** [I got tired of losing research across AI chats and browser tabs, so I built this](https://www.reddit.com/r/SideProject/comments/1x72brw/i_got_tired_of_losing_research_across_ai_chats/) — AI研究资料自动整理成可核查简报（门槛: 低）
 
 ### 🏷️ 跨境电商与出海独立站工具
 - **[评分: 8/10]** [Launch HN: Consus (YC F24) – LLM gateway for companies handling sensitive data](https://news.ycombinator.com/item?id=50073471) — 为航空航天和国防公司提供符合ITAR和FedRAMP标准的AI服务。（门槛: 高）
@@ -100,6 +99,7 @@
 - **[评分: 8/10]** [🦙 Claude AI 创业公司计划 — 12个月 Pro Team + $1,000 API Credits](https://www.nodeseek.com/post-969760-1) — 白嫖Claude官方12个月会员+千刀API额度，最高撬10万（门槛: 低）
 
 ### 🏷️ 国学文化数字化与情绪消费
+- **[评分: 7/10]** [Show HN: Ayafy: A free app to memorise and revise the Quran](https://ayafy.com/) — 为伊斯兰教信徒提供古兰经学习与复习的AI辅助工具。（门槛: 低）
 - **[评分: 7/10]** [Show HN: Task629 – Personal development tracking through task descriptions](https://github.com/sudo-bendg/task629) — 利用AI帮助个人高效追踪个人发展。（门槛: 低）
 
 ### 🏷️ 七大高溢价赛道之一
