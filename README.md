@@ -51,6 +51,21 @@
 
 ## 📚 垂直赛道分类商机库 (Categories)
 
+### 🏷️ 垂直数字资产与全自动工作流模板
+- **[评分: 8/10]** [How we reached $6250 monthly recurring revenue in 77 days from launch](https://news.ycombinator.com/item?id=22364941) — 帮团队把help@、jobs@等公共邮箱变成共享收件箱，按月订阅收费（门槛: 中）
+- **[评分: 8/10]** [Simple Analytics hits $4k MRR and shares its numbers](https://simpleanalytics.com/open) — 隐私优先轻量网站分析，$4k MRR可复制（门槛: 中）
+- **[评分: 8/10]** [6 months in and $1k MRR: my biggest mistakes so far](https://lunchbag.ca/lunch-money-mistakes/) — 个人财务SaaS半年做到$1k MRR的复盘（门槛: 中）
+- **[评分: 8/10]** [My 2 Year Journey to $10K MRR](https://www.bannerbear.com/journey-to-10k-mrr/) — API化图片视频自动生成工具，2年做到$10K MRR（门槛: 中）
+- **[评分: 8/10]** [I run multiple $10K MRR companies on a $20/month tech stack](https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack) — $20 月成本跑出 $10K MRR 的极简技术栈拆解变现（门槛: 中）
+- **[评分: 8/10]** [My solopreneur story](https://news.tonydinh.com/p/my-solopreneur-story-zero-to-45kmo) — 单人从 0 到月入 4.5 万美元的可复制变现路径拆解（门槛: 中）
+- **[评分: 8/10]** [Show HN: After 2.5 years on my side project, it has hit £500/month revenue](https://news.ycombinator.com/item?id=25372464) — 音频私密分享SaaS，替代Bandcamp/SoundCloud的细分付费工具（门槛: 中）
+- **[评分: 7/10]** [Show HN: Esp32sim – Run ESP32 firmware in the browser](https://github.com/mikroverk/esp32sim) — 为嵌入式开发者提供在线ESP32模拟器，简化软件开发和测试。（门槛: 低）
+- **[评分: 7/10]** [Show HN: I reverse engineered serum 2 and build an open source alternative](https://github.com/itsfabioroma/tessera) — 为设计师和开发者提供 Serum 2 的开源替代品。（门槛: 中）
+- **[评分: 7/10]** [I built a Windows tray app that keeps Claude Code working when I close the laptop](https://www.reddit.com/r/SideProject/comments/1x8g522/i_built_a_windows_tray_app_that_keeps_claude_code/) — 为特定应用程序开发保持笔记本电脑在关闭盖子时工作的免费开源工具。（门槛: 低）
+- **[评分: 7/10]** [Show HN: SpeakoFlow – Free, open-source voice typing for Windows, Mac and Linux](https://www.speakoflow.com/) — 为开发者提供免费开源的语音输入工具，提高工作效率。（门槛: 低）
+- **[评分: 7/10]** [Launched my Mac app on Product Hunt as a solo dev: #22 of the day, and licenses went from 39 to 54](https://www.reddit.com/r/SideProject/comments/1x88rlo/launched_my_mac_app_on_product_hunt_as_a_solo_dev/) — 开发Mac性能诊断应用，通过Product Hunt快速变现。（门槛: 低）
+- **[评分: 7/10]** [I built a web app that maps the shade where you want to put a solar panel or a garden bed](https://www.reddit.com/r/SideProject/comments/1x89znd/i_built_a_web_app_that_maps_the_shade_where_you/) — 利用AI技术为个人用户提供太阳能板和花园床阴影预测服务。（门槛: 低）
+
 ### 🏷️ 极窄场景的 Micro-AI 插件
 - **[评分: 8/10]** [I built a family location app that doesn't keep history — today it got an Apple Watch app](https://www.reddit.com/r/SideProject/comments/1x5q9kf/i_built_a_family_location_app_that_doesnt_keep/) — 隐私家庭定位月订阅（门槛: 中）
 - **[评分: 8/10]** [Show HN: Halo – A Personal AI with On-Device Harness, Memory and Browser Agent](https://apps.apple.com/us/app/halo-personal-ai/id6783715054) — 端侧隐私 AI 助手，$49 终身买断，数据不出手机（门槛: 中）
@@ -63,37 +78,23 @@
 - **[评分: 7/10]** [I built a fast, keyboard-first Mac+webapp for issue tracking](https://www.reddit.com/r/SideProject/comments/1x6r7vd/i_built_a_fast_keyboardfirst_macwebapp_for_issue/) — GitHub issue 键盘客户端与代理工作流订阅（门槛: 中）
 - **[评分: 7/10]** [I built a client portal for graphic designers because briefs kept arriving in pieces](https://www.reddit.com/r/SideProject/comments/1x6klcq/i_built_a_client_portal_for_graphic_designers/) — 设计师客户门户，AI整理零散brief并留痕审批（门槛: 低）
 - **[评分: 7/10]** [fidelius, a mac app that keeps api keys in your iCloud keychain, away from coding agents](https://www.reddit.com/r/SideProject/comments/1x6i3pa/fidelius_a_mac_app_that_keeps_api_keys_in_your/) — AI编程密钥防泄露 Mac CLI 工具（门槛: 中）
-- **[评分: 7/10]** [做了一个图片擦除物体和去背景的免费在线工具和 API](https://www.v2ex.com/t/1248875) — 去背景API停服窗口，用免费额度导流变现。（门槛: 中）
-- **[评分: 7/10]** [I built a French consumer-rights tool to help people challenge sellers without paying upfront](https://www.reddit.com/r/SideProject/comments/1x62sg3/i_built_a_french_consumerrights_tool_to_help/) — AI生成法国消费者维权投诉并卖正式函件（门槛: 中）
-- **[评分: 7/10]** [I launched my first paid Chrome extension: copy text from any image, privately, for a one-time price](https://www.reddit.com/r/SideProject/comments/1x62me6/i_launched_my_first_paid_chrome_extension_copy/) — 隐私离线图片 OCR 插件，一次性买断低客单变现（门槛: 中）
-
-### 🏷️ 垂直数字资产与全自动工作流模板
-- **[评分: 8/10]** [How we reached $6250 monthly recurring revenue in 77 days from launch](https://news.ycombinator.com/item?id=22364941) — 帮团队把help@、jobs@等公共邮箱变成共享收件箱，按月订阅收费（门槛: 中）
-- **[评分: 8/10]** [Simple Analytics hits $4k MRR and shares its numbers](https://simpleanalytics.com/open) — 隐私优先轻量网站分析，$4k MRR可复制（门槛: 中）
-- **[评分: 8/10]** [6 months in and $1k MRR: my biggest mistakes so far](https://lunchbag.ca/lunch-money-mistakes/) — 个人财务SaaS半年做到$1k MRR的复盘（门槛: 中）
-- **[评分: 8/10]** [My 2 Year Journey to $10K MRR](https://www.bannerbear.com/journey-to-10k-mrr/) — API化图片视频自动生成工具，2年做到$10K MRR（门槛: 中）
-- **[评分: 8/10]** [I run multiple $10K MRR companies on a $20/month tech stack](https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack) — $20 月成本跑出 $10K MRR 的极简技术栈拆解变现（门槛: 中）
-- **[评分: 8/10]** [My solopreneur story](https://news.tonydinh.com/p/my-solopreneur-story-zero-to-45kmo) — 单人从 0 到月入 4.5 万美元的可复制变现路径拆解（门槛: 中）
-- **[评分: 8/10]** [Show HN: After 2.5 years on my side project, it has hit £500/month revenue](https://news.ycombinator.com/item?id=25372464) — 音频私密分享SaaS，替代Bandcamp/SoundCloud的细分付费工具（门槛: 中）
-- **[评分: 7/10]** [Show HN: SpeakoFlow – Free, open-source voice typing for Windows, Mac and Linux](https://www.speakoflow.com/) — 为开发者提供免费开源的语音输入工具，提高工作效率。（门槛: 低）
-- **[评分: 7/10]** [Launched my Mac app on Product Hunt as a solo dev: #22 of the day, and licenses went from 39 to 54](https://www.reddit.com/r/SideProject/comments/1x88rlo/launched_my_mac_app_on_product_hunt_as_a_solo_dev/) — 开发Mac性能诊断应用，通过Product Hunt快速变现。（门槛: 低）
-- **[评分: 7/10]** [I built a web app that maps the shade where you want to put a solar panel or a garden bed](https://www.reddit.com/r/SideProject/comments/1x89znd/i_built_a_web_app_that_maps_the_shade_where_you/) — 利用AI技术为个人用户提供太阳能板和花园床阴影预测服务。（门槛: 低）
-- **[评分: 7/10]** [做了一个开源的多 AI Agent 任务管理工具 StateDock，支持 MCP、Docker 自部署](https://www.v2ex.com/t/1248798) — 为多AI Agent开发提供任务管理解决方案。（门槛: 低）
-
-### 🏷️ B2B 高客单数据抓取与精准名单
-- **[评分: 8/10]** [I just hit $100K with my SaaS as a 22-year-old solo founder. Started with $100](https://www.reddit.com/r/SaaS/comments/1x5vy9i/i_just_hit_100k_with_my_saas_as_a_22yearold_solo/) — AI抓取清洗B2B线索，卖精准获客名单与触达工作流（门槛: 中）
-- **[评分: 8/10]** [I scraped billions of TikTok videos and profiles by reverse engineering the mobile API. Here's how it works + source code](https://www.reddit.com/r/SaaS/comments/1wxoasb/i_scraped_billions_of_tiktok_videos_and_profiles/) — 逆向 TikTok 接口，把爆款趋势与达人名单做成付费数据 API（门槛: 高）
-- **[评分: 8/10]** [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) — 零 API 费抓取社媒，一键交付海外精准潜客名单（门槛: 中）
 
 ### 🏷️ 跨境电商与出海独立站工具
 - **[评分: 8/10]** [Launch HN: Consus (YC F24) – LLM gateway for companies handling sensitive data](https://news.ycombinator.com/item?id=50073471) — 为航空航天和国防公司提供符合ITAR和FedRAMP标准的AI服务。（门槛: 高）
 - **[评分: 8/10]** [Show HN: Proofsource. Find where AI leaves you out. And Fix it](https://proofsource.co/) — 利用AI分析AI引擎，帮助品牌提升在线可见性。（门槛: 中）
 - **[评分: 8/10]** [Bootstrapping to €600k MRR and getting killed by Shopify: Checkout X](https://www.leteyski.com/bootstrapping-to-600k-mrr-and-getting-killed-by-shopify-the-story-of-checkout-x) — 独立站结账优化插件，€600k MRR 验证刚需（门槛: 高）
+- **[评分: 7/10]** [I'm a designer, not a developer, and I built a browser where the AI runs on your own PC instead of the cloud](https://www.reddit.com/r/SideProject/comments/1x8g5qr/im_a_designer_not_a_developer_and_i_built_a/) — 提供简单易用的本地AI解决方案，满足用户对隐私和易用性的需求。（门槛: 低）
 
 ### 🏷️ 视频与动效代交付
+- **[评分: 7/10]** [I built a free, simple audio editor for trimming and merging clips](https://www.reddit.com/r/SideProject/comments/1x8ghmu/i_built_a_free_simple_audio_editor_for_trimming/) — 提供简单易用的音频剪辑工具，解决用户在音频剪辑中的痛点。（门槛: 低）
 - **[评分: 7/10]** [I built a tool to make app store screenshots easier](https://www.reddit.com/r/SideProject/comments/1x88939/i_built_a_tool_to_make_app_store_screenshots/) — 为 App 开发者提供简化 App Store 屏幕截图制作的工具。（门槛: 低）
 - **[评分: 7/10]** [做了个 Flying Car AI，上传车的照片，生成 Roadster 同款空翻视频](https://www.v2ex.com/t/1249641) — 利用AI技术快速生成特技视频，满足个人和企业营销需求。（门槛: 低）
 - **[评分: 7/10]** [做了个 AI 汽车视频工具，上传照片就能让自己的车“起飞”](https://www.v2ex.com/t/1249650) — AI 生成汽车视频特效，操作简便。（门槛: 低）
+
+### 🏷️ B2B 高客单数据抓取与精准名单
+- **[评分: 8/10]** [I just hit $100K with my SaaS as a 22-year-old solo founder. Started with $100](https://www.reddit.com/r/SaaS/comments/1x5vy9i/i_just_hit_100k_with_my_saas_as_a_22yearold_solo/) — AI抓取清洗B2B线索，卖精准获客名单与触达工作流（门槛: 中）
+- **[评分: 8/10]** [I scraped billions of TikTok videos and profiles by reverse engineering the mobile API. Here's how it works + source code](https://www.reddit.com/r/SaaS/comments/1wxoasb/i_scraped_billions_of_tiktok_videos_and_profiles/) — 逆向 TikTok 接口，把爆款趋势与达人名单做成付费数据 API（门槛: 高）
+- **[评分: 8/10]** [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) — 零 API 费抓取社媒，一键交付海外精准潜客名单（门槛: 中）
 
 ### 🏷️ ⚡ 非对称套利与增长黑客
 - **[评分: 8/10]** [注册了一个美国公司，可以提供 Claude Code 团队订阅席位。](https://www.v2ex.com/t/1247029) — 美国公司主体代持 Claude 团队席位，按月转售给国内开发者（门槛: 中）
@@ -104,9 +105,6 @@
 
 ### 🏷️ 非对称套利与窗口漏洞
 - **[评分: 7/10]** [AIxAPI: V 站福利 AI 中转站 注册送$3 留 ID 送 $10 API 体验额度](https://www.v2ex.com/t/1249583) — 利用平台提供的免费或低成本的API额度进行套利。（门槛: 低）
-
-### 🏷️ 国学文化数字化与情绪消费
-- **[评分: 7/10]** [I made Abvy: a beautiful drinking and BAC tracker](https://www.reddit.com/r/SideProject/comments/1x5zbfp/i_made_abvy_a_beautiful_drinking_and_bac_tracker/) — 做饮酒BAC预测与记录订阅工具（门槛: 中）
 
 
 ---
