@@ -51,6 +51,22 @@
 
 ## 📚 垂直赛道分类商机库 (Categories)
 
+### 🏷️ 极窄场景的 Micro-AI 插件
+- **[评分: 8/10]** [I built a family location app that doesn't keep history — today it got an Apple Watch app](https://www.reddit.com/r/SideProject/comments/1x5q9kf/i_built_a_family_location_app_that_doesnt_keep/) — 隐私家庭定位月订阅（门槛: 中）
+- **[评分: 8/10]** [Show HN: Halo – A Personal AI with On-Device Harness, Memory and Browser Agent](https://apps.apple.com/us/app/halo-personal-ai/id6783715054) — 端侧隐私 AI 助手，$49 终身买断，数据不出手机（门槛: 中）
+- **[评分: 8/10]** [Famulor](https://www.producthunt.com/products/famulor-telephony-ai) — 给本地商家搭AI电话+WhatsApp跟进客服，按月收费（门槛: 中）
+- **[评分: 8/10]** [Communicate](https://www.producthunt.com/products/communicate) — 垂直行业AI客服代理，知识库+人工接管月费变现（门槛: 中）
+- **[评分: 7/10]** [Pinch - text it a bill, and an AI calls the company to ask for the loyalty rate](https://www.reddit.com/r/SideProject/comments/1x7z9tn/pinch_text_it_a_bill_and_an_ai_calls_the_company/) — 让 AI 打电话替你砍账单，谈回年付折扣（门槛: 中）
+- **[评分: 7/10]** [被切线路和给朋友远程配 Claude Code 折腾烦了，自己搓了个桌面小工具 Folkbench Switch](https://www.v2ex.com/t/1249363) — AI编码多线路切换容灾桌面工具（门槛: 中）
+- **[评分: 7/10]** [I got tired of losing research across AI chats and browser tabs, so I built this](https://www.reddit.com/r/SideProject/comments/1x72brw/i_got_tired_of_losing_research_across_ai_chats/) — AI研究资料自动整理成可核查简报（门槛: 低）
+- **[评分: 7/10]** [Show HN: Forwarder.cc – Static-site forms sent to your inbox, pay per message](https://forwarder.cc) — 静态站表单按条转发，卖轻量后端（门槛: 低）
+- **[评分: 7/10]** [I built a fast, keyboard-first Mac+webapp for issue tracking](https://www.reddit.com/r/SideProject/comments/1x6r7vd/i_built_a_fast_keyboardfirst_macwebapp_for_issue/) — GitHub issue 键盘客户端与代理工作流订阅（门槛: 中）
+- **[评分: 7/10]** [I built a client portal for graphic designers because briefs kept arriving in pieces](https://www.reddit.com/r/SideProject/comments/1x6klcq/i_built_a_client_portal_for_graphic_designers/) — 设计师客户门户，AI整理零散brief并留痕审批（门槛: 低）
+- **[评分: 7/10]** [fidelius, a mac app that keeps api keys in your iCloud keychain, away from coding agents](https://www.reddit.com/r/SideProject/comments/1x6i3pa/fidelius_a_mac_app_that_keeps_api_keys_in_your/) — AI编程密钥防泄露 Mac CLI 工具（门槛: 中）
+- **[评分: 7/10]** [做了一个图片擦除物体和去背景的免费在线工具和 API](https://www.v2ex.com/t/1248875) — 去背景API停服窗口，用免费额度导流变现。（门槛: 中）
+- **[评分: 7/10]** [I built a French consumer-rights tool to help people challenge sellers without paying upfront](https://www.reddit.com/r/SideProject/comments/1x62sg3/i_built_a_french_consumerrights_tool_to_help/) — AI生成法国消费者维权投诉并卖正式函件（门槛: 中）
+- **[评分: 7/10]** [I launched my first paid Chrome extension: copy text from any image, privately, for a one-time price](https://www.reddit.com/r/SideProject/comments/1x62me6/i_launched_my_first_paid_chrome_extension_copy/) — 隐私离线图片 OCR 插件，一次性买断低客单变现（门槛: 中）
+
 ### 🏷️ 垂直数字资产与全自动工作流模板
 - **[评分: 8/10]** [How we reached $6250 monthly recurring revenue in 77 days from launch](https://news.ycombinator.com/item?id=22364941) — 帮团队把help@、jobs@等公共邮箱变成共享收件箱，按月订阅收费（门槛: 中）
 - **[评分: 8/10]** [Simple Analytics hits $4k MRR and shares its numbers](https://simpleanalytics.com/open) — 隐私优先轻量网站分析，$4k MRR可复制（门槛: 中）
@@ -67,21 +83,6 @@
 - **[评分: 7/10]** [Acyclic](https://www.producthunt.com/products/acyclic) — 为企业提供快速自动化工作流程的解决方案。（门槛: 中）
 - **[评分: 7/10]** [I made receipt scanning ~5× faster in my open-source expense-sharing app](https://www.reddit.com/r/SideProject/comments/1x5mhqv/i_made_receipt_scanning_5_faster_in_my_opensource/) — 通过优化收据扫描速度，提升开源费用共享应用的用户体验。（门槛: 低）
 
-### 🏷️ 极窄场景的 Micro-AI 插件
-- **[评分: 8/10]** [I built a family location app that doesn't keep history — today it got an Apple Watch app](https://www.reddit.com/r/SideProject/comments/1x5q9kf/i_built_a_family_location_app_that_doesnt_keep/) — 隐私家庭定位月订阅（门槛: 中）
-- **[评分: 8/10]** [Show HN: Halo – A Personal AI with On-Device Harness, Memory and Browser Agent](https://apps.apple.com/us/app/halo-personal-ai/id6783715054) — 端侧隐私 AI 助手，$49 终身买断，数据不出手机（门槛: 中）
-- **[评分: 8/10]** [Famulor](https://www.producthunt.com/products/famulor-telephony-ai) — 给本地商家搭AI电话+WhatsApp跟进客服，按月收费（门槛: 中）
-- **[评分: 8/10]** [Communicate](https://www.producthunt.com/products/communicate) — 垂直行业AI客服代理，知识库+人工接管月费变现（门槛: 中）
-- **[评分: 7/10]** [被切线路和给朋友远程配 Claude Code 折腾烦了，自己搓了个桌面小工具 Folkbench Switch](https://www.v2ex.com/t/1249363) — AI编码多线路切换容灾桌面工具（门槛: 中）
-- **[评分: 7/10]** [I got tired of losing research across AI chats and browser tabs, so I built this](https://www.reddit.com/r/SideProject/comments/1x72brw/i_got_tired_of_losing_research_across_ai_chats/) — AI研究资料自动整理成可核查简报（门槛: 低）
-- **[评分: 7/10]** [Show HN: Forwarder.cc – Static-site forms sent to your inbox, pay per message](https://forwarder.cc) — 静态站表单按条转发，卖轻量后端（门槛: 低）
-- **[评分: 7/10]** [I built a fast, keyboard-first Mac+webapp for issue tracking](https://www.reddit.com/r/SideProject/comments/1x6r7vd/i_built_a_fast_keyboardfirst_macwebapp_for_issue/) — GitHub issue 键盘客户端与代理工作流订阅（门槛: 中）
-- **[评分: 7/10]** [I built a client portal for graphic designers because briefs kept arriving in pieces](https://www.reddit.com/r/SideProject/comments/1x6klcq/i_built_a_client_portal_for_graphic_designers/) — 设计师客户门户，AI整理零散brief并留痕审批（门槛: 低）
-- **[评分: 7/10]** [fidelius, a mac app that keeps api keys in your iCloud keychain, away from coding agents](https://www.reddit.com/r/SideProject/comments/1x6i3pa/fidelius_a_mac_app_that_keeps_api_keys_in_your/) — AI编程密钥防泄露 Mac CLI 工具（门槛: 中）
-- **[评分: 7/10]** [做了一个图片擦除物体和去背景的免费在线工具和 API](https://www.v2ex.com/t/1248875) — 去背景API停服窗口，用免费额度导流变现。（门槛: 中）
-- **[评分: 7/10]** [I built a French consumer-rights tool to help people challenge sellers without paying upfront](https://www.reddit.com/r/SideProject/comments/1x62sg3/i_built_a_french_consumerrights_tool_to_help/) — AI生成法国消费者维权投诉并卖正式函件（门槛: 中）
-- **[评分: 7/10]** [I launched my first paid Chrome extension: copy text from any image, privately, for a one-time price](https://www.reddit.com/r/SideProject/comments/1x62me6/i_launched_my_first_paid_chrome_extension_copy/) — 隐私离线图片 OCR 插件，一次性买断低客单变现（门槛: 中）
-
 ### 🏷️ 跨境电商与出海独立站工具
 - **[评分: 8/10]** [Launch HN: Consus (YC F24) – LLM gateway for companies handling sensitive data](https://news.ycombinator.com/item?id=50073471) — 为航空航天和国防公司提供符合ITAR和FedRAMP标准的AI服务。（门槛: 高）
 - **[评分: 8/10]** [Show HN: Proofsource. Find where AI leaves you out. And Fix it](https://proofsource.co/) — 利用AI分析AI引擎，帮助品牌提升在线可见性。（门槛: 中）
@@ -97,12 +98,11 @@
 - **[评分: 8/10]** [注册了一个美国公司，可以提供 Claude Code 团队订阅席位。](https://www.v2ex.com/t/1247029) — 美国公司主体代持 Claude 团队席位，按月转售给国内开发者（门槛: 中）
 - **[评分: 8/10]** [🦙 Claude AI 创业公司计划 — 12个月 Pro Team + $1,000 API Credits](https://www.nodeseek.com/post-969760-1) — 白嫖Claude官方12个月会员+千刀API额度，最高撬10万（门槛: 低）
 
-### 🏷️ 七大高溢价赛道之一
-- **[评分: 7/10]** [Epherem](https://www.producthunt.com/products/epherem) — 为 AI 应用开发者提供安全漏洞检测工具（门槛: 中）
-- **[评分: 7/10]** [I built a tool that roasts cliché portfolio projects and predicts the trap questions interviewers will ask](https://www.reddit.com/r/SideProject/comments/1x5m7m2/i_built_a_tool_that_roasts_cliché_portfolio/) — 通过分析项目，预测面试中可能遇到的技术问题。（门槛: 低）
-
 ### 🏷️ 国学文化数字化与情绪消费
 - **[评分: 7/10]** [I made Abvy: a beautiful drinking and BAC tracker](https://www.reddit.com/r/SideProject/comments/1x5zbfp/i_made_abvy_a_beautiful_drinking_and_bac_tracker/) — 做饮酒BAC预测与记录订阅工具（门槛: 中）
+
+### 🏷️ 七大高溢价赛道之一
+- **[评分: 7/10]** [Epherem](https://www.producthunt.com/products/epherem) — 为 AI 应用开发者提供安全漏洞检测工具（门槛: 中）
 
 
 ---
