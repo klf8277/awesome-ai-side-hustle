@@ -79,7 +79,6 @@
 - **[评分: 7/10]** [Launched my Mac app on Product Hunt as a solo dev: #22 of the day, and licenses went from 39 to 54](https://www.reddit.com/r/SideProject/comments/1x88rlo/launched_my_mac_app_on_product_hunt_as_a_solo_dev/) — 开发Mac性能诊断应用，通过Product Hunt快速变现。（门槛: 低）
 - **[评分: 7/10]** [I built a web app that maps the shade where you want to put a solar panel or a garden bed](https://www.reddit.com/r/SideProject/comments/1x89znd/i_built_a_web_app_that_maps_the_shade_where_you/) — 利用AI技术为个人用户提供太阳能板和花园床阴影预测服务。（门槛: 低）
 - **[评分: 7/10]** [做了一个开源的多 AI Agent 任务管理工具 StateDock，支持 MCP、Docker 自部署](https://www.v2ex.com/t/1248798) — 为多AI Agent开发提供任务管理解决方案。（门槛: 低）
-- **[评分: 7/10]** [[开源] Agent HUD：把 Claude Code / Codex 等 17 个 agent 的额度和批准请求放在 Mac 刘海或屏幕边上](https://www.v2ex.com/t/1248801) — 为Mac用户提供多agent额度管理和状态监控工具。（门槛: 低）
 
 ### 🏷️ B2B 高客单数据抓取与精准名单
 - **[评分: 8/10]** [I just hit $100K with my SaaS as a 22-year-old solo founder. Started with $100](https://www.reddit.com/r/SaaS/comments/1x5vy9i/i_just_hit_100k_with_my_saas_as_a_22yearold_solo/) — AI抓取清洗B2B线索，卖精准获客名单与触达工作流（门槛: 中）
@@ -99,6 +98,9 @@
 ### 🏷️ ⚡ 非对称套利与增长黑客
 - **[评分: 8/10]** [注册了一个美国公司，可以提供 Claude Code 团队订阅席位。](https://www.v2ex.com/t/1247029) — 美国公司主体代持 Claude 团队席位，按月转售给国内开发者（门槛: 中）
 - **[评分: 8/10]** [🦙 Claude AI 创业公司计划 — 12个月 Pro Team + $1,000 API Credits](https://www.nodeseek.com/post-969760-1) — 白嫖Claude官方12个月会员+千刀API额度，最高撬10万（门槛: 低）
+
+### 🏷️ 七大高溢价赛道之一
+- **[评分: 7/10]** [Show HN: I built an AI cycling coach](https://cuore.fit/) — 为忙碌骑行者提供个性化室内骑行训练计划。（门槛: 中）
 
 ### 🏷️ 非对称套利与窗口漏洞
 - **[评分: 7/10]** [AIxAPI: V 站福利 AI 中转站 注册送$3 留 ID 送 $10 API 体验额度](https://www.v2ex.com/t/1249583) — 利用平台提供的免费或低成本的API额度进行套利。（门槛: 低）
