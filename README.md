@@ -74,7 +74,6 @@
 - **[评分: 8/10]** [Famulor](https://www.producthunt.com/products/famulor-telephony-ai) — 给本地商家搭AI电话+WhatsApp跟进客服，按月收费（门槛: 中）
 - **[评分: 8/10]** [Communicate](https://www.producthunt.com/products/communicate) — 垂直行业AI客服代理，知识库+人工接管月费变现（门槛: 中）
 - **[评分: 7/10]** [Pinch - text it a bill, and an AI calls the company to ask for the loyalty rate](https://www.reddit.com/r/SideProject/comments/1x7z9tn/pinch_text_it_a_bill_and_an_ai_calls_the_company/) — 让 AI 打电话替你砍账单，谈回年付折扣（门槛: 中）
-- **[评分: 7/10]** [被切线路和给朋友远程配 Claude Code 折腾烦了，自己搓了个桌面小工具 Folkbench Switch](https://www.v2ex.com/t/1249363) — AI编码多线路切换容灾桌面工具（门槛: 中）
 
 ### 🏷️ 跨境电商与出海独立站工具
 - **[评分: 8/10]** [Launch HN: Consus (YC F24) – LLM gateway for companies handling sensitive data](https://news.ycombinator.com/item?id=50073471) — 为航空航天和国防公司提供符合ITAR和FedRAMP标准的AI服务。（门槛: 高）
@@ -84,6 +83,7 @@
 - **[评分: 7/10]** [I'm a designer, not a developer, and I built a browser where the AI runs on your own PC instead of the cloud](https://www.reddit.com/r/SideProject/comments/1x8g5qr/im_a_designer_not_a_developer_and_i_built_a/) — 提供简单易用的本地AI解决方案，满足用户对隐私和易用性的需求。（门槛: 低）
 
 ### 🏷️ 视频与动效代交付
+- **[评分: 7/10]** [I built a free, lightning-fast text editor with AI tools, file converters, and clean utilities (No ads/signup)](https://www.reddit.com/r/SideProject/comments/1x8nnvd/i_built_a_free_lightningfast_text_editor_with_ai/) — 提供一站式文本处理解决方案，满足用户多样化需求。（门槛: 低）
 - **[评分: 7/10]** [I built a free, simple audio editor for trimming and merging clips](https://www.reddit.com/r/SideProject/comments/1x8ghmu/i_built_a_free_simple_audio_editor_for_trimming/) — 提供简单易用的音频剪辑工具，解决用户在音频剪辑中的痛点。（门槛: 低）
 - **[评分: 7/10]** [I built a tool to make app store screenshots easier](https://www.reddit.com/r/SideProject/comments/1x88939/i_built_a_tool_to_make_app_store_screenshots/) — 为 App 开发者提供简化 App Store 屏幕截图制作的工具。（门槛: 低）
 - **[评分: 7/10]** [做了个 Flying Car AI，上传车的照片，生成 Roadster 同款空翻视频](https://www.v2ex.com/t/1249641) — 利用AI技术快速生成特技视频，满足个人和企业营销需求。（门槛: 低）
