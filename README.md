@@ -59,6 +59,7 @@
 - **[评分: 8/10]** [I run multiple $10K MRR companies on a $20/month tech stack](https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack) — $20 月成本跑出 $10K MRR 的极简技术栈拆解变现（门槛: 中）
 - **[评分: 8/10]** [My solopreneur story](https://news.tonydinh.com/p/my-solopreneur-story-zero-to-45kmo) — 单人从 0 到月入 4.5 万美元的可复制变现路径拆解（门槛: 中）
 - **[评分: 8/10]** [Show HN: After 2.5 years on my side project, it has hit £500/month revenue](https://news.ycombinator.com/item?id=25372464) — 音频私密分享SaaS，替代Bandcamp/SoundCloud的细分付费工具（门槛: 中）
+- **[评分: 7/10]** [Show HN: Sphinx – a hook that quizzes you on your AI's code before shipping](https://sphinx-six-theta.vercel.app/) — AI辅助的代码质量测试工具，提高软件部署前代码理解度。（门槛: 中）
 - **[评分: 7/10]** [On paternity leave I wanted a GitHub contribution graph for my newborn's feedings, so I built one (and then a whole baby tracker)](https://www.reddit.com/r/SideProject/comments/1x8qt2v/on_paternity_leave_i_wanted_a_github_contribution/) — 为新生儿父母提供个性化的宝宝追踪器，以GitHub贡献图的形式展示喂养数据。（门槛: 低）
 - **[评分: 7/10]** [I built a Mac app I use every day. Looking for honest feedback before I push it further](https://www.reddit.com/r/SaaS/comments/1x8pyjx/i_built_a_mac_app_i_use_every_day_looking_for/) — 为AI提供工作日记忆，提升个人和企业生产力。（门槛: 中）
 - **[评分: 7/10]** [`[分享创造] 算力模拟器 —— 拖四个滑杆，推演 AI 算力/能耗/成本曲线`](https://www.v2ex.com/t/1249697) — 为AI算力优化提供模拟和诊断工具（门槛: 低）
@@ -68,7 +69,6 @@
 - **[评分: 7/10]** [Show HN: I reverse engineered serum 2 and build an open source alternative](https://github.com/itsfabioroma/tessera) — 为设计师和开发者提供 Serum 2 的开源替代品。（门槛: 中）
 - **[评分: 7/10]** [I built a Windows tray app that keeps Claude Code working when I close the laptop](https://www.reddit.com/r/SideProject/comments/1x8g522/i_built_a_windows_tray_app_that_keeps_claude_code/) — 为特定应用程序开发保持笔记本电脑在关闭盖子时工作的免费开源工具。（门槛: 低）
 - **[评分: 7/10]** [Show HN: SpeakoFlow – Free, open-source voice typing for Windows, Mac and Linux](https://www.speakoflow.com/) — 为开发者提供免费开源的语音输入工具，提高工作效率。（门槛: 低）
-- **[评分: 7/10]** [Launched my Mac app on Product Hunt as a solo dev: #22 of the day, and licenses went from 39 to 54](https://www.reddit.com/r/SideProject/comments/1x88rlo/launched_my_mac_app_on_product_hunt_as_a_solo_dev/) — 开发Mac性能诊断应用，通过Product Hunt快速变现。（门槛: 低）
 
 ### 🏷️ 跨境电商与出海独立站工具
 - **[评分: 8/10]** [Launch HN: Consus (YC F24) – LLM gateway for companies handling sensitive data](https://news.ycombinator.com/item?id=50073471) — 为航空航天和国防公司提供符合ITAR和FedRAMP标准的AI服务。（门槛: 高）
