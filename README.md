@@ -59,7 +59,8 @@
 - **[评分: 8/10]** [I run multiple $10K MRR companies on a $20/month tech stack](https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack) — $20 月成本跑出 $10K MRR 的极简技术栈拆解变现（门槛: 中）
 - **[评分: 8/10]** [My solopreneur story](https://news.tonydinh.com/p/my-solopreneur-story-zero-to-45kmo) — 单人从 0 到月入 4.5 万美元的可复制变现路径拆解（门槛: 中）
 - **[评分: 8/10]** [Show HN: After 2.5 years on my side project, it has hit £500/month revenue](https://news.ycombinator.com/item?id=25372464) — 音频私密分享SaaS，替代Bandcamp/SoundCloud的细分付费工具（门槛: 中）
-- **[评分: 7/10]** [Show HN: Sphinx – a hook that quizzes you on your AI's code before shipping](https://sphinx-six-theta.vercel.app/) — AI辅助的代码质量测试工具，提高软件部署前代码理解度。（门槛: 中）
+- **[评分: 7/10]** [i was tired of going around a bajillion apps and tabs, so i built one workspace for all of them.](https://www.reddit.com/r/SideProject/comments/1x8unpq/i_was_tired_of_going_around_a_bajillion_apps_and/) — 为开发者提供一站式工作空间解决方案。（门槛: 低）
+- **[评分: 7/10]** [Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping](https://sphinx-six-theta.vercel.app/) — AI辅助的代码质量测试工具，提高软件部署前代码理解度。（门槛: 中）
 - **[评分: 7/10]** [On paternity leave I wanted a GitHub contribution graph for my newborn's feedings, so I built one (and then a whole baby tracker)](https://www.reddit.com/r/SideProject/comments/1x8qt2v/on_paternity_leave_i_wanted_a_github_contribution/) — 为新生儿父母提供个性化的宝宝追踪器，以GitHub贡献图的形式展示喂养数据。（门槛: 低）
 - **[评分: 7/10]** [I built a Mac app I use every day. Looking for honest feedback before I push it further](https://www.reddit.com/r/SaaS/comments/1x8pyjx/i_built_a_mac_app_i_use_every_day_looking_for/) — 为AI提供工作日记忆，提升个人和企业生产力。（门槛: 中）
 - **[评分: 7/10]** [`[分享创造] 算力模拟器 —— 拖四个滑杆，推演 AI 算力/能耗/成本曲线`](https://www.v2ex.com/t/1249697) — 为AI算力优化提供模拟和诊断工具（门槛: 低）
@@ -67,8 +68,14 @@
 - **[评分: 7/10]** [Show HN: InBox Wall – A local-first, open-source email sanitizer for AI agents](https://github.com/Annora998/inboxwall) — 为企业AI代理提供安全的邮件HTML清理服务。（门槛: 中）
 - **[评分: 7/10]** [Show HN: Esp32sim – Run ESP32 firmware in the browser](https://github.com/mikroverk/esp32sim) — 为嵌入式开发者提供在线ESP32模拟器，简化软件开发和测试。（门槛: 低）
 - **[评分: 7/10]** [Show HN: I reverse engineered serum 2 and build an open source alternative](https://github.com/itsfabioroma/tessera) — 为设计师和开发者提供 Serum 2 的开源替代品。（门槛: 中）
-- **[评分: 7/10]** [I built a Windows tray app that keeps Claude Code working when I close the laptop](https://www.reddit.com/r/SideProject/comments/1x8g522/i_built_a_windows_tray_app_that_keeps_claude_code/) — 为特定应用程序开发保持笔记本电脑在关闭盖子时工作的免费开源工具。（门槛: 低）
-- **[评分: 7/10]** [Show HN: SpeakoFlow – Free, open-source voice typing for Windows, Mac and Linux](https://www.speakoflow.com/) — 为开发者提供免费开源的语音输入工具，提高工作效率。（门槛: 低）
+
+### 🏷️ 视频与动效代交付
+- **[评分: 7/10]** [Popcraft](https://www.producthunt.com/products/popcraft) — 利用AI代理快速生成视频、图像和音频，满足内容制作需求。（门槛: 低）
+- **[评分: 7/10]** [Built a search engine for debugging which is not a wrapper](https://www.reddit.com/r/SideProject/comments/1x8uij8/built_a_search_engine_for_debugging_which_is_not/) — 为软件开发者提供高效的代码调试搜索工具。（门槛: 低）
+- **[评分: 7/10]** [我的 NanaAI 网站增加生视频功能](https://www.v2ex.com/t/1249702) — 图像生成后直接生成视频，满足用户对视频制作工具的需求。（门槛: 低）
+- **[评分: 7/10]** [AI 写代码的速度已经超过你的阅读速度，你会放心把 Code Review 也交给 AI 吗？](https://www.v2ex.com/t/1249607) — 开发AI代码审查工具，提升游戏开发效率。（门槛: 中）
+- **[评分: 7/10]** [I built a free, lightning-fast text editor with AI tools, file converters, and clean utilities (No ads/signup)](https://www.reddit.com/r/SideProject/comments/1x8nnvd/i_built_a_free_lightningfast_text_editor_with_ai/) — 提供一站式文本处理解决方案，满足用户多样化需求。（门槛: 低）
+- **[评分: 7/10]** [I built a free, simple audio editor for trimming and merging clips](https://www.reddit.com/r/SideProject/comments/1x8ghmu/i_built_a_free_simple_audio_editor_for_trimming/) — 提供简单易用的音频剪辑工具，解决用户在音频剪辑中的痛点。（门槛: 低）
 
 ### 🏷️ 跨境电商与出海独立站工具
 - **[评分: 8/10]** [Launch HN: Consus (YC F24) – LLM gateway for companies handling sensitive data](https://news.ycombinator.com/item?id=50073471) — 为航空航天和国防公司提供符合ITAR和FedRAMP标准的AI服务。（门槛: 高）
@@ -83,20 +90,10 @@
 - **[评分: 8/10]** [Famulor](https://www.producthunt.com/products/famulor-telephony-ai) — 给本地商家搭AI电话+WhatsApp跟进客服，按月收费（门槛: 中）
 - **[评分: 8/10]** [Communicate](https://www.producthunt.com/products/communicate) — 垂直行业AI客服代理，知识库+人工接管月费变现（门槛: 中）
 
-### 🏷️ 视频与动效代交付
-- **[评分: 7/10]** [我的 NanaAI 网站增加生视频功能](https://www.v2ex.com/t/1249702) — 图像生成后直接生成视频，满足用户对视频制作工具的需求。（门槛: 低）
-- **[评分: 7/10]** [AI 写代码的速度已经超过你的阅读速度，你会放心把 Code Review 也交给 AI 吗？](https://www.v2ex.com/t/1249607) — 开发AI代码审查工具，提升游戏开发效率。（门槛: 中）
-- **[评分: 7/10]** [I built a free, lightning-fast text editor with AI tools, file converters, and clean utilities (No ads/signup)](https://www.reddit.com/r/SideProject/comments/1x8nnvd/i_built_a_free_lightningfast_text_editor_with_ai/) — 提供一站式文本处理解决方案，满足用户多样化需求。（门槛: 低）
-- **[评分: 7/10]** [I built a free, simple audio editor for trimming and merging clips](https://www.reddit.com/r/SideProject/comments/1x8ghmu/i_built_a_free_simple_audio_editor_for_trimming/) — 提供简单易用的音频剪辑工具，解决用户在音频剪辑中的痛点。（门槛: 低）
-
 ### 🏷️ B2B 高客单数据抓取与精准名单
 - **[评分: 8/10]** [I just hit $100K with my SaaS as a 22-year-old solo founder. Started with $100](https://www.reddit.com/r/SaaS/comments/1x5vy9i/i_just_hit_100k_with_my_saas_as_a_22yearold_solo/) — AI抓取清洗B2B线索，卖精准获客名单与触达工作流（门槛: 中）
 - **[评分: 8/10]** [I scraped billions of TikTok videos and profiles by reverse engineering the mobile API. Here's how it works + source code](https://www.reddit.com/r/SaaS/comments/1wxoasb/i_scraped_billions_of_tiktok_videos_and_profiles/) — 逆向 TikTok 接口，把爆款趋势与达人名单做成付费数据 API（门槛: 高）
 - **[评分: 8/10]** [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) — 零 API 费抓取社媒，一键交付海外精准潜客名单（门槛: 中）
-
-### 🏷️ 七大高溢价赛道之一
-- **[评分: 7/10]** [做了个外链整合站，给你的 bot 当外链库让它自动去发外链](https://www.v2ex.com/t/1249698) — 提供自动化外链提交服务，简化 SEO 优化流程。（门槛: 低）
-- **[评分: 7/10]** [Show HN: I built an AI cycling coach](https://cuore.fit/) — 为忙碌骑行者提供个性化室内骑行训练计划。（门槛: 中）
 
 ### 🏷️ 国学文化数字化与情绪消费
 - **[评分: 7/10]** [Show HN: Ayafy: A free app to memorise and revise the Quran](https://ayafy.com/) — 为伊斯兰教信徒提供古兰经学习与复习的AI辅助工具。（门槛: 低）
@@ -104,6 +101,9 @@
 
 ### 🏷️ ⚡ 非对称套利与增长黑客
 - **[评分: 8/10]** [🦙 Claude AI 创业公司计划 — 12个月 Pro Team + $1,000 API Credits](https://www.nodeseek.com/post-969760-1) — 白嫖Claude官方12个月会员+千刀API额度，最高撬10万（门槛: 低）
+
+### 🏷️ 七大高溢价赛道之一
+- **[评分: 7/10]** [做了个外链整合站，给你的 bot 当外链库让它自动去发外链](https://www.v2ex.com/t/1249698) — 提供自动化外链提交服务，简化 SEO 优化流程。（门槛: 低）
 
 
 ---
