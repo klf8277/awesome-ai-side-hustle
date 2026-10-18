@@ -59,6 +59,7 @@
 - **[评分: 8/10]** [I run multiple $10K MRR companies on a $20/month tech stack](https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack) — $20 月成本跑出 $10K MRR 的极简技术栈拆解变现（门槛: 中）
 - **[评分: 8/10]** [My solopreneur story](https://news.tonydinh.com/p/my-solopreneur-story-zero-to-45kmo) — 单人从 0 到月入 4.5 万美元的可复制变现路径拆解（门槛: 中）
 - **[评分: 8/10]** [Show HN: After 2.5 years on my side project, it has hit £500/month revenue](https://news.ycombinator.com/item?id=25372464) — 音频私密分享SaaS，替代Bandcamp/SoundCloud的细分付费工具（门槛: 中）
+- **[评分: 7/10]** [`[分享创造] 算力模拟器 —— 拖四个滑杆，推演 AI 算力/能耗/成本曲线`](https://www.v2ex.com/t/1249697) — 为AI算力优化提供模拟和诊断工具（门槛: 低）
 - **[评分: 7/10]** [Show HN: Halal Crypto Index – AAOIFI Shariah compliance screener for 800 coins](https://halalcryptoindex.com/) — 为清真合规加密货币提供财务比率和筛选服务（门槛: 中）
 - **[评分: 7/10]** [Show HN: InBox Wall – A local-first, open-source email sanitizer for AI agents](https://github.com/Annora998/inboxwall) — 为企业AI代理提供安全的邮件HTML清理服务。（门槛: 中）
 - **[评分: 7/10]** [Show HN: Esp32sim – Run ESP32 firmware in the browser](https://github.com/mikroverk/esp32sim) — 为嵌入式开发者提供在线ESP32模拟器，简化软件开发和测试。（门槛: 低）
@@ -68,13 +69,6 @@
 - **[评分: 7/10]** [Launched my Mac app on Product Hunt as a solo dev: #22 of the day, and licenses went from 39 to 54](https://www.reddit.com/r/SideProject/comments/1x88rlo/launched_my_mac_app_on_product_hunt_as_a_solo_dev/) — 开发Mac性能诊断应用，通过Product Hunt快速变现。（门槛: 低）
 - **[评分: 7/10]** [I built a web app that maps the shade where you want to put a solar panel or a garden bed](https://www.reddit.com/r/SideProject/comments/1x89znd/i_built_a_web_app_that_maps_the_shade_where_you/) — 利用AI技术为个人用户提供太阳能板和花园床阴影预测服务。（门槛: 低）
 
-### 🏷️ 极窄场景的 Micro-AI 插件
-- **[评分: 8/10]** [I built a family location app that doesn't keep history — today it got an Apple Watch app](https://www.reddit.com/r/SideProject/comments/1x5q9kf/i_built_a_family_location_app_that_doesnt_keep/) — 隐私家庭定位月订阅（门槛: 中）
-- **[评分: 8/10]** [Show HN: Halo – A Personal AI with On-Device Harness, Memory and Browser Agent](https://apps.apple.com/us/app/halo-personal-ai/id6783715054) — 端侧隐私 AI 助手，$49 终身买断，数据不出手机（门槛: 中）
-- **[评分: 8/10]** [Famulor](https://www.producthunt.com/products/famulor-telephony-ai) — 给本地商家搭AI电话+WhatsApp跟进客服，按月收费（门槛: 中）
-- **[评分: 8/10]** [Communicate](https://www.producthunt.com/products/communicate) — 垂直行业AI客服代理，知识库+人工接管月费变现（门槛: 中）
-- **[评分: 7/10]** [Pinch - text it a bill, and an AI calls the company to ask for the loyalty rate](https://www.reddit.com/r/SideProject/comments/1x7z9tn/pinch_text_it_a_bill_and_an_ai_calls_the_company/) — 让 AI 打电话替你砍账单，谈回年付折扣（门槛: 中）
-
 ### 🏷️ 跨境电商与出海独立站工具
 - **[评分: 8/10]** [Launch HN: Consus (YC F24) – LLM gateway for companies handling sensitive data](https://news.ycombinator.com/item?id=50073471) — 为航空航天和国防公司提供符合ITAR和FedRAMP标准的AI服务。（门槛: 高）
 - **[评分: 8/10]** [Show HN: Proofsource. Find where AI leaves you out. And Fix it](https://proofsource.co/) — 利用AI分析AI引擎，帮助品牌提升在线可见性。（门槛: 中）
@@ -83,11 +77,17 @@
 - **[评分: 7/10]** [I'm a designer, not a developer, and I built a browser where the AI runs on your own PC instead of the cloud](https://www.reddit.com/r/SideProject/comments/1x8g5qr/im_a_designer_not_a_developer_and_i_built_a/) — 提供简单易用的本地AI解决方案，满足用户对隐私和易用性的需求。（门槛: 低）
 
 ### 🏷️ 视频与动效代交付
+- **[评分: 7/10]** [我的 NanaAI 网站增加生视频功能](https://www.v2ex.com/t/1249702) — 图像生成后直接生成视频，满足用户对视频制作工具的需求。（门槛: 低）
+- **[评分: 7/10]** [AI 写代码的速度已经超过你的阅读速度，你会放心把 Code Review 也交给 AI 吗？](https://www.v2ex.com/t/1249607) — 开发AI代码审查工具，提升游戏开发效率。（门槛: 中）
 - **[评分: 7/10]** [I built a free, lightning-fast text editor with AI tools, file converters, and clean utilities (No ads/signup)](https://www.reddit.com/r/SideProject/comments/1x8nnvd/i_built_a_free_lightningfast_text_editor_with_ai/) — 提供一站式文本处理解决方案，满足用户多样化需求。（门槛: 低）
 - **[评分: 7/10]** [I built a free, simple audio editor for trimming and merging clips](https://www.reddit.com/r/SideProject/comments/1x8ghmu/i_built_a_free_simple_audio_editor_for_trimming/) — 提供简单易用的音频剪辑工具，解决用户在音频剪辑中的痛点。（门槛: 低）
 - **[评分: 7/10]** [I built a tool to make app store screenshots easier](https://www.reddit.com/r/SideProject/comments/1x88939/i_built_a_tool_to_make_app_store_screenshots/) — 为 App 开发者提供简化 App Store 屏幕截图制作的工具。（门槛: 低）
-- **[评分: 7/10]** [做了个 Flying Car AI，上传车的照片，生成 Roadster 同款空翻视频](https://www.v2ex.com/t/1249641) — 利用AI技术快速生成特技视频，满足个人和企业营销需求。（门槛: 低）
-- **[评分: 7/10]** [做了个 AI 汽车视频工具，上传照片就能让自己的车“起飞”](https://www.v2ex.com/t/1249650) — AI 生成汽车视频特效，操作简便。（门槛: 低）
+
+### 🏷️ 极窄场景的 Micro-AI 插件
+- **[评分: 8/10]** [I built a family location app that doesn't keep history — today it got an Apple Watch app](https://www.reddit.com/r/SideProject/comments/1x5q9kf/i_built_a_family_location_app_that_doesnt_keep/) — 隐私家庭定位月订阅（门槛: 中）
+- **[评分: 8/10]** [Show HN: Halo – A Personal AI with On-Device Harness, Memory and Browser Agent](https://apps.apple.com/us/app/halo-personal-ai/id6783715054) — 端侧隐私 AI 助手，$49 终身买断，数据不出手机（门槛: 中）
+- **[评分: 8/10]** [Famulor](https://www.producthunt.com/products/famulor-telephony-ai) — 给本地商家搭AI电话+WhatsApp跟进客服，按月收费（门槛: 中）
+- **[评分: 8/10]** [Communicate](https://www.producthunt.com/products/communicate) — 垂直行业AI客服代理，知识库+人工接管月费变现（门槛: 中）
 
 ### 🏷️ B2B 高客单数据抓取与精准名单
 - **[评分: 8/10]** [I just hit $100K with my SaaS as a 22-year-old solo founder. Started with $100](https://www.reddit.com/r/SaaS/comments/1x5vy9i/i_just_hit_100k_with_my_saas_as_a_22yearold_solo/) — AI抓取清洗B2B线索，卖精准获客名单与触达工作流（门槛: 中）
@@ -98,15 +98,13 @@
 - **[评分: 8/10]** [注册了一个美国公司，可以提供 Claude Code 团队订阅席位。](https://www.v2ex.com/t/1247029) — 美国公司主体代持 Claude 团队席位，按月转售给国内开发者（门槛: 中）
 - **[评分: 8/10]** [🦙 Claude AI 创业公司计划 — 12个月 Pro Team + $1,000 API Credits](https://www.nodeseek.com/post-969760-1) — 白嫖Claude官方12个月会员+千刀API额度，最高撬10万（门槛: 低）
 
+### 🏷️ 七大高溢价赛道之一
+- **[评分: 7/10]** [做了个外链整合站，给你的 bot 当外链库让它自动去发外链](https://www.v2ex.com/t/1249698) — 提供自动化外链提交服务，简化 SEO 优化流程。（门槛: 低）
+- **[评分: 7/10]** [Show HN: I built an AI cycling coach](https://cuore.fit/) — 为忙碌骑行者提供个性化室内骑行训练计划。（门槛: 中）
+
 ### 🏷️ 国学文化数字化与情绪消费
 - **[评分: 7/10]** [Show HN: Ayafy: A free app to memorise and revise the Quran](https://ayafy.com/) — 为伊斯兰教信徒提供古兰经学习与复习的AI辅助工具。（门槛: 低）
 - **[评分: 7/10]** [Show HN: Task629 – Personal development tracking through task descriptions](https://github.com/sudo-bendg/task629) — 利用AI帮助个人高效追踪个人发展。（门槛: 低）
-
-### 🏷️ 七大高溢价赛道之一
-- **[评分: 7/10]** [Show HN: I built an AI cycling coach](https://cuore.fit/) — 为忙碌骑行者提供个性化室内骑行训练计划。（门槛: 中）
-
-### 🏷️ 非对称套利与窗口漏洞
-- **[评分: 7/10]** [AIxAPI: V 站福利 AI 中转站 注册送$3 留 ID 送 $10 API 体验额度](https://www.v2ex.com/t/1249583) — 利用平台提供的免费或低成本的API额度进行套利。（门槛: 低）
 
 
 ---
