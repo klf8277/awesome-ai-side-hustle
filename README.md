@@ -67,7 +67,6 @@
 - **[评分: 7/10]** [I built a Mac app I use every day. Looking for honest feedback before I push it further](https://www.reddit.com/r/SaaS/comments/1x8pyjx/i_built_a_mac_app_i_use_every_day_looking_for/) — 为AI提供工作日记忆，提升个人和企业生产力。（门槛: 中）
 - **[评分: 7/10]** [`[分享创造] 算力模拟器 —— 拖四个滑杆，推演 AI 算力/能耗/成本曲线`](https://www.v2ex.com/t/1249697) — 为AI算力优化提供模拟和诊断工具（门槛: 低）
 - **[评分: 7/10]** [Show HN: Halal Crypto Index – AAOIFI Shariah compliance screener for 800 coins](https://halalcryptoindex.com/) — 为清真合规加密货币提供财务比率和筛选服务（门槛: 中）
-- **[评分: 7/10]** [Show HN: InBox Wall – A local-first, open-source email sanitizer for AI agents](https://github.com/Annora998/inboxwall) — 为企业AI代理提供安全的邮件HTML清理服务。（门槛: 中）
 
 ### 🏷️ 视频与动效代交付
 - **[评分: 7/10]** [做了个飞车视频小站，上传一张车照，看看自己的车飞起来是什么样](https://www.v2ex.com/t/1249754) — 利用AI技术为车主提供个性化飞车视频制作服务。（门槛: 低）
@@ -95,6 +94,7 @@
 - **[评分: 8/10]** [Bootstrapping to €600k MRR and getting killed by Shopify: Checkout X](https://www.leteyski.com/bootstrapping-to-600k-mrr-and-getting-killed-by-shopify-the-story-of-checkout-x) — 独立站结账优化插件，€600k MRR 验证刚需（门槛: 高）
 
 ### 🏷️ 七大高溢价赛道之一
+- **[评分: 7/10]** [Show HN: Chrome extension that types one prompt into many AI chat tabs](https://chromewebstore.google.com/detail/use-multiple-chat-ai-at-o/pcpciffaliaooacnhiefjiegigjidehp) — 为AI聊天用户提供一键式多平台消息发送工具。（门槛: 低）
 - **[评分: 7/10]** [PocketClaw - an iPhone agent that starts working when an email lands](https://www.reddit.com/r/SideProject/comments/1x8wqed/pocketclaw_an_iphone_agent_that_starts_working/) — iPhone 邮件实时摘要应用，提升邮件处理效率。（门槛: 低）
 - **[评分: 7/10]** [做了个外链整合站，给你的 bot 当外链库让它自动去发外链](https://www.v2ex.com/t/1249698) — 提供自动化外链提交服务，简化 SEO 优化流程。（门槛: 低）
 
