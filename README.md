@@ -67,7 +67,6 @@
 - **[评分: 7/10]** [`[分享创造] 算力模拟器 —— 拖四个滑杆，推演 AI 算力/能耗/成本曲线`](https://www.v2ex.com/t/1249697) — 为AI算力优化提供模拟和诊断工具（门槛: 低）
 - **[评分: 7/10]** [Show HN: Halal Crypto Index – AAOIFI Shariah compliance screener for 800 coins](https://halalcryptoindex.com/) — 为清真合规加密货币提供财务比率和筛选服务（门槛: 中）
 - **[评分: 7/10]** [Show HN: InBox Wall – A local-first, open-source email sanitizer for AI agents](https://github.com/Annora998/inboxwall) — 为企业AI代理提供安全的邮件HTML清理服务。（门槛: 中）
-- **[评分: 7/10]** [Show HN: Esp32sim – Run ESP32 firmware in the browser](https://github.com/mikroverk/esp32sim) — 为嵌入式开发者提供在线ESP32模拟器，简化软件开发和测试。（门槛: 低）
 
 ### 🏷️ 视频与动效代交付
 - **[评分: 7/10]** [做了个飞车视频小站，上传一张车照，看看自己的车飞起来是什么样](https://www.v2ex.com/t/1249754) — 利用AI技术为车主提供个性化飞车视频制作服务。（门槛: 低）
@@ -95,15 +94,16 @@
 - **[评分: 8/10]** [I scraped billions of TikTok videos and profiles by reverse engineering the mobile API. Here's how it works + source code](https://www.reddit.com/r/SaaS/comments/1wxoasb/i_scraped_billions_of_tiktok_videos_and_profiles/) — 逆向 TikTok 接口，把爆款趋势与达人名单做成付费数据 API（门槛: 高）
 - **[评分: 8/10]** [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) — 零 API 费抓取社媒，一键交付海外精准潜客名单（门槛: 中）
 
+### 🏷️ 七大高溢价赛道之一
+- **[评分: 7/10]** [PocketClaw - an iPhone agent that starts working when an email lands](https://www.reddit.com/r/SideProject/comments/1x8wqed/pocketclaw_an_iphone_agent_that_starts_working/) — iPhone 邮件实时摘要应用，提升邮件处理效率。（门槛: 低）
+- **[评分: 7/10]** [做了个外链整合站，给你的 bot 当外链库让它自动去发外链](https://www.v2ex.com/t/1249698) — 提供自动化外链提交服务，简化 SEO 优化流程。（门槛: 低）
+
 ### 🏷️ 国学文化数字化与情绪消费
 - **[评分: 7/10]** [Show HN: Ayafy: A free app to memorise and revise the Quran](https://ayafy.com/) — 为伊斯兰教信徒提供古兰经学习与复习的AI辅助工具。（门槛: 低）
 - **[评分: 7/10]** [Show HN: Task629 – Personal development tracking through task descriptions](https://github.com/sudo-bendg/task629) — 利用AI帮助个人高效追踪个人发展。（门槛: 低）
 
 ### 🏷️ ⚡ 非对称套利与增长黑客
 - **[评分: 8/10]** [🦙 Claude AI 创业公司计划 — 12个月 Pro Team + $1,000 API Credits](https://www.nodeseek.com/post-969760-1) — 白嫖Claude官方12个月会员+千刀API额度，最高撬10万（门槛: 低）
-
-### 🏷️ 七大高溢价赛道之一
-- **[评分: 7/10]** [做了个外链整合站，给你的 bot 当外链库让它自动去发外链](https://www.v2ex.com/t/1249698) — 提供自动化外链提交服务，简化 SEO 优化流程。（门槛: 低）
 
 
 ---
