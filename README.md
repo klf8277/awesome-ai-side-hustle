@@ -59,6 +59,8 @@
 - **[评分: 8/10]** [I run multiple $10K MRR companies on a $20/month tech stack](https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack) — $20 月成本跑出 $10K MRR 的极简技术栈拆解变现（门槛: 中）
 - **[评分: 8/10]** [My solopreneur story](https://news.tonydinh.com/p/my-solopreneur-story-zero-to-45kmo) — 单人从 0 到月入 4.5 万美元的可复制变现路径拆解（门槛: 中）
 - **[评分: 8/10]** [Show HN: After 2.5 years on my side project, it has hit £500/month revenue](https://news.ycombinator.com/item?id=25372464) — 音频私密分享SaaS，替代Bandcamp/SoundCloud的细分付费工具（门槛: 中）
+- **[评分: 7/10]** [On paternity leave I wanted a GitHub contribution graph for my newborn's feedings, so I built one (and then a whole baby tracker)](https://www.reddit.com/r/SideProject/comments/1x8qt2v/on_paternity_leave_i_wanted_a_github_contribution/) — 为新生儿父母提供个性化的宝宝追踪器，以GitHub贡献图的形式展示喂养数据。（门槛: 低）
+- **[评分: 7/10]** [I built a Mac app I use every day. Looking for honest feedback before I push it further](https://www.reddit.com/r/SaaS/comments/1x8pyjx/i_built_a_mac_app_i_use_every_day_looking_for/) — 为AI提供工作日记忆，提升个人和企业生产力。（门槛: 中）
 - **[评分: 7/10]** [`[分享创造] 算力模拟器 —— 拖四个滑杆，推演 AI 算力/能耗/成本曲线`](https://www.v2ex.com/t/1249697) — 为AI算力优化提供模拟和诊断工具（门槛: 低）
 - **[评分: 7/10]** [Show HN: Halal Crypto Index – AAOIFI Shariah compliance screener for 800 coins](https://halalcryptoindex.com/) — 为清真合规加密货币提供财务比率和筛选服务（门槛: 中）
 - **[评分: 7/10]** [Show HN: InBox Wall – A local-first, open-source email sanitizer for AI agents](https://github.com/Annora998/inboxwall) — 为企业AI代理提供安全的邮件HTML清理服务。（门槛: 中）
@@ -67,7 +69,6 @@
 - **[评分: 7/10]** [I built a Windows tray app that keeps Claude Code working when I close the laptop](https://www.reddit.com/r/SideProject/comments/1x8g522/i_built_a_windows_tray_app_that_keeps_claude_code/) — 为特定应用程序开发保持笔记本电脑在关闭盖子时工作的免费开源工具。（门槛: 低）
 - **[评分: 7/10]** [Show HN: SpeakoFlow – Free, open-source voice typing for Windows, Mac and Linux](https://www.speakoflow.com/) — 为开发者提供免费开源的语音输入工具，提高工作效率。（门槛: 低）
 - **[评分: 7/10]** [Launched my Mac app on Product Hunt as a solo dev: #22 of the day, and licenses went from 39 to 54](https://www.reddit.com/r/SideProject/comments/1x88rlo/launched_my_mac_app_on_product_hunt_as_a_solo_dev/) — 开发Mac性能诊断应用，通过Product Hunt快速变现。（门槛: 低）
-- **[评分: 7/10]** [I built a web app that maps the shade where you want to put a solar panel or a garden bed](https://www.reddit.com/r/SideProject/comments/1x89znd/i_built_a_web_app_that_maps_the_shade_where_you/) — 利用AI技术为个人用户提供太阳能板和花园床阴影预测服务。（门槛: 低）
 
 ### 🏷️ 跨境电商与出海独立站工具
 - **[评分: 8/10]** [Launch HN: Consus (YC F24) – LLM gateway for companies handling sensitive data](https://news.ycombinator.com/item?id=50073471) — 为航空航天和国防公司提供符合ITAR和FedRAMP标准的AI服务。（门槛: 高）
@@ -76,18 +77,17 @@
 - **[评分: 7/10]** [Show HN: ThemesFor.app – a static website builder that doesn't hide the HTML](https://themesfor.app/) — 为熟悉HTML/CSS的开发者提供可视化网站构建工具。（门槛: 低）
 - **[评分: 7/10]** [I'm a designer, not a developer, and I built a browser where the AI runs on your own PC instead of the cloud](https://www.reddit.com/r/SideProject/comments/1x8g5qr/im_a_designer_not_a_developer_and_i_built_a/) — 提供简单易用的本地AI解决方案，满足用户对隐私和易用性的需求。（门槛: 低）
 
-### 🏷️ 视频与动效代交付
-- **[评分: 7/10]** [我的 NanaAI 网站增加生视频功能](https://www.v2ex.com/t/1249702) — 图像生成后直接生成视频，满足用户对视频制作工具的需求。（门槛: 低）
-- **[评分: 7/10]** [AI 写代码的速度已经超过你的阅读速度，你会放心把 Code Review 也交给 AI 吗？](https://www.v2ex.com/t/1249607) — 开发AI代码审查工具，提升游戏开发效率。（门槛: 中）
-- **[评分: 7/10]** [I built a free, lightning-fast text editor with AI tools, file converters, and clean utilities (No ads/signup)](https://www.reddit.com/r/SideProject/comments/1x8nnvd/i_built_a_free_lightningfast_text_editor_with_ai/) — 提供一站式文本处理解决方案，满足用户多样化需求。（门槛: 低）
-- **[评分: 7/10]** [I built a free, simple audio editor for trimming and merging clips](https://www.reddit.com/r/SideProject/comments/1x8ghmu/i_built_a_free_simple_audio_editor_for_trimming/) — 提供简单易用的音频剪辑工具，解决用户在音频剪辑中的痛点。（门槛: 低）
-- **[评分: 7/10]** [I built a tool to make app store screenshots easier](https://www.reddit.com/r/SideProject/comments/1x88939/i_built_a_tool_to_make_app_store_screenshots/) — 为 App 开发者提供简化 App Store 屏幕截图制作的工具。（门槛: 低）
-
 ### 🏷️ 极窄场景的 Micro-AI 插件
 - **[评分: 8/10]** [I built a family location app that doesn't keep history — today it got an Apple Watch app](https://www.reddit.com/r/SideProject/comments/1x5q9kf/i_built_a_family_location_app_that_doesnt_keep/) — 隐私家庭定位月订阅（门槛: 中）
 - **[评分: 8/10]** [Show HN: Halo – A Personal AI with On-Device Harness, Memory and Browser Agent](https://apps.apple.com/us/app/halo-personal-ai/id6783715054) — 端侧隐私 AI 助手，$49 终身买断，数据不出手机（门槛: 中）
 - **[评分: 8/10]** [Famulor](https://www.producthunt.com/products/famulor-telephony-ai) — 给本地商家搭AI电话+WhatsApp跟进客服，按月收费（门槛: 中）
 - **[评分: 8/10]** [Communicate](https://www.producthunt.com/products/communicate) — 垂直行业AI客服代理，知识库+人工接管月费变现（门槛: 中）
+
+### 🏷️ 视频与动效代交付
+- **[评分: 7/10]** [我的 NanaAI 网站增加生视频功能](https://www.v2ex.com/t/1249702) — 图像生成后直接生成视频，满足用户对视频制作工具的需求。（门槛: 低）
+- **[评分: 7/10]** [AI 写代码的速度已经超过你的阅读速度，你会放心把 Code Review 也交给 AI 吗？](https://www.v2ex.com/t/1249607) — 开发AI代码审查工具，提升游戏开发效率。（门槛: 中）
+- **[评分: 7/10]** [I built a free, lightning-fast text editor with AI tools, file converters, and clean utilities (No ads/signup)](https://www.reddit.com/r/SideProject/comments/1x8nnvd/i_built_a_free_lightningfast_text_editor_with_ai/) — 提供一站式文本处理解决方案，满足用户多样化需求。（门槛: 低）
+- **[评分: 7/10]** [I built a free, simple audio editor for trimming and merging clips](https://www.reddit.com/r/SideProject/comments/1x8ghmu/i_built_a_free_simple_audio_editor_for_trimming/) — 提供简单易用的音频剪辑工具，解决用户在音频剪辑中的痛点。（门槛: 低）
 
 ### 🏷️ B2B 高客单数据抓取与精准名单
 - **[评分: 8/10]** [I just hit $100K with my SaaS as a 22-year-old solo founder. Started with $100](https://www.reddit.com/r/SaaS/comments/1x5vy9i/i_just_hit_100k_with_my_saas_as_a_22yearold_solo/) — AI抓取清洗B2B线索，卖精准获客名单与触达工作流（门槛: 中）
