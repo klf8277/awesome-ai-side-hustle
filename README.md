@@ -71,13 +71,13 @@
 - **[评分: 7/10]** [I built a Mac app I use every day. Looking for honest feedback before I push it further](https://www.reddit.com/r/SaaS/comments/1x8pyjx/i_built_a_mac_app_i_use_every_day_looking_for/) — 为AI提供工作日记忆，提升个人和企业生产力。（门槛: 中）
 
 ### 🏷️ 视频与动效代交付
+- **[评分: 7/10]** [OhMyGame 开源 10 天拿到 936 个 star 的一个小复盘](https://www.v2ex.com/t/1250127) — AI 游戏创作工具，解决开发者设计、生成资产和开发测试难题。（门槛: 低）
 - **[评分: 7/10]** [Show HN: ApolloOffice – Local AI workers that turn GitHub issues into tested PRs](https://github.com/Silvertree2010/ApolloOffice) — 利用 AI 自动处理 GitHub 代码问题，提高贡献者效率。（门槛: 低）
 - **[评分: 7/10]** [“Claude cuts my TikTok”: How this creator is scaling video with AI | Brooke Lacey](https://www.lennysnewsletter.com/p/claude-cuts-my-tiktok-how-this-creator) — 利用 AI 工具快速制作 TikTok 视频，满足创作者需求。（门槛: 低）
 - **[评分: 7/10]** [做了个飞车视频小站，上传一张车照，看看自己的车飞起来是什么样](https://www.v2ex.com/t/1249754) — 利用AI技术为车主提供个性化飞车视频制作服务。（门槛: 低）
 - **[评分: 7/10]** [Show HN: Connecting Captions Local Private AI Interpreter](https://local-host.ai/connectingCaptions/) — 为 macOS 用户提供本地实时字幕和翻译工具。（门槛: 中）
 - **[评分: 7/10]** [Popcraft](https://www.producthunt.com/products/popcraft) — 利用AI代理快速生成视频、图像和音频，满足内容制作需求。（门槛: 低）
 - **[评分: 7/10]** [Built a search engine for debugging which is not a wrapper](https://www.reddit.com/r/SideProject/comments/1x8uij8/built_a_search_engine_for_debugging_which_is_not/) — 为软件开发者提供高效的代码调试搜索工具。（门槛: 低）
-- **[评分: 7/10]** [我的 NanaAI 网站增加生视频功能](https://www.v2ex.com/t/1249702) — 图像生成后直接生成视频，满足用户对视频制作工具的需求。（门槛: 低）
 
 ### 🏷️ 极窄场景的 Micro-AI 插件
 - **[评分: 8/10]** [I built a family location app that doesn't keep history — today it got an Apple Watch app](https://www.reddit.com/r/SideProject/comments/1x5q9kf/i_built_a_family_location_app_that_doesnt_keep/) — 隐私家庭定位月订阅（门槛: 中）
