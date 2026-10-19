@@ -59,6 +59,8 @@
 - **[评分: 8/10]** [I run multiple $10K MRR companies on a $20/month tech stack](https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack) — $20 月成本跑出 $10K MRR 的极简技术栈拆解变现（门槛: 中）
 - **[评分: 8/10]** [My solopreneur story](https://news.tonydinh.com/p/my-solopreneur-story-zero-to-45kmo) — 单人从 0 到月入 4.5 万美元的可复制变现路径拆解（门槛: 中）
 - **[评分: 8/10]** [Show HN: After 2.5 years on my side project, it has hit £500/month revenue](https://news.ycombinator.com/item?id=25372464) — 音频私密分享SaaS，替代Bandcamp/SoundCloud的细分付费工具（门槛: 中）
+- **[评分: 7/10]** [Show HN: Open-source early-reading reader with phonics help](https://github.com/finereli/yarareads) — 为儿童阅读提供个性化辅助工具，帮助他们在阅读过程中学习发音和单词。（门槛: 低）
+- **[评分: 7/10]** [Show HN: An outliner to replace Workflowy and Obsidian – as a Claude connector](https://claude.ai/directory/bulletlist) — 利用AI和Markdown，打造便捷的笔记和知识管理工具。（门槛: 低）
 - **[评分: 7/10]** [Launch HN: Laminar (YC S24) – We trained a model to catch silent agent failures](https://news.ycombinator.com/item?id=50154029) — 提供AI代理的实时监控和错误检测工具（门槛: 高）
 - **[评分: 7/10]** [Launch HN: Laminar (YC S24) – We trained a model to catch silent agent failures](https://news.ycombinator.com/item?id=50154029) — 为 AI 代理开发者提供错误检测工具，提升代理的稳定性和效率。（门槛: 高）
 - **[评分: 7/10]** [Jev 做 arXiv 大规模文献检索综述， 5 分钟筛 36,000 篇论文](https://www.v2ex.com/t/1250143) — 利用AI技术提供高效学术论文检索和筛选工具。（门槛: 中）
@@ -67,7 +69,6 @@
 - **[评分: 7/10]** [Update: I rebuilt my project into voice bundles + an open-source agent that runs on your own computer.](https://www.reddit.com/r/SideProject/comments/1x9rgae/update_i_rebuilt_my_project_into_voice_bundles_an/) — 为小型企业提供一次性购买的行业特定语音包和自动代理服务。（门槛: 低）
 - **[评分: 7/10]** [I got tired of re-explaining my project to AI agents. Now it lives in 1200 markdown files, and I built a Mac app to work on them together](https://www.reddit.com/r/SideProject/comments/1x9uc7z/i_got_tired_of_reexplaining_my_project_to_ai/) — 为开发者提供AI辅助的Markdown文件管理工具，提高协作效率。（门槛: 中）
 - **[评分: 7/10]** [Show HN: Epoptes – Run Claude Code and Codex for hours with human oversight](https://github.com/ramigb/epoptes) — 提供长时间运行 AI 模型并人工监督的解决方案（门槛: 中）
-- **[评分: 7/10]** [Gravity Notes](https://www.producthunt.com/products/gravity-notes-for-mac) — 为 Mac 用户和 AI 代理提供集成笔记管理工具。（门槛: 中）
 
 ### 🏷️ 视频与动效代交付
 - **[评分: 7/10]** [I turned an AirPod into a controller to play Duck Hunt on my Mac](https://www.reddit.com/r/SideProject/comments/1x9ydy8/i_turned_an_airpod_into_a_controller_to_play_duck/) — 利用AI和AirPods开发创新游戏控制应用。（门槛: 低）
@@ -76,8 +77,6 @@
 - **[评分: 7/10]** [“Claude cuts my TikTok”: How this creator is scaling video with AI | Brooke Lacey](https://www.lennysnewsletter.com/p/claude-cuts-my-tiktok-how-this-creator) — 利用 AI 工具快速制作 TikTok 视频，满足创作者需求。（门槛: 低）
 - **[评分: 7/10]** [做了个飞车视频小站，上传一张车照，看看自己的车飞起来是什么样](https://www.v2ex.com/t/1249754) — 利用AI技术为车主提供个性化飞车视频制作服务。（门槛: 低）
 - **[评分: 7/10]** [Show HN: Connecting Captions Local Private AI Interpreter](https://local-host.ai/connectingCaptions/) — 为 macOS 用户提供本地实时字幕和翻译工具。（门槛: 中）
-- **[评分: 7/10]** [Popcraft](https://www.producthunt.com/products/popcraft) — 利用AI代理快速生成视频、图像和音频，满足内容制作需求。（门槛: 低）
-- **[评分: 7/10]** [Built a search engine for debugging which is not a wrapper](https://www.reddit.com/r/SideProject/comments/1x8uij8/built_a_search_engine_for_debugging_which_is_not/) — 为软件开发者提供高效的代码调试搜索工具。（门槛: 低）
 
 ### 🏷️ 极窄场景的 Micro-AI 插件
 - **[评分: 8/10]** [I built a family location app that doesn't keep history — today it got an Apple Watch app](https://www.reddit.com/r/SideProject/comments/1x5q9kf/i_built_a_family_location_app_that_doesnt_keep/) — 隐私家庭定位月订阅（门槛: 中）
@@ -96,6 +95,7 @@
 - **[评分: 8/10]** [Bootstrapping to €600k MRR and getting killed by Shopify: Checkout X](https://www.leteyski.com/bootstrapping-to-600k-mrr-and-getting-killed-by-shopify-the-story-of-checkout-x) — 独立站结账优化插件，€600k MRR 验证刚需（门槛: 高）
 
 ### 🏷️ 七大高溢价赛道之一
+- **[评分: 7/10]** [Show HN: Earshot – talk to Claude Code with AirPods, nod to send](https://github.com/epavanello/earshot) — 利用 AirPods 实现与 Claude Code 的便捷交互。（门槛: 低）
 - **[评分: 7/10]** [Show HN: Chrome extension that types one prompt into many AI chat tabs](https://chromewebstore.google.com/detail/use-multiple-chat-ai-at-o/pcpciffaliaooacnhiefjiegigjidehp) — 为AI聊天用户提供一键式多平台消息发送工具。（门槛: 低）
 - **[评分: 7/10]** [PocketClaw - an iPhone agent that starts working when an email lands](https://www.reddit.com/r/SideProject/comments/1x8wqed/pocketclaw_an_iphone_agent_that_starts_working/) — iPhone 邮件实时摘要应用，提升邮件处理效率。（门槛: 低）
 
