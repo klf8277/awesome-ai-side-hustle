@@ -59,6 +59,9 @@
 - **[评分: 8/10]** [I run multiple $10K MRR companies on a $20/month tech stack](https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack) — $20 月成本跑出 $10K MRR 的极简技术栈拆解变现（门槛: 中）
 - **[评分: 8/10]** [My solopreneur story](https://news.tonydinh.com/p/my-solopreneur-story-zero-to-45kmo) — 单人从 0 到月入 4.5 万美元的可复制变现路径拆解（门槛: 中）
 - **[评分: 8/10]** [Show HN: After 2.5 years on my side project, it has hit £500/month revenue](https://news.ycombinator.com/item?id=25372464) — 音频私密分享SaaS，替代Bandcamp/SoundCloud的细分付费工具（门槛: 中）
+- **[评分: 7/10]** [I built a CSV-to-Excel kit that shows which rows were left out of the total](https://www.reddit.com/r/SideProject/comments/1x9v07a/i_built_a_csvtoexcel_kit_that_shows_which_rows/) — 为Shopify卖家提供CSV到Excel转换工具，帮助识别遗漏行。（门槛: 低）
+- **[评分: 7/10]** [Update: I rebuilt my project into voice bundles + an open-source agent that runs on your own computer.](https://www.reddit.com/r/SideProject/comments/1x9rgae/update_i_rebuilt_my_project_into_voice_bundles_an/) — 为小型企业提供一次性购买的行业特定语音包和自动代理服务。（门槛: 低）
+- **[评分: 7/10]** [I got tired of re-explaining my project to AI agents. Now it lives in 1200 markdown files, and I built a Mac app to work on them together](https://www.reddit.com/r/SideProject/comments/1x9uc7z/i_got_tired_of_reexplaining_my_project_to_ai/) — 为开发者提供AI辅助的Markdown文件管理工具，提高协作效率。（门槛: 中）
 - **[评分: 7/10]** [Show HN: Epoptes – Run Claude Code and Codex for hours with human oversight](https://github.com/ramigb/epoptes) — 提供长时间运行 AI 模型并人工监督的解决方案（门槛: 中）
 - **[评分: 7/10]** [Gravity Notes](https://www.producthunt.com/products/gravity-notes-for-mac) — 为 Mac 用户和 AI 代理提供集成笔记管理工具。（门槛: 中）
 - **[评分: 7/10]** [i was tired of going around a bajillion apps and tabs, so i built one workspace for all of them.](https://www.reddit.com/r/SideProject/comments/1x8unpq/i_was_tired_of_going_around_a_bajillion_apps_and/) — 为开发者提供一站式工作空间解决方案。（门槛: 低）
@@ -66,16 +69,15 @@
 - **[评分: 7/10]** [On paternity leave I wanted a GitHub contribution graph for my newborn's feedings, so I built one (and then a whole baby tracker)](https://www.reddit.com/r/SideProject/comments/1x8qt2v/on_paternity_leave_i_wanted_a_github_contribution/) — 为新生儿父母提供个性化的宝宝追踪器，以GitHub贡献图的形式展示喂养数据。（门槛: 低）
 - **[评分: 7/10]** [I built a Mac app I use every day. Looking for honest feedback before I push it further](https://www.reddit.com/r/SaaS/comments/1x8pyjx/i_built_a_mac_app_i_use_every_day_looking_for/) — 为AI提供工作日记忆，提升个人和企业生产力。（门槛: 中）
 - **[评分: 7/10]** [`[分享创造] 算力模拟器 —— 拖四个滑杆，推演 AI 算力/能耗/成本曲线`](https://www.v2ex.com/t/1249697) — 为AI算力优化提供模拟和诊断工具（门槛: 低）
-- **[评分: 7/10]** [Show HN: Halal Crypto Index – AAOIFI Shariah compliance screener for 800 coins](https://halalcryptoindex.com/) — 为清真合规加密货币提供财务比率和筛选服务（门槛: 中）
 
 ### 🏷️ 视频与动效代交付
+- **[评分: 7/10]** [“Claude cuts my TikTok”: How this creator is scaling video with AI | Brooke Lacey](https://www.lennysnewsletter.com/p/claude-cuts-my-tiktok-how-this-creator) — 利用 AI 工具快速制作 TikTok 视频，满足创作者需求。（门槛: 低）
 - **[评分: 7/10]** [做了个飞车视频小站，上传一张车照，看看自己的车飞起来是什么样](https://www.v2ex.com/t/1249754) — 利用AI技术为车主提供个性化飞车视频制作服务。（门槛: 低）
 - **[评分: 7/10]** [Show HN: Connecting Captions Local Private AI Interpreter](https://local-host.ai/connectingCaptions/) — 为 macOS 用户提供本地实时字幕和翻译工具。（门槛: 中）
 - **[评分: 7/10]** [Popcraft](https://www.producthunt.com/products/popcraft) — 利用AI代理快速生成视频、图像和音频，满足内容制作需求。（门槛: 低）
 - **[评分: 7/10]** [Built a search engine for debugging which is not a wrapper](https://www.reddit.com/r/SideProject/comments/1x8uij8/built_a_search_engine_for_debugging_which_is_not/) — 为软件开发者提供高效的代码调试搜索工具。（门槛: 低）
 - **[评分: 7/10]** [我的 NanaAI 网站增加生视频功能](https://www.v2ex.com/t/1249702) — 图像生成后直接生成视频，满足用户对视频制作工具的需求。（门槛: 低）
 - **[评分: 7/10]** [AI 写代码的速度已经超过你的阅读速度，你会放心把 Code Review 也交给 AI 吗？](https://www.v2ex.com/t/1249607) — 开发AI代码审查工具，提升游戏开发效率。（门槛: 中）
-- **[评分: 7/10]** [I built a free, lightning-fast text editor with AI tools, file converters, and clean utilities (No ads/signup)](https://www.reddit.com/r/SideProject/comments/1x8nnvd/i_built_a_free_lightningfast_text_editor_with_ai/) — 提供一站式文本处理解决方案，满足用户多样化需求。（门槛: 低）
 
 ### 🏷️ 极窄场景的 Micro-AI 插件
 - **[评分: 8/10]** [I built a family location app that doesn't keep history — today it got an Apple Watch app](https://www.reddit.com/r/SideProject/comments/1x5q9kf/i_built_a_family_location_app_that_doesnt_keep/) — 隐私家庭定位月订阅（门槛: 中）
@@ -96,14 +98,12 @@
 ### 🏷️ 七大高溢价赛道之一
 - **[评分: 7/10]** [Show HN: Chrome extension that types one prompt into many AI chat tabs](https://chromewebstore.google.com/detail/use-multiple-chat-ai-at-o/pcpciffaliaooacnhiefjiegigjidehp) — 为AI聊天用户提供一键式多平台消息发送工具。（门槛: 低）
 - **[评分: 7/10]** [PocketClaw - an iPhone agent that starts working when an email lands](https://www.reddit.com/r/SideProject/comments/1x8wqed/pocketclaw_an_iphone_agent_that_starts_working/) — iPhone 邮件实时摘要应用，提升邮件处理效率。（门槛: 低）
-- **[评分: 7/10]** [做了个外链整合站，给你的 bot 当外链库让它自动去发外链](https://www.v2ex.com/t/1249698) — 提供自动化外链提交服务，简化 SEO 优化流程。（门槛: 低）
-
-### 🏷️ 国学文化数字化与情绪消费
-- **[评分: 7/10]** [Show HN: Ayafy: A free app to memorise and revise the Quran](https://ayafy.com/) — 为伊斯兰教信徒提供古兰经学习与复习的AI辅助工具。（门槛: 低）
-- **[评分: 7/10]** [Show HN: Task629 – Personal development tracking through task descriptions](https://github.com/sudo-bendg/task629) — 利用AI帮助个人高效追踪个人发展。（门槛: 低）
 
 ### 🏷️ ⚡ 非对称套利与增长黑客
 - **[评分: 8/10]** [🦙 Claude AI 创业公司计划 — 12个月 Pro Team + $1,000 API Credits](https://www.nodeseek.com/post-969760-1) — 白嫖Claude官方12个月会员+千刀API额度，最高撬10万（门槛: 低）
+
+### 🏷️ 非对称套利与窗口漏洞
+- **[评分: 7/10]** [利用学生优惠$8.99 开通 2 年半 Google AI Pro + YouTube Premium + 5TB 存储](https://www.v2ex.com/t/1249913) — 利用学生优惠获取 Google 服务，进行长期套利。（门槛: 低）
 
 
 ---
