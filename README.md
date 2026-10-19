@@ -59,6 +59,7 @@
 - **[评分: 8/10]** [I run multiple $10K MRR companies on a $20/month tech stack](https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack) — $20 月成本跑出 $10K MRR 的极简技术栈拆解变现（门槛: 中）
 - **[评分: 8/10]** [My solopreneur story](https://news.tonydinh.com/p/my-solopreneur-story-zero-to-45kmo) — 单人从 0 到月入 4.5 万美元的可复制变现路径拆解（门槛: 中）
 - **[评分: 8/10]** [Show HN: After 2.5 years on my side project, it has hit £500/month revenue](https://news.ycombinator.com/item?id=25372464) — 音频私密分享SaaS，替代Bandcamp/SoundCloud的细分付费工具（门槛: 中）
+- **[评分: 7/10]** [Show HN: Quorus – Claude Code and Codex in one room, reviewing each other's work](https://github.com/Quorus-dev/Quorus) — 通过AI代码审查工具提升软件开发效率（门槛: 中）
 - **[评分: 7/10]** [Show HN: Open-source early-reading reader with phonics help](https://github.com/finereli/yarareads) — 为儿童阅读提供个性化辅助工具，帮助他们在阅读过程中学习发音和单词。（门槛: 低）
 - **[评分: 7/10]** [Show HN: An outliner to replace Workflowy and Obsidian – as a Claude connector](https://claude.ai/directory/bulletlist) — 利用AI和Markdown，打造便捷的笔记和知识管理工具。（门槛: 低）
 - **[评分: 7/10]** [Launch HN: Laminar (YC S24) – We trained a model to catch silent agent failures](https://news.ycombinator.com/item?id=50154029) — 提供AI代理的实时监控和错误检测工具（门槛: 高）
@@ -76,7 +77,6 @@
 - **[评分: 7/10]** [Show HN: ApolloOffice – Local AI workers that turn GitHub issues into tested PRs](https://github.com/Silvertree2010/ApolloOffice) — 利用 AI 自动处理 GitHub 代码问题，提高贡献者效率。（门槛: 低）
 - **[评分: 7/10]** [“Claude cuts my TikTok”: How this creator is scaling video with AI | Brooke Lacey](https://www.lennysnewsletter.com/p/claude-cuts-my-tiktok-how-this-creator) — 利用 AI 工具快速制作 TikTok 视频，满足创作者需求。（门槛: 低）
 - **[评分: 7/10]** [做了个飞车视频小站，上传一张车照，看看自己的车飞起来是什么样](https://www.v2ex.com/t/1249754) — 利用AI技术为车主提供个性化飞车视频制作服务。（门槛: 低）
-- **[评分: 7/10]** [Show HN: Connecting Captions Local Private AI Interpreter](https://local-host.ai/connectingCaptions/) — 为 macOS 用户提供本地实时字幕和翻译工具。（门槛: 中）
 
 ### 🏷️ 极窄场景的 Micro-AI 插件
 - **[评分: 8/10]** [I built a family location app that doesn't keep history — today it got an Apple Watch app](https://www.reddit.com/r/SideProject/comments/1x5q9kf/i_built_a_family_location_app_that_doesnt_keep/) — 隐私家庭定位月订阅（门槛: 中）
