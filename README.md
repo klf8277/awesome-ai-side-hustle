@@ -32,7 +32,7 @@
 ---
 
 ## 🔥 今日精选高潜力商机 (Top Featured)
-*最后更新：2026-10-19 ｜ 数据源自全球技术雷达自动研判*
+*最后更新：2026-10-20 ｜ 数据源自全球技术雷达自动研判*
 
 | 评分 | 标杆项目 / 原型 | 赛道 | 门槛 | 商业研判与一句话逻辑 | 原始链接 | 完整研报 |
 |---|---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 - **[评分: 8/10]** [I run multiple $10K MRR companies on a $20/month tech stack](https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack) — $20 月成本跑出 $10K MRR 的极简技术栈拆解变现（门槛: 中）
 - **[评分: 8/10]** [My solopreneur story](https://news.tonydinh.com/p/my-solopreneur-story-zero-to-45kmo) — 单人从 0 到月入 4.5 万美元的可复制变现路径拆解（门槛: 中）
 - **[评分: 8/10]** [Show HN: After 2.5 years on my side project, it has hit £500/month revenue](https://news.ycombinator.com/item?id=25372464) — 音频私密分享SaaS，替代Bandcamp/SoundCloud的细分付费工具（门槛: 中）
+- **[评分: 7/10]** [Jev 做 arXiv 大规模文献检索综述， 5 分钟筛 36,000 篇论文](https://www.v2ex.com/t/1250143) — 利用AI技术提供高效学术论文检索和筛选工具。（门槛: 中）
 - **[评分: 7/10]** [Show HN: Making agent-to-agent interactions observable, in a fun way](https://github.com/hanhanwu/Agentopia) — AI代理交互可视化工具，助力开发者理解AI交互。（门槛: 中）
 - **[评分: 7/10]** [I built a CSV-to-Excel kit that shows which rows were left out of the total](https://www.reddit.com/r/SideProject/comments/1x9v07a/i_built_a_csvtoexcel_kit_that_shows_which_rows/) — 为Shopify卖家提供CSV到Excel转换工具，帮助识别遗漏行。（门槛: 低）
 - **[评分: 7/10]** [Update: I rebuilt my project into voice bundles + an open-source agent that runs on your own computer.](https://www.reddit.com/r/SideProject/comments/1x9rgae/update_i_rebuilt_my_project_into_voice_bundles_an/) — 为小型企业提供一次性购买的行业特定语音包和自动代理服务。（门槛: 低）
@@ -67,10 +68,9 @@
 - **[评分: 7/10]** [Gravity Notes](https://www.producthunt.com/products/gravity-notes-for-mac) — 为 Mac 用户和 AI 代理提供集成笔记管理工具。（门槛: 中）
 - **[评分: 7/10]** [i was tired of going around a bajillion apps and tabs, so i built one workspace for all of them.](https://www.reddit.com/r/SideProject/comments/1x8unpq/i_was_tired_of_going_around_a_bajillion_apps_and/) — 为开发者提供一站式工作空间解决方案。（门槛: 低）
 - **[评分: 7/10]** [Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping](https://sphinx-six-theta.vercel.app/) — AI辅助的代码质量测试工具，提高软件部署前代码理解度。（门槛: 中）
-- **[评分: 7/10]** [On paternity leave I wanted a GitHub contribution graph for my newborn's feedings, so I built one (and then a whole baby tracker)](https://www.reddit.com/r/SideProject/comments/1x8qt2v/on_paternity_leave_i_wanted_a_github_contribution/) — 为新生儿父母提供个性化的宝宝追踪器，以GitHub贡献图的形式展示喂养数据。（门槛: 低）
-- **[评分: 7/10]** [I built a Mac app I use every day. Looking for honest feedback before I push it further](https://www.reddit.com/r/SaaS/comments/1x8pyjx/i_built_a_mac_app_i_use_every_day_looking_for/) — 为AI提供工作日记忆，提升个人和企业生产力。（门槛: 中）
 
 ### 🏷️ 视频与动效代交付
+- **[评分: 7/10]** [I turned an AirPod into a controller to play Duck Hunt on my Mac](https://www.reddit.com/r/SideProject/comments/1x9ydy8/i_turned_an_airpod_into_a_controller_to_play_duck/) — 利用AI和AirPods开发创新游戏控制应用。（门槛: 低）
 - **[评分: 7/10]** [OhMyGame 开源 10 天拿到 936 个 star 的一个小复盘](https://www.v2ex.com/t/1250127) — AI 游戏创作工具，解决开发者设计、生成资产和开发测试难题。（门槛: 低）
 - **[评分: 7/10]** [Show HN: ApolloOffice – Local AI workers that turn GitHub issues into tested PRs](https://github.com/Silvertree2010/ApolloOffice) — 利用 AI 自动处理 GitHub 代码问题，提高贡献者效率。（门槛: 低）
 - **[评分: 7/10]** [“Claude cuts my TikTok”: How this creator is scaling video with AI | Brooke Lacey](https://www.lennysnewsletter.com/p/claude-cuts-my-tiktok-how-this-creator) — 利用 AI 工具快速制作 TikTok 视频，满足创作者需求。（门槛: 低）
