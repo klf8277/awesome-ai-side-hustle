@@ -59,31 +59,31 @@
 - **[评分: 8/10]** [I run multiple $10K MRR companies on a $20/month tech stack](https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack) — $20 月成本跑出 $10K MRR 的极简技术栈拆解变现（门槛: 中）
 - **[评分: 8/10]** [My solopreneur story](https://news.tonydinh.com/p/my-solopreneur-story-zero-to-45kmo) — 单人从 0 到月入 4.5 万美元的可复制变现路径拆解（门槛: 中）
 - **[评分: 8/10]** [Show HN: After 2.5 years on my side project, it has hit £500/month revenue](https://news.ycombinator.com/item?id=25372464) — 音频私密分享SaaS，替代Bandcamp/SoundCloud的细分付费工具（门槛: 中）
+- **[评分: 7/10]** [Show HN: Claude Code skills and hooks that prove a fix's test fails without it](https://github.com/ehnruiz/claude-skills) — 提供代码验证工具，帮助开发者确保修复的正确性。（门槛: 中）
+- **[评分: 7/10]** [Building a Zero-Telemetry MCP Server & DevSecOps CLI in Next.js — Lessons learned from programmatic SEO and offline AI execution](https://www.reddit.com/r/SideProject/comments/1xa70zz/building_a_zerotelemetry_mcp_server_devsecops_cli/) — 为开发者提供本地化、无云服务的DevSecOps工具和MCP服务器。（门槛: 中）
+- **[评分: 7/10]** [I built TaskFlow, a self-hosted task manager — looking for honest feedback](https://www.reddit.com/r/SideProject/comments/1xa75vw/i_built_taskflow_a_selfhosted_task_manager/) — 为个人和企业提供易于使用的自托管任务管理器。（门槛: 低）
 - **[评分: 7/10]** [Show HN: Open-source app that lets LLMs control any iPhone app (no Mac required)](https://github.com/EliotAndres/iphone-use-app) — 利用LLM控制iPhone应用，提升开发效率。（门槛: 中）
 - **[评分: 7/10]** [Show HN: Vibetown – public sandboxes to vibecode with strangers](https://vibetown.social) — 提供免费公共沙盒环境，促进开发者协作。（门槛: 低）
 - **[评分: 7/10]** [Show HN: Quorus – Claude Code and Codex in one room, reviewing each other's work](https://github.com/Quorus-dev/Quorus) — 通过AI代码审查工具提升软件开发效率（门槛: 中）
 - **[评分: 7/10]** [Show HN: Open-source early-reading reader with phonics help](https://github.com/finereli/yarareads) — 为儿童阅读提供个性化辅助工具，帮助他们在阅读过程中学习发音和单词。（门槛: 低）
 - **[评分: 7/10]** [Show HN: An outliner to replace Workflowy and Obsidian – as a Claude connector](https://claude.ai/directory/bulletlist) — 利用AI和Markdown，打造便捷的笔记和知识管理工具。（门槛: 低）
 - **[评分: 7/10]** [Launch HN: Laminar (YC S24) – RL-trained model that finds errors in agent traces](https://news.ycombinator.com/item?id=50154029) — 提供AI代理的实时监控和错误检测工具（门槛: 高）
-- **[评分: 7/10]** [Launch HN: Laminar (YC S24) – Open-source observability for AI agents](https://news.ycombinator.com/item?id=50154029) — 为 AI 代理开发者提供错误检测工具，提升代理的稳定性和效率。（门槛: 高）
+- **[评分: 7/10]** [Launch HN: Laminar (YC S24) – RL-trained model that finds errors in agent traces](https://news.ycombinator.com/item?id=50154029) — 为 AI 代理开发者提供错误检测工具，提升代理的稳定性和效率。（门槛: 高）
 - **[评分: 7/10]** [Jev 做 arXiv 大规模文献检索综述， 5 分钟筛 36,000 篇论文](https://www.v2ex.com/t/1250143) — 利用AI技术提供高效学术论文检索和筛选工具。（门槛: 中）
 - **[评分: 7/10]** [Show HN: Making agent-to-agent interactions observable, in a fun way](https://github.com/hanhanwu/Agentopia) — AI代理交互可视化工具，助力开发者理解AI交互。（门槛: 中）
-- **[评分: 7/10]** [I built a CSV-to-Excel kit that shows which rows were left out of the total](https://www.reddit.com/r/SideProject/comments/1x9v07a/i_built_a_csvtoexcel_kit_that_shows_which_rows/) — 为Shopify卖家提供CSV到Excel转换工具，帮助识别遗漏行。（门槛: 低）
-- **[评分: 7/10]** [Update: I rebuilt my project into voice bundles + an open-source agent that runs on your own computer.](https://www.reddit.com/r/SideProject/comments/1x9rgae/update_i_rebuilt_my_project_into_voice_bundles_an/) — 为小型企业提供一次性购买的行业特定语音包和自动代理服务。（门槛: 低）
-- **[评分: 7/10]** [I got tired of re-explaining my project to AI agents. Now it lives in 1200 markdown files, and I built a Mac app to work on them together](https://www.reddit.com/r/SideProject/comments/1x9uc7z/i_got_tired_of_reexplaining_my_project_to_ai/) — 为开发者提供AI辅助的Markdown文件管理工具，提高协作效率。（门槛: 中）
-- **[评分: 7/10]** [Show HN: Epoptes – Run Claude Code and Codex for hours with human oversight](https://github.com/ramigb/epoptes) — 提供长时间运行 AI 模型并人工监督的解决方案（门槛: 中）
+
+### 🏷️ 视频与动效代交付
+- **[评分: 7/10]** [I built Vibio Desktop, basically Claude Code and Codex agents working as a crew (Mac, free early access)](https://www.reddit.com/r/SideProject/comments/1xaa3io/i_built_vibio_desktop_basically_claude_code_and/) — 为 AI 编程代理用户打造协同工作平台。（门槛: 低）
+- **[评分: 7/10]** [I turned an AirPod into a controller to play Duck Hunt on my Mac](https://www.reddit.com/r/SideProject/comments/1x9ydy8/i_turned_an_airpod_into_a_controller_to_play_duck/) — 利用AI和AirPods开发创新游戏控制应用。（门槛: 低）
+- **[评分: 7/10]** [OhMyGame 开源 10 天拿到 936 个 star 的一个小复盘](https://www.v2ex.com/t/1250127) — AI 游戏创作工具，解决开发者设计、生成资产和开发测试难题。（门槛: 低）
+- **[评分: 7/10]** [Show HN: ApolloOffice – Local AI workers that turn GitHub issues into tested PRs](https://github.com/Silvertree2010/ApolloOffice) — 利用 AI 自动处理 GitHub 代码问题，提高贡献者效率。（门槛: 低）
+- **[评分: 7/10]** [“Claude cuts my TikTok”: How this creator is scaling video with AI | Brooke Lacey](https://www.lennysnewsletter.com/p/claude-cuts-my-tiktok-how-this-creator) — 利用 AI 工具快速制作 TikTok 视频，满足创作者需求。（门槛: 低）
 
 ### 🏷️ 极窄场景的 Micro-AI 插件
 - **[评分: 8/10]** [I built a family location app that doesn't keep history — today it got an Apple Watch app](https://www.reddit.com/r/SideProject/comments/1x5q9kf/i_built_a_family_location_app_that_doesnt_keep/) — 隐私家庭定位月订阅（门槛: 中）
 - **[评分: 8/10]** [Show HN: Halo – A Personal AI with On-Device Harness, Memory and Browser Agent](https://apps.apple.com/us/app/halo-personal-ai/id6783715054) — 端侧隐私 AI 助手，$49 终身买断，数据不出手机（门槛: 中）
 - **[评分: 8/10]** [Famulor](https://www.producthunt.com/products/famulor-telephony-ai) — 给本地商家搭AI电话+WhatsApp跟进客服，按月收费（门槛: 中）
 - **[评分: 8/10]** [Communicate](https://www.producthunt.com/products/communicate) — 垂直行业AI客服代理，知识库+人工接管月费变现（门槛: 中）
-
-### 🏷️ 视频与动效代交付
-- **[评分: 7/10]** [I turned an AirPod into a controller to play Duck Hunt on my Mac](https://www.reddit.com/r/SideProject/comments/1x9ydy8/i_turned_an_airpod_into_a_controller_to_play_duck/) — 利用AI和AirPods开发创新游戏控制应用。（门槛: 低）
-- **[评分: 7/10]** [OhMyGame 开源 10 天拿到 936 个 star 的一个小复盘](https://www.v2ex.com/t/1250127) — AI 游戏创作工具，解决开发者设计、生成资产和开发测试难题。（门槛: 低）
-- **[评分: 7/10]** [Show HN: ApolloOffice – Local AI workers that turn GitHub issues into tested PRs](https://github.com/Silvertree2010/ApolloOffice) — 利用 AI 自动处理 GitHub 代码问题，提高贡献者效率。（门槛: 低）
-- **[评分: 7/10]** [“Claude cuts my TikTok”: How this creator is scaling video with AI | Brooke Lacey](https://www.lennysnewsletter.com/p/claude-cuts-my-tiktok-how-this-creator) — 利用 AI 工具快速制作 TikTok 视频，满足创作者需求。（门槛: 低）
 
 ### 🏷️ B2B 高客单数据抓取与精准名单
 - **[评分: 8/10]** [I just hit $100K with my SaaS as a 22-year-old solo founder. Started with $100](https://www.reddit.com/r/SaaS/comments/1x5vy9i/i_just_hit_100k_with_my_saas_as_a_22yearold_solo/) — AI抓取清洗B2B线索，卖精准获客名单与触达工作流（门槛: 中）
@@ -96,8 +96,8 @@
 - **[评分: 8/10]** [Bootstrapping to €600k MRR and getting killed by Shopify: Checkout X](https://www.leteyski.com/bootstrapping-to-600k-mrr-and-getting-killed-by-shopify-the-story-of-checkout-x) — 独立站结账优化插件，€600k MRR 验证刚需（门槛: 高）
 
 ### 🏷️ 七大高溢价赛道之一
+- **[评分: 7/10]** [Show HN: One-click AI PR review buttons (no API keys, no CI)](https://www.skills.sh/tdk-landscape/tdk-skills/tdk-pr-review-buttons) — 提供一键AI PR审查工具，解决内容审查效率问题。（门槛: 低）
 - **[评分: 7/10]** [Show HN: Earshot – talk to Claude Code with AirPods, nod to send](https://github.com/epavanello/earshot) — 利用 AirPods 实现与 Claude Code 的便捷交互。（门槛: 低）
-- **[评分: 7/10]** [Show HN: Chrome extension that types one prompt into many AI chat tabs](https://chromewebstore.google.com/detail/use-multiple-chat-ai-at-o/pcpciffaliaooacnhiefjiegigjidehp) — 为AI聊天用户提供一键式多平台消息发送工具。（门槛: 低）
 
 ### 🏷️ ⚡ 非对称套利与增长黑客
 - **[评分: 8/10]** [🦙 Claude AI 创业公司计划 — 12个月 Pro Team + $1,000 API Credits](https://www.nodeseek.com/post-969760-1) — 白嫖Claude官方12个月会员+千刀API额度，最高撬10万（门槛: 低）
