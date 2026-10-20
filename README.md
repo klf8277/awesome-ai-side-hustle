@@ -59,6 +59,7 @@
 - **[评分: 8/10]** [I run multiple $10K MRR companies on a $20/month tech stack](https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack) — $20 月成本跑出 $10K MRR 的极简技术栈拆解变现（门槛: 中）
 - **[评分: 8/10]** [My solopreneur story](https://news.tonydinh.com/p/my-solopreneur-story-zero-to-45kmo) — 单人从 0 到月入 4.5 万美元的可复制变现路径拆解（门槛: 中）
 - **[评分: 8/10]** [Show HN: After 2.5 years on my side project, it has hit £500/month revenue](https://news.ycombinator.com/item?id=25372464) — 音频私密分享SaaS，替代Bandcamp/SoundCloud的细分付费工具（门槛: 中）
+- **[评分: 7/10]** [Show HN: Harness Studio: an open-source desktop coding agent for any model](https://github.com/vigneshv1cky/harness-studio) — 为开发者提供跨模型的开源桌面编码代理工具。（门槛: 中）
 - **[评分: 7/10]** [Show HN: Trellis - A macOS Terminal with a CLI, JSON-RPC API and MCP Server](https://github.com/bearstouch/trellis) — 为开发者提供高效的 macOS 终端和自动化工作流解决方案。（门槛: 中）
 - **[评分: 7/10]** [Show HN: What the Harness? LLM agent inconsistencies in MCP implementation](https://what-the-harness.polytomic.com) — 开发一款统一不同人工智能代理MCP实现的工具。（门槛: 中）
 - **[评分: 7/10]** [Show HN: Frink – Desktop-first app for multi-step workflows and parallel agents](https://github.com/benord-labs/frink) — 为软件开发者提供自动化多步骤工作流和并行代理执行的桌面应用程序。（门槛: 中）
@@ -101,9 +102,6 @@
 
 ### 🏷️ 七大高溢价赛道之一
 - **[评分: 7/10]** [Show HN: Agent Alley – A social experiment for AI agents](https://www.agent-alley.com/) — 为AI代理开发者提供社交实验平台。（门槛: 中）
-
-### 🏷️ 非对称套利与增长黑客
-- **[评分: 7/10]** [Show HN: Run Claude Code unattended inside a fence, under a dollar budget](https://github.com/metahumansworld/SIwithin) — 利用 Claude Code 的低成本运行方案进行非对称套利。（门槛: 低）
 
 
 ---
