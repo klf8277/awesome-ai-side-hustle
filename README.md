@@ -59,6 +59,8 @@
 - **[评分: 8/10]** [I run multiple $10K MRR companies on a $20/month tech stack](https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack) — $20 月成本跑出 $10K MRR 的极简技术栈拆解变现（门槛: 中）
 - **[评分: 8/10]** [My solopreneur story](https://news.tonydinh.com/p/my-solopreneur-story-zero-to-45kmo) — 单人从 0 到月入 4.5 万美元的可复制变现路径拆解（门槛: 中）
 - **[评分: 8/10]** [Show HN: After 2.5 years on my side project, it has hit £500/month revenue](https://news.ycombinator.com/item?id=25372464) — 音频私密分享SaaS，替代Bandcamp/SoundCloud的细分付费工具（门槛: 中）
+- **[评分: 7/10]** [Show HN: Contrack – Self-hosted contact manager and people search](https://github.com/arvarik/contrack) — 为个人用户提供集中式联系人管理和智能搜索工具。（门槛: 低）
+- **[评分: 7/10]** [Show HN: Skillsync – Coding agent memory but it's just search](https://skillsync.com) — 为软件开发者提供无需索引的会话搜索和消息筛选工具。（门槛: 低）
 - **[评分: 7/10]** [Show HN: Agent Archive – Session Handoffs and Backups for Claude Code and Codex](https://github.com/wangjohn/agent-archive) — 为开发者提供跨设备和工具的会话恢复和备份工具。（门槛: 低）
 - **[评分: 7/10]** [Show HN: Agent Archive – Session Handoffs and Backups for Claude Code and Codex](https://github.com/wangjohn/agent-archive) — 为 AI 开发者提供跨设备和工具的会话记录和传输解决方案。（门槛: 低）
 - **[评分: 7/10]** [[开源自建邮局] 三叶草邮局发布！操作傻瓜化、配置可视化，同时管理 N 个邮箱， 5 分钟三步开邮局](https://www.v2ex.com/t/1250452) — 提供企业级邮件服务搭建与管理工具（门槛: 低）
@@ -68,12 +70,10 @@
 - **[评分: 7/10]** [Show HN: Local wiki Claude Code/Codex write for you to think, organize, direct](https://github.com/nimbalyst/nimbalyst-wiki) — 为个人和团队提供AI驱动的本地化知识管理工具。（门槛: 中）
 - **[评分: 7/10]** [Show HN: mcpspan - open-source, self-hosted analytics for MCP servers](https://github.com/mcpspan/mcpspan) — 为Minecraft服务器管理员提供开源、自托管的Minecraft服务器分析工具。（门槛: 中）
 - **[评分: 7/10]** [Show HN: I built an eBook reader that lets you listen to any page](https://yedoo.ai/) — 为电子书读者提供听书功能，解决阅读痛点。（门槛: 低）
-- **[评分: 7/10]** [📣 #发现频道 玄印写作：本地开源长篇写作工作台，支持 Windows](https://meta.appinn.net/t/94026) — 为本地开源长篇写作用户提供结构化档案管理和AI辅助写作工具。（门槛: 低）
-- **[评分: 7/10]** [📣 #发现频道 ServerlessInsight：跨云 Server](https://meta.appinn.net/t/94015) — 提供跨云Serverless应用管理框架，简化云资源管理。（门槛: 中）
-- **[评分: 7/10]** [Show HN: Giverny - A native terminal for Claude Code and Codex](https://github.com/y0av/giverny) — 为 AI 开发者提供原生终端工具。（门槛: 中）
-- **[评分: 7/10]** [Show HN: Mnemoloci – A Markdown second brain for Claude Code, with citations](https://github.com/siris9476/mnemoloci) — 为开发者提供Markdown第二大脑和代码引用管理工具。（门槛: 中）
 
 ### 🏷️ 视频与动效代交付
+- **[评分: 7/10]** [Show HN: My attempt to get Claude to run a business](https://pagecritic.app/) — 利用AI自动生成和推广网站，但需人工优化推广。（门槛: 低）
+- **[评分: 7/10]** [Show HN: My attempt to get Claude to run a business](https://pagecritic.app/) — 利用AI自动生成和推广网站，降低创业门槛。（门槛: 低）
 - **[评分: 7/10]** [Show HN: Stop Claude Code from compacting mid-task](https://github.com/LippInc/catnap) — 解决 AI 自动压缩导致数据丢失的问题，提升用户体验。（门槛: 低）
 - **[评分: 7/10]** [做了个不用写提示词、会学习喜好的本地 AI 生图应用](https://www.v2ex.com/t/1250448) — 提供便捷的本地 AI 生图工具，减少提示词编写难度。（门槛: 低）
 - **[评分: 7/10]** [Show HN: Jev Cards, Can you beat a vision model at a picture quiz?](https://jevcards.com) — 利用AI视觉模型打造互动游戏，吸引游戏玩家。（门槛: 低）
