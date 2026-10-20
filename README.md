@@ -59,6 +59,9 @@
 - **[评分: 8/10]** [I run multiple $10K MRR companies on a $20/month tech stack](https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack) — $20 月成本跑出 $10K MRR 的极简技术栈拆解变现（门槛: 中）
 - **[评分: 8/10]** [My solopreneur story](https://news.tonydinh.com/p/my-solopreneur-story-zero-to-45kmo) — 单人从 0 到月入 4.5 万美元的可复制变现路径拆解（门槛: 中）
 - **[评分: 8/10]** [Show HN: After 2.5 years on my side project, it has hit £500/month revenue](https://news.ycombinator.com/item?id=25372464) — 音频私密分享SaaS，替代Bandcamp/SoundCloud的细分付费工具（门槛: 中）
+- **[评分: 7/10]** [[开源自建邮局] 三叶草邮局发布！操作傻瓜化、配置可视化，同时管理 N 个邮箱， 5 分钟三步开邮局](https://www.v2ex.com/t/1250452) — 提供企业级邮件服务搭建与管理工具（门槛: 低）
+- **[评分: 7/10]** [Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins](https://news.ycombinator.com/item?id=50167583) — 提供插件化AI基础设施，解决开发者扩展性问题。（门槛: 中）
+- **[评分: 7/10]** [Show HN: Standard Topic – An AI and RSS-powered news and resource platform](https://www.standardtopic.com/) — 利用AI和RSS构建个性化新闻和资源平台，满足知识管理和内容创作需求。（门槛: 中）
 - **[评分: 7/10]** [Show HN: Pando, an open-source platform to deploy and share apps built with AI](https://github.com/trypando/pando) — 为AI应用开发者提供部署和分享应用的开放源代码平台。（门槛: 低）
 - **[评分: 7/10]** [Show HN: Local wiki Claude Code/Codex write for you to think, organize, direct](https://github.com/nimbalyst/nimbalyst-wiki) — 为个人和团队提供AI驱动的本地化知识管理工具。（门槛: 中）
 - **[评分: 7/10]** [Show HN: mcpspan - open-source, self-hosted analytics for MCP servers](https://github.com/mcpspan/mcpspan) — 为Minecraft服务器管理员提供开源、自托管的Minecraft服务器分析工具。（门槛: 中）
@@ -69,12 +72,6 @@
 - **[评分: 7/10]** [Show HN: Mnemoloci – A Markdown second brain for Claude Code, with citations](https://github.com/siris9476/mnemoloci) — 为开发者提供Markdown第二大脑和代码引用管理工具。（门槛: 中）
 - **[评分: 7/10]** [Show HN: Sorcerer – simulate a community of AI agents around a what-if (macOS)](https://github.com/gbrasil720/sorcerer) — 模拟 AI 代理社区，助力数据科学家和 AI 研究人员解决复杂假设情景。（门槛: 中）
 - **[评分: 7/10]** [How I built my ‘everything’ app](https://www.bensbites.com/p/how-i-built-my-everything-app) — 利用 AI 技术为智能家居设备提供个性化定制服务。（门槛: 中）
-- **[评分: 7/10]** [Show HN: Local embedding and ranking for tech feeds](https://github.com/DBvdHeijden/okaeri) — 为个人用户提供本地运行的个性化内容推荐算法。（门槛: 低）
-- **[评分: 7/10]** [Show HN: Faztudo, a local chat for coordinating the coding agents CLIs](https://thiagodefreitas.github.io/faztudo/) — 为软件开发团队提供AI代理协调工具。（门槛: 中）
-- **[评分: 7/10]** [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) — 提供自动化工作流解决方案，提高软件开发和IT团队效率。（门槛: 中）
-- **[评分: 7/10]** [Show HN: Faztudo, a local chat for coordinating the coding agents CLIs](https://thiagodefreitas.github.io/faztudo/) — 为软件开发团队提供灵活的本地AI代理协调工具。（门槛: 中）
-- **[评分: 7/10]** [📣 #发现频道 Open Reading：开源阅读器，支持划线问 AI](https://meta.appinn.net/t/94001) — 为专业人士提供高效的电子阅读和笔记工具。（门槛: 低）
-- **[评分: 7/10]** [做了个生命游戏交互图鉴：四条规则、零个玩家（原生 HTML + Canvas）](https://www.v2ex.com/t/1250331) — 利用康威生命游戏开发教育工具，吸引教育机构和科技爱好者付费。（门槛: 低）
 
 ### 🏷️ 极窄场景的 Micro-AI 插件
 - **[评分: 8/10]** [I built a family location app that doesn't keep history — today it got an Apple Watch app](https://www.reddit.com/r/SideProject/comments/1x5q9kf/i_built_a_family_location_app_that_doesnt_keep/) — 隐私家庭定位月订阅（门槛: 中）
@@ -88,20 +85,25 @@
 - **[评分: 8/10]** [Bootstrapping to €600k MRR and getting killed by Shopify: Checkout X](https://www.leteyski.com/bootstrapping-to-600k-mrr-and-getting-killed-by-shopify-the-story-of-checkout-x) — 独立站结账优化插件，€600k MRR 验证刚需（门槛: 高）
 - **[评分: 7/10]** [Show HN: Algebras Harness – Localize Apps/Games from Claude Code](https://github.com/algebras-ai/algebras-agent) — 为 App 和游戏开发者提供本地化工具，解决多语言适配问题。（门槛: 中）
 
+### 🏷️ 视频与动效代交付
+- **[评分: 7/10]** [做了个不用写提示词、会学习喜好的本地 AI 生图应用](https://www.v2ex.com/t/1250448) — 提供便捷的本地 AI 生图工具，减少提示词编写难度。（门槛: 低）
+- **[评分: 7/10]** [Show HN: Jev Cards, Can you beat a vision model at a picture quiz?](https://jevcards.com) — 利用AI视觉模型打造互动游戏，吸引游戏玩家。（门槛: 低）
+- **[评分: 7/10]** [7+ Years of Competitive Debate Transformed my Public Speaking. So I Built an App to Help Others Go Through the Same Transformation!](https://www.reddit.com/r/SideProject/comments/1xatjhc/7_years_of_competitive_debate_transformed_my/) — 为公共演讲者提供个性化反馈的语音识别应用。（门槛: 低）
+- **[评分: 7/10]** [Show HN: Tori by TalkJS. AI support that's actually good](https://asktori.ai) — 为技术支持团队提供 AI 辅助工具，解决复杂产品问题。（门槛: 低）
+
 ### 🏷️ B2B 高客单数据抓取与精准名单
 - **[评分: 8/10]** [I just hit $100K with my SaaS as a 22-year-old solo founder. Started with $100](https://www.reddit.com/r/SaaS/comments/1x5vy9i/i_just_hit_100k_with_my_saas_as_a_22yearold_solo/) — AI抓取清洗B2B线索，卖精准获客名单与触达工作流（门槛: 中）
 - **[评分: 8/10]** [I scraped billions of TikTok videos and profiles by reverse engineering the mobile API. Here's how it works + source code](https://www.reddit.com/r/SaaS/comments/1wxoasb/i_scraped_billions_of_tiktok_videos_and_profiles/) — 逆向 TikTok 接口，把爆款趋势与达人名单做成付费数据 API（门槛: 高）
 - **[评分: 8/10]** [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) — 零 API 费抓取社媒，一键交付海外精准潜客名单（门槛: 中）
 
-### 🏷️ 视频与动效代交付
-- **[评分: 7/10]** [Show HN: Tori by TalkJS. AI support that's actually good](https://asktori.ai) — 为技术支持团队提供 AI 辅助工具，解决复杂产品问题。（门槛: 低）
-- **[评分: 7/10]** [Show HN: I built an AI tool that turns two photos into a dance video](https://a2oliteai.com/) — 利用AI技术将照片转换为舞蹈视频，满足个性化视频制作需求。（门槛: 低）
-
 ### 🏷️ ⚡ 非对称套利与增长黑客
 - **[评分: 8/10]** [🦙 Claude AI 创业公司计划 — 12个月 Pro Team + $1,000 API Credits](https://www.nodeseek.com/post-969760-1) — 白嫖Claude官方12个月会员+千刀API额度，最高撬10万（门槛: 低）
 
 ### 🏷️ 七大高溢价赛道之一
-- **[评分: 7/10]** [I made a free app that converts files without opening anything: drag a file, tap Shift, let go](https://www.reddit.com/r/SideProject/comments/1xanxri/i_made_a_free_app_that_converts_files_without/) — 提供便捷的文件转换工具，解决用户痛点。（门槛: 低）
+- **[评分: 7/10]** [Show HN: Agent Alley – A social experiment for AI agents](https://www.agent-alley.com/) — 为AI代理开发者提供社交实验平台。（门槛: 中）
+
+### 🏷️ 非对称套利与增长黑客
+- **[评分: 7/10]** [Show HN: Run Claude Code unattended inside a fence, under a dollar budget](https://github.com/metahumansworld/SIwithin) — 利用 Claude Code 的低成本运行方案进行非对称套利。（门槛: 低）
 
 
 ---
