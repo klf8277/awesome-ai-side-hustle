@@ -59,6 +59,8 @@
 - **[评分: 8/10]** [I run multiple $10K MRR companies on a $20/month tech stack](https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack) — $20 月成本跑出 $10K MRR 的极简技术栈拆解变现（门槛: 中）
 - **[评分: 8/10]** [My solopreneur story](https://news.tonydinh.com/p/my-solopreneur-story-zero-to-45kmo) — 单人从 0 到月入 4.5 万美元的可复制变现路径拆解（门槛: 中）
 - **[评分: 8/10]** [Show HN: After 2.5 years on my side project, it has hit £500/month revenue](https://news.ycombinator.com/item?id=25372464) — 音频私密分享SaaS，替代Bandcamp/SoundCloud的细分付费工具（门槛: 中）
+- **[评分: 7/10]** [[开源] All API Hub：统一管理 AI 中转站账号、API Key、自动签到和模型比价](https://www.v2ex.com/t/1250203) — 提供集中管理 AI API 站点账号和 API Key 的工具，解决用户管理痛点。（门槛: 低）
+- **[评分: 7/10]** [Show HN: AppMaker – Build business apps with AI, visual editing and code](https://appmaker.io/) — 利用AI和可视化编辑构建企业业务应用。（门槛: 中）
 - **[评分: 7/10]** [Show HN: Lights-on software factory boilerplate for Claude Code](https://github.com/gojko/lights-on-software-factory) — 降低 Claude 工作流程代币成本，提升软件开发效率。（门槛: 中）
 - **[评分: 7/10]** [Show HN: Omasharp: Build Omarchy apps with C# and .NET](https://github.com/luisrudge/omasharp) — 为开发者提供使用C#和.NET构建Omarchy应用程序的工具。（门槛: 低）
 - **[评分: 7/10]** [Show HN: OpenFlow – AI Agent Workflow Builder](https://github.com/SeeRay11/OpenFlow) — 为企业内部IT团队提供基于 AI 的工作流自动化工具。（门槛: 中）
@@ -69,9 +71,6 @@
 - **[评分: 7/10]** [Show HN: Vibetown – public sandboxes to vibecode with strangers](https://vibetown.social) — 提供免费公共沙盒环境，促进开发者协作。（门槛: 低）
 - **[评分: 7/10]** [Show HN: Quorus – Claude Code and Codex in one room, reviewing each other's work](https://github.com/Quorus-dev/Quorus) — 通过AI代码审查工具提升软件开发效率（门槛: 中）
 - **[评分: 7/10]** [Show HN: Open-source early-reading reader with phonics help](https://github.com/finereli/yarareads) — 为儿童阅读提供个性化辅助工具，帮助他们在阅读过程中学习发音和单词。（门槛: 低）
-- **[评分: 7/10]** [Show HN: An outliner to replace Workflowy and Obsidian – as a Claude connector](https://claude.ai/directory/bulletlist) — 利用AI和Markdown，打造便捷的笔记和知识管理工具。（门槛: 低）
-- **[评分: 7/10]** [Launch HN: Laminar (YC S24) – RL-trained model that finds errors in agent traces](https://news.ycombinator.com/item?id=50154029) — 提供AI代理的实时监控和错误检测工具（门槛: 高）
-- **[评分: 7/10]** [Launch HN: Laminar (YC S24) – RL-trained model that finds errors in agent traces](https://news.ycombinator.com/item?id=50154029) — 为 AI 代理开发者提供错误检测工具，提升代理的稳定性和效率。（门槛: 高）
 
 ### 🏷️ 跨境电商与出海独立站工具
 - **[评分: 8/10]** [Launch HN: Consus (YC F24) – LLM gateway for companies handling sensitive data](https://news.ycombinator.com/item?id=50073471) — 为航空航天和国防公司提供符合ITAR和FedRAMP标准的AI服务。（门槛: 高）
@@ -86,15 +85,16 @@
 - **[评分: 8/10]** [Famulor](https://www.producthunt.com/products/famulor-telephony-ai) — 给本地商家搭AI电话+WhatsApp跟进客服，按月收费（门槛: 中）
 - **[评分: 8/10]** [Communicate](https://www.producthunt.com/products/communicate) — 垂直行业AI客服代理，知识库+人工接管月费变现（门槛: 中）
 
+### 🏷️ 七大高溢价赛道之一
+- **[评分: 7/10]** [Show HN: Privacy Layer for Frontier Models](https://privai-sandy.vercel.app/) — 为前端模型提供隐私保护层，防止敏感信息泄露。（门槛: 高）
+- **[评分: 7/10]** [📣 #发现频道 api-bench：测试大模型 API 与中转站的首字](https://meta.appinn.net/t/93954) — 为大模型 API 提供性能测试工具，解决延迟和并发问题。（门槛: 低）
+- **[评分: 7/10]** [I’m building Qubics.ai. What would it have to replace for you to use it?](https://www.reddit.com/r/SideProject/comments/1xaegq9/im_building_qubicsai_what_would_it_have_to/) — 为交易者提供AI增强的交易平台，解决现有工具的不足。（门槛: 高）
+- **[评分: 7/10]** [Show HN: One-click AI PR review buttons (no API keys, no CI)](https://www.skills.sh/tdk-landscape/tdk-skills/tdk-pr-review-buttons) — 提供一键AI PR审查工具，解决内容审查效率问题。（门槛: 低）
+
 ### 🏷️ B2B 高客单数据抓取与精准名单
 - **[评分: 8/10]** [I just hit $100K with my SaaS as a 22-year-old solo founder. Started with $100](https://www.reddit.com/r/SaaS/comments/1x5vy9i/i_just_hit_100k_with_my_saas_as_a_22yearold_solo/) — AI抓取清洗B2B线索，卖精准获客名单与触达工作流（门槛: 中）
 - **[评分: 8/10]** [I scraped billions of TikTok videos and profiles by reverse engineering the mobile API. Here's how it works + source code](https://www.reddit.com/r/SaaS/comments/1wxoasb/i_scraped_billions_of_tiktok_videos_and_profiles/) — 逆向 TikTok 接口，把爆款趋势与达人名单做成付费数据 API（门槛: 高）
 - **[评分: 8/10]** [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) — 零 API 费抓取社媒，一键交付海外精准潜客名单（门槛: 中）
-
-### 🏷️ 七大高溢价赛道之一
-- **[评分: 7/10]** [I’m building Qubics.ai. What would it have to replace for you to use it?](https://www.reddit.com/r/SideProject/comments/1xaegq9/im_building_qubicsai_what_would_it_have_to/) — 为交易者提供AI增强的交易平台，解决现有工具的不足。（门槛: 高）
-- **[评分: 7/10]** [Show HN: One-click AI PR review buttons (no API keys, no CI)](https://www.skills.sh/tdk-landscape/tdk-skills/tdk-pr-review-buttons) — 提供一键AI PR审查工具，解决内容审查效率问题。（门槛: 低）
-- **[评分: 7/10]** [Show HN: Earshot – talk to Claude Code with AirPods, nod to send](https://github.com/epavanello/earshot) — 利用 AirPods 实现与 Claude Code 的便捷交互。（门槛: 低）
 
 ### 🏷️ 视频与动效代交付
 - **[评分: 7/10]** [Show HN: barn.app – a digital stream deck like agent monitoring tool for macOS](https://barn.ope.cool) — 为 macOS 用户开发便携式代理监控工具。（门槛: 低）
