@@ -59,6 +59,7 @@
 - **[评分: 8/10]** [I run multiple $10K MRR companies on a $20/month tech stack](https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack) — $20 月成本跑出 $10K MRR 的极简技术栈拆解变现（门槛: 中）
 - **[评分: 8/10]** [My solopreneur story](https://news.tonydinh.com/p/my-solopreneur-story-zero-to-45kmo) — 单人从 0 到月入 4.5 万美元的可复制变现路径拆解（门槛: 中）
 - **[评分: 8/10]** [Show HN: After 2.5 years on my side project, it has hit £500/month revenue](https://news.ycombinator.com/item?id=25372464) — 音频私密分享SaaS，替代Bandcamp/SoundCloud的细分付费工具（门槛: 中）
+- **[评分: 7/10]** [做了个生命游戏交互图鉴：四条规则、零个玩家（原生 HTML + Canvas）](https://www.v2ex.com/t/1250331) — 利用康威生命游戏开发教育工具，吸引教育机构和科技爱好者付费。（门槛: 低）
 - **[评分: 7/10]** [做了一个审美在线的微信公众号 Markdown 排版工具，符合微信官方排版与暗色规范](https://www.v2ex.com/t/1250301) — 为微信公众号写作者提供Markdown排版工具，解决排版难题。（门槛: 低）
 - **[评分: 7/10]** [做了个三国 SLG，让你自己的 AI 替你打仗，开源公测中](https://www.v2ex.com/t/1250299) — 提供 AI 代玩服务，解放玩家手动操作，提升游戏体验。（门槛: 低）
 - **[评分: 7/10]** [I built an open-source tool for replaying and debugging AI agent executions. Looking for contributors and feedback.](https://www.reddit.com/r/SideProject/comments/1xakice/i_built_an_opensource_tool_for_replaying_and/) — 为开发者提供AI代理执行调试工具，减少对实时环境的依赖。（门槛: 低）
@@ -89,15 +90,14 @@
 - **[评分: 8/10]** [I scraped billions of TikTok videos and profiles by reverse engineering the mobile API. Here's how it works + source code](https://www.reddit.com/r/SaaS/comments/1wxoasb/i_scraped_billions_of_tiktok_videos_and_profiles/) — 逆向 TikTok 接口，把爆款趋势与达人名单做成付费数据 API（门槛: 高）
 - **[评分: 8/10]** [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) — 零 API 费抓取社媒，一键交付海外精准潜客名单（门槛: 中）
 
-### 🏷️ 七大高溢价赛道之一
-- **[评分: 7/10]** [I built a world war that never stops: AI generals fight for real countries, and players can plug in their own AI agents](https://www.reddit.com/r/SideProject/comments/1xalh24/i_built_a_world_war_that_never_stops_ai_generals/) — AI驱动的实时战略游戏平台，玩家付费参与。（门槛: 中）
-- **[评分: 7/10]** [call4me](https://www.producthunt.com/products/call4me) — 为AI应用添加电话交互功能，提升用户体验。（门槛: 中）
-- **[评分: 7/10]** [Show HN: Privacy Layer for Frontier Models](https://privai-sandy.vercel.app/) — 为前端模型提供隐私保护层，防止敏感信息泄露。（门槛: 高）
-
 ### 🏷️ 视频与动效代交付
 - **[评分: 7/10]** [我和孩子一起使用 AI 做的游戏上线到 taptap 了](https://www.v2ex.com/t/1250279) — 利用AI工具快速开发儿童游戏，满足家长和孩子的需求。（门槛: 低）
 - **[评分: 7/10]** [Lugh Xtudio](https://www.producthunt.com/products/lugh-xtudio) — AI辅助视频编辑工具，提升制作效率。（门槛: 低）
 - **[评分: 7/10]** [The New Beings](https://www.producthunt.com/products/the-new-beings) — 利用AI进行自动化直播谈话节目，满足内容创作者和直播平台需求。（门槛: 低）
+
+### 🏷️ 七大高溢价赛道之一
+- **[评分: 7/10]** [I built a world war that never stops: AI generals fight for real countries, and players can plug in their own AI agents](https://www.reddit.com/r/SideProject/comments/1xalh24/i_built_a_world_war_that_never_stops_ai_generals/) — AI驱动的实时战略游戏平台，玩家付费参与。（门槛: 中）
+- **[评分: 7/10]** [call4me](https://www.producthunt.com/products/call4me) — 为AI应用添加电话交互功能，提升用户体验。（门槛: 中）
 
 ### 🏷️ ⚡ 非对称套利与增长黑客
 - **[评分: 8/10]** [🦙 Claude AI 创业公司计划 — 12个月 Pro Team + $1,000 API Credits](https://www.nodeseek.com/post-969760-1) — 白嫖Claude官方12个月会员+千刀API额度，最高撬10万（门槛: 低）
