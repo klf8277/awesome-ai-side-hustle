@@ -59,6 +59,7 @@
 - **[评分: 8/10]** [I run multiple $10K MRR companies on a $20/month tech stack](https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack) — $20 月成本跑出 $10K MRR 的极简技术栈拆解变现（门槛: 中）
 - **[评分: 8/10]** [My solopreneur story](https://news.tonydinh.com/p/my-solopreneur-story-zero-to-45kmo) — 单人从 0 到月入 4.5 万美元的可复制变现路径拆解（门槛: 中）
 - **[评分: 8/10]** [Show HN: After 2.5 years on my side project, it has hit £500/month revenue](https://news.ycombinator.com/item?id=25372464) — 音频私密分享SaaS，替代Bandcamp/SoundCloud的细分付费工具（门槛: 中）
+- **[评分: 7/10]** [Show HN: Death Plan Switch, a self-hosted dead man's switch for solo devs](https://deathplanswitch.com/) — 为个人开发者提供业务连续性和数据安全解决方案。（门槛: 低）
 - **[评分: 7/10]** [[开源] All API Hub：统一管理 AI 中转站账号、API Key、自动签到和模型比价](https://www.v2ex.com/t/1250203) — 提供集中管理 AI API 站点账号和 API Key 的工具，解决用户管理痛点。（门槛: 低）
 - **[评分: 7/10]** [Show HN: AppMaker – Build business apps with AI, visual editing and code](https://appmaker.io/) — 利用AI和可视化编辑构建企业业务应用。（门槛: 中）
 - **[评分: 7/10]** [Show HN: Lights-on software factory boilerplate for Claude Code](https://github.com/gojko/lights-on-software-factory) — 降低 Claude 工作流程代币成本，提升软件开发效率。（门槛: 中）
@@ -69,7 +70,6 @@
 - **[评分: 7/10]** [I built TaskFlow, a self-hosted task manager — looking for honest feedback](https://www.reddit.com/r/SideProject/comments/1xa75vw/i_built_taskflow_a_selfhosted_task_manager/) — 为个人和企业提供易于使用的自托管任务管理器。（门槛: 低）
 - **[评分: 7/10]** [Show HN: Open-source app that lets LLMs control any iPhone app (no Mac required)](https://github.com/EliotAndres/iphone-use-app) — 利用LLM控制iPhone应用，提升开发效率。（门槛: 中）
 - **[评分: 7/10]** [Show HN: Vibetown – public sandboxes to vibecode with strangers](https://vibetown.social) — 提供免费公共沙盒环境，促进开发者协作。（门槛: 低）
-- **[评分: 7/10]** [Show HN: Quorus – Claude Code and Codex in one room, reviewing each other's work](https://github.com/Quorus-dev/Quorus) — 通过AI代码审查工具提升软件开发效率（门槛: 中）
 
 ### 🏷️ 跨境电商与出海独立站工具
 - **[评分: 8/10]** [Launch HN: Consus (YC F24) – LLM gateway for companies handling sensitive data](https://news.ycombinator.com/item?id=50073471) — 为航空航天和国防公司提供符合ITAR和FedRAMP标准的AI服务。（门槛: 高）
