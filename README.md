@@ -59,6 +59,8 @@
 - **[评分: 8/10]** [I run multiple $10K MRR companies on a $20/month tech stack](https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack) — $20 月成本跑出 $10K MRR 的极简技术栈拆解变现（门槛: 中）
 - **[评分: 8/10]** [My solopreneur story](https://news.tonydinh.com/p/my-solopreneur-story-zero-to-45kmo) — 单人从 0 到月入 4.5 万美元的可复制变现路径拆解（门槛: 中）
 - **[评分: 8/10]** [Show HN: After 2.5 years on my side project, it has hit £500/month revenue](https://news.ycombinator.com/item?id=25372464) — 音频私密分享SaaS，替代Bandcamp/SoundCloud的细分付费工具（门槛: 中）
+- **[评分: 7/10]** [Show HN: Frink – Desktop-first app for multi-step workflows and parallel agents](https://github.com/benord-labs/frink) — 为软件开发者提供自动化多步骤工作流和并行代理执行的桌面应用程序。（门槛: 中）
+- **[评分: 7/10]** [Show HN: Ankita – an open-source personal AI companion for the desktop](https://github.com/akyourowngames/A.N.K.I.T.A) — 为桌面用户提供AI助手，解决桌面环境中的AI辅助需求。（门槛: 低）
 - **[评分: 7/10]** [Show HN: Contrack – Self-hosted contact manager and people search](https://github.com/arvarik/contrack) — 为个人用户提供集中式联系人管理和智能搜索工具。（门槛: 低）
 - **[评分: 7/10]** [Show HN: Skillsync – Coding agent memory but it's just search](https://skillsync.com) — 为软件开发者提供无需索引的会话搜索和消息筛选工具。（门槛: 低）
 - **[评分: 7/10]** [Show HN: Agent Archive – Session Handoffs and Backups for Claude Code and Codex](https://github.com/wangjohn/agent-archive) — 为开发者提供跨设备和工具的会话恢复和备份工具。（门槛: 低）
@@ -66,12 +68,10 @@
 - **[评分: 7/10]** [[开源自建邮局] 三叶草邮局发布！操作傻瓜化、配置可视化，同时管理 N 个邮箱， 5 分钟三步开邮局](https://www.v2ex.com/t/1250452) — 提供企业级邮件服务搭建与管理工具（门槛: 低）
 - **[评分: 7/10]** [Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins](https://news.ycombinator.com/item?id=50167583) — 提供插件化AI基础设施，解决开发者扩展性问题。（门槛: 中）
 - **[评分: 7/10]** [Show HN: Standard Topic – An AI and RSS-powered news and resource platform](https://www.standardtopic.com/) — 利用AI和RSS构建个性化新闻和资源平台，满足知识管理和内容创作需求。（门槛: 中）
-- **[评分: 7/10]** [Show HN: Pando, an open-source platform to deploy and share apps built with AI](https://github.com/trypando/pando) — 为AI应用开发者提供部署和分享应用的开放源代码平台。（门槛: 低）
-- **[评分: 7/10]** [Show HN: Local wiki Claude Code/Codex write for you to think, organize, direct](https://github.com/nimbalyst/nimbalyst-wiki) — 为个人和团队提供AI驱动的本地化知识管理工具。（门槛: 中）
-- **[评分: 7/10]** [Show HN: mcpspan - open-source, self-hosted analytics for MCP servers](https://github.com/mcpspan/mcpspan) — 为Minecraft服务器管理员提供开源、自托管的Minecraft服务器分析工具。（门槛: 中）
-- **[评分: 7/10]** [Show HN: I built an eBook reader that lets you listen to any page](https://yedoo.ai/) — 为电子书读者提供听书功能，解决阅读痛点。（门槛: 低）
 
 ### 🏷️ 视频与动效代交付
+- **[评分: 7/10]** [Show HN: Gauge CLI – Open-Source Hillclimbing for Agent Experience](https://github.com/gauge-sh/gauge-cli) — 为开发者提供优化代理体验的 CLI 工具。（门槛: 低）
+- **[评分: 7/10]** [I built a browser app that turns sheet music into a 2.5D/3D piano performance (MusicXML, MIDI, PDF, MP3)](https://www.reddit.com/r/SideProject/comments/1xaxuzy/i_built_a_browser_app_that_turns_sheet_music_into/) — 为音乐家提供高效、低成本的钢琴视频制作工具。（门槛: 低）
 - **[评分: 7/10]** [Show HN: My attempt to get Claude to run a business](https://pagecritic.app/) — 利用AI自动生成和推广网站，但需人工优化推广。（门槛: 低）
 - **[评分: 7/10]** [Show HN: My attempt to get Claude to run a business](https://pagecritic.app/) — 利用AI自动生成和推广网站，降低创业门槛。（门槛: 低）
 - **[评分: 7/10]** [Show HN: Stop Claude Code from compacting mid-task](https://github.com/LippInc/catnap) — 解决 AI 自动压缩导致数据丢失的问题，提升用户体验。（门槛: 低）
