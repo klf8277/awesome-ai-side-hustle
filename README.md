@@ -59,6 +59,12 @@
 - **[评分: 8/10]** [I run multiple $10K MRR companies on a $20/month tech stack](https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack) — $20 月成本跑出 $10K MRR 的极简技术栈拆解变现（门槛: 中）
 - **[评分: 8/10]** [My solopreneur story](https://news.tonydinh.com/p/my-solopreneur-story-zero-to-45kmo) — 单人从 0 到月入 4.5 万美元的可复制变现路径拆解（门槛: 中）
 - **[评分: 8/10]** [Show HN: After 2.5 years on my side project, it has hit £500/month revenue](https://news.ycombinator.com/item?id=25372464) — 音频私密分享SaaS，替代Bandcamp/SoundCloud的细分付费工具（门槛: 中）
+- **[评分: 7/10]** [Show HN: Pando, an open-source platform to deploy and share apps built with AI](https://github.com/trypando/pando) — 为AI应用开发者提供部署和分享应用的开放源代码平台。（门槛: 低）
+- **[评分: 7/10]** [Show HN: Local wiki Claude Code/Codex write for you to think, organize, direct](https://github.com/nimbalyst/nimbalyst-wiki) — 为个人和团队提供AI驱动的本地化知识管理工具。（门槛: 中）
+- **[评分: 7/10]** [Show HN: mcpspan - open-source, self-hosted analytics for MCP servers](https://github.com/mcpspan/mcpspan) — 为Minecraft服务器管理员提供开源、自托管的Minecraft服务器分析工具。（门槛: 中）
+- **[评分: 7/10]** [Show HN: I built an eBook reader that lets you listen to any page](https://yedoo.ai/) — 为电子书读者提供听书功能，解决阅读痛点。（门槛: 低）
+- **[评分: 7/10]** [📣 #发现频道 玄印写作：本地开源长篇写作工作台，支持 Windows](https://meta.appinn.net/t/94026) — 为本地开源长篇写作用户提供结构化档案管理和AI辅助写作工具。（门槛: 低）
+- **[评分: 7/10]** [📣 #发现频道 ServerlessInsight：跨云 Server](https://meta.appinn.net/t/94015) — 提供跨云Serverless应用管理框架，简化云资源管理。（门槛: 中）
 - **[评分: 7/10]** [Show HN: Giverny - A native terminal for Claude Code and Codex](https://github.com/y0av/giverny) — 为 AI 开发者提供原生终端工具。（门槛: 中）
 - **[评分: 7/10]** [Show HN: Mnemoloci – A Markdown second brain for Claude Code, with citations](https://github.com/siris9476/mnemoloci) — 为开发者提供Markdown第二大脑和代码引用管理工具。（门槛: 中）
 - **[评分: 7/10]** [Show HN: Sorcerer – simulate a community of AI agents around a what-if (macOS)](https://github.com/gbrasil720/sorcerer) — 模拟 AI 代理社区，助力数据科学家和 AI 研究人员解决复杂假设情景。（门槛: 中）
@@ -69,16 +75,6 @@
 - **[评分: 7/10]** [Show HN: Faztudo, a local chat for coordinating the coding agents CLIs](https://thiagodefreitas.github.io/faztudo/) — 为软件开发团队提供灵活的本地AI代理协调工具。（门槛: 中）
 - **[评分: 7/10]** [📣 #发现频道 Open Reading：开源阅读器，支持划线问 AI](https://meta.appinn.net/t/94001) — 为专业人士提供高效的电子阅读和笔记工具。（门槛: 低）
 - **[评分: 7/10]** [做了个生命游戏交互图鉴：四条规则、零个玩家（原生 HTML + Canvas）](https://www.v2ex.com/t/1250331) — 利用康威生命游戏开发教育工具，吸引教育机构和科技爱好者付费。（门槛: 低）
-- **[评分: 7/10]** [做了一个审美在线的微信公众号 Markdown 排版工具，符合微信官方排版与暗色规范](https://www.v2ex.com/t/1250301) — 为微信公众号写作者提供Markdown排版工具，解决排版难题。（门槛: 低）
-- **[评分: 7/10]** [做了个三国 SLG，让你自己的 AI 替你打仗，开源公测中](https://www.v2ex.com/t/1250299) — 提供 AI 代玩服务，解放玩家手动操作，提升游戏体验。（门槛: 低）
-- **[评分: 7/10]** [I built an open-source tool for replaying and debugging AI agent executions. Looking for contributors and feedback.](https://www.reddit.com/r/SideProject/comments/1xakice/i_built_an_opensource_tool_for_replaying_and/) — 为开发者提供AI代理执行调试工具，减少对实时环境的依赖。（门槛: 低）
-
-### 🏷️ 跨境电商与出海独立站工具
-- **[评分: 8/10]** [Launch HN: Consus (YC F24) – LLM gateway for companies handling sensitive data](https://news.ycombinator.com/item?id=50073471) — 为航空航天和国防公司提供符合ITAR和FedRAMP标准的AI服务。（门槛: 高）
-- **[评分: 8/10]** [Show HN: Proofsource. Find where AI leaves you out. And Fix it](https://proofsource.co/) — 利用AI分析AI引擎，帮助品牌提升在线可见性。（门槛: 中）
-- **[评分: 8/10]** [Bootstrapping to €600k MRR and getting killed by Shopify: Checkout X](https://www.leteyski.com/bootstrapping-to-600k-mrr-and-getting-killed-by-shopify-the-story-of-checkout-x) — 独立站结账优化插件，€600k MRR 验证刚需（门槛: 高）
-- **[评分: 7/10]** [Show HN: Algebras Harness – Localize Apps/Games from Claude Code](https://github.com/algebras-ai/algebras-agent) — 为 App 和游戏开发者提供本地化工具，解决多语言适配问题。（门槛: 中）
-- **[评分: 7/10]** [Exa 3.0](https://www.producthunt.com/products/exa-ai) — 利用AI降低跨境电商数据搜索成本（门槛: 中）
 
 ### 🏷️ 极窄场景的 Micro-AI 插件
 - **[评分: 8/10]** [I built a family location app that doesn't keep history — today it got an Apple Watch app](https://www.reddit.com/r/SideProject/comments/1x5q9kf/i_built_a_family_location_app_that_doesnt_keep/) — 隐私家庭定位月订阅（门槛: 中）
@@ -86,24 +82,26 @@
 - **[评分: 8/10]** [Famulor](https://www.producthunt.com/products/famulor-telephony-ai) — 给本地商家搭AI电话+WhatsApp跟进客服，按月收费（门槛: 中）
 - **[评分: 8/10]** [Communicate](https://www.producthunt.com/products/communicate) — 垂直行业AI客服代理，知识库+人工接管月费变现（门槛: 中）
 
+### 🏷️ 跨境电商与出海独立站工具
+- **[评分: 8/10]** [Launch HN: Consus (YC F24) – LLM gateway for companies handling sensitive data](https://news.ycombinator.com/item?id=50073471) — 为航空航天和国防公司提供符合ITAR和FedRAMP标准的AI服务。（门槛: 高）
+- **[评分: 8/10]** [Show HN: Proofsource. Find where AI leaves you out. And Fix it](https://proofsource.co/) — 利用AI分析AI引擎，帮助品牌提升在线可见性。（门槛: 中）
+- **[评分: 8/10]** [Bootstrapping to €600k MRR and getting killed by Shopify: Checkout X](https://www.leteyski.com/bootstrapping-to-600k-mrr-and-getting-killed-by-shopify-the-story-of-checkout-x) — 独立站结账优化插件，€600k MRR 验证刚需（门槛: 高）
+- **[评分: 7/10]** [Show HN: Algebras Harness – Localize Apps/Games from Claude Code](https://github.com/algebras-ai/algebras-agent) — 为 App 和游戏开发者提供本地化工具，解决多语言适配问题。（门槛: 中）
+
 ### 🏷️ B2B 高客单数据抓取与精准名单
 - **[评分: 8/10]** [I just hit $100K with my SaaS as a 22-year-old solo founder. Started with $100](https://www.reddit.com/r/SaaS/comments/1x5vy9i/i_just_hit_100k_with_my_saas_as_a_22yearold_solo/) — AI抓取清洗B2B线索，卖精准获客名单与触达工作流（门槛: 中）
 - **[评分: 8/10]** [I scraped billions of TikTok videos and profiles by reverse engineering the mobile API. Here's how it works + source code](https://www.reddit.com/r/SaaS/comments/1wxoasb/i_scraped_billions_of_tiktok_videos_and_profiles/) — 逆向 TikTok 接口，把爆款趋势与达人名单做成付费数据 API（门槛: 高）
 - **[评分: 8/10]** [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) — 零 API 费抓取社媒，一键交付海外精准潜客名单（门槛: 中）
 
 ### 🏷️ 视频与动效代交付
+- **[评分: 7/10]** [Show HN: Tori by TalkJS. AI support that's actually good](https://asktori.ai) — 为技术支持团队提供 AI 辅助工具，解决复杂产品问题。（门槛: 低）
 - **[评分: 7/10]** [Show HN: I built an AI tool that turns two photos into a dance video](https://a2oliteai.com/) — 利用AI技术将照片转换为舞蹈视频，满足个性化视频制作需求。（门槛: 低）
-- **[评分: 7/10]** [我和孩子一起使用 AI 做的游戏上线到 taptap 了](https://www.v2ex.com/t/1250279) — 利用AI工具快速开发儿童游戏，满足家长和孩子的需求。（门槛: 低）
-
-### 🏷️ 七大高溢价赛道之一
-- **[评分: 7/10]** [I made a free app that converts files without opening anything: drag a file, tap Shift, let go](https://www.reddit.com/r/SideProject/comments/1xanxri/i_made_a_free_app_that_converts_files_without/) — 提供便捷的文件转换工具，解决用户痛点。（门槛: 低）
-- **[评分: 7/10]** [I built a world war that never stops: AI generals fight for real countries, and players can plug in their own AI agents](https://www.reddit.com/r/SideProject/comments/1xalh24/i_built_a_world_war_that_never_stops_ai_generals/) — AI驱动的实时战略游戏平台，玩家付费参与。（门槛: 中）
 
 ### 🏷️ ⚡ 非对称套利与增长黑客
 - **[评分: 8/10]** [🦙 Claude AI 创业公司计划 — 12个月 Pro Team + $1,000 API Credits](https://www.nodeseek.com/post-969760-1) — 白嫖Claude官方12个月会员+千刀API额度，最高撬10万（门槛: 低）
 
-### 🏷️ 国学文化数字化与情绪消费
-- **[评分: 7/10]** [受够了广告弹窗与玄学忽悠， 240+ 次 Commits 打磨的纯净老黄历（Web + 小程序 + Android）](https://www.v2ex.com/t/1250327) — 打造纯净无广告、算法透明、多端协同的现代黄历工具。（门槛: 低）
+### 🏷️ 七大高溢价赛道之一
+- **[评分: 7/10]** [I made a free app that converts files without opening anything: drag a file, tap Shift, let go](https://www.reddit.com/r/SideProject/comments/1xanxri/i_made_a_free_app_that_converts_files_without/) — 提供便捷的文件转换工具，解决用户痛点。（门槛: 低）
 
 
 ---
