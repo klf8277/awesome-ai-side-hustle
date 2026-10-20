@@ -59,6 +59,7 @@
 - **[评分: 8/10]** [I run multiple $10K MRR companies on a $20/month tech stack](https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack) — $20 月成本跑出 $10K MRR 的极简技术栈拆解变现（门槛: 中）
 - **[评分: 8/10]** [My solopreneur story](https://news.tonydinh.com/p/my-solopreneur-story-zero-to-45kmo) — 单人从 0 到月入 4.5 万美元的可复制变现路径拆解（门槛: 中）
 - **[评分: 8/10]** [Show HN: After 2.5 years on my side project, it has hit £500/month revenue](https://news.ycombinator.com/item?id=25372464) — 音频私密分享SaaS，替代Bandcamp/SoundCloud的细分付费工具（门槛: 中）
+- **[评分: 7/10]** [Show HN: Lights-on software factory boilerplate for Claude Code](https://github.com/gojko/lights-on-software-factory) — 降低 Claude 工作流程代币成本，提升软件开发效率。（门槛: 中）
 - **[评分: 7/10]** [Show HN: Omasharp: Build Omarchy apps with C# and .NET](https://github.com/luisrudge/omasharp) — 为开发者提供使用C#和.NET构建Omarchy应用程序的工具。（门槛: 低）
 - **[评分: 7/10]** [Show HN: OpenFlow – AI Agent Workflow Builder](https://github.com/SeeRay11/OpenFlow) — 为企业内部IT团队提供基于 AI 的工作流自动化工具。（门槛: 中）
 - **[评分: 7/10]** [Show HN: Claude Code skills and hooks that prove a fix's test fails without it](https://github.com/ehnruiz/claude-skills) — 提供代码验证工具，帮助开发者确保修复的正确性。（门槛: 中）
@@ -71,7 +72,6 @@
 - **[评分: 7/10]** [Show HN: An outliner to replace Workflowy and Obsidian – as a Claude connector](https://claude.ai/directory/bulletlist) — 利用AI和Markdown，打造便捷的笔记和知识管理工具。（门槛: 低）
 - **[评分: 7/10]** [Launch HN: Laminar (YC S24) – RL-trained model that finds errors in agent traces](https://news.ycombinator.com/item?id=50154029) — 提供AI代理的实时监控和错误检测工具（门槛: 高）
 - **[评分: 7/10]** [Launch HN: Laminar (YC S24) – RL-trained model that finds errors in agent traces](https://news.ycombinator.com/item?id=50154029) — 为 AI 代理开发者提供错误检测工具，提升代理的稳定性和效率。（门槛: 高）
-- **[评分: 7/10]** [Jev 做 arXiv 大规模文献检索综述， 5 分钟筛 36,000 篇论文](https://www.v2ex.com/t/1250143) — 利用AI技术提供高效学术论文检索和筛选工具。（门槛: 中）
 
 ### 🏷️ 跨境电商与出海独立站工具
 - **[评分: 8/10]** [Launch HN: Consus (YC F24) – LLM gateway for companies handling sensitive data](https://news.ycombinator.com/item?id=50073471) — 为航空航天和国防公司提供符合ITAR和FedRAMP标准的AI服务。（门槛: 高）
