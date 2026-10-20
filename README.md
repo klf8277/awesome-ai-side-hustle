@@ -59,24 +59,24 @@
 - **[评分: 8/10]** [I run multiple $10K MRR companies on a $20/month tech stack](https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack) — $20 月成本跑出 $10K MRR 的极简技术栈拆解变现（门槛: 中）
 - **[评分: 8/10]** [My solopreneur story](https://news.tonydinh.com/p/my-solopreneur-story-zero-to-45kmo) — 单人从 0 到月入 4.5 万美元的可复制变现路径拆解（门槛: 中）
 - **[评分: 8/10]** [Show HN: After 2.5 years on my side project, it has hit £500/month revenue](https://news.ycombinator.com/item?id=25372464) — 音频私密分享SaaS，替代Bandcamp/SoundCloud的细分付费工具（门槛: 中）
+- **[评分: 7/10]** [做了一个审美在线的微信公众号 Markdown 排版工具，符合微信官方排版与暗色规范](https://www.v2ex.com/t/1250301) — 为微信公众号写作者提供Markdown排版工具，解决排版难题。（门槛: 低）
+- **[评分: 7/10]** [做了个三国 SLG，让你自己的 AI 替你打仗，开源公测中](https://www.v2ex.com/t/1250299) — 提供 AI 代玩服务，解放玩家手动操作，提升游戏体验。（门槛: 低）
+- **[评分: 7/10]** [I built an open-source tool for replaying and debugging AI agent executions. Looking for contributors and feedback.](https://www.reddit.com/r/SideProject/comments/1xakice/i_built_an_opensource_tool_for_replaying_and/) — 为开发者提供AI代理执行调试工具，减少对实时环境的依赖。（门槛: 低）
 - **[评分: 7/10]** [RunInfra](https://www.producthunt.com/products/runinfra) — 为代理商提供定制化工作流解决方案。（门槛: 中）
 - **[评分: 7/10]** [ToDo.is](https://www.producthunt.com/products/todo-is) — 利用AI自动化工作流，提高企业效率。（门槛: 中）
 - **[评分: 7/10]** [Show HN: Death Plan Switch, a self-hosted dead man's switch for solo devs](https://deathplanswitch.com/) — 为个人开发者提供业务连续性和数据安全解决方案。（门槛: 低）
 - **[评分: 7/10]** [[开源] All API Hub：统一管理 AI 中转站账号、API Key、自动签到和模型比价](https://www.v2ex.com/t/1250203) — 提供集中管理 AI API 站点账号和 API Key 的工具，解决用户管理痛点。（门槛: 低）
 - **[评分: 7/10]** [Show HN: AppMaker – Build business apps with AI, visual editing and code](https://appmaker.io/) — 利用AI和可视化编辑构建企业业务应用。（门槛: 中）
-- **[评分: 7/10]** [Show HN: Lights-on software factory boilerplate for Claude Code](https://github.com/gojko/lights-on-software-factory) — 降低 Claude 工作流程代币成本，提升软件开发效率。（门槛: 中）
-- **[评分: 7/10]** [Show HN: Omasharp: Build Omarchy apps with C# and .NET](https://github.com/luisrudge/omasharp) — 为开发者提供使用C#和.NET构建Omarchy应用程序的工具。（门槛: 低）
-- **[评分: 7/10]** [Show HN: OpenFlow – AI Agent Workflow Builder](https://github.com/SeeRay11/OpenFlow) — 为企业内部IT团队提供基于 AI 的工作流自动化工具。（门槛: 中）
 
 ### 🏷️ 跨境电商与出海独立站工具
 - **[评分: 8/10]** [Launch HN: Consus (YC F24) – LLM gateway for companies handling sensitive data](https://news.ycombinator.com/item?id=50073471) — 为航空航天和国防公司提供符合ITAR和FedRAMP标准的AI服务。（门槛: 高）
 - **[评分: 8/10]** [Show HN: Proofsource. Find where AI leaves you out. And Fix it](https://proofsource.co/) — 利用AI分析AI引擎，帮助品牌提升在线可见性。（门槛: 中）
 - **[评分: 8/10]** [Bootstrapping to €600k MRR and getting killed by Shopify: Checkout X](https://www.leteyski.com/bootstrapping-to-600k-mrr-and-getting-killed-by-shopify-the-story-of-checkout-x) — 独立站结账优化插件，€600k MRR 验证刚需（门槛: 高）
+- **[评分: 7/10]** [Exa 3.0](https://www.producthunt.com/products/exa-ai) — 利用AI降低跨境电商数据搜索成本（门槛: 中）
 - **[评分: 7/10]** [ESP-Mosaico](https://www.producthunt.com/products/esp-mosaico) — 为代理商定制模块化开发板，满足特定开发需求。（门槛: 低）
 - **[评分: 7/10]** [Composio Instant](https://www.producthunt.com/products/composio) — 为AI代理提供支付自己工具的便捷方式。（门槛: 低）
 - **[评分: 7/10]** [Jotform App Builder for ChatGPT & Claude](https://www.producthunt.com/products/jotform) — 在ChatGPT和Claude平台上构建无代码应用（门槛: 低）
 - **[评分: 7/10]** [📣 #发现频道 PDFMathReader：跨平台 PDF 实时翻译与](https://meta.appinn.net/t/93967) — 为跨境电商团队提供跨平台PDF实时翻译与阅读器。（门槛: 低）
-- **[评分: 7/10]** [📣 #发现频道 Appnary：Pixel Tracker 在一个后台](https://meta.appinn.net/t/93944) — 为 Shopify 店铺提供集中管理多平台像素的工具。（门槛: 低）
 
 ### 🏷️ 极窄场景的 Micro-AI 插件
 - **[评分: 8/10]** [I built a family location app that doesn't keep history — today it got an Apple Watch app](https://www.reddit.com/r/SideProject/comments/1x5q9kf/i_built_a_family_location_app_that_doesnt_keep/) — 隐私家庭定位月订阅（门槛: 中）
@@ -84,16 +84,15 @@
 - **[评分: 8/10]** [Famulor](https://www.producthunt.com/products/famulor-telephony-ai) — 给本地商家搭AI电话+WhatsApp跟进客服，按月收费（门槛: 中）
 - **[评分: 8/10]** [Communicate](https://www.producthunt.com/products/communicate) — 垂直行业AI客服代理，知识库+人工接管月费变现（门槛: 中）
 
-### 🏷️ 七大高溢价赛道之一
-- **[评分: 7/10]** [call4me](https://www.producthunt.com/products/call4me) — 为AI应用添加电话交互功能，提升用户体验。（门槛: 中）
-- **[评分: 7/10]** [Show HN: Privacy Layer for Frontier Models](https://privai-sandy.vercel.app/) — 为前端模型提供隐私保护层，防止敏感信息泄露。（门槛: 高）
-- **[评分: 7/10]** [📣 #发现频道 api-bench：测试大模型 API 与中转站的首字](https://meta.appinn.net/t/93954) — 为大模型 API 提供性能测试工具，解决延迟和并发问题。（门槛: 低）
-- **[评分: 7/10]** [I’m building Qubics.ai. What would it have to replace for you to use it?](https://www.reddit.com/r/SideProject/comments/1xaegq9/im_building_qubicsai_what_would_it_have_to/) — 为交易者提供AI增强的交易平台，解决现有工具的不足。（门槛: 高）
-
 ### 🏷️ B2B 高客单数据抓取与精准名单
 - **[评分: 8/10]** [I just hit $100K with my SaaS as a 22-year-old solo founder. Started with $100](https://www.reddit.com/r/SaaS/comments/1x5vy9i/i_just_hit_100k_with_my_saas_as_a_22yearold_solo/) — AI抓取清洗B2B线索，卖精准获客名单与触达工作流（门槛: 中）
 - **[评分: 8/10]** [I scraped billions of TikTok videos and profiles by reverse engineering the mobile API. Here's how it works + source code](https://www.reddit.com/r/SaaS/comments/1wxoasb/i_scraped_billions_of_tiktok_videos_and_profiles/) — 逆向 TikTok 接口，把爆款趋势与达人名单做成付费数据 API（门槛: 高）
 - **[评分: 8/10]** [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) — 零 API 费抓取社媒，一键交付海外精准潜客名单（门槛: 中）
+
+### 🏷️ 七大高溢价赛道之一
+- **[评分: 7/10]** [I built a world war that never stops: AI generals fight for real countries, and players can plug in their own AI agents](https://www.reddit.com/r/SideProject/comments/1xalh24/i_built_a_world_war_that_never_stops_ai_generals/) — AI驱动的实时战略游戏平台，玩家付费参与。（门槛: 中）
+- **[评分: 7/10]** [call4me](https://www.producthunt.com/products/call4me) — 为AI应用添加电话交互功能，提升用户体验。（门槛: 中）
+- **[评分: 7/10]** [Show HN: Privacy Layer for Frontier Models](https://privai-sandy.vercel.app/) — 为前端模型提供隐私保护层，防止敏感信息泄露。（门槛: 高）
 
 ### 🏷️ 视频与动效代交付
 - **[评分: 7/10]** [我和孩子一起使用 AI 做的游戏上线到 taptap 了](https://www.v2ex.com/t/1250279) — 利用AI工具快速开发儿童游戏，满足家长和孩子的需求。（门槛: 低）
@@ -102,6 +101,9 @@
 
 ### 🏷️ ⚡ 非对称套利与增长黑客
 - **[评分: 8/10]** [🦙 Claude AI 创业公司计划 — 12个月 Pro Team + $1,000 API Credits](https://www.nodeseek.com/post-969760-1) — 白嫖Claude官方12个月会员+千刀API额度，最高撬10万（门槛: 低）
+
+### 🏷️ 国学文化数字化与情绪消费
+- **[评分: 7/10]** [受够了广告弹窗与玄学忽悠， 240+ 次 Commits 打磨的纯净老黄历（Web + 小程序 + Android）](https://www.v2ex.com/t/1250327) — 打造纯净无广告、算法透明、多端协同的现代黄历工具。（门槛: 低）
 
 
 ---
