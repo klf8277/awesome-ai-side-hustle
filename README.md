@@ -32,7 +32,7 @@
 ---
 
 ## 🔥 今日精选高潜力商机 (Top Featured)
-*最后更新：2026-10-20 ｜ 数据源自全球技术雷达自动研判*
+*最后更新：2026-10-21 ｜ 数据源自全球技术雷达自动研判*
 
 | 评分 | 标杆项目 / 原型 | 赛道 | 门槛 | 商业研判与一句话逻辑 | 原始链接 | 完整研报 |
 |---|---|---|---|---|---|---|
@@ -59,6 +59,8 @@
 - **[评分: 8/10]** [I run multiple $10K MRR companies on a $20/month tech stack](https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack) — $20 月成本跑出 $10K MRR 的极简技术栈拆解变现（门槛: 中）
 - **[评分: 8/10]** [My solopreneur story](https://news.tonydinh.com/p/my-solopreneur-story-zero-to-45kmo) — 单人从 0 到月入 4.5 万美元的可复制变现路径拆解（门槛: 中）
 - **[评分: 8/10]** [Show HN: After 2.5 years on my side project, it has hit £500/month revenue](https://news.ycombinator.com/item?id=25372464) — 音频私密分享SaaS，替代Bandcamp/SoundCloud的细分付费工具（门槛: 中）
+- **[评分: 7/10]** [Show HN: Agent Archive – Session Handoffs and Backups for Claude Code and Codex](https://github.com/wangjohn/agent-archive) — 为开发者提供跨设备和工具的会话恢复和备份工具。（门槛: 低）
+- **[评分: 7/10]** [Show HN: Agent Archive – Session Handoffs and Backups for Claude Code and Codex](https://github.com/wangjohn/agent-archive) — 为 AI 开发者提供跨设备和工具的会话记录和传输解决方案。（门槛: 低）
 - **[评分: 7/10]** [[开源自建邮局] 三叶草邮局发布！操作傻瓜化、配置可视化，同时管理 N 个邮箱， 5 分钟三步开邮局](https://www.v2ex.com/t/1250452) — 提供企业级邮件服务搭建与管理工具（门槛: 低）
 - **[评分: 7/10]** [Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins](https://news.ycombinator.com/item?id=50167583) — 提供插件化AI基础设施，解决开发者扩展性问题。（门槛: 中）
 - **[评分: 7/10]** [Show HN: Standard Topic – An AI and RSS-powered news and resource platform](https://www.standardtopic.com/) — 利用AI和RSS构建个性化新闻和资源平台，满足知识管理和内容创作需求。（门槛: 中）
@@ -70,8 +72,13 @@
 - **[评分: 7/10]** [📣 #发现频道 ServerlessInsight：跨云 Server](https://meta.appinn.net/t/94015) — 提供跨云Serverless应用管理框架，简化云资源管理。（门槛: 中）
 - **[评分: 7/10]** [Show HN: Giverny - A native terminal for Claude Code and Codex](https://github.com/y0av/giverny) — 为 AI 开发者提供原生终端工具。（门槛: 中）
 - **[评分: 7/10]** [Show HN: Mnemoloci – A Markdown second brain for Claude Code, with citations](https://github.com/siris9476/mnemoloci) — 为开发者提供Markdown第二大脑和代码引用管理工具。（门槛: 中）
-- **[评分: 7/10]** [Show HN: Sorcerer – simulate a community of AI agents around a what-if (macOS)](https://github.com/gbrasil720/sorcerer) — 模拟 AI 代理社区，助力数据科学家和 AI 研究人员解决复杂假设情景。（门槛: 中）
-- **[评分: 7/10]** [How I built my ‘everything’ app](https://www.bensbites.com/p/how-i-built-my-everything-app) — 利用 AI 技术为智能家居设备提供个性化定制服务。（门槛: 中）
+
+### 🏷️ 视频与动效代交付
+- **[评分: 7/10]** [Show HN: Stop Claude Code from compacting mid-task](https://github.com/LippInc/catnap) — 解决 AI 自动压缩导致数据丢失的问题，提升用户体验。（门槛: 低）
+- **[评分: 7/10]** [做了个不用写提示词、会学习喜好的本地 AI 生图应用](https://www.v2ex.com/t/1250448) — 提供便捷的本地 AI 生图工具，减少提示词编写难度。（门槛: 低）
+- **[评分: 7/10]** [Show HN: Jev Cards, Can you beat a vision model at a picture quiz?](https://jevcards.com) — 利用AI视觉模型打造互动游戏，吸引游戏玩家。（门槛: 低）
+- **[评分: 7/10]** [7+ Years of Competitive Debate Transformed my Public Speaking. So I Built an App to Help Others Go Through the Same Transformation!](https://www.reddit.com/r/SideProject/comments/1xatjhc/7_years_of_competitive_debate_transformed_my/) — 为公共演讲者提供个性化反馈的语音识别应用。（门槛: 低）
+- **[评分: 7/10]** [Show HN: Tori by TalkJS. AI support that's actually good](https://asktori.ai) — 为技术支持团队提供 AI 辅助工具，解决复杂产品问题。（门槛: 低）
 
 ### 🏷️ 极窄场景的 Micro-AI 插件
 - **[评分: 8/10]** [I built a family location app that doesn't keep history — today it got an Apple Watch app](https://www.reddit.com/r/SideProject/comments/1x5q9kf/i_built_a_family_location_app_that_doesnt_keep/) — 隐私家庭定位月订阅（门槛: 中）
@@ -79,22 +86,15 @@
 - **[评分: 8/10]** [Famulor](https://www.producthunt.com/products/famulor-telephony-ai) — 给本地商家搭AI电话+WhatsApp跟进客服，按月收费（门槛: 中）
 - **[评分: 8/10]** [Communicate](https://www.producthunt.com/products/communicate) — 垂直行业AI客服代理，知识库+人工接管月费变现（门槛: 中）
 
-### 🏷️ 跨境电商与出海独立站工具
-- **[评分: 8/10]** [Launch HN: Consus (YC F24) – LLM gateway for companies handling sensitive data](https://news.ycombinator.com/item?id=50073471) — 为航空航天和国防公司提供符合ITAR和FedRAMP标准的AI服务。（门槛: 高）
-- **[评分: 8/10]** [Show HN: Proofsource. Find where AI leaves you out. And Fix it](https://proofsource.co/) — 利用AI分析AI引擎，帮助品牌提升在线可见性。（门槛: 中）
-- **[评分: 8/10]** [Bootstrapping to €600k MRR and getting killed by Shopify: Checkout X](https://www.leteyski.com/bootstrapping-to-600k-mrr-and-getting-killed-by-shopify-the-story-of-checkout-x) — 独立站结账优化插件，€600k MRR 验证刚需（门槛: 高）
-- **[评分: 7/10]** [Show HN: Algebras Harness – Localize Apps/Games from Claude Code](https://github.com/algebras-ai/algebras-agent) — 为 App 和游戏开发者提供本地化工具，解决多语言适配问题。（门槛: 中）
-
-### 🏷️ 视频与动效代交付
-- **[评分: 7/10]** [做了个不用写提示词、会学习喜好的本地 AI 生图应用](https://www.v2ex.com/t/1250448) — 提供便捷的本地 AI 生图工具，减少提示词编写难度。（门槛: 低）
-- **[评分: 7/10]** [Show HN: Jev Cards, Can you beat a vision model at a picture quiz?](https://jevcards.com) — 利用AI视觉模型打造互动游戏，吸引游戏玩家。（门槛: 低）
-- **[评分: 7/10]** [7+ Years of Competitive Debate Transformed my Public Speaking. So I Built an App to Help Others Go Through the Same Transformation!](https://www.reddit.com/r/SideProject/comments/1xatjhc/7_years_of_competitive_debate_transformed_my/) — 为公共演讲者提供个性化反馈的语音识别应用。（门槛: 低）
-- **[评分: 7/10]** [Show HN: Tori by TalkJS. AI support that's actually good](https://asktori.ai) — 为技术支持团队提供 AI 辅助工具，解决复杂产品问题。（门槛: 低）
-
 ### 🏷️ B2B 高客单数据抓取与精准名单
 - **[评分: 8/10]** [I just hit $100K with my SaaS as a 22-year-old solo founder. Started with $100](https://www.reddit.com/r/SaaS/comments/1x5vy9i/i_just_hit_100k_with_my_saas_as_a_22yearold_solo/) — AI抓取清洗B2B线索，卖精准获客名单与触达工作流（门槛: 中）
 - **[评分: 8/10]** [I scraped billions of TikTok videos and profiles by reverse engineering the mobile API. Here's how it works + source code](https://www.reddit.com/r/SaaS/comments/1wxoasb/i_scraped_billions_of_tiktok_videos_and_profiles/) — 逆向 TikTok 接口，把爆款趋势与达人名单做成付费数据 API（门槛: 高）
 - **[评分: 8/10]** [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) — 零 API 费抓取社媒，一键交付海外精准潜客名单（门槛: 中）
+
+### 🏷️ 跨境电商与出海独立站工具
+- **[评分: 8/10]** [Launch HN: Consus (YC F24) – LLM gateway for companies handling sensitive data](https://news.ycombinator.com/item?id=50073471) — 为航空航天和国防公司提供符合ITAR和FedRAMP标准的AI服务。（门槛: 高）
+- **[评分: 8/10]** [Show HN: Proofsource. Find where AI leaves you out. And Fix it](https://proofsource.co/) — 利用AI分析AI引擎，帮助品牌提升在线可见性。（门槛: 中）
+- **[评分: 8/10]** [Bootstrapping to €600k MRR and getting killed by Shopify: Checkout X](https://www.leteyski.com/bootstrapping-to-600k-mrr-and-getting-killed-by-shopify-the-story-of-checkout-x) — 独立站结账优化插件，€600k MRR 验证刚需（门槛: 高）
 
 ### 🏷️ ⚡ 非对称套利与增长黑客
 - **[评分: 8/10]** [🦙 Claude AI 创业公司计划 — 12个月 Pro Team + $1,000 API Credits](https://www.nodeseek.com/post-969760-1) — 白嫖Claude官方12个月会员+千刀API额度，最高撬10万（门槛: 低）
