@@ -70,12 +70,12 @@
 - **[评分: 7/10]** [Show HN: Open-source app that lets LLMs control any iPhone app (no Mac required)](https://github.com/EliotAndres/iphone-use-app) — 利用LLM控制iPhone应用，提升开发效率。（门槛: 中）
 - **[评分: 7/10]** [Show HN: Vibetown – public sandboxes to vibecode with strangers](https://vibetown.social) — 提供免费公共沙盒环境，促进开发者协作。（门槛: 低）
 - **[评分: 7/10]** [Show HN: Quorus – Claude Code and Codex in one room, reviewing each other's work](https://github.com/Quorus-dev/Quorus) — 通过AI代码审查工具提升软件开发效率（门槛: 中）
-- **[评分: 7/10]** [Show HN: Open-source early-reading reader with phonics help](https://github.com/finereli/yarareads) — 为儿童阅读提供个性化辅助工具，帮助他们在阅读过程中学习发音和单词。（门槛: 低）
 
 ### 🏷️ 跨境电商与出海独立站工具
 - **[评分: 8/10]** [Launch HN: Consus (YC F24) – LLM gateway for companies handling sensitive data](https://news.ycombinator.com/item?id=50073471) — 为航空航天和国防公司提供符合ITAR和FedRAMP标准的AI服务。（门槛: 高）
 - **[评分: 8/10]** [Show HN: Proofsource. Find where AI leaves you out. And Fix it](https://proofsource.co/) — 利用AI分析AI引擎，帮助品牌提升在线可见性。（门槛: 中）
 - **[评分: 8/10]** [Bootstrapping to €600k MRR and getting killed by Shopify: Checkout X](https://www.leteyski.com/bootstrapping-to-600k-mrr-and-getting-killed-by-shopify-the-story-of-checkout-x) — 独立站结账优化插件，€600k MRR 验证刚需（门槛: 高）
+- **[评分: 7/10]** [📣 #发现频道 PDFMathReader：跨平台 PDF 实时翻译与](https://meta.appinn.net/t/93967) — 为跨境电商团队提供跨平台PDF实时翻译与阅读器。（门槛: 低）
 - **[评分: 7/10]** [📣 #发现频道 Appnary：Pixel Tracker 在一个后台](https://meta.appinn.net/t/93944) — 为 Shopify 店铺提供集中管理多平台像素的工具。（门槛: 低）
 - **[评分: 7/10]** [Copilot model policy API for enterprise, orgs, and teams](https://github.blog/changelog/2026-10-19-copilot-model-policy-api-for-enterprise-orgs-and-teams) — 为企业提供Copilot模型政策API，满足定制化管理和更新需求。（门槛: 中）
 
